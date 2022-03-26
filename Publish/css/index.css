@@ -55,10 +55,10 @@ main {
 }
 
 @keyframes shreak {
-    0%, 100% { border-radius: 42%; height: 15em;   }
+    0%, 100% { border-radius: 44%; height: 15em;   }
     25%      { border-radius: 45%; height: 14.8em; }
-    50%      { border-radius: 42%; height: 15em;   }
-    75%      { border-radius: 39%; height: 15.2em; }
+    50%      { border-radius: 44%; height: 15em;   }
+    75%      { border-radius: 43%; height: 15.2em; }
 }
 
 .eye-socket {
