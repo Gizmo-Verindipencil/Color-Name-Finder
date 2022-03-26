@@ -1,0 +1,2352 @@
+﻿{
+{
+    "Hex":  "#fef4f4",
+    "Name":  "桜色",
+    "Phonetic":  "さくらいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄桜",
+    "Phonetic":  "うすざくら"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "桜鼠",
+    "Phonetic":  "さくらねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鴇鼠",
+    "Phonetic":  "ときねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "虹色",
+    "Phonetic":  "にじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "珊瑚色",
+    "Phonetic":  "さんごいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "一斤染",
+    "Phonetic":  "いっこんぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "宍色",
+    "Phonetic":  "ししいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅梅色",
+    "Phonetic":  "こうばいいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄紅",
+    "Phonetic":  "うすべに"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "甚三紅",
+    "Phonetic":  "じんざもみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "桃色",
+    "Phonetic":  "ももいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鴇色",
+    "Phonetic":  "ときいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "撫子色",
+    "Phonetic":  "なでしこいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "灰梅",
+    "Phonetic":  "はいうめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "灰桜",
+    "Phonetic":  "はいざくら"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "淡紅藤",
+    "Phonetic":  "あわべにふじ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "石竹色",
+    "Phonetic":  "せきちくいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄紅梅",
+    "Phonetic":  "うすこうばい"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "桃花色",
+    "Phonetic":  "ももはないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "朱華",
+    "Phonetic":  "はねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "水柿",
+    "Phonetic":  "みずがき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "ときがら茶",
+    "Phonetic":  "ときがらちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "退紅",
+    "Phonetic":  "あらぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄柿",
+    "Phonetic":  "うすがき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "長春色",
+    "Phonetic":  "ちょうしゅんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "梅鼠",
+    "Phonetic":  "うめねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鴇浅葱",
+    "Phonetic":  "ときあさぎ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "梅染",
+    "Phonetic":  "うめぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蘇芳香",
+    "Phonetic":  "すおうこう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "浅蘇芳",
+    "Phonetic":  "あさすおう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "真朱",
+    "Phonetic":  "まそお"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤紫",
+    "Phonetic":  "あかむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "躑躅色",
+    "Phonetic":  "つつじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "牡丹色",
+    "Phonetic":  "ぼたんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "今様色",
+    "Phonetic":  "いまよういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "中紅",
+    "Phonetic":  "なかべに"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薔薇色",
+    "Phonetic":  "ばらいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "韓紅",
+    "Phonetic":  "からくれない"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "銀朱",
+    "Phonetic":  "ぎんしゅ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤紅",
+    "Phonetic":  "あかべに"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅緋",
+    "Phonetic":  "べにひ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤",
+    "Phonetic":  "あか"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "猩々緋",
+    "Phonetic":  "しょうじょうひ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅",
+    "Phonetic":  "くれない"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "深緋",
+    "Phonetic":  "こきひ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "緋色",
+    "Phonetic":  "ひいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤丹",
+    "Phonetic":  "あかに"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅赤",
+    "Phonetic":  "べにあか"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "臙脂",
+    "Phonetic":  "えんじ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "朱 緋",
+    "Phonetic":  "あけ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "茜色",
+    "Phonetic":  "あかねいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅海老茶",
+    "Phonetic":  "べにえびちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蘇芳",
+    "Phonetic":  "すおう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "真紅",
+    "Phonetic":  "しんく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "濃紅",
+    "Phonetic":  "こいくれない"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "苺色",
+    "Phonetic":  "いちごいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "象牙色",
+    "Phonetic":  "ぞうげいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "練色",
+    "Phonetic":  "ねりいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "灰白色",
+    "Phonetic":  "かいはくしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蒸栗色",
+    "Phonetic":  "むしぐりいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "女郎花",
+    "Phonetic":  "おみなえし"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "枯草色",
+    "Phonetic":  "かれくさいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "淡黄",
+    "Phonetic":  "たんこう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白茶",
+    "Phonetic":  "しらちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤白橡",
+    "Phonetic":  "あかしろつるばみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "洗柿",
+    "Phonetic":  "あらいがき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鳥の子色",
+    "Phonetic":  "とりのこいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蜂蜜色",
+    "Phonetic":  "はちみついろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "肌色",
+    "Phonetic":  "はだいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄卵色",
+    "Phonetic":  "うすたまごいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "雄黄",
+    "Phonetic":  "ゆうおう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "洒落柿",
+    "Phonetic":  "しゃれがき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤香",
+    "Phonetic":  "あかこう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "砥粉色",
+    "Phonetic":  "とのこいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "肉色",
+    "Phonetic":  "にくいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "人色",
+    "Phonetic":  "ひといろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "丁子色",
+    "Phonetic":  "ちょうじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "香色",
+    "Phonetic":  "こういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄香",
+    "Phonetic":  "うすこう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "浅黄",
+    "Phonetic":  "うすき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "枯色",
+    "Phonetic":  "かれいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "淡香",
+    "Phonetic":  "うすこう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "杏色",
+    "Phonetic":  "あんずいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "東雲色",
+    "Phonetic":  "しののめいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "曙色",
+    "Phonetic":  "あけぼのいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "珊瑚朱色",
+    "Phonetic":  "さんごしゅいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "深支子",
+    "Phonetic":  "こきくちなし"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "浅緋",
+    "Phonetic":  "うすきひ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "真赭",
+    "Phonetic":  "まそほ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "洗朱",
+    "Phonetic":  "あらいしゅ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "遠州茶",
+    "Phonetic":  "えんしゅうちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅樺色",
+    "Phonetic":  "べにかばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赭",
+    "Phonetic":  "そほ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蘇飛",
+    "Phonetic":  "そひ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "小豆色",
+    "Phonetic":  "あずきいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "枯茶",
+    "Phonetic":  "からちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "飴色",
+    "Phonetic":  "あめいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "駱駝色",
+    "Phonetic":  "らくだいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "土色",
+    "Phonetic":  "つちいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄唐茶",
+    "Phonetic":  "きがらちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "桑染",
+    "Phonetic":  "くわぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "櫨色",
+    "Phonetic":  "はじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄橡",
+    "Phonetic":  "きつるばみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "丁字染",
+    "Phonetic":  "ちょうじぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "香染",
+    "Phonetic":  "こうぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "枇杷茶",
+    "Phonetic":  "びわちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "芝翫茶",
+    "Phonetic":  "しかんちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "焦香",
+    "Phonetic":  "こがれこう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "胡桃色",
+    "Phonetic":  "くるみいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "渋紙色",
+    "Phonetic":  "しぶかみいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "朽葉色",
+    "Phonetic":  "くちばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "桑茶",
+    "Phonetic":  "くわちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "路考茶",
+    "Phonetic":  "ろこうちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "国防色",
+    "Phonetic":  "こくぼうしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "伽羅色",
+    "Phonetic":  "きゃらいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "江戸茶",
+    "Phonetic":  "えどちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "樺色",
+    "Phonetic":  "かばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅鬱金",
+    "Phonetic":  "べにうこん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "土器色",
+    "Phonetic":  "かわらけいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "狐色",
+    "Phonetic":  "きつねいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄土色",
+    "Phonetic":  "おうどいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "琥珀色",
+    "Phonetic":  "こはくいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤茶",
+    "Phonetic":  "あかちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "代赭",
+    "Phonetic":  "たいしゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "煉瓦色",
+    "Phonetic":  "れんがいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "雀茶",
+    "Phonetic":  "すずめちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "団十郎茶",
+    "Phonetic":  "だんじゅうろうちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柿渋色",
+    "Phonetic":  "かきしぶいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅鳶",
+    "Phonetic":  "べにとび"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "灰茶",
+    "Phonetic":  "はいちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "茶色",
+    "Phonetic":  "ちゃいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "檜皮色",
+    "Phonetic":  "ひわだいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鳶色",
+    "Phonetic":  "とびいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柿茶",
+    "Phonetic":  "かきちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "弁柄色",
+    "Phonetic":  "べんがらいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤錆色",
+    "Phonetic":  "あかさびいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "褐色",
+    "Phonetic":  "かっしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "栗梅",
+    "Phonetic":  "くりうめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅檜皮",
+    "Phonetic":  "べにひはだ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "海老茶",
+    "Phonetic":  "えびちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "唐茶",
+    "Phonetic":  "からちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "栗色",
+    "Phonetic":  "くりいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤銅色",
+    "Phonetic":  "しゃくどういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "錆色",
+    "Phonetic":  "さびいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤褐色",
+    "Phonetic":  "せっかっしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "茶褐色",
+    "Phonetic":  "ちゃかっしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "栗皮茶",
+    "Phonetic":  "くりかわちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黒茶",
+    "Phonetic":  "くろちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "葡萄茶",
+    "Phonetic":  "えびちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "葡萄色",
+    "Phonetic":  "えびいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "萱草色",
+    "Phonetic":  "かんぞういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柑子色",
+    "Phonetic":  "こうじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "金茶",
+    "Phonetic":  "きんちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蜜柑色",
+    "Phonetic":  "みかんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鉛丹色",
+    "Phonetic":  "えんたんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄丹",
+    "Phonetic":  "おうに"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柿色",
+    "Phonetic":  "かきいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄赤",
+    "Phonetic":  "きあか"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "人参色",
+    "Phonetic":  "にんじんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "橙色",
+    "Phonetic":  "だいだいいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "照柿",
+    "Phonetic":  "てりがき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤橙",
+    "Phonetic":  "あかだいだい"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "金赤",
+    "Phonetic":  "きんあか"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "朱色",
+    "Phonetic":  "しゅいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "小麦色",
+    "Phonetic":  "こむぎいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "丹色",
+    "Phonetic":  "にいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄茶",
+    "Phonetic":  "きちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "肉桂色",
+    "Phonetic":  "にっけいいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤朽葉色",
+    "Phonetic":  "あかくちばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄櫨染",
+    "Phonetic":  "こうろぜん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蒲公英色",
+    "Phonetic":  "たんぽぽいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄色",
+    "Phonetic":  "きいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "中黄",
+    "Phonetic":  "ちゅうき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "菜の花色",
+    "Phonetic":  "なのはないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄檗色",
+    "Phonetic":  "きはだいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "卵色",
+    "Phonetic":  "たまごいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "花葉色",
+    "Phonetic":  "はなばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "刈安色",
+    "Phonetic":  "かりやすいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "玉蜀黍色",
+    "Phonetic":  "とうもろこしいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "金糸雀色",
+    "Phonetic":  "かなりあいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄支子色",
+    "Phonetic":  "きくちなしいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "支子色",
+    "Phonetic":  "くちなしいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "向日葵色",
+    "Phonetic":  "ひまわりいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "山吹色",
+    "Phonetic":  "やまぶきいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鬱金色",
+    "Phonetic":  "うこんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藤黄",
+    "Phonetic":  "とうおう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "金色",
+    "Phonetic":  "こんじき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄金",
+    "Phonetic":  "こがね"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "櫨染",
+    "Phonetic":  "はじぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄朽葉色",
+    "Phonetic":  "きくちばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "山吹茶",
+    "Phonetic":  "やまぶきちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "芥子色",
+    "Phonetic":  "からしいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "豆がら茶",
+    "Phonetic":  "まめがらちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "麹塵",
+    "Phonetic":  "きくじん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "山鳩色",
+    "Phonetic":  "やまばといろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "利休鼠",
+    "Phonetic":  "りきゅうねずみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "海松茶",
+    "Phonetic":  "みるちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藍海松茶",
+    "Phonetic":  "あいみるちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藍媚茶",
+    "Phonetic":  "あいこびちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "千歳茶",
+    "Phonetic":  "せんさいちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "岩井茶",
+    "Phonetic":  "いわいちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "仙斎茶",
+    "Phonetic":  "せんさいちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黒緑",
+    "Phonetic":  "くろみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柳煤竹",
+    "Phonetic":  "やなぎすすたけ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "樺茶色",
+    "Phonetic":  "かばちゃいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "空五倍子色",
+    "Phonetic":  "うつぶしいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "生壁色",
+    "Phonetic":  "なまかべいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "肥後煤竹",
+    "Phonetic":  "ひごすすたけ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "媚茶",
+    "Phonetic":  "こびちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白橡",
+    "Phonetic":  "しろつるばみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "亜麻色",
+    "Phonetic":  "あまいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "榛色",
+    "Phonetic":  "はしばみいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "灰汁色",
+    "Phonetic":  "あくいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "利休茶",
+    "Phonetic":  "りきゅうちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鶯茶",
+    "Phonetic":  "うぐいすちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "木蘭色",
+    "Phonetic":  "もくらんじき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "砂色",
+    "Phonetic":  "すないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "油色",
+    "Phonetic":  "あぶらいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "利休色",
+    "Phonetic":  "りきゅういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "梅幸茶",
+    "Phonetic":  "ばいこうちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "璃寛茶",
+    "Phonetic":  "りかんちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄海松茶",
+    "Phonetic":  "きみるちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "菜種油色",
+    "Phonetic":  "なたねゆいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青朽葉",
+    "Phonetic":  "あおくちば"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "根岸色",
+    "Phonetic":  "ねぎしいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鶸茶",
+    "Phonetic":  "ひわちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柳茶",
+    "Phonetic":  "やなぎちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "海松色",
+    "Phonetic":  "みるいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鶯色",
+    "Phonetic":  "うぐいすいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "緑黄色",
+    "Phonetic":  "りょくおうしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鶸色",
+    "Phonetic":  "ひわいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "抹茶色",
+    "Phonetic":  "まっちゃいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "若草色",
+    "Phonetic":  "わかくさいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄緑",
+    "Phonetic":  "きみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "若芽色",
+    "Phonetic":  "わかめいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "若菜色",
+    "Phonetic":  "わかないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "若苗色",
+    "Phonetic":  "わかなえいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青丹",
+    "Phonetic":  "あおに"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "草色",
+    "Phonetic":  "くさいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "苔色",
+    "Phonetic":  "こけいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "萌黄",
+    "Phonetic":  "もえぎ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "苗色",
+    "Phonetic":  "なえいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "若葉色",
+    "Phonetic":  "わかばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "松葉色",
+    "Phonetic":  "まつばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "夏虫色",
+    "Phonetic":  "なつむしいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鶸萌黄",
+    "Phonetic":  "ひわもえぎ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柳色",
+    "Phonetic":  "やなぎいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青白橡",
+    "Phonetic":  "あおしろつるばみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柳鼠",
+    "Phonetic":  "やなぎねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "裏葉柳",
+    "Phonetic":  "うらはやなぎ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "山葵色",
+    "Phonetic":  "わさびいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "老竹色",
+    "Phonetic":  "おいたけいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白緑",
+    "Phonetic":  "びゃくろく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "淡萌黄",
+    "Phonetic":  "うすもえぎ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柳染",
+    "Phonetic":  "やなぎぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄萌葱",
+    "Phonetic":  "うすもえぎ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "深川鼠",
+    "Phonetic":  "ふかがわねずみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "若緑",
+    "Phonetic":  "わかみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "浅緑",
+    "Phonetic":  "あさみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄緑",
+    "Phonetic":  "うすみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青鈍",
+    "Phonetic":  "あおにび"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青磁鼠",
+    "Phonetic":  "せいじねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄青",
+    "Phonetic":  "うすあお"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "錆青磁",
+    "Phonetic":  "さびせいじ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "緑青色",
+    "Phonetic":  "りょくしょういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "千歳緑",
+    "Phonetic":  "ちとせみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "若竹色",
+    "Phonetic":  "わかたけいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "緑",
+    "Phonetic":  "みどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "常磐色",
+    "Phonetic":  "ときわいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "千草鼠",
+    "Phonetic":  "ちぐさねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "千草色",
+    "Phonetic":  "ちぐさいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青磁色",
+    "Phonetic":  "せいじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青竹色",
+    "Phonetic":  "あおたけいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "常磐緑",
+    "Phonetic":  "ときわみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "木賊色",
+    "Phonetic":  "とくさいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "天鵞絨",
+    "Phonetic":  "びろうど"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "虫襖",
+    "Phonetic":  "むしあお"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "革色",
+    "Phonetic":  "かわいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "深緑",
+    "Phonetic":  "ふかみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鉄色",
+    "Phonetic":  "てついろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "平和色",
+    "Phonetic":  "へいわいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "萌葱色",
+    "Phonetic":  "もえぎいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "花緑青",
+    "Phonetic":  "はなろくしょう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "翡翠色",
+    "Phonetic":  "ひすいいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青緑",
+    "Phonetic":  "あおみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "水浅葱",
+    "Phonetic":  "みずあさぎ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "錆浅葱",
+    "Phonetic":  "さびあさぎ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青碧",
+    "Phonetic":  "せいへき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "御召茶",
+    "Phonetic":  "おめしちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "湊鼠",
+    "Phonetic":  "みなとねずみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "高麗納戸",
+    "Phonetic":  "こうらいなんど"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "百入茶",
+    "Phonetic":  "ももしおちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "錆鼠",
+    "Phonetic":  "さびねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "錆鉄御納戸",
+    "Phonetic":  "さびてつおなんど"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藍鼠",
+    "Phonetic":  "あいねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "錆御納戸",
+    "Phonetic":  "さびおなんど"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "舛花色",
+    "Phonetic":  "ますはないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "熨斗目花色",
+    "Phonetic":  "のしめはないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "御召御納戸",
+    "Phonetic":  "おめしおなんど"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鉄御納戸",
+    "Phonetic":  "てつおなんど"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紺鼠",
+    "Phonetic":  "こんねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藍鉄",
+    "Phonetic":  "あいてつ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青褐",
+    "Phonetic":  "あおかち"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "褐返",
+    "Phonetic":  "かちかえし"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "褐色",
+    "Phonetic":  "かちいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "月白",
+    "Phonetic":  "げっぱく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白菫色",
+    "Phonetic":  "しろすみれいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白花色",
+    "Phonetic":  "しらはないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藍白",
+    "Phonetic":  "あいじろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白藍",
+    "Phonetic":  "しらあい"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "水色",
+    "Phonetic":  "みずいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "瓶覗",
+    "Phonetic":  "かめのぞき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "秘色色",
+    "Phonetic":  "ひそくいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "空色",
+    "Phonetic":  "そらいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "勿忘草色",
+    "Phonetic":  "わすれなぐさいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青藤色",
+    "Phonetic":  "あおふじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白群",
+    "Phonetic":  "びゃくぐん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "浅縹",
+    "Phonetic":  "あさはなだ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄花色",
+    "Phonetic":  "うすはないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "納戸色",
+    "Phonetic":  "なんどいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "浅葱色",
+    "Phonetic":  "あさぎいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "花浅葱",
+    "Phonetic":  "はなあさぎ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "新橋色",
+    "Phonetic":  "しんばしいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "天色",
+    "Phonetic":  "あまいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "露草色",
+    "Phonetic":  "つゆくさいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青",
+    "Phonetic":  "あお"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄藍",
+    "Phonetic":  "うすあい"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "縹色",
+    "Phonetic":  "はなだいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紺碧",
+    "Phonetic":  "こんぺき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄群青",
+    "Phonetic":  "うすぐんじょう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄花桜",
+    "Phonetic":  "うすはなざくら"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "群青色",
+    "Phonetic":  "ぐんじょういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "杜若色",
+    "Phonetic":  "かきつばたいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "瑠璃色",
+    "Phonetic":  "るりいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄縹",
+    "Phonetic":  "うすはなだ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "瑠璃紺",
+    "Phonetic":  "るりこん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紺瑠璃",
+    "Phonetic":  "こんるり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藍色",
+    "Phonetic":  "あいいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青藍",
+    "Phonetic":  "せいらん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "深縹",
+    "Phonetic":  "こきはなだ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紺色",
+    "Phonetic":  "こんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紺青",
+    "Phonetic":  "こんじょう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "留紺",
+    "Phonetic":  "とめこん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "濃藍",
+    "Phonetic":  "こいあい"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鉄紺",
+    "Phonetic":  "てつこん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "漆黒",
+    "Phonetic":  "しっこく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "淡藤色",
+    "Phonetic":  "あわふじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藤色",
+    "Phonetic":  "ふじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅掛空色",
+    "Phonetic":  "べにかけそらいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅碧",
+    "Phonetic":  "べにみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紺桔梗",
+    "Phonetic":  "こんききょう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "花色",
+    "Phonetic":  "はないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紺藍",
+    "Phonetic":  "こんあい"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅桔梗",
+    "Phonetic":  "べにききょう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "桔梗色",
+    "Phonetic":  "ききょういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藤納戸",
+    "Phonetic":  "ふじなんど"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅掛花色",
+    "Phonetic":  "べにかけはないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紫苑色",
+    "Phonetic":  "しおんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白藤色",
+    "Phonetic":  "しらふじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藤紫",
+    "Phonetic":  "ふじむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "菫色",
+    "Phonetic":  "すみれいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "青紫",
+    "Phonetic":  "あおむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "菖蒲色",
+    "Phonetic":  "しょうぶいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "竜胆色",
+    "Phonetic":  "りんどういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "江戸紫",
+    "Phonetic":  "えどむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "本紫",
+    "Phonetic":  "ほんむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "葡萄色",
+    "Phonetic":  "ぶどういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "深紫",
+    "Phonetic":  "ふかむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紫黒",
+    "Phonetic":  "しこく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紫紺",
+    "Phonetic":  "しこん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "桑の実色",
+    "Phonetic":  "くわのみいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "暗紅色",
+    "Phonetic":  "あんこうしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紫",
+    "Phonetic":  "むらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "楝色",
+    "Phonetic":  "おうちいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄葡萄",
+    "Phonetic":  "うすぶどう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "古代紫",
+    "Phonetic":  "こだいむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "茄子紺",
+    "Phonetic":  "なすこん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "二藍",
+    "Phonetic":  "ふたあい"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "京紫",
+    "Phonetic":  "きょうむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蒲葡",
+    "Phonetic":  "えびぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "若紫",
+    "Phonetic":  "わかむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅紫",
+    "Phonetic":  "べにむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "梅紫",
+    "Phonetic":  "うめむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "菖蒲色",
+    "Phonetic":  "あやめいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅藤色",
+    "Phonetic":  "べにふじいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "浅紫",
+    "Phonetic":  "あさむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紫水晶",
+    "Phonetic":  "むらさきすいしょう"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄梅鼠",
+    "Phonetic":  "うすうめねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "暁鼠",
+    "Phonetic":  "あかつきねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "牡丹鼠",
+    "Phonetic":  "ぼたんねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "霞色",
+    "Phonetic":  "かすみいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藤鼠",
+    "Phonetic":  "ふじねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "半色",
+    "Phonetic":  "はしたいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄色",
+    "Phonetic":  "うすいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄鼠",
+    "Phonetic":  "うすねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鳩羽鼠",
+    "Phonetic":  "はとばねずみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鳩羽色",
+    "Phonetic":  "はとばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "桔梗鼠",
+    "Phonetic":  "ききょうねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紫鼠",
+    "Phonetic":  "むらさきねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "葡萄鼠",
+    "Phonetic":  "ぶどうねずみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "濃色",
+    "Phonetic":  "こきいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紫鳶",
+    "Phonetic":  "むらさきとび"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "濃鼠",
+    "Phonetic":  "こいねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藤煤竹",
+    "Phonetic":  "ふじすすたけ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "滅紫",
+    "Phonetic":  "けしむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "紅消鼠",
+    "Phonetic":  "べにけしねずみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "似せ紫",
+    "Phonetic":  "にせむらさき"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "灰黄緑",
+    "Phonetic":  "はいきみどり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蕎麦切色",
+    "Phonetic":  "そばきりいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄雲鼠",
+    "Phonetic":  "うすくもねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "枯野色",
+    "Phonetic":  "かれのいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "潤色",
+    "Phonetic":  "うるみいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "利休白茶",
+    "Phonetic":  "りきゅうしろちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "茶鼠",
+    "Phonetic":  "ちゃねずみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "胡桃染",
+    "Phonetic":  "くるみぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "江戸鼠",
+    "Phonetic":  "えどねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "煤色",
+    "Phonetic":  "すすいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "丁子茶",
+    "Phonetic":  "ちょうじちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "柴染",
+    "Phonetic":  "ふしぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "宗伝唐茶",
+    "Phonetic":  "そうでんからちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "砺茶",
+    "Phonetic":  "とのちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "煎茶色",
+    "Phonetic":  "せんちゃいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "銀煤竹",
+    "Phonetic":  "ぎんすすだけ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黄枯茶",
+    "Phonetic":  "きがらちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "煤竹色",
+    "Phonetic":  "すすたけいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "焦茶",
+    "Phonetic":  "こげちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黒橡",
+    "Phonetic":  "くろつるばみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "憲法色",
+    "Phonetic":  "けんぽういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "涅色",
+    "Phonetic":  "くりいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "檳榔子染",
+    "Phonetic":  "びんろうじぞめ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黒鳶",
+    "Phonetic":  "くろとび"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "赤墨",
+    "Phonetic":  "あかすみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黒紅",
+    "Phonetic":  "くろべに"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白",
+    "Phonetic":  "しろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "胡粉色",
+    "Phonetic":  "ごふんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "卯の花色",
+    "Phonetic":  "うのはないろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白磁",
+    "Phonetic":  "はくじ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "生成り色",
+    "Phonetic":  "きなりいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "乳白色",
+    "Phonetic":  "にゅうはくしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白練",
+    "Phonetic":  "しろねり"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "素色",
+    "Phonetic":  "そしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白梅鼠",
+    "Phonetic":  "しらうめねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "白鼠",
+    "Phonetic":  "しろねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "絹鼠",
+    "Phonetic":  "きぬねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "灰青",
+    "Phonetic":  "はいあお"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "銀鼠",
+    "Phonetic":  "ぎんねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄鈍",
+    "Phonetic":  "うすにび"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "薄墨色",
+    "Phonetic":  "うすずみいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "錫色",
+    "Phonetic":  "すずいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "素鼠",
+    "Phonetic":  "すねずみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鼠色",
+    "Phonetic":  "ねずみいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "源氏鼠",
+    "Phonetic":  "げんじねず"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "灰色",
+    "Phonetic":  "はいいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鉛色",
+    "Phonetic":  "なまりいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鈍色",
+    "Phonetic":  "にびいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "墨",
+    "Phonetic":  "すみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "丼鼠",
+    "Phonetic":  "どぶねずみ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "消炭色",
+    "Phonetic":  "けしずみいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "藍墨茶",
+    "Phonetic":  "あいすみちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "羊羹色",
+    "Phonetic":  "ようかんいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "蝋色",
+    "Phonetic":  "ろういろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黒",
+    "Phonetic":  "くろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "烏羽色",
+    "Phonetic":  "からすばいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "鉄黒",
+    "Phonetic":  "てつぐろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "濡羽色",
+    "Phonetic":  "ぬればいろ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "黒壇",
+    "Phonetic":  "こくたん"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "憲法黒茶",
+    "Phonetic":  "けんぽうくろちゃ"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "暗黒色",
+    "Phonetic":  "あんこくしょく"
+},
+{
+    "Hex":  "#fef4f4",
+    "Name":  "武将色",
+    "Phonetic":  "ぶしょういろ"
+}
+}

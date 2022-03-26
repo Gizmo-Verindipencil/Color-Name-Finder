@@ -1,0 +1,984 @@
+ベビー ピンク
+Baby Pink
+#FFC6D6
+シェル ピンク
+Shell Pink
+#FFBDB3
+フレッシュ ピンク
+Fresh Pink
+#F2D5CC
+パステル ピンク
+Pastel Pink
+#FC9DB8
+ローズ ピンク
+Rose Pink
+#F55064
+ピンク
+Pink
+#DFAEB1
+フレンチ ローズ
+French Rose
+#EF8184
+ピーチ ブロッサム
+Peach Blossam
+#D5C1CE
+ロータス
+Lotus
+#CF8878
+ティー ローズ
+Tea Rose
+#D8B197
+サーモン ピンク
+Salmon Pink
+#FF9C8C
+オーロラ
+Aurora
+#FFCEC6
+ヴァイナス
+Vinous
+#B1988F
+コスモス
+Cosmos
+#F39AAB
+コーリンシアン ピンク
+Corinthian Pink
+#C49793
+チェリー ピンク
+Cherry Pink
+#F05187
+フクシァ ピンク
+Fuchsia Pink
+#FC9DB8
+ダフニー ピンク
+Daphne Pink
+#A26168
+カーネーション
+Carnation
+#D37A83
+シェリンプ ピンク
+Shrimp Pink
+#DC7563
+コーラル ピンク
+Coral Pink
+#FF9888
+ローズ ポンパドウル
+Rose Pompadour
+#A66061
+エンパイア ローズ
+Empire Rose
+#F08687
+フラミンゴ
+Flamingo
+#EF8865
+エトラスカン ローズ
+Etruscan Rose
+#B0755C
+アッシズ オブ ローズ
+ashes of rose
+#B86D77
+ローズ レッド
+rose red
+#E31262
+カメリア
+camellia
+#E85466
+ゼラニウム
+geranium
+#E22838
+チェリー
+cherry
+#D00026
+シグナル レッド
+signal red
+#E0002A
+ユニオンジャッグレッド
+signal red
+#E60032
+カーマイン
+carmine
+#E10041
+ターキー レッド
+turkey red
+#B21D33
+ポピーレッド
+poppy red
+#CE382B
+カーディナル
+cardinal
+#891E34
+クリムスン レーキ
+crimson rake
+#AA0044
+ポメグラネイト
+Pomegranate
+#CF498F
+シナバー
+cinnabar
+#ED2F1F
+セントパトリッククロス
+Cent Patrick cross
+#FF0000
+トマト レッド
+tomato red
+#C13321
+ルビー
+ruby
+#AE003A
+イングリッシュ レッド
+english red
+#D47467
+オクサイドレッド
+oxide red
+#7F3330
+オックスブラッド レッド
+Oxblood Red
+#7B2B47
+ボール
+Bole
+#9B5033
+バーガンディ
+burgundy
+#3C1117
+マホガニー
+mahogany
+#4B1016
+フリー
+Flea
+#6A1A2E
+オパール ピーチ
+opal peach
+#F0BCB7
+フレッシュ
+flesh
+#FFC8AB
+アプリコット
+apricot
+#F79469
+サンセット
+sunset
+#D4A56F
+サンバーン
+sunburn
+#AF7C54
+ファイアー レッド
+fire red
+#E23724
+キャロット オレンジ
+carrot orange
+#E97117
+タンジェリン
+tangerine
+#DD562E
+オレンジ
+orange
+#FD680D
+メイズ
+maize
+#EBAC85
+クローム オレンジ
+chrome orange
+#FE6D0D
+アンバー
+amber
+#BC753B
+モロッコ レッド
+morocco red
+#86002C
+キャラメル
+caramel
+#D47643
+タン
+tan
+#DE772C
+トパーズ
+topaz
+#C47C50
+ムーンライト
+moon light
+#FCD8B1
+ベージュ
+beige
+#E3B797
+フラックス
+flax
+#EBC6A9
+ブロンド
+blond
+#E0B188
+カフェ オ レ
+cafe au lait
+#C88659
+ビスケット
+biscuit
+#FFB989
+バーチメント
+parchment
+#C0AB8A
+シャンパーニュ
+champagne
+#E7BF7C
+キャメル
+camel
+#B57A59
+グレージュ
+grege
+#9E756C
+フォーン
+fawn
+#AD775A
+シャモア
+chamois
+#F7C2C2
+バーント シエンナ
+burnt sienna
+#B75237
+ブリック レッド
+brick red
+#9C302A
+ブラウン
+brown
+#5C3418
+ローシェンナ
+raw sienna
+#86410B
+ローアンバー
+raw umber
+#854E38
+カフェ
+Caffee
+#604A2B
+マルーン
+maroon
+#56001D
+メイフェイア ローズ
+maroon
+#670026
+リバー
+liver
+#8B6165
+ヘンナ
+henna
+#9A1912
+ラセット
+russet
+#AD5F47
+チェスナット ブラウン
+chestnut brown
+#68412F
+ブルネット
+Brunette
+#87745C
+チョコレート
+chocolate
+#3E1F0F
+セピア
+sepia
+#402923
+ヴァンダイク ブラウン
+vandike brown
+#7F5139
+アイボリー
+ivory
+#F1E1CE
+ヴァニラ
+vanilla
+#E1C79A
+レグホーン
+leghorn
+#E7C59C
+クリーム
+cream
+#FFF4DC
+ストロー
+straw
+#F2DB9C
+マシコット
+massicot
+#FCCDA2
+サルファー イエロー
+sulphar yellow
+#FFD93C
+ダイヤーズブルーム
+dyres broom
+#C5BE82
+ミモザ
+mimosa
+#FFCD25
+ネープルス イエロー
+naples yellow
+#FFBC7B
+ハニー イエロー
+honey yellow
+#B68954
+ガンボージ
+gamboge
+#E2B55B
+オーピメント
+Orpiment
+#D9B453
+ウェルド
+weld
+#C1BC55
+インディアン イエロー
+indian yellow
+#FF9700
+ダファディル イエロー
+daffodil yellow
+#EDAA5A
+サフラン イエロー
+saffran yellow
+#FFAF00
+クローム イエロー
+chrome yellow
+#F4C600
+ヨーク イエロー
+yolk yellow
+#F3B927
+カナリー
+canary
+#FFD718
+バナナ
+banana
+#F5D300
+レモン イエロー
+lemon yellow
+#FEC300
+マスタード
+mustard
+#E3AB0D
+ロンドン ゴールド
+mustard
+#CC7F0F
+シャトルーズ イエロー
+chartreuse yellow
+#EADE5D
+ユニオン ジャッグ
+union jug
+#F0E889
+ゴールド
+gold
+#A37E00
+グリーシァン ローズ
+grecian bronze
+#FA9685
+オリーブ
+olive
+#584C0F
+ライム グリーン
+lime green
+#CFD10C
+シーフォーム グリーン
+sea foam green
+#BDCE96
+ピスタチオ グリーン
+bistachio Green
+#ABC789
+ナイト グリーン
+night green
+#45AA31
+グリニッジ
+night green
+#4E9432
+エッグシェル グリーン
+eggshell green
+#87AC9E
+グラス グリーン
+grass green
+#96BE7B
+グローカス
+glaucas
+#B6BEA2
+アップル グリーン
+apple green
+#97BE1C
+ゲイグリーン
+gay green
+#5C700A
+ピーグリーン
+pea green
+#93B17D
+スプリング グリーン
+spring green
+#B4CB5E
+ウィロー グリーン
+willow green
+#95875A
+サウディー グリーン
+Caudy Green
+#718451
+モス グリーン
+moth green
+#7B7C46
+リンカーン グリーン
+lincoln green
+#615C41
+オリーブ グリーン
+olive green
+#3B3F10
+フラワードリュース
+flower drew
+#5C7449
+シュヴァインフルト
+schweinfurt
+#00AE42
+ミント
+mint
+#006252
+クローム グリーン
+chrome green
+#00885F
+マラカイト グリーン
+malachite green
+#347655
+ヴェルディグリ
+verdigris
+#5BA080
+ミスルトー
+mistletoe
+#576A3E
+ハンター グリーン
+hunter green
+#0E291B
+ボトル グリーン
+bottle green
+#0B2F31
+マートル グリーン
+myrtle green
+#273931
+ホリゾン ブルー
+horizon blue
+#B0E2F6
+ナイル ブルー
+nile blue
+#418C8C
+ベビー ブルー
+baby blue
+#CBECF6
+ケンブリッジ ブルー
+cambridge blue
+#54B6BE
+スカイ ブルー
+sky blue
+#8BAFDB
+シレスティアルブルー
+celestial blue
+#496F8E
+ゼニスブルー
+zenith blue
+#999DB9
+ヴェニット
+Venet
+#02977D
+アクア マリン
+aqua marine
+#327585
+ターコイズ
+turquoise
+#0097A2
+ポースリン ブルー
+porcelain blue
+#5E94A5
+フォーゲットミーノット
+forget me not
+#66B7D8
+パウダー ブルー
+powder blue
+#E6F6FC
+ピーコック
+Peacock
+#00586D
+エジプシアン ブルー
+egyptian blue
+#006785
+バイス
+vice
+#427596
+ポンパドール ピンク
+pompadour pink
+#FD90A5
+ウェッジウッド ブルー
+wedgewood blue
+#505B8C
+ブルーエット
+bluette
+#5782A1
+ハイドレンジア ブルー
+hydrangea blue
+#325E9A
+サイアン ブルー
+cyan blue
+#5DBBB8
+コバルト ブルー
+cobalt blue
+#1581C5
+スマルト
+smalt
+#3A4789
+サファイア ブルー
+sapphire blue
+#004D6A
+ウルトラマリン
+ultramarine
+#2D3289
+プルシアン ブルー
+prussian blue
+#392C87
+ユニオン ジャック
+union jack
+#385086
+ロイヤル ブルー
+royal blue
+#004E8A
+ガーター ブルー
+garter blue
+#00538D
+デルフト ブルー
+delft blue
+#002D64
+マリン ブルー
+marine blue
+#1847AA
+ネイヴィブルー
+navy blue
+#001D3A
+ミッドナイト ブルー
+midnight blue
+#1A1F47
+ロンドン トワイライト
+midnight blue
+#1A2D4F
+ウェストミンスター
+midnight blue
+#0B004E
+ラべンダー
+lavender
+#AB85B2
+ウィスタリア
+wisteria
+#7B639C
+ライラック
+lilac
+#D191B4
+マロウ
+mallow
+#C6639E
+チェルシー ピンク
+mallow
+#AB5677
+シスル
+thistle
+#822759
+ミネラル バイオレット
+mineral violet
+#926A90
+コバルト バイオレット
+cobalt violet
+#A269A8
+パープル
+purple
+#4C045A
+アメジスト
+amethyst
+#634669
+アメジスト パープル
+Amaranth Purple
+#993945
+マゼンタ
+magenta
+#DE0067
+パンジー
+pansy
+#35178C
+フューシャ
+fuchsia
+#AE006D
+アコナイトバイオレット
+aconite violet
+#661065
+マルベリー
+mulberry
+#4A273B
+ヘリオトロープ
+heliotrope
+#75106D
+プラム パープル
+plum purple
+#361A33
+ラズベリー
+raspberry
+#8A004F
+レーズン
+raisins
+#491830
+ワイン
+wine
+#6B0032
+ホワイト
+White
+#FFFFFF
+アラバスター
+alabaster
+#FCDFD4
+ミルク ホワイト
+milk white
+#FDFAED
+ペールホワイトリリー
+pale white lily
+#FDF6DB
+シルバー
+silver
+#B5B9BC
+サンド
+sand
+#A69278
+アッシュ グレイ
+ash grey
+#C2B799
+スモーク グレイ
+Smoke Grey
+#83857A
+パール グリーン
+pearl green
+#C2CEBA
+マウス グレイ
+mouse grey
+#777777
+ダブ グレイ
+dove gray
+#987C84
+ミスト
+mist
+#AF9090
+グラファイト
+graphite
+#000000
+グーズグレイ
+goose gray
+#323934
+ブラック
+Black
+#000000
+イングランド
+england
+#FF2A2A
+スコットランド
+scotland
+#212178
+ウェールズ
+wales
+#800000
+ノーザン アイルランド
+northern Ireland
+#165016
+チャンネルアイスランド
+channel Islands
+#0066FF
+アイル オブ マン
+isle of man
+#D45500
+ロンドン
+london
+#000080
+サウス イースト
+south east
+#44AA00
+ウエスト カントリー
+west country
+#2AD4FF
+イースト アングリア
+east anglia
+#D4AA00
+イースト ミッドランド
+east midlands
+#3B5781
+ウエスト ミッドランド
+west midlands
+#921FAF
+ヨークシャイア
+yorkshire
+#FFEEAA
+ノース ウエスト
+north west
+#C10000
+ノース イースト
+north east
+#C87137
+ボーダーズ
+borders
+#D4AA00
+サウス ウエスト
+south west
+#55D400
+セントラル ベルト
+central belt
+#0000D4
+ハイランド
+highlands
+#B380FF
+ノース イースト スコットランド
+north east scotland
+#FF0000
+ヘブリデス
+hebrides
+#87AADE
+オークニー アイランド
+orkney islands
+#D5D5FF
+シェトランド アイランド
+shetland islands
+#AFE9DD
+ノース ウェールズ
+north wales
+#8DD35F
+ミド ウェールズ
+mid wales
+#A0892C
+サウス ウェールズ
+south wales
+#D40000
+カウンティ アントリム
+county antrim
+#00AA00
+カウンティ アーマー
+county armagh
+#87DE87
+カウンティ ロンドンデリー
+county londonderry
+#447821
+カウンティ ダウン
+county down
+#5FD35F
+カウンティ ファーマナ
+county fermanagh
+#AADE87
+カウンティ ティロン
+county tyrone
+#71C837
+オックスフォードシャー
+oxfordshire
+#447821
+バッキンガムシャー
+buckinghamshire
+#5AA02C
+バークシャー
+berkshire
+#8DD35F
+ハンプシャー
+hampshire
+#225500
+サリー
+surrey
+#008000
+ウェスト サセックス
+west Sussex
+#AADE87
+イースト サセックス
+east Sussex
+#CCFFAA
+ケント
+kent
+#44AA00
+アイル オブ ワイト
+isle of wight
+#B3FF80
+グロスターシャー
+gloucestershire
+#87CDDE
+コーンウォール
+cornwall
+#2AD4FF
+ウィルトシャー
+wiltshire
+#AAEEFF
+サマーセット
+somerset
+#80E5FF
+ドーセット
+dorset
+#216778
+デボン
+devon
+#0088AA
+アイルズ オブ シリー
+isles of scilly
+#162D50
+ハートフォードシャー
+hertfordshire
+#554400
+エセックス
+essex
+#D3BC5F
+ベッドフォードシャー
+bedfordshire
+#786721
+ケンブリッジシャー
+cambridgeshire
+#A0892C
+サフォーク
+suffolk
+#E9DDAF
+ノーフォーク
+norfolk
+#D4AA00
+ノーサンプトンシャー
+northamptonshire
+#0044AA
+レスターシャー
+leicestershire
+#214478
+ダービーシャー
+derbyshire
+#162D50
+ノッティンガムシャー
+nottinghamshire
+#000080
+リンカーンシャー
+lincolnshire
+#5599FF
+ラトランド
+rutland
+#2C5AA0
+ヘレフォードシャー
+herefordshire
+#DD55FF
+ウスターシャー
+worcestershire
+#CD87DE
+ウォーリックシャー
+warwickshire
+#8D5FD3
+ウェスト ミドランド カウンティ
+west Midlands County
+#660080
+シュロップシャー
+shropshire
+#C837AB
+スタッフォードシャー
+staffordshire
+#800066
+ノース ヨークシャー
+north yorkshire
+#FFEEAA
+イースト ヨークシャー
+east yorkshire
+#D3BC5F
+サウス ヨークシャー
+south yorkshire
+#E9DDAF
+ウェスト ヨークシャー
+west yorkshire
+#FFDD55
+チェシャー
+cheshire
+#FF5555
+マージーサイド
+merseyside
+#50162D
+グレイター マンチェスター
+greater manchester
+#AA0000
+ランカシャー
+lancashire
+#D40000
+カンブリア
+cumbria
+#FF8080
+クリーブランド
+cleveland
+#784421
+カウンティ ダーラム
+county durham
+#D45500
+タイン アン ウィア
+tyne and wear
+#803300
+ノーサンバーランド
+northumberland
+#C87137
+エアシャー
+ayrshire
+#338000
+クライズデール
+clydesdale
+#00D400
+ダンフリース アンド ギャロウェー
+dumfries and galloway
+#55D400
+アイル オブ アラン
+isle of arran
+#AAFFAA
+クライドサイド
+clydeside
+#0000AA
+ロジアン
+the lothians
+#2C2CA0
+スターリングシャー
+stirlingshire
+#0000D4
+クラックマナンシャイア
+clackmannanshire
+#5F5FD3
+アーガイル アンド ビュート
+argyll and bute
+#7F2AFF
+ハイランド
+highland
+#B380FF
+モレイ
+moray
+#E9AFAF
+アバディーンシャイア
+aberdeenshire
+#D35F5F
+アンガス
+angus
+#FF5555
+パース アンド キンロス
+perth and kinross
+#FFAAAA
+ファイフ
+fife
+#FF0000
+インナー ヘブリディーズ
+inner hebrides
+#3771C8
+アウター ヘブリディーズ
+outer hebrides
+#AFC6E9
+アングルシー
+anglesey
+#87DEAA
+グウィネズ
+gwynedd
+#8DD35F
+コンウィ
+conwy
+#44AA00
+デンビーシャー
+denbighshire
+#71C837
+フリントシャー
+flintshire
+#008000
+レクサム
+wrexham
+#005522
+ケレディジョン
+ceredigion
+#DECD87
+ポーイス
+powys
+#A0892C
+ペンブルックシャー
+pembrokeshire
+#FFAAAA
+カーマーゼンシャー
+carmarthenshire
+#FF5555
+グラモーガン
+glamorgan
+#D40000
+モンマスシャー
+monmouthshire
+#D35F5F

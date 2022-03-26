@@ -1,0 +1,1032 @@
+﻿{
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "baby pink",
+    "Phonetic":  "ベビー ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "shell pink",
+    "Phonetic":  "シェル ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "flesh pink",
+    "Phonetic":  "フレッシュ ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "pastel pink",
+    "Phonetic":  "パステル ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "rose pink",
+    "Phonetic":  "ローズ ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "pink",
+    "Phonetic":  "ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "french rose",
+    "Phonetic":  "フレンチ ローズ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "peach blossom",
+    "Phonetic":  "ピーチ ブラッサム"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "lotus",
+    "Phonetic":  "ロータス"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "tea rose",
+    "Phonetic":  "ティー ローズ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "salmon pink",
+    "Phonetic":  "サーモン ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "aurora",
+    "Phonetic":  "オーロラ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "vinous",
+    "Phonetic":  "ヴァイナス"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cosmos",
+    "Phonetic":  "コスモス"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "corinthian pink",
+    "Phonetic":  "コーリンシアン ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cherry pink",
+    "Phonetic":  "チェリー ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "fuchsia pink",
+    "Phonetic":  "フクシァ ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "pompadour pink",
+    "Phonetic":  "ポンパドール ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "daphne pink",
+    "Phonetic":  "ダフニー ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "carnation",
+    "Phonetic":  "カーネーション"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "shrimp pink",
+    "Phonetic":  "シェリンプ ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "coral pink",
+    "Phonetic":  "コーラル ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "rose pompadour",
+    "Phonetic":  "ローズ ポンパドウル"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "empire rose",
+    "Phonetic":  "エンパイア ローズ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "flamingo",
+    "Phonetic":  "フラミンゴ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "etruscan rose",
+    "Phonetic":  "エトラスカン ローズ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "ashes of rose",
+    "Phonetic":  "アッシズ オブ ローズ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "rose red",
+    "Phonetic":  "ローズ レッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "camellia",
+    "Phonetic":  "カメリア"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "geranium",
+    "Phonetic":  "ゼラニウム"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cherry",
+    "Phonetic":  "チェリー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "signal red",
+    "Phonetic":  "シグナル レッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "carmine",
+    "Phonetic":  "カーマイン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "turkey red",
+    "Phonetic":  "ターキー レッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "poppy red",
+    "Phonetic":  "ポピーレッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cardinal",
+    "Phonetic":  "カーディナル"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "crimson rake",
+    "Phonetic":  "クリムスン レーキ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "pomegranate",
+    "Phonetic":  "ポメグラネイト"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cinnabar",
+    "Phonetic":  "シナバー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "tomato red",
+    "Phonetic":  "トマト レッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "ruby",
+    "Phonetic":  "ルビー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "english red",
+    "Phonetic":  "イングリッシュ レッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "oxide red",
+    "Phonetic":  "オクサイドレッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "oxblood red",
+    "Phonetic":  "オックスブラッド レッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "bole",
+    "Phonetic":  "ボール"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "burgundy",
+    "Phonetic":  "バーガンディ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "mahogany",
+    "Phonetic":  "マホガニー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "flea",
+    "Phonetic":  "フリー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "beach",
+    "Phonetic":  "ピーチ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "flesh",
+    "Phonetic":  "フレッシュ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "apricot",
+    "Phonetic":  "アプリコット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "sunset",
+    "Phonetic":  "サンセット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "sunburn",
+    "Phonetic":  "サンバーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "fire red",
+    "Phonetic":  "ファイアー レッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "carrot orange",
+    "Phonetic":  "キャロット オレンジ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "tangerine",
+    "Phonetic":  "タンジェリン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "orange",
+    "Phonetic":  "オレンジ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "maize",
+    "Phonetic":  "メイズ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "chrome orange",
+    "Phonetic":  "クローム オレンジ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "amber",
+    "Phonetic":  "アンバー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "morocco",
+    "Phonetic":  "モロッコ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "caramel",
+    "Phonetic":  "キャラメル"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "tan",
+    "Phonetic":  "タン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "topaz",
+    "Phonetic":  "トパーズ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "moon light",
+    "Phonetic":  "ムーンライト"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "ecru",
+    "Phonetic":  "エクリュ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "flax",
+    "Phonetic":  "フラックス"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "blond",
+    "Phonetic":  "ブロンド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cafe au lait",
+    "Phonetic":  "カフェ オ レ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "biscuit",
+    "Phonetic":  "ビスケット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "parchment",
+    "Phonetic":  "バーチメント"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "champagne",
+    "Phonetic":  "シャンパーニュ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "camel",
+    "Phonetic":  "キャメル"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "grege",
+    "Phonetic":  "グレージュ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "fawn",
+    "Phonetic":  "フォーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "chamois",
+    "Phonetic":  "シャモア"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "burnt sienna",
+    "Phonetic":  "バーント シエンナ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "brick red",
+    "Phonetic":  "ブリック レッド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "brown",
+    "Phonetic":  "ブラウン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "raw sienna",
+    "Phonetic":  "ローシェンナ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "raw umber",
+    "Phonetic":  "ローアンバー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "caffee",
+    "Phonetic":  "カフェ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "maroon",
+    "Phonetic":  "マルーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "liver",
+    "Phonetic":  "リバー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "henna",
+    "Phonetic":  "ヘンナ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "russet",
+    "Phonetic":  "ラセット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "chestnut brown",
+    "Phonetic":  "チェスナット ブラウン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "hair brown",
+    "Phonetic":  "ヘア ブラウン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "chocolate",
+    "Phonetic":  "チョコレート"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "sepia",
+    "Phonetic":  "セピア"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "vandike brown",
+    "Phonetic":  "ヴァンダイク ブラウン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "ivory",
+    "Phonetic":  "アイボリー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "vanilla",
+    "Phonetic":  "ヴァニラ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "leghorn",
+    "Phonetic":  "レグホーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "straw",
+    "Phonetic":  "ストロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "massicot",
+    "Phonetic":  "マシコット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "sulphar yellow",
+    "Phonetic":  "サルファー イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "dyres broom",
+    "Phonetic":  "ダイヤーズブルーム"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "mimosa",
+    "Phonetic":  "ミモザ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "naples yellow",
+    "Phonetic":  "ネープルス イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "honey yellow",
+    "Phonetic":  "ハニー イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "gamboge",
+    "Phonetic":  "ガンボージ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "auripigment",
+    "Phonetic":  "オーピメント"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "indian yellow",
+    "Phonetic":  "インディアン イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "daffodil yellow",
+    "Phonetic":  "ダファディル イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "saffran yellow",
+    "Phonetic":  "サフラン イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "chrome yellow",
+    "Phonetic":  "クローム イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "yolk yellow",
+    "Phonetic":  "ヨーク イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "canary",
+    "Phonetic":  "カナリー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "banana",
+    "Phonetic":  "バナナ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "lemon yellow",
+    "Phonetic":  "レモン イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "mustard",
+    "Phonetic":  "マスタード"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "chartreuse yellow",
+    "Phonetic":  "シャトルーズ イエロー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "gold",
+    "Phonetic":  "ゴールド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "bronze",
+    "Phonetic":  "ブロンズ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "olive",
+    "Phonetic":  "オリーブ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "lime green",
+    "Phonetic":  "ライム グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "sea foam green",
+    "Phonetic":  "シーフォーム グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "pistache",
+    "Phonetic":  "ピスターシュ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "night green",
+    "Phonetic":  "ナイト グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "eggshell green",
+    "Phonetic":  "エッグシェル グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "grass green",
+    "Phonetic":  "グラス グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "glaucas",
+    "Phonetic":  "グローカス"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "apple green",
+    "Phonetic":  "アップル グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "gay green",
+    "Phonetic":  "ゲイグリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "pea green",
+    "Phonetic":  "ピーグリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "spring green",
+    "Phonetic":  "スプリング グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "willow green",
+    "Phonetic":  "ウィロー グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "godey green",
+    "Phonetic":  "ゴーディ グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "moth green",
+    "Phonetic":  "モス グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "lincoln green",
+    "Phonetic":  "リンカーン グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "olive green",
+    "Phonetic":  "オリーブ グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "flower drew green",
+    "Phonetic":  "フラワードリュースグリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "schweinfurt green",
+    "Phonetic":  "シュヴァインフルトグリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "mint",
+    "Phonetic":  "ミント"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "chrome green",
+    "Phonetic":  "クローム グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "malachite green",
+    "Phonetic":  "マラカイト グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "verdigris",
+    "Phonetic":  "ヴェルディグリ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "mistletoe",
+    "Phonetic":  "ミスルトー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "hunter green",
+    "Phonetic":  "ハンター グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "bottle green",
+    "Phonetic":  "ボトル グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "myrtle green",
+    "Phonetic":  "マートル グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "horizon blue",
+    "Phonetic":  "ホリゾン ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "nile blue",
+    "Phonetic":  "ナイル ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "baby blue",
+    "Phonetic":  "ベビー ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cambridge blue",
+    "Phonetic":  "ケンブリッジ ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "sky blue",
+    "Phonetic":  "スカイ ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "celestial blue",
+    "Phonetic":  "シレスティアル ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "zenith blue",
+    "Phonetic":  "ゼニスブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "vnet",
+    "Phonetic":  "ヴェニット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "aqua marine",
+    "Phonetic":  "アクア マリン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "turquoise",
+    "Phonetic":  "ターコイズ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "porcelain blue",
+    "Phonetic":  "ポースリン ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "forget me not",
+    "Phonetic":  "フォーゲット ミー ノット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "powder blue",
+    "Phonetic":  "パウダー ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "peacock",
+    "Phonetic":  "ピーコック"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "egyptian blue",
+    "Phonetic":  "エジプシアン ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "vice",
+    "Phonetic":  "バイス"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "wedgewood blue",
+    "Phonetic":  "ウェッジウッド ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "bluette",
+    "Phonetic":  "ブルーエット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "hydrangea blue",
+    "Phonetic":  "ハイドレンジア ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cyan blue",
+    "Phonetic":  "サイアン ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cobalt blue",
+    "Phonetic":  "コバルト ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "smalt",
+    "Phonetic":  "スマルト"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "sapphire blue",
+    "Phonetic":  "サファイア ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "ultramarine",
+    "Phonetic":  "ウルトラマリン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "prussian blue",
+    "Phonetic":  "プルシアン ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "royal blue",
+    "Phonetic":  "ロイヤル ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "garter blue",
+    "Phonetic":  "ガーター ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "delft blue",
+    "Phonetic":  "デルフト ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "marine blue",
+    "Phonetic":  "マリン ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "navy blue",
+    "Phonetic":  "ネイヴィブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "midnight blue",
+    "Phonetic":  "ミッドナイト ブルー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "lavender",
+    "Phonetic":  "ラべンダー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "wisteria",
+    "Phonetic":  "ウィスタリア"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "lilac",
+    "Phonetic":  "ライラック"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "mallow",
+    "Phonetic":  "マロウ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "thistle",
+    "Phonetic":  "シスル"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "mineral violet",
+    "Phonetic":  "ミネラル バイオレット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "cobalt violet",
+    "Phonetic":  "コバルト バイオレット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "purple",
+    "Phonetic":  "パープル"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "amethyst",
+    "Phonetic":  "アメジスト"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "amaranth purple",
+    "Phonetic":  "アメジスト パープル"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "magenta",
+    "Phonetic":  "マゼンタ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "pansy",
+    "Phonetic":  "パンジー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "fuchsia",
+    "Phonetic":  "フューシャ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "aconite violet",
+    "Phonetic":  "アコナイト バイオレット"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "murray",
+    "Phonetic":  "マーリー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "heliotrope",
+    "Phonetic":  "ヘリオトロープ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "plum purple",
+    "Phonetic":  "プラム パープル"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "raspberry",
+    "Phonetic":  "ラズベリー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "raisins",
+    "Phonetic":  "レーズン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "wine",
+    "Phonetic":  "ワイン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "white lead",
+    "Phonetic":  "ホワイト レド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "alabaster",
+    "Phonetic":  "アラバスター"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "milk white",
+    "Phonetic":  "ミルク ホワイト"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "silver",
+    "Phonetic":  "シルバー"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "sand",
+    "Phonetic":  "サンド"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "ash grey",
+    "Phonetic":  "アッシュ グレイ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "smoke grey",
+    "Phonetic":  "スモーク グレイ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "pearl green",
+    "Phonetic":  "パール グリーン"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "mouse grey",
+    "Phonetic":  "マウス グレイ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "dove gray",
+    "Phonetic":  "ダブ グレイ"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "mist",
+    "Phonetic":  "ミスト"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "graphite",
+    "Phonetic":  "グラファイト"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "goose gray",
+    "Phonetic":  "グーズグレイ"
+}
+}

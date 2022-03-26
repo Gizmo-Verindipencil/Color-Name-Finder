@@ -1,0 +1,1687 @@
+﻿{
+{
+    "Hex":  "#948147",
+    "Name":  "havane",
+    "Phonetic":  "アヴァーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "azalee",
+    "Phonetic":  "アザレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "atoll",
+    "Phonetic":  "アトール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "anemone",
+    "Phonetic":  "アネモヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "apricot",
+    "Phonetic":  "アプリコ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "aluminium",
+    "Phonetic":  "アリュミニヨム"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "argile",
+    "Phonetic":  "アルジル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "albatre",
+    "Phonetic":  "アルバートル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "anthracite",
+    "Phonetic":  "アントラシート"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "ambre",
+    "Phonetic":  "アンプル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "acier",
+    "Phonetic":  "アシエ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "agate",
+    "Phonetic":  "アガート"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "anis",
+    "Phonetic":  "アニ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "absinthe",
+    "Phonetic":  "アプサント"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "amarante",
+    "Phonetic":  "アマラント"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "alezan",
+    "Phonetic":  "アルザン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "ardoise",
+    "Phonetic":  "アルドアーズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "armagnac",
+    "Phonetic":  "アルマニャック"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue indigo sombre",
+    "Phonetic":  "ブルー アンディゴ ソンブル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "ivoire",
+    "Phonetic":  "イヴォアール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "iris",
+    "Phonetic":  "イリス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vanille",
+    "Phonetic":  "ヴァニーユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "violace grise",
+    "Phonetic":  "ヴィオラッセ グリーゼ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "violet",
+    "Phonetic":  "ヴィオレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "whisky",
+    "Phonetic":  "ウイスキー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "hirondelle",
+    "Phonetic":  "イロンデル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "varech",
+    "Phonetic":  "ヴァレック"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "violine",
+    "Phonetic":  "ヴィオリーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vigogne",
+    "Phonetic":  "ヴィゴーニュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert",
+    "Phonetic":  "ヴェール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "verr acide",
+    "Phonetic":  "ヴェール アシード"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert anglais",
+    "Phonetic":  "ヴェール アングレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert ecossais",
+    "Phonetic":  "ヴェール エコッセ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert safari",
+    "Phonetic":  "ヴェール サファリ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert chartreuse",
+    "Phonetic":  "ヴェール シャルトルーズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert amande",
+    "Phonetic":  "ヴェール アマンド"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert veronese",
+    "Phonetic":  "ヴェール ヴェロネーズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert clair",
+    "Phonetic":  "ヴェール クレール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert cypres",
+    "Phonetic":  "ヴェール シプレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert jaune",
+    "Phonetic":  "ヴェール ジョーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert scarabee",
+    "Phonetic":  "ヴェール スカラベ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert tisane",
+    "Phonetic":  "ヴェール ティザーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert-de-gris",
+    "Phonetic":  "ヴェール ドゥ グリー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert noir",
+    "Phonetic":  "ヴェール ノアール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert pabge",
+    "Phonetic":  "ヴェール パプゲ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert celadon",
+    "Phonetic":  "ヴェール セラドン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert d\u0027eau",
+    "Phonetic":  "ヴェール ドー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert nil",
+    "Phonetic":  "ヴェール ニル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert pastille",
+    "Phonetic":  "ヴェール パスティーユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert paon",
+    "Phonetic":  "ヴェール パーン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert buis",
+    "Phonetic":  "ヴェール ビュイ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert bouteille",
+    "Phonetic":  "ヴェール ブーテイユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert bronze",
+    "Phonetic":  "ヴェール ブロンズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert pomme",
+    "Phonetic":  "ヴェール ポンム"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert mousse",
+    "Phonetic":  "ヴェール ムース"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert fonce",
+    "Phonetic":  "ヴェール フォンセ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert prairie",
+    "Phonetic":  "ヴェール プレーリー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert pois chiche",
+    "Phonetic":  "ヴェール ポワ シシュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vermillon",
+    "Phonetic":  "ヴェルミヨン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert laitue",
+    "Phonetic":  "ヴェール レーテュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert roseau",
+    "Phonetic":  "ヴェール ロゾー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "outremer",
+    "Phonetic":  "ウートルメール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "ecarlate",
+    "Phonetic":  "エカルラート"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "eglantine",
+    "Phonetic":  "エグランティーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "epinard",
+    "Phonetic":  "エピナール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "vert loden",
+    "Phonetic":  "ヴェール ロデン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "ecaille",
+    "Phonetic":  "エカイユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "ecume",
+    "Phonetic":  "エキューム"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "e\u0027cru",
+    "Phonetic":  "エクリュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "email",
+    "Phonetic":  "エマイユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "emeraude",
+    "Phonetic":  "エムロード"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "herbe",
+    "Phonetic":  "エルブ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "ocre",
+    "Phonetic":  "オークル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "autrichien",
+    "Phonetic":  "オートリシャン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "olive",
+    "Phonetic":  "オリーヴ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "aubergine",
+    "Phonetic":  "オーベルジーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "aubergine violacee",
+    "Phonetic":  "オーベルジーヌ ヴィヨラセ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "orange",
+    "Phonetic":  "オランジュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "orange roussi",
+    "Phonetic":  "オランジュ ルーシー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "kaki",
+    "Phonetic":  "カキ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cactus",
+    "Phonetic":  "カクテュス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cachou",
+    "Phonetic":  "カシュー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cachemire",
+    "Phonetic":  "カシュミール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gazon",
+    "Phonetic":  "ガゾン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "canari",
+    "Phonetic":  "カナリ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cannelle",
+    "Phonetic":  "カネル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "capucine",
+    "Phonetic":  "カピュシーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cafe",
+    "Phonetic":  "カフェ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cafe au lait",
+    "Phonetic":  "カフェ オ レ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "caramel",
+    "Phonetic":  "カラメル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "garance",
+    "Phonetic":  "ガランス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "carmin",
+    "Phonetic":  "カルマン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cardinal",
+    "Phonetic":  "カルディナル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cuivre",
+    "Phonetic":  "キュイヴル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cuisse de nymph",
+    "Phonetic":  "キュイッス ド ナンフ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "goumier",
+    "Phonetic":  "グーミエ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cramoisi",
+    "Phonetic":  "クラモアジー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "graphite",
+    "Phonetic":  "グラフィット"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "curry",
+    "Phonetic":  "キューリー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris acier",
+    "Phonetic":  "グリー アシェ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris orage",
+    "Phonetic":  "グリー オラージュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "clan",
+    "Phonetic":  "クラン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris clair",
+    "Phonetic":  "グリー クレール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris ciel",
+    "Phonetic":  "グリー シエル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris terreux",
+    "Phonetic":  "グリー テルー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris argile",
+    "Phonetic":  "グリー アルジル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris gres",
+    "Phonetic":  "グリー グレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris cendre",
+    "Phonetic":  "グリー サンドル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "glycine",
+    "Phonetic":  "グリシーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris fer",
+    "Phonetic":  "グリー フェール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris fonce",
+    "Phonetic":  "グリー フォンセ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris plomb",
+    "Phonetic":  "グリー プロン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "clou de girofle",
+    "Phonetic":  "クルー ドゥ ジロフル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris blue",
+    "Phonetic":  "グリー ブルー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "crevette",
+    "Phonetic":  "クルヴェット"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris flanelle",
+    "Phonetic":  "グリー フラネル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris moyen",
+    "Phonetic":  "グリー モアイヤン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris poussiere",
+    "Phonetic":  "グリー プシェール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gris perle",
+    "Phonetic":  "グリー ペルル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "grenat",
+    "Phonetic":  "グルナ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "grege",
+    "Phonetic":  "グレージュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "coq de roche",
+    "Phonetic":  "コック ドゥ ロシュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "sapin",
+    "Phonetic":  "サパン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "coquelicot",
+    "Phonetic":  "コクリコー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "sahara",
+    "Phonetic":  "サアラ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "groseille",
+    "Phonetic":  "グロゼイユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "corail",
+    "Phonetic":  "コライユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cremeux",
+    "Phonetic":  "クレムー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cognac",
+    "Phonetic":  "コニャック"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "sable",
+    "Phonetic":  "サーブル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "sable mouille",
+    "Phonetic":  "サーブル ムイエ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "chere",
+    "Phonetic":  "シェール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jacinthe",
+    "Phonetic":  "ジャサント"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "geranium",
+    "Phonetic":  "ジェラニョム"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "ciment",
+    "Phonetic":  "シマン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "sanglier",
+    "Phonetic":  "サングリエ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "citronelle",
+    "Phonetic":  "シトロネル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "salade",
+    "Phonetic":  "サラド"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cyclamen",
+    "Phonetic":  "シクラメン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "chatain",
+    "Phonetic":  "シャータン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "chatoyant",
+    "Phonetic":  "シャトアイヤン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "gentiane",
+    "Phonetic":  "ジャンシャーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "chaudron",
+    "Phonetic":  "ショードロン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "charbonneux",
+    "Phonetic":  "シャルボヌー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "chocolat",
+    "Phonetic":  "ショコラ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "chamois",
+    "Phonetic":  "シャモア"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "genet",
+    "Phonetic":  "ジュネ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "chameau",
+    "Phonetic":  "シャモー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "champagne",
+    "Phonetic":  "シャンパーニュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune",
+    "Phonetic":  "ジョーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune acide",
+    "Phonetic":  "ジョーヌ アシード"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune de naples",
+    "Phonetic":  "ジョーヌ ドゥ ナーブル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune briand",
+    "Phonetic":  "ジョーヌ ブリアン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune jonquille",
+    "Phonetic":  "ジョーヌ ジョンキーユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune pale",
+    "Phonetic":  "ジョーヌ パール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune citron",
+    "Phonetic":  "ジョーヌ シトロン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune paille",
+    "Phonetic":  "ジョーヌ パイユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune safran",
+    "Phonetic":  "ジョーヌ サフラン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune narcisse",
+    "Phonetic":  "ジョーヌ ナルシス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune mimosa",
+    "Phonetic":  "ジョーヌ ミモザ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "jaune moutarde",
+    "Phonetic":  "ジョーヌ ムタールド"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "sepia",
+    "Phonetic":  "セピア"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tete-de-negre",
+    "Phonetic":  "テート ドゥ ネーグル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "seigle",
+    "Phonetic":  "セーグル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tete de chene prulee",
+    "Phonetic":  "テートドゥシェーヌプリュレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "cerise",
+    "Phonetic":  "スリーズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tilleul",
+    "Phonetic":  "ティユール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "souris",
+    "Phonetic":  "スーリー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tabac",
+    "Phonetic":  "タバ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tuile",
+    "Phonetic":  "テュイル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tulipe",
+    "Phonetic":  "テュリップ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "terre donbull",
+    "Phonetic":  "テール ドンブル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "nacre",
+    "Phonetic":  "ナクレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "terre de sienne naturelle",
+    "Phonetic":  "テール ドゥ シェーヌ ナテュレル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tons de chasse",
+    "Phonetic":  "トン ドゥ シャス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "terre cuite",
+    "Phonetic":  "テール キュイット"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "terre de sienne brulee",
+    "Phonetic":  "テール ドゥ シェーヌ ブリュレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tomette",
+    "Phonetic":  "トメット"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tulipe noire",
+    "Phonetic":  "テュリップ ノアール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "tomate",
+    "Phonetic":  "トマート"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "narcisse",
+    "Phonetic":  "ナーシス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "nymphea",
+    "Phonetic":  "ナンフェア"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "noir",
+    "Phonetic":  "ノアール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "palme",
+    "Phonetic":  "パルム"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "noisette",
+    "Phonetic":  "ノアゼット"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "para",
+    "Phonetic":  "パラ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "nefle",
+    "Phonetic":  "ネーフル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "noix du bresil",
+    "Phonetic":  "ノワ デュブレジル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "nigelle",
+    "Phonetic":  "ニゼル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "noix",
+    "Phonetic":  "ノワ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "palme",
+    "Phonetic":  "パルム"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "pin",
+    "Phonetic":  "パン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "pigeon",
+    "Phonetic":  "ピジョン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "piment",
+    "Phonetic":  "ピマン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "pamplemousse",
+    "Phonetic":  "パンプルムース"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bistre",
+    "Phonetic":  "ビストル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "pain brule",
+    "Phonetic":  "パン ブリュレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "pistache",
+    "Phonetic":  "ピスタッシュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "pensee",
+    "Phonetic":  "パンセ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "biscuit",
+    "Phonetic":  "ビスキュイ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "billard",
+    "Phonetic":  "ビーヤール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "buisson",
+    "Phonetic":  "ビュイソン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "fauve",
+    "Phonetic":  "フォーヴ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "fuchsia blue",
+    "Phonetic":  "フュクシャ ブルー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "ficelle",
+    "Phonetic":  "フィセル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "fenouil",
+    "Phonetic":  "フヌイユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "feu",
+    "Phonetic":  "フー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "poussin",
+    "Phonetic":  "プーサン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "puce",
+    "Phonetic":  "ピュース"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bougainvillee",
+    "Phonetic":  "ブーガンヴィレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "fuchsia rose",
+    "Phonetic":  "フュクシャ ローズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "flamant rose",
+    "Phonetic":  "フラマン ローズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blanc casse",
+    "Phonetic":  "ブラン カーセ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "brun rouge",
+    "Phonetic":  "ブラン ルージュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "brun van dyck",
+    "Phonetic":  "ブラン ヴァン ディック"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "framboise",
+    "Phonetic":  "フランボアーズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "brun",
+    "Phonetic":  "ブラン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "brun fonce",
+    "Phonetic":  "ブラン フォンセ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "praline",
+    "Phonetic":  "プラリーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blanc neige",
+    "Phonetic":  "ブラン ネージュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "brique",
+    "Phonetic":  "ブリック"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bruyere",
+    "Phonetic":  "ブリュイエール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bourgeon",
+    "Phonetic":  "ブールジョン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue adriatique",
+    "Phonetic":  "ブルー アドリアティック"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bourgogne",
+    "Phonetic":  "ブールゴーニュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue azur",
+    "Phonetic":  "ブルー アジュール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "prune",
+    "Phonetic":  "プリューヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue acide",
+    "Phonetic":  "ブルー アシード"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "brugnon",
+    "Phonetic":  "ブリュニョン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "pourpre",
+    "Phonetic":  "プールプル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue armee de l\u0027air",
+    "Phonetic":  "ブルー アルメ ドゥ レール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue anglais",
+    "Phonetic":  "ブルー アングレー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue opalin",
+    "Phonetic":  "ブルー オパラン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue grise",
+    "Phonetic":  "ブルー グリーゼ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue vert dense",
+    "Phonetic":  "ブルー ヴェール ダンス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue canard",
+    "Phonetic":  "ブルー カナール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue violet",
+    "Phonetic":  "ブルー ヴィヨレ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue hortensia",
+    "Phonetic":  "ブルー オルタンシャ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "indigo",
+    "Phonetic":  "インディゴ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue indigo sombre",
+    "Phonetic":  "ブルーインディゴーソンブル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue orient",
+    "Phonetic":  "ブルー オリヤン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue clair",
+    "Phonetic":  "ブルー クレール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue gauloise",
+    "Phonetic":  "ブルー ゴーロアーズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue dur",
+    "Phonetic":  "ブルー デュール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue pale",
+    "Phonetic":  "ブルー パール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue turquoise",
+    "Phonetic":  "ブルー テュルコアーズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue nuit",
+    "Phonetic":  "ブルー ニュイ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue gitane",
+    "Phonetic":  "ブルー ジターヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue nattier",
+    "Phonetic":  "ブルー ナティエ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue ciel",
+    "Phonetic":  "ブルー シェル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue de chine",
+    "Phonetic":  "ブルー ドゥ シーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue paon",
+    "Phonetic":  "ブルー パン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue faience",
+    "Phonetic":  "ブルー ファイヤンス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue petrole",
+    "Phonetic":  "ブルー ペトロル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue mediterranee",
+    "Phonetic":  "ブルー メディテラネ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue brouillard",
+    "Phonetic":  "ブルー ブルイヤール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue myosotis",
+    "Phonetic":  "ブルー ミヨゾティース"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue bleuet",
+    "Phonetic":  "ブルー ブルーエ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue marine",
+    "Phonetic":  "ブルー マリーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue fume",
+    "Phonetic":  "ブルー フュメ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue porcelaine",
+    "Phonetic":  "ブルー ポルスレーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue lavande",
+    "Phonetic":  "ブルー ラヴァンド"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue roi",
+    "Phonetic":  "ブルー ロワ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blond",
+    "Phonetic":  "ブロン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "beige froid",
+    "Phonetic":  "ベージュ フロワ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bouleau",
+    "Phonetic":  "ブーロー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "beige grise",
+    "Phonetic":  "ベージュ グリーゼ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "braise",
+    "Phonetic":  "ブレーズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "beige",
+    "Phonetic":  "ベージュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "blue royal",
+    "Phonetic":  "ブルー ロワイヤル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bronze",
+    "Phonetic":  "ブロンズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "beige rose",
+    "Phonetic":  "ベージュ ローゼ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "peche",
+    "Phonetic":  "ペッシュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "poiver vert",
+    "Phonetic":  "ポアーヴル ヴェール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bois de rose",
+    "Phonetic":  "ボワ ドゥ ローズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "berlingot",
+    "Phonetic":  "ベルランゴー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bois",
+    "Phonetic":  "ボワ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "pervenche",
+    "Phonetic":  "ペルヴァンシュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bordeaux fonce",
+    "Phonetic":  "ボルドー フォンセ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "petunia",
+    "Phonetic":  "ペテュニア"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bordeaux clair",
+    "Phonetic":  "ボルドー クレール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "bois fruitier",
+    "Phonetic":  "ボワ フリュイティエ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "mais",
+    "Phonetic":  "マイース"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "marron",
+    "Phonetic":  "マロン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "marron chaud",
+    "Phonetic":  "マロン ショー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "marocan",
+    "Phonetic":  "マロカン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "marron glaces",
+    "Phonetic":  "マロン グラッセ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "mastic",
+    "Phonetic":  "マスティック"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "marron assourdi",
+    "Phonetic":  "マロン アッスールディ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "macadam",
+    "Phonetic":  "マカダム"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "marron acajou",
+    "Phonetic":  "マロン アカジュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "mandarine",
+    "Phonetic":  "マンダリーヌ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "menthe",
+    "Phonetic":  "マント"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "mouette",
+    "Phonetic":  "ムエット"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "lapis-lazuli",
+    "Phonetic":  "ラピス ラジュリ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "myosotis",
+    "Phonetic":  "ミョゾティス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "laque",
+    "Phonetic":  "ラック"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "mure",
+    "Phonetic":  "ミュール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "mauve",
+    "Phonetic":  "モーヴ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "miel",
+    "Phonetic":  "ミエル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "merisier",
+    "Phonetic":  "ムリジエ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "lan",
+    "Phonetic":  "ラン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "liege",
+    "Phonetic":  "リエージュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "lie-de-vin",
+    "Phonetic":  "リー ドゥ ヴァン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouge",
+    "Phonetic":  "ルージュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "liseron",
+    "Phonetic":  "リズロン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouille",
+    "Phonetic":  "ルイユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "lichen",
+    "Phonetic":  "リケン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "roux",
+    "Phonetic":  "ルー"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "lierre",
+    "Phonetic":  "リエール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "lilas",
+    "Phonetic":  "リラ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouge ardent",
+    "Phonetic":  "ルージュ アルダン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouge vif",
+    "Phonetic":  "ルージュ ヴィフ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouge dan guru tail",
+    "Phonetic":  "ルージュ ダングルテール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "reseda",
+    "Phonetic":  "レゼダ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouge terni",
+    "Phonetic":  "ルージュ テルニ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "renoncule",
+    "Phonetic":  "ルノンキュール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouge sang",
+    "Phonetic":  "ルージュ サン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouge rubis",
+    "Phonetic":  "ルージュ リュビ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouge orange",
+    "Phonetic":  "ルージュ オランジェ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rouge de fair",
+    "Phonetic":  "ルージュ ド フェール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "royal air force",
+    "Phonetic":  "ロワイヤルエールフォルス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose",
+    "Phonetic":  "ローズ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose corail",
+    "Phonetic":  "ローズ コライユ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose the",
+    "Phonetic":  "ローズ テ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose hortensia",
+    "Phonetic":  "ローズ オルタンシャ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose tendre",
+    "Phonetic":  "ローズ タンドル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose ibis",
+    "Phonetic":  "ローズ イビス"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose saumon",
+    "Phonetic":  "ローズ ソーモン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose indien",
+    "Phonetic":  "ローズ アンディヤン"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose shocking",
+    "Phonetic":  "ローズ ショッキング"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose dragee",
+    "Phonetic":  "ローズ ドラジェ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose pale",
+    "Phonetic":  "ローズ パール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose poudre",
+    "Phonetic":  "ローズ プードル"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose buvard",
+    "Phonetic":  "ローズ ビュヴァール"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "rose peche",
+    "Phonetic":  "ローズ ペーシュ"
+},
+{
+    "Hex":  "#948147",
+    "Name":  "laurier",
+    "Phonetic":  "ローリエ"
+}
+}

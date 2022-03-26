@@ -1,0 +1,618 @@
+ベビー ピンク
+baby pink
+#FFC6D6
+シェル ピンク
+shell pink
+#FFBDB3
+フレッシュ ピンク
+flesh pink
+#F2D5CC
+パステル ピンク
+pastel pink
+#FC9DB8
+ローズ ピンク
+rose pink
+#F55064
+ピンク
+pink
+#ECC2C8
+フレンチ ローズ
+french rose
+#EF8184
+ピーチ ブラッサム
+peach blossom
+#E8C7CC
+ロータス
+lotus
+#CF8878
+ティー ローズ
+tea rose
+#D8B197
+サーモン ピンク
+salmon pink
+#FF9C8C
+オーロラ
+aurora
+#FFCEC6
+ヴァイナス
+vinous
+#B1988F
+コスモス
+cosmos
+#F39AAB
+コーリンシアン ピンク
+corinthian pink
+#C49793
+チェリー ピンク
+cherry pink
+#F05187
+フクシァ ピンク
+fuchsia pink
+#FC9DB8
+ポンパドール ピンク
+pompadour pink
+#FD90A5
+ダフニー ピンク
+daphne pink
+#A26168
+カーネーション
+carnation
+#D37A83
+シェリンプ ピンク
+shrimp pink
+#DC7563
+コーラル ピンク
+coral pink
+#FF9888
+ローズ ポンパドウル
+rose pompadour
+#A66061
+エンパイア ローズ
+empire rose
+#F08687
+フラミンゴ
+flamingo
+#EF8865
+エトラスカン ローズ
+etruscan rose
+#B0755C
+アッシズ オブ ローズ
+ashes of rose
+#B86D77
+ローズ レッド
+rose red
+#E31262
+カメリア
+camellia
+#E85466
+ゼラニウム
+geranium
+#E22838
+チェリー
+cherry
+#D00026
+シグナル レッド
+signal red
+#E0002A
+カーマイン
+carmine
+#E10041
+ターキー レッド
+turkey red
+#B21D33
+ポピーレッド
+poppy red
+#CE382B
+カーディナル
+cardinal
+#891E34
+クリムスン レーキ
+crimson rake
+#AA0044
+ポメグラネイト
+pomegranate
+#CF498F
+シナバー
+cinnabar
+#ED2F1F
+トマト レッド
+tomato red
+#C13321
+ルビー
+ruby
+#AE003A
+イングリッシュ レッド
+english red
+#D47467
+オクサイドレッド
+oxide red
+#7F3330
+オックスブラッド レッド
+oxblood red
+#7B2B47
+ボール
+bole
+#9B5033
+バーガンディ
+burgundy
+#3C1117
+マホガニー
+mahogany
+#4B1016
+フリー
+flea
+#6A1A2E
+ピーチ
+beach
+#FFD4C4
+フレッシュ
+flesh
+#FFC8AB
+アプリコット
+apricot
+#F79469
+サンセット
+sunset
+#D4A56F
+サンバーン
+sunburn
+#AF7C54
+ファイアー レッド
+fire red
+#E23724
+キャロット オレンジ
+carrot orange
+#E97117
+タンジェリン
+tangerine
+#DD562E
+オレンジ
+orange
+#FD680D
+メイズ
+maize
+#EBAC85
+クローム オレンジ
+chrome orange
+#FE6D0D
+アンバー
+amber
+#BC753B
+モロッコ
+morocco
+#562F2F
+キャラメル
+caramel
+#D47643
+タン
+tan
+#DE772C
+トパーズ
+topaz
+#C47C50
+ムーンライト
+moon light
+#FCD8B1
+エクリュ
+ecru
+#FFD0A1
+フラックス
+flax
+#EBC6A9
+ブロンド
+blond
+#E0B188
+カフェ オ レ
+cafe au lait
+#C88659
+ビスケット
+biscuit
+#FFB989
+バーチメント
+parchment
+#C0AB8A
+シャンパーニュ
+champagne
+#E7BF7C
+キャメル
+camel
+#B57A59
+グレージュ
+grege
+#9E756C
+フォーン
+fawn
+#AD775A
+シャモア
+chamois
+#F7C2C2
+バーント シエンナ
+burnt sienna
+#B75237
+ブリック レッド
+brick red
+#9C302A
+ブラウン
+brown
+#5C3418
+ローシェンナ
+raw sienna
+#86410B
+ローアンバー
+raw umber
+#854E38
+カフェ
+caffee
+#604A2B
+マルーン
+maroon
+#56001D
+リバー
+liver
+#8B6165
+ヘンナ
+henna
+#9A1912
+ラセット
+russet
+#AD5F47
+チェスナット ブラウン
+chestnut brown
+#68412F
+ヘア ブラウン
+hair brown
+#695242
+チョコレート
+chocolate
+#3E1F0F
+セピア
+sepia
+#402923
+ヴァンダイク ブラウン
+vandike brown
+#7F5139
+アイボリー
+ivory
+#F8F4E6
+ヴァニラ
+vanilla
+#E8C59C
+レグホーン
+leghorn
+#E7C59C
+ストロー
+straw
+#F2DB9C
+マシコット
+massicot
+#FCCDA2
+サルファー イエロー
+sulphar yellow
+#FFD93C
+ダイヤーズブルーム
+dyres broom
+#C5BE82
+ミモザ
+mimosa
+#FFCD25
+ネープルス イエロー
+naples yellow
+#FFBC7B
+ハニー イエロー
+honey yellow
+#B68954
+ガンボージ
+gamboge
+#E2B55B
+オーピメント
+auripigment
+#F7CB4A
+インディアン イエロー
+indian yellow
+#FF9700
+ダファディル イエロー
+daffodil yellow
+#EDAA5A
+サフラン イエロー
+saffran yellow
+#FFAF00
+クローム イエロー
+chrome yellow
+#F4C600
+ヨーク イエロー
+yolk yellow
+#F3B927
+カナリー
+canary
+#FFD718
+バナナ
+banana
+#F5D300
+レモン イエロー
+lemon yellow
+#FEC300
+マスタード
+mustard
+#E3AB0D
+シャトルーズ イエロー
+chartreuse yellow
+#EADE5D
+ゴールド
+gold
+#A37E00
+ブロンズ
+bronze
+#AC6B25
+オリーブ
+olive
+#584C0F
+ライム グリーン
+lime green
+#CFD10C
+シーフォーム グリーン
+sea foam green
+#BDCE96
+ピスターシュ
+pistache
+#EBF7D3
+ナイト グリーン
+night green
+#45AA31
+エッグシェル グリーン
+eggshell green
+#87AC9E
+グラス グリーン
+grass green
+#96BE7B
+グローカス
+glaucas
+#B6BEA2
+アップル グリーン
+apple green
+#97BE1C
+ゲイグリーン
+gay green
+#5C700A
+ピーグリーン
+pea green
+#93B17D
+スプリング グリーン
+spring green
+#B4CB5E
+ウィロー グリーン
+willow green
+#95875A
+ゴーディ グリーン
+godey green
+#507A49
+モス グリーン
+moth green
+#7B7C46
+リンカーン グリーン
+lincoln green
+#615C41
+オリーブ グリーン
+olive green
+#3B3F10
+フラワードリュースグリーン
+flower drew green
+#5C7449
+シュヴァインフルトグリーン
+schweinfurt green
+#00AE42
+ミント
+mint
+#006252
+クローム グリーン
+chrome green
+#00885F
+マラカイト グリーン
+malachite green
+#347655
+ヴェルディグリ
+verdigris
+#5BA080
+ミスルトー
+mistletoe
+#576A3E
+ハンター グリーン
+hunter green
+#0E291B
+ボトル グリーン
+bottle green
+#0B2F31
+マートル グリーン
+myrtle green
+#273931
+ホリゾン ブルー
+horizon blue
+#B0E2F6
+ナイル ブルー
+nile blue
+#418C8C
+ベビー ブルー
+baby blue
+#CBECF6
+ケンブリッジ ブルー
+cambridge blue
+#54B6BE
+スカイ ブルー
+sky blue
+#8BAFDB
+シレスティアル ブルー
+celestial blue
+#496F8E
+ゼニスブルー
+zenith blue
+#999DB9
+ヴェニット
+vnet
+#02977D
+アクア マリン
+aqua marine
+#327585
+ターコイズ
+turquoise
+#0097A2
+ポースリン ブルー
+porcelain blue
+#5E94A5
+フォーゲット ミー ノット
+forget me not
+#66B7D8
+パウダー ブルー
+powder blue
+#E6F6FC
+ピーコック
+peacock
+#00586D
+エジプシアン ブルー
+egyptian blue
+#006785
+バイス
+vice
+#427596
+ウェッジウッド ブルー
+wedgewood blue
+#505B8C
+ブルーエット
+bluette
+#5782A1
+ハイドレンジア ブルー
+hydrangea blue
+#325E9A
+サイアン ブルー
+cyan blue
+#5DBBB8
+コバルト ブルー
+cobalt blue
+#1581C5
+スマルト
+smalt
+#3A4789
+サファイア ブルー
+sapphire blue
+#004D6A
+ウルトラマリン
+ultramarine
+#2D3289
+プルシアン ブルー
+prussian blue
+#392C87
+ロイヤル ブルー
+royal blue
+#004E8A
+ガーター ブルー
+garter blue
+#00538D
+デルフト ブルー
+delft blue
+#002D64
+マリン ブルー
+marine blue
+#1847AA
+ネイヴィブルー
+navy blue
+#001D3A
+ミッドナイト ブルー
+midnight blue
+#1A1F47
+ラべンダー
+lavender
+#AB85B2
+ウィスタリア
+wisteria
+#7B639C
+ライラック
+lilac
+#D191B4
+マロウ
+mallow
+#C6639E
+シスル
+thistle
+#822759
+ミネラル バイオレット
+mineral violet
+#926A90
+コバルト バイオレット
+cobalt violet
+#A269A8
+パープル
+purple
+#4C045A
+アメジスト
+amethyst
+#634669
+アメジスト パープル
+amaranth purple
+#993945
+マゼンタ
+magenta
+#DE0067
+パンジー
+pansy
+#35178C
+フューシャ
+fuchsia
+#AE006D
+アコナイト バイオレット
+aconite violet
+#661065
+マーリー
+murray
+#2E141C
+ヘリオトロープ
+heliotrope
+#75106D
+プラム パープル
+plum purple
+#361A33
+ラズベリー
+raspberry
+#8A004F
+レーズン
+raisins
+#491830
+ワイン
+wine
+#6B0032
+ホワイト レド
+white lead
+#F9FBF9
+アラバスター
+alabaster
+#FCDFD4
+ミルク ホワイト
+milk white
+#FDFAED
+シルバー
+silver
+#B5B9BC
+サンド
+sand
+#A69278
+アッシュ グレイ
+ash grey
+#C2B799
+スモーク グレイ
+smoke grey
+#83857A
+パール グリーン
+pearl green
+#C2CEBA
+マウス グレイ
+mouse grey
+#777777
+ダブ グレイ
+dove gray
+#987C84
+ミスト
+mist
+#AF9090
+グラファイト
+graphite
+#000000
+グーズグレイ
+goose gray
+#323934

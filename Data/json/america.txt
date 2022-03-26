@@ -1,0 +1,887 @@
+﻿{
+{
+    "Hex":  "#bf0a30",
+    "Name":  "american red",
+    "Phonetic":  "アメリカン レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "buckeye red",
+    "Phonetic":  "バッカイ レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "lincoln red",
+    "Phonetic":  "リンカーン レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "lincoln pink",
+    "Phonetic":  "リンカーン ピンク"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "grand canyon pink",
+    "Phonetic":  "グランドキャニオン ピンク"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "dixie red",
+    "Phonetic":  "ディキシー レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hawkeye red",
+    "Phonetic":  "ホークアイ レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "natural red",
+    "Phonetic":  "ナチュラル レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "empire red",
+    "Phonetic":  "エンパイア レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "glory red",
+    "Phonetic":  "グローリー レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southern california",
+    "Phonetic":  "カリフォルニア サザン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southwest",
+    "Phonetic":  "サウスウエスト"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "golden red",
+    "Phonetic":  "ゴールデン レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "grand canyon red",
+    "Phonetic":  "グランドキャニオン レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "badger red",
+    "Phonetic":  "バッドゲル レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "bay area california",
+    "Phonetic":  "カリフォルニア ベイ エリア"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "shasta cascades",
+    "Phonetic":  "シャスタ カスケード"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "american blue",
+    "Phonetic":  "アメリカン ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "american green",
+    "Phonetic":  "アメリカン グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "american yellow",
+    "Phonetic":  "アメリカン イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "american light blue",
+    "Phonetic":  "アメリカン ライトブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "american brown",
+    "Phonetic":  "アメリカン ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "american gray",
+    "Phonetic":  "アメリカン グレー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "glory blue",
+    "Phonetic":  "グローリー ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "glory white",
+    "Phonetic":  "グローリー ホワイト"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "big apple red",
+    "Phonetic":  "ビッグ アップル レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "big apple blue",
+    "Phonetic":  "ビッグ アップル ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "empire blue",
+    "Phonetic":  "エンパイア ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "empire cyan",
+    "Phonetic":  "エンパイア シアン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "empire yellow",
+    "Phonetic":  "エンパイア イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "empire orange",
+    "Phonetic":  "エンパイア オレンジ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "empire green",
+    "Phonetic":  "エンパイア グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "empire ebony",
+    "Phonetic":  "エンパイア エボニー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "natural blue",
+    "Phonetic":  "ナチュラル ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "natural light blue",
+    "Phonetic":  "ナチュラル ライトブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "natural green",
+    "Phonetic":  "ナチュラル グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "natural orange",
+    "Phonetic":  "ナチュラル オレンジ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "natural brown",
+    "Phonetic":  "ナチュラル ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "natural gray",
+    "Phonetic":  "ナチュラル グレー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hawkeye blue",
+    "Phonetic":  "ホークアイ ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hawkeye yellow",
+    "Phonetic":  "ホークアイ イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hawkeye brown",
+    "Phonetic":  "ホークアイ ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "frontier blue",
+    "Phonetic":  "フロンティア ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "frontier light blue",
+    "Phonetic":  "フロンティア ライトブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "frontier green",
+    "Phonetic":  "フロンティア グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "frontier yellow",
+    "Phonetic":  "フロンティア イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "frontier purple",
+    "Phonetic":  "フロンティア パープル"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "dixie blue",
+    "Phonetic":  "ディキシー ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "dixie green",
+    "Phonetic":  "ディキシー グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "dixie yellow",
+    "Phonetic":  "ディキシー イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "grand canyon blue",
+    "Phonetic":  "グランドキャニオン ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "grand canyon brown",
+    "Phonetic":  "グランドキャニオンブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "grand canyon yellow",
+    "Phonetic":  "グランドキャニオンイエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "grand canyon green",
+    "Phonetic":  "グランドキャニオングリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "lincoln light blue",
+    "Phonetic":  "リンカーン ライトブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "lincoln blue",
+    "Phonetic":  "リンカーン ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "lincoln green",
+    "Phonetic":  "リンカーン グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "lincoln yellow",
+    "Phonetic":  "リンカーン イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "lincoln orange",
+    "Phonetic":  "リンカーン オレンジ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hoosier blue",
+    "Phonetic":  "フージャース ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hoosier yellow",
+    "Phonetic":  "フージャース イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hoosier green",
+    "Phonetic":  "フージャース グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hoosier brown",
+    "Phonetic":  "フージャース ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "badger blue",
+    "Phonetic":  "バッドゲル ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "badger light blue",
+    "Phonetic":  "バッドゲル ライトブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "badger pink",
+    "Phonetic":  "バッドゲル ピンク"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "badger green",
+    "Phonetic":  "バッドゲル グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "badger yellow",
+    "Phonetic":  "バッドゲル イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "badger brown",
+    "Phonetic":  "バッドゲル ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "badger gray",
+    "Phonetic":  "バッドゲル グレー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mountain red",
+    "Phonetic":  "マウンテン レッド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mountain blue",
+    "Phonetic":  "マウンテン ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mountain green",
+    "Phonetic":  "マウンテン グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mountain yellow",
+    "Phonetic":  "マウンテン イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mountain brown",
+    "Phonetic":  "マウンテン ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mountain gray",
+    "Phonetic":  "マウンテン グレー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sooner blue",
+    "Phonetic":  "ソナー ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sooner light blue",
+    "Phonetic":  "ソナー ライトブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sooner green",
+    "Phonetic":  "ソナー グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sooner opal",
+    "Phonetic":  "ソナー オパール"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sooner yellow",
+    "Phonetic":  "ソナー イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sooner brown",
+    "Phonetic":  "ソナー ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sooner beige",
+    "Phonetic":  "ソナー ベージュ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sooner gray",
+    "Phonetic":  "ソナー グレー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sooner black",
+    "Phonetic":  "ソナー ブラック"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "buckeye blue",
+    "Phonetic":  "バッカイ ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "buckeye green",
+    "Phonetic":  "バッカイ グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "buckeye yellow",
+    "Phonetic":  "バッカイ イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "buckeye brown",
+    "Phonetic":  "バッカイ ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "buckeye light blue",
+    "Phonetic":  "バッカイ ライトブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "beaver blue",
+    "Phonetic":  "ビーバー ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "beaver yellow",
+    "Phonetic":  "ビーバー イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "golden green",
+    "Phonetic":  "ゴールデン グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "golden brown",
+    "Phonetic":  "ゴールデン ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "golden yellow",
+    "Phonetic":  "ゴールデン イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "golden cyan",
+    "Phonetic":  "ゴールデン シアン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "golden gray",
+    "Phonetic":  "ゴールデン グレー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sunflower blue",
+    "Phonetic":  "サンフラワー ブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sunflower light blue",
+    "Phonetic":  "サンフラワー ライトブルー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sunflower green",
+    "Phonetic":  "サンフラワー グリーン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sunflower orange",
+    "Phonetic":  "サンフラワー オレンジ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sunflower brown",
+    "Phonetic":  "サンフラワー ブラウン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sunflower purple",
+    "Phonetic":  "サンフラワー パープル"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sunflower yellow",
+    "Phonetic":  "サンフラワー イエロー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sunflower gray",
+    "Phonetic":  "サンフラワー グレー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "new england",
+    "Phonetic":  "ニュー イングランド"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mid atlantic",
+    "Phonetic":  "ミッド アトランティック"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "south",
+    "Phonetic":  "サーフ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "florida",
+    "Phonetic":  "フロリダ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "midwest",
+    "Phonetic":  "ミッドウェスト"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "texas",
+    "Phonetic":  "テキサス"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "great plains",
+    "Phonetic":  "グレート プレインズ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "rocky mountain",
+    "Phonetic":  "ロッキー マウンテン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "california",
+    "Phonetic":  "カリフォルニア"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "pacific northwest",
+    "Phonetic":  "パシフィックノースウエスト"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "alaska",
+    "Phonetic":  "アラスカ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hawaii",
+    "Phonetic":  "ハワイ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mountains alabama",
+    "Phonetic":  "アラバマ マウンテン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "metropolitan alabama",
+    "Phonetic":  "アラバマ メトロポリタン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "river heritage alabama",
+    "Phonetic":  "アラバマリバーヘリテイジ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "gulf coast alabama",
+    "Phonetic":  "ガルフ コースト アラバマ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "california desert",
+    "Phonetic":  "カリフォルニア デザート"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "california central coast",
+    "Phonetic":  "カリフォルニア セントラル コースト"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "san joaquin valley",
+    "Phonetic":  "サン ホアキン ヴァレイ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sacramento valley",
+    "Phonetic":  "サクラメント ヴァレイ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "sierra nevada",
+    "Phonetic":  "シエラ ネバダ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "gold country",
+    "Phonetic":  "ゴールド カントリー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "california north coast",
+    "Phonetic":  "カリフォルニア ノース コースト"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mississippi capital river",
+    "Phonetic":  "ミシシッピキャピタルリバー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mississippi delta",
+    "Phonetic":  "ミシシッピ デルタ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mississippi pines",
+    "Phonetic":  "ミシシッピ パインズ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "gulf coast mississippi",
+    "Phonetic":  "ミシシッピガルフコースト"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mississippi hills",
+    "Phonetic":  "ミシシッピ ヒルズ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "panhandle nebraska",
+    "Phonetic":  "パンハンドル ネブラスカ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "north central nebraska",
+    "Phonetic":  "ノースセントラルネブラスカ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "eastern nebraska",
+    "Phonetic":  "イースタン ネブラスカ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "western nevada",
+    "Phonetic":  "ウェスタン ネバダ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "northern nevada",
+    "Phonetic":  "ノーザン ネバダ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "central nevada",
+    "Phonetic":  "セントラル ネバダ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southern nevada",
+    "Phonetic":  "サザン ネバダ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "central new mexico",
+    "Phonetic":  "セントラル ニューメキシコ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "north central new mexico",
+    "Phonetic":  "ノース セントラル ニューメキシコ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "northeast new mexico",
+    "Phonetic":  "ノース イースト ニューメキシコ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "northwest new mexico",
+    "Phonetic":  "ノース ウエスト ニューメキシコ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southwest new mexico",
+    "Phonetic":  "サウス ウエスト ニューメキシコ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southeast new mexico",
+    "Phonetic":  "サウス イースト ニューメキシコ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "northwest ohio",
+    "Phonetic":  "ノース ウエスト オハイオ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "northeast ohio",
+    "Phonetic":  "ノース イースト オハイオ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "mid ohio",
+    "Phonetic":  "ミッド オハイオ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southwest ohio",
+    "Phonetic":  "サウス ウエスト オハイオ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southeast ohio",
+    "Phonetic":  "サウス イースト オハイオ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "western tennessee",
+    "Phonetic":  "ウエスタン テネシー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "central tennessee",
+    "Phonetic":  "セントラル テネシー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "eastern tennessee",
+    "Phonetic":  "イースタン テネシー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "panhandle texas",
+    "Phonetic":  "パンハンドルテキサス"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "prairies and lakes",
+    "Phonetic":  "プレリーズアンドレイクス"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "piney woods",
+    "Phonetic":  "ピニー ウッズ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "gulf coast texas",
+    "Phonetic":  "ガルフ コースト テキサス"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "south texas plains",
+    "Phonetic":  "サウステキサスプレインズ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "hill country",
+    "Phonetic":  "ヒル カントリー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "big bend country",
+    "Phonetic":  "ビッグ ベンド カントリー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "wasatch front",
+    "Phonetic":  "ワサッチ フロント"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "canyon country",
+    "Phonetic":  "キャニオン カントリー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "northeastern utah",
+    "Phonetic":  "ノース イースタン ユタ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "dixie",
+    "Phonetic":  "デキシー"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "central utah",
+    "Phonetic":  "セントラル ユタ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "western utah",
+    "Phonetic":  "ウエスタン ユタ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "northern virginia",
+    "Phonetic":  "ノーザン バージニア"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "eastern virginia",
+    "Phonetic":  "イースタン バージニア"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "central virginia",
+    "Phonetic":  "セントラル バージニア"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southwest virginia",
+    "Phonetic":  "サザンウエストバージニア"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "shenandoah valley",
+    "Phonetic":  "シェナンドー ヴァレイ"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southeast wisconsin",
+    "Phonetic":  "サウス イースト ウィスコンシン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "southwest wisconsin",
+    "Phonetic":  "サウス ウエスト ウィスコンシン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "northeast wisconsin",
+    "Phonetic":  "ノース イースト ウィスコンシン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "north central wisconsin",
+    "Phonetic":  "ノース セントラル ウィスコンシン"
+},
+{
+    "Hex":  "#bf0a30",
+    "Name":  "northwest wisconsin",
+    "Phonetic":  "ノース ウエスト ウィスコンシン"
+}
+}

@@ -1,0 +1,1602 @@
+﻿{
+{
+    "Hex":  "#eac0ce",
+    "Name":  "粉鳳仙",
+    "Phonetic":  "フェンフォンシェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅粉",
+    "Phonetic":  "チェンフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "淡粉",
+    "Phonetic":  "タンフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紫薇花",
+    "Phonetic":  "ツーウェイホワ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "暗粉",
+    "Phonetic":  "アンフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "荷花紅",
+    "Phonetic":  "フーホワホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紫水晶",
+    "Phonetic":  "ツーシュイチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅石英紫",
+    "Phonetic":  "チェンシーインツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅鳳仙紫",
+    "Phonetic":  "チェンフォンシェンツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "木槿紫",
+    "Phonetic":  "ムーチンツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "長春花色",
+    "Phonetic":  "チァンチュンホワスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "洋葱紫",
+    "Phonetic":  "ヤンツォンツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紫羅藍",
+    "Phonetic":  "ツールオラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "龍胆紫",
+    "Phonetic":  "ロンタンツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "雪紫",
+    "Phonetic":  "シュエツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紅蓮灰",
+    "Phonetic":  "ホンリェンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "艶粉",
+    "Phonetic":  "イェンフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紫粉",
+    "Phonetic":  "ツーフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鶏冠花紅",
+    "Phonetic":  "チークワンホワホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "青蓮紫",
+    "Phonetic":  "チンリェンツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "牽牛紫",
+    "Phonetic":  "チェンニューツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "品紅",
+    "Phonetic":  "ピンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蘇木色",
+    "Phonetic":  "スームースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "?瑰紅",
+    "Phonetic":  "メイクイホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "?瑰灰",
+    "Phonetic":  "メイクイホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "臙脂",
+    "Phonetic":  "イェンチ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "辰沙",
+    "Phonetic":  "チェンシァ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "磚紅",
+    "Phonetic":  "チュワンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "殷紅",
+    "Phonetic":  "イェンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銀紅",
+    "Phonetic":  "インホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "肉紅",
+    "Phonetic":  "ロウホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "妃紅",
+    "Phonetic":  "フェイホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "猩紅",
+    "Phonetic":  "シンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "血紅",
+    "Phonetic":  "シュエホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "月季紅",
+    "Phonetic":  "ユエチーホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "茉莉花紅",
+    "Phonetic":  "モーリーホワホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "烏羅松紅",
+    "Phonetic":  "ウールオソンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銀星海棠",
+    "Phonetic":  "インシンハイタン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "象牙紅",
+    "Phonetic":  "シァンヤーホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "曙紅",
+    "Phonetic":  "シューホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "牡丹紅",
+    "Phonetic":  "ムータンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "艶紅",
+    "Phonetic":  "イェンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蕉紅色",
+    "Phonetic":  "チャオホンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銀朱",
+    "Phonetic":  "インチュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "?砂",
+    "Phonetic":  "チューシャ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "二?",
+    "Phonetic":  "アルチュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "??",
+    "Phonetic":  "チューピャオ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "章丹",
+    "Phonetic":  "チァンタン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蕃茄紅",
+    "Phonetic":  "ファンチェホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "榴花紅",
+    "Phonetic":  "リューホワホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "柿子色",
+    "Phonetic":  "シーツスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "桔紅",
+    "Phonetic":  "チューホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "桔黄",
+    "Phonetic":  "チューホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紅扇貝色",
+    "Phonetic":  "ホンシャンペイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "粉橙色",
+    "Phonetic":  "フェンチョンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "金紅",
+    "Phonetic":  "チンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "雄精",
+    "Phonetic":  "ションチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "金黄",
+    "Phonetic":  "チンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "雄黄",
+    "Phonetic":  "ションホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蝦黄",
+    "Phonetic":  "シアホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "艶黄",
+    "Phonetic":  "イェンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鵝黄",
+    "Phonetic":  "ウーホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "十様錦",
+    "Phonetic":  "シーヤンチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鳳仙粉",
+    "Phonetic":  "フォンシェンフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "肉粉",
+    "Phonetic":  "ロウフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "肉黄",
+    "Phonetic":  "ロウホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "釉紅",
+    "Phonetic":  "ユーホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紅灰蓮",
+    "Phonetic":  "ホンホイリェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蛤蜊粉",
+    "Phonetic":  "クーリーフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銹紅",
+    "Phonetic":  "シューホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "土紅",
+    "Phonetic":  "トウホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "瑪瑙色",
+    "Phonetic":  "マーナオスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "赭石色",
+    "Phonetic":  "チョーシースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "赭紅",
+    "Phonetic":  "チョーホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紅狐色",
+    "Phonetic":  "ホンフースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "黄棕色",
+    "Phonetic":  "ホワンツォンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "棕茶",
+    "Phonetic":  "ツォンチャ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "中駝",
+    "Phonetic":  "チョントゥオ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "土黄",
+    "Phonetic":  "トウホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "樹皮色",
+    "Phonetic":  "シューピースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "桂皮色",
+    "Phonetic":  "クイピースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "土布色",
+    "Phonetic":  "トウプースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "黄琉璃",
+    "Phonetic":  "ホワンリューリー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "琉璃色",
+    "Phonetic":  "リューリースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "檀香色",
+    "Phonetic":  "タンシァンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蒼黄",
+    "Phonetic":  "ツァンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "米紅",
+    "Phonetic":  "ミーホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "瑪瑙粉",
+    "Phonetic":  "マーナオフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "向日黄",
+    "Phonetic":  "シァンリーホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅黄棕",
+    "Phonetic":  "チェンホワンツォン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "南瓜黄",
+    "Phonetic":  "ナンクワホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "駱駝色",
+    "Phonetic":  "ルオトゥオスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "芦黄",
+    "Phonetic":  "ルーホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅桔黄",
+    "Phonetic":  "チェンチュホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鹿皮色",
+    "Phonetic":  "ルーピースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鹿皮棕",
+    "Phonetic":  "ルーピーツォン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "真絲綢色",
+    "Phonetic":  "チェンスーチョウスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "富春紡色",
+    "Phonetic":  "フーチュンファンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "乳白色",
+    "Phonetic":  "ルーパイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "乳黄色",
+    "Phonetic":  "ルーホワンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "甘石粉",
+    "Phonetic":  "カンシーフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅血牙",
+    "Phonetic":  "チェンシュエヤー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅棕灰",
+    "Phonetic":  "チェンツォンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "粉棕",
+    "Phonetic":  "フェンツォン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅肉粉",
+    "Phonetic":  "チェンロウフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅駝色",
+    "Phonetic":  "チェントゥオスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅棕茶",
+    "Phonetic":  "タンツォンチャ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "肉棕灰",
+    "Phonetic":  "ロウツォンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "肉棕",
+    "Phonetic":  "ロウツォン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "珈琲棕",
+    "Phonetic":  "カフェイツォン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "黄鴨色",
+    "Phonetic":  "ホワンヤースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "煙色",
+    "Phonetic":  "イェンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "朱古力色",
+    "Phonetic":  "チュークリースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "棗紅",
+    "Phonetic":  "ツァオホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "葡萄灰",
+    "Phonetic":  "プータオホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紫絳色",
+    "Phonetic":  "ツーチァンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紫銅色",
+    "Phonetic":  "ツートンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "棗紫",
+    "Phonetic":  "ツァオツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "黒紫",
+    "Phonetic":  "ヘイツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "棕紅",
+    "Phonetic":  "ツォンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深釉紅",
+    "Phonetic":  "シェンユーホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紫扇貝色",
+    "Phonetic":  "ツーシャンペイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深煙紅",
+    "Phonetic":  "シェンイェンホン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "珈琲色",
+    "Phonetic":  "カフェイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "豆棕",
+    "Phonetic":  "トウツォン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "羅漢果色",
+    "Phonetic":  "ルオハンクオスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深栗色",
+    "Phonetic":  "シェンリースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "醤色",
+    "Phonetic":  "チァンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深褐色",
+    "Phonetic":  "シェンホースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "絳紫",
+    "Phonetic":  "チァンツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深煙",
+    "Phonetic":  "シェンイェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "茄皮紫",
+    "Phonetic":  "チェピーツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "煙栗色",
+    "Phonetic":  "イェンリースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "将校?",
+    "Phonetic":  "チェンシャオニー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "将校?",
+    "Phonetic":  "チャンシャオニー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "中棕灰",
+    "Phonetic":  "チョンツォンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "姜黄",
+    "Phonetic":  "チァンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "新芽色",
+    "Phonetic":  "シンヤースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "?其黄",
+    "Phonetic":  "カーチーホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "石黄",
+    "Phonetic":  "シーホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "乳棕",
+    "Phonetic":  "ルーツォン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "乳灰",
+    "Phonetic":  "ルーホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蝋黄",
+    "Phonetic":  "ラーホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深銀灰",
+    "Phonetic":  "シェンインホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "米灰",
+    "Phonetic":  "ミーホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "牙黄",
+    "Phonetic":  "ヤーホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "枝黄",
+    "Phonetic":  "チーホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "丹東石",
+    "Phonetic":  "タントンシー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "黄金色",
+    "Phonetic":  "ホワンチンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "藤黄",
+    "Phonetic":  "トンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蛋黄",
+    "Phonetic":  "タンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "槐黄",
+    "Phonetic":  "ホワイホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "明黄",
+    "Phonetic":  "ミンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "絲瓜花黄",
+    "Phonetic":  "スークワホワホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "嫩姜黄",
+    "Phonetic":  "ネンチァンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "甘草黄",
+    "Phonetic":  "カンツァオホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "小鶏黄",
+    "Phonetic":  "シャオチーホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "芽灰",
+    "Phonetic":  "ヤーホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "檸檬黄",
+    "Phonetic":  "ニンマンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "楊桃色",
+    "Phonetic":  "ヤンタオスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "淡黄",
+    "Phonetic":  "タンホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "淡米色",
+    "Phonetic":  "タンミースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "胡粉",
+    "Phonetic":  "フーフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蛤粉",
+    "Phonetic":  "クーフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "立徳粉",
+    "Phonetic":  "リートーフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "牙緑",
+    "Phonetic":  "ヤーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "苦瓜緑",
+    "Phonetic":  "クークワリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "草黄",
+    "Phonetic":  "ツァオホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "枯緑",
+    "Phonetic":  "クーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "嫩草緑",
+    "Phonetic":  "ネンツォンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅草緑",
+    "Phonetic":  "チェンツァオリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銅緑色",
+    "Phonetic":  "トンリュースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "青豆色",
+    "Phonetic":  "チントウスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "黄緑",
+    "Phonetic":  "ホワンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深芽緑",
+    "Phonetic":  "シェンヤーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "葱緑",
+    "Phonetic":  "ツォンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "夜緑色",
+    "Phonetic":  "イエリュースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "軍緑",
+    "Phonetic":  "チュンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蒼緑",
+    "Phonetic":  "ツァンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "橄欖緑",
+    "Phonetic":  "カンランリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "冬瓜緑",
+    "Phonetic":  "トンクワリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "荷茎緑",
+    "Phonetic":  "フーチンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "緑琉璃色",
+    "Phonetic":  "リューリューリースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "嫩葱緑",
+    "Phonetic":  "ネンツォオリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鸚鵡緑",
+    "Phonetic":  "インウーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "翠緑",
+    "Phonetic":  "ツイリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "湖緑",
+    "Phonetic":  "フーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "粗孔雀緑",
+    "Phonetic":  "ツーコンチュエリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深緑宝石",
+    "Phonetic":  "シェンリューパオシー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "灰緑",
+    "Phonetic":  "ホイリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "冬緑",
+    "Phonetic":  "トンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "巴黎緑",
+    "Phonetic":  "パリーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "果緑",
+    "Phonetic":  "クオリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "玉緑",
+    "Phonetic":  "ユーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "果灰",
+    "Phonetic":  "クオホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "碧玉石",
+    "Phonetic":  "ピーユーシー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅松緑",
+    "Phonetic":  "チェンソンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深松緑",
+    "Phonetic":  "シェンソンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅鮮緑",
+    "Phonetic":  "チェンシェンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "三緑",
+    "Phonetic":  "サンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "枝緑",
+    "Phonetic":  "チーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "淡灰緑",
+    "Phonetic":  "タンホイリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "水黄",
+    "Phonetic":  "シュイホワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "淡緑",
+    "Phonetic":  "タンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鴨蛋青",
+    "Phonetic":  "ヤータンチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅水緑",
+    "Phonetic":  "チェンシュイリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅青瓷釉色",
+    "Phonetic":  "チェンチンツーユースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "龍泉青瓷釉色",
+    "Phonetic":  "ロンチュエンチンツーユースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "春緑",
+    "Phonetic":  "チュンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "月白色",
+    "Phonetic":  "ユエパイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銹緑",
+    "Phonetic":  "シューリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蝋白",
+    "Phonetic":  "ラーパイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "芦灰",
+    "Phonetic":  "ルーホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蝦灰",
+    "Phonetic":  "シアホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "大理石色",
+    "Phonetic":  "ターリーシースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "法国梧桐皮色",
+    "Phonetic":  "ファークオウトンピース"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "中条蝦緑",
+    "Phonetic":  "チョンティアオシアリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "灰米",
+    "Phonetic":  "ホイミー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "松緑色",
+    "Phonetic":  "ソンリュースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "暗灰",
+    "Phonetic":  "アンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "?其緑",
+    "Phonetic":  "カーチリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蟹青",
+    "Phonetic":  "シエチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "青蝦色",
+    "Phonetic":  "チンシアスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "玉石藍",
+    "Phonetic":  "ユーシーラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "橄欖灰",
+    "Phonetic":  "カンランホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "老緑",
+    "Phonetic":  "ラオリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "墨緑",
+    "Phonetic":  "モーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "焦茶色",
+    "Phonetic":  "チャオチャスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "茶緑",
+    "Phonetic":  "チャリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鉄緑",
+    "Phonetic":  "ティエリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "油緑",
+    "Phonetic":  "ユーリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "草灰色",
+    "Phonetic":  "ツァオホイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "暗苔緑",
+    "Phonetic":  "アンタイリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "毛緑",
+    "Phonetic":  "マオリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深灰",
+    "Phonetic":  "シェンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鵲灰",
+    "Phonetic":  "チュエホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深瓦灰",
+    "Phonetic":  "シェンワーホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "苔灰",
+    "Phonetic":  "タイホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蟹藍",
+    "Phonetic":  "シェラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "冬灰色",
+    "Phonetic":  "トンホイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "雲灰",
+    "Phonetic":  "ユンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鴿灰",
+    "Phonetic":  "クーホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "藍灰色",
+    "Phonetic":  "ランホイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "水貂灰",
+    "Phonetic":  "シュイティアオホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "春藍",
+    "Phonetic":  "チュンラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "灰藍",
+    "Phonetic":  "ホイラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "湖藍灰",
+    "Phonetic":  "フーランホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "竹月色",
+    "Phonetic":  "チューユエスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鈷藍",
+    "Phonetic":  "クーラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "品緑",
+    "Phonetic":  "ピンリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深竹月",
+    "Phonetic":  "シェンチューユエ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "琉璃藍",
+    "Phonetic":  "リューリーラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "毛月色",
+    "Phonetic":  "マオユエスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "柏坊灰藍",
+    "Phonetic":  "ポーファンホイラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅土藍",
+    "Phonetic":  "チェントウラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "北京毛藍",
+    "Phonetic":  "ペイチンマオラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "絨藍",
+    "Phonetic":  "ロンラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅海昌藍",
+    "Phonetic":  "チェンハイチァンラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "海藍",
+    "Phonetic":  "ハイラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深毛月色",
+    "Phonetic":  "シェンマオユエスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深毛藍",
+    "Phonetic":  "シェンマオラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "深藍",
+    "Phonetic":  "シェンラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "?藍",
+    "Phonetic":  "ティエンラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "労働布色",
+    "Phonetic":  "ラオトンプースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "黛藍",
+    "Phonetic":  "タイラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蔵藍",
+    "Phonetic":  "ツァンラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鮮藍",
+    "Phonetic":  "シェンラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "孔雀藍",
+    "Phonetic":  "コンチュエラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "群青",
+    "Phonetic":  "チュンチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "宝石藍",
+    "Phonetic":  "パオシーラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紺青",
+    "Phonetic":  "カンチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "?鉄",
+    "Phonetic":  "タイチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蔵黒藍",
+    "Phonetic":  "ツァンヘイラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "灯草灰",
+    "Phonetic":  "タンツァオホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "元青",
+    "Phonetic":  "ユワンチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "粗晶皀",
+    "Phonetic":  "ツーチンツァオ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紅皀",
+    "Phonetic":  "ホンツァオ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鉄青",
+    "Phonetic":  "ティエチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鉄灰",
+    "Phonetic":  "ティエホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "青金色",
+    "Phonetic":  "チンチンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銀藍",
+    "Phonetic":  "インラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "雪灰",
+    "Phonetic":  "シュエホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "淡藕合",
+    "Phonetic":  "タンオウフー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "浅藤紫",
+    "Phonetic":  "チェントンツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蓮灰",
+    "Phonetic":  "リェンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "雪青灰",
+    "Phonetic":  "シュエチンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "雪藍",
+    "Phonetic":  "シュエラン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紫藤灰",
+    "Phonetic":  "ツートンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "鳳仙紫",
+    "Phonetic":  "フォンシェンツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "青灰色",
+    "Phonetic":  "チンホイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "承徳皀",
+    "Phonetic":  "チョントーツァオ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "承徳灰",
+    "Phonetic":  "チョントーホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "庭院瓦灰色",
+    "Phonetic":  "ティンユワンワーホイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "相思灰",
+    "Phonetic":  "シァンスーホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銀鼠灰",
+    "Phonetic":  "インシューホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "花青",
+    "Phonetic":  "ホワチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "正灰",
+    "Phonetic":  "チョンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "織綿灰",
+    "Phonetic":  "チーチンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "石板灰",
+    "Phonetic":  "シーパンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銀白色",
+    "Phonetic":  "インパイスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "羅藍灰",
+    "Phonetic":  "ルオランホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "丁香紫",
+    "Phonetic":  "ティンシァンツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "百草霜",
+    "Phonetic":  "パイツァオシュワン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "油煙墨",
+    "Phonetic":  "ユーイェンモー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "沙青",
+    "Phonetic":  "シァチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "沙緑",
+    "Phonetic":  "シァリュー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "大赤金",
+    "Phonetic":  "ターチーチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "庫金",
+    "Phonetic":  "クーチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "銀箔",
+    "Phonetic":  "インポー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "選金",
+    "Phonetic":  "シュエンチン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "獣皮色",
+    "Phonetic":  "ショーピースー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "橙色",
+    "Phonetic":  "チョンスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "蝶粉",
+    "Phonetic":  "ティエフェン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "果肉色",
+    "Phonetic":  "クオロウスー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紙棕",
+    "Phonetic":  "チーツォン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "?棕",
+    "Phonetic":  "ナイツォン"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "紅灰",
+    "Phonetic":  "ホンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "閃蝶紫",
+    "Phonetic":  "シァンティエツー"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "黄灰",
+    "Phonetic":  "ホワンホイ"
+},
+{
+    "Hex":  "#eac0ce",
+    "Name":  "?緑",
+    "Phonetic":  "ナイリュー"
+}
+}

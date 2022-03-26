@@ -1,0 +1,1011 @@
+アヴァーヌ
+havane
+#948147
+アザレ
+azalee
+#E90A79
+アトール
+atoll
+#F8AF7E
+アネモヌ
+anemone
+#AB1498
+アプリコ
+apricot
+#EB8F07
+アリュミニヨム
+aluminium
+#7D847B
+アルジル
+argile
+#A82257
+アルバートル
+albatre
+#F2F2F2
+アントラシート
+anthracite
+#390000
+アンプル
+ambre
+#91714A
+アシエ
+acier
+#BFBFBF
+アガート
+agate
+#00406F
+アニ
+anis
+#EBF293
+アプサント
+absinthe
+#CFF894
+アマラント
+amarante
+#9E1870
+アルザン
+alezan
+#E29E4B
+アルドアーズ
+ardoise
+#2C2E58
+アルマニャック
+armagnac
+#882C17
+ブルー アンディゴ ソンブル
+blue indigo sombre
+#2D33AC
+イヴォアール
+ivoire
+#FFF0B3
+イリス
+iris
+#5725CD
+ヴァニーユ
+vanille
+#C9BA9E
+ヴィオラッセ グリーゼ
+violace grise
+#A787A6
+ヴィオレ
+violet
+#6501A0
+ウイスキー
+whisky
+#ECC651
+イロンデル
+hirondelle
+#726B61
+ヴァレック
+varech
+#80770D
+ヴィオリーヌ
+violine
+#840084
+ヴィゴーニュ
+vigogne
+#BF7939
+ヴェール
+vert
+#71CC44
+ヴェール アシード
+verr acide
+#9AD539
+ヴェール アングレ
+vert anglais
+#6A7B06
+ヴェール エコッセ
+vert ecossais
+#4A8745
+ヴェール サファリ
+vert safari
+#9B9F53
+ヴェール シャルトルーズ
+vert chartreuse
+#B9C525
+ヴェール アマンド
+vert amande
+#74915B
+ヴェール ヴェロネーズ
+vert veronese
+#CEB66F
+ヴェール クレール
+vert clair
+#BFD028
+ヴェール シプレ
+vert cypres
+#096438
+ヴェール ジョーヌ
+vert jaune
+#E1E465
+ヴェール スカラベ
+vert scarabee
+#1F8C8F
+ヴェール ティザーヌ
+vert tisane
+#C4D053
+ヴェール ドゥ グリー
+vert-de-gris
+#446C63
+ヴェール ノアール
+vert noir
+#244800
+ヴェール パプゲ
+vert pabge
+#73762C
+ヴェール セラドン
+vert celadon
+#B4CC75
+ヴェール ドー
+vert d'eau
+#A6D9AB
+ヴェール ニル
+vert nil
+#D1E4A0
+ヴェール パスティーユ
+vert pastille
+#74A98A
+ヴェール パーン
+vert paon
+#00917B
+ヴェール ビュイ
+vert buis
+#005E0C
+ヴェール ブーテイユ
+vert bouteille
+#315A1B
+ヴェール ブロンズ
+vert bronze
+#645924
+ヴェール ポンム
+vert pomme
+#99D650
+ヴェール ムース
+vert mousse
+#4F8C37
+ヴェール フォンセ
+vert fonce
+#CF7366
+ヴェール プレーリー
+vert prairie
+#91C43C
+ヴェール ポワ シシュ
+vert pois chiche
+#258B60
+ヴェルミヨン
+vermillon
+#EF2E3D
+ヴェール レーテュ
+vert laitue
+#567517
+ヴェール ロゾー
+vert roseau
+#B9CE64
+ウートルメール
+outremer
+#32020A
+エカルラート
+ecarlate
+#EB0153
+エグランティーヌ
+eglantine
+#EF36A5
+エピナール
+epinard
+#4B5029
+ヴェール ロデン
+vert loden
+#567517
+エカイユ
+ecaille
+#6F493C
+エキューム
+ecume
+#F2F589
+エクリュ
+e'cru
+#FFD0A1
+エマイユ
+email
+#FEF5B6
+エムロード
+emeraude
+#24A279
+エルブ
+herbe
+#619139
+オークル
+ocre
+#9A751D
+オートリシャン
+autrichien
+#696201
+オリーヴ
+olive
+#64791A
+オーベルジーヌ
+aubergine
+#550953
+オーベルジーヌ ヴィヨラセ
+aubergine violacee
+#5B096C
+オランジュ
+orange
+#FE812E
+オランジュ ルーシー
+orange roussi
+#E27227
+カキ
+kaki
+#897D12
+カクテュス
+cactus
+#587955
+カシュー
+cachou
+#624F51
+カシュミール
+cachemire
+#D0BA95
+ガゾン
+gazon
+#7B8E2F
+カナリ
+canari
+#F7C92D
+カネル
+cannelle
+#8D5B36
+カピュシーヌ
+capucine
+#D95C4F
+カフェ
+cafe
+#705038
+カフェ オ レ
+cafe au lait
+#B7AA89
+カラメル
+caramel
+#B4713F
+ガランス
+garance
+#C40093
+カルマン
+carmin
+#8A0056
+カルディナル
+cardinal
+#000000
+キュイヴル
+cuivre
+#BC5A45
+キュイッス ド ナンフ
+cuisse de nymph
+#C0AF98
+グーミエ
+goumier
+#990045
+クラモアジー
+cramoisi
+#84004F
+グラフィット
+graphite
+#181818
+キューリー
+curry
+#B5A3D0
+グリー アシェ
+gris acier
+#999999
+グリー オラージュ
+gris orage
+#C5B9B8
+クラン
+clan
+#057E70
+グリー クレール
+gris clair
+#A9A29A
+グリー シエル
+gris ciel
+#D5D2BF
+グリー テルー
+gris terreux
+#7B705E
+グリー アルジル
+gris argile
+#7186A6
+グリー グレ
+gris gres
+#BBB9A6
+グリー サンドル
+gris cendre
+#664F44
+グリシーヌ
+glycine
+#D084C5
+グリー フェール
+gris fer
+#75746C
+グリー フォンセ
+gris fonce
+#5F5B58
+グリー プロン
+gris plomb
+#A7A9A8
+クルー ドゥ ジロフル
+clou de girofle
+#715940
+グリー ブルー
+gris blue
+#B9BABF
+クルヴェット
+crevette
+#FE8594
+グリー フラネル
+gris flanelle
+#68686A
+グリー モアイヤン
+gris moyen
+#AAAA9F
+グリー プシェール
+gris poussiere
+#B3AA97
+グリー ペルル
+gris perle
+#B6B3A5
+グルナ
+grenat
+#8B015B
+グレージュ
+grege
+#BBB1A4
+コック ドゥ ロシュ
+coq de roche
+#E3003F
+サパン
+sapin
+#077A58
+コクリコー
+coquelicot
+#DF0250
+サアラ
+sahara
+#C8B82B
+グロゼイユ
+groseille
+#DD0085
+コライユ
+corail
+#FF4D67
+クレムー
+cremeux
+#EAD0A2
+コニャック
+cognac
+#A44506
+サーブル
+sable
+#CAB69D
+サーブル ムイエ
+sable mouille
+#B6A087
+シェール
+chere
+#C0AF98
+ジャサント
+jacinthe
+#EE82C2
+ジェラニョム
+geranium
+#F3236C
+シマン
+ciment
+#8C8E8A
+サングリエ
+sanglier
+#483131
+シトロネル
+citronelle
+#9DA651
+サラド
+salade
+#B5E366
+シクラメン
+cyclamen
+#DA01AE
+シャータン
+chatain
+#856A3F
+シャトアイヤン
+chatoyant
+#B6B4D3
+ジャンシャーヌ
+gentiane
+#5A58B6
+ショードロン
+chaudron
+#46463C
+シャルボヌー
+charbonneux
+#0A0A0A
+ショコラ
+chocolat
+#7B4400
+シャモア
+chamois
+#C59927
+ジュネ
+genet
+#FFD309
+シャモー
+chameau
+#AF8C58
+シャンパーニュ
+champagne
+#B5A795
+ジョーヌ
+jaune
+#FAE701
+ジョーヌ アシード
+jaune acide
+#FEF810
+ジョーヌ ドゥ ナーブル
+jaune de naples
+#E2C13D
+ジョーヌ ブリアン
+jaune briand
+#CDBC94
+ジョーヌ ジョンキーユ
+jaune jonquille
+#FEEE2E
+ジョーヌ パール
+jaune pale
+#FDF48E
+ジョーヌ シトロン
+jaune citron
+#EEF753
+ジョーヌ パイユ
+jaune paille
+#FBFE87
+ジョーヌ サフラン
+jaune safran
+#CCAF26
+ジョーヌ ナルシス
+jaune narcisse
+#FDF188
+ジョーヌ ミモザ
+jaune mimosa
+#F5F814
+ジョーヌ ムタールド
+jaune moutarde
+#DAC50A
+セピア
+sepia
+#836301
+テート ドゥ ネーグル
+tete-de-negre
+#6A410F
+セーグル
+seigle
+#835F01
+テートドゥシェーヌプリュレ
+tete de chene prulee
+#8F5F54
+スリーズ
+cerise
+#BC0163
+ティユール
+tilleul
+#C9E86C
+スーリー
+souris
+#918D80
+タバ
+tabac
+#6C4F00
+テュイル
+tuile
+#B0665E
+テュリップ
+tulipe
+#A94E75
+テール ドンブル
+terre donbull
+#996142
+ナクレ
+nacre
+#D3D8C2
+テール ドゥ シェーヌ ナテュレル
+terre de sienne naturelle
+#AB7D65
+トン ドゥ シャス
+tons de chasse
+#A57E1B
+テール キュイット
+terre cuite
+#B8783F
+テール ドゥ シェーヌ ブリュレ
+terre de sienne brulee
+#623826
+トメット
+tomette
+#AF3501
+テュリップ ノアール
+tulipe noire
+#512754
+トマート
+tomate
+#FB5959
+ナーシス
+narcisse
+#F7FE72
+ナンフェア
+nymphea
+#FEFA5A
+ノアール
+noir
+#000000
+パルム
+palme
+#9EA914
+ノアゼット
+noisette
+#B37026
+パラ
+para
+#527351
+ネーフル
+nefle
+#65363A
+ノワ デュブレジル
+noix du bresil
+#604D00
+ニゼル
+nigelle
+#46A0D7
+ノワ
+noix
+#875FC1
+パルム
+palme
+#794AC6
+パン
+pin
+#006A68
+ピジョン
+pigeon
+#868379
+ピマン
+piment
+#C60059
+パンプルムース
+pamplemousse
+#FCEE3F
+ビストル
+bistre
+#5E3A00
+パン ブリュレ
+pain brule
+#A64F1A
+ピスタッシュ
+pistache
+#BAC53A
+パンセ
+pensee
+#5A01B5
+ビスキュイ
+biscuit
+#D38245
+ビーヤール
+billard
+#02623E
+ビュイソン
+buisson
+#67664E
+フォーヴ
+fauve
+#D6A458
+フュクシャ ブルー
+fuchsia blue
+#BD00BD
+フィセル
+ficelle
+#D3CEB0
+フヌイユ
+fenouil
+#AEB3A2
+フー
+feu
+#EE432B
+プーサン
+poussin
+#FDE301
+ピュース
+puce
+#6A1A2E
+ブーガンヴィレ
+bougainvillee
+#D07896
+フュクシャ ローズ
+fuchsia rose
+#C400AB
+フラマン ローズ
+flamant rose
+#F3ABA0
+ブラン カーセ
+blanc casse
+#FFFEFD
+ブラン ルージュ
+brun rouge
+#750F3A
+ブラン ヴァン ディック
+brun van dyck
+#76565F
+フランボアーズ
+framboise
+#DF0287
+ブラン
+brun
+#8F5836
+ブラン フォンセ
+brun fonce
+#422B1E
+プラリーヌ
+praline
+#995100
+ブラン ネージュ
+blanc neige
+#FFFFFF
+ブリック
+brique
+#AF6241
+ブリュイエール
+bruyere
+#C08FBD
+ブールジョン
+bourgeon
+#ABBE7E
+ブルー アドリアティック
+blue adriatique
+#000099
+ブールゴーニュ
+bourgogne
+#80006C
+ブルー アジュール
+blue azur
+#74B4C9
+プリューヌ
+prune
+#791367
+ブルー アシード
+blue acide
+#0A77B1
+ブリュニョン
+brugnon
+#BC105E
+プールプル
+pourpre
+#8B0181
+ブルー アルメ ドゥ レール
+blue armee de l'air
+#000051
+ブルー アングレー
+blue anglais
+#22039E
+ブルー オパラン
+blue opalin
+#819CA7
+ブルー グリーゼ
+blue grise
+#7C9CCD
+ブルー ヴェール ダンス
+blue vert dense
+#018989
+ブルー カナール
+blue canard
+#037B85
+ブルー ヴィヨレ
+blue violet
+#52007D
+ブルー オルタンシャ
+blue hortensia
+#7572FE
+インディゴ
+indigo
+#043C78
+ブルーインディゴーソンブル
+blue indigo sombre
+#0C2B96
+ブルー オリヤン
+blue orient
+#3191B0
+ブルー クレール
+blue clair
+#85BEBA
+ブルー ゴーロアーズ
+blue gauloise
+#82AFD0
+ブルー デュール
+blue dur
+#0000AE
+ブルー パール
+blue pale
+#91EEE0
+ブルー テュルコアーズ
+blue turquoise
+#28799B
+ブルー ニュイ
+blue nuit
+#00376F
+ブルー ジターヌ
+blue gitane
+#0F52B7
+ブルー ナティエ
+blue nattier
+#488995
+ブルー シェル
+blue ciel
+#02C4B5
+ブルー ドゥ シーヌ
+blue de chine
+#004080
+ブルー パン
+blue paon
+#420265
+ブルー ファイヤンス
+blue faience
+#81A4C4
+ブルー ペトロル
+blue petrole
+#1D9BB1
+ブルー メディテラネ
+blue mediterranee
+#0046AE
+ブルー ブルイヤール
+blue brouillard
+#9AAAAF
+ブルー ミヨゾティース
+blue myosotis
+#283D82
+ブルー ブルーエ
+blue bleuet
+#01529A
+ブルー マリーヌ
+blue marine
+#283D82
+ブルー フュメ
+blue fume
+#859AB1
+ブルー ポルスレーヌ
+blue porcelaine
+#88C6D2
+ブルー ラヴァンド
+blue lavande
+#AA99D0
+ブルー ロワ
+blue roi
+#5260AD
+ブロン
+blond
+#FFD955
+ベージュ フロワ
+beige froid
+#BEBC94
+ブーロー
+bouleau
+#979468
+ベージュ グリーゼ
+beige grise
+#9B8160
+ブレーズ
+braise
+#BF4040
+ベージュ
+beige
+#CCA775
+ブルー ロワイヤル
+blue royal
+#564BB6
+ブロンズ
+bronze
+#82724D
+ベージュ ローゼ
+beige rose
+#E3A577
+ペッシュ
+peche
+#F1DBC7
+ポアーヴル ヴェール
+poiver vert
+#7D8053
+ボワ ドゥ ローズ
+bois de rose
+#B3849B
+ベルランゴー
+berlingot
+#F8AE34
+ボワ
+bois
+#8A6D4F
+ペルヴァンシュ
+pervenche
+#3868A3
+ボルドー フォンセ
+bordeaux fonce
+#680663
+ペテュニア
+petunia
+#FB00AF
+ボルドー クレール
+bordeaux clair
+#7C0364
+ボワ フリュイティエ
+bois fruitier
+#CC7D5B
+マイース
+mais
+#E8C431
+マロン
+marron
+#844500
+マロン ショー
+marron chaud
+#895043
+マロカン
+marocan
+#612F14
+マロン グラッセ
+marron glaces
+#BFA68A
+マスティック
+mastic
+#A9A59A
+マロン アッスールディ
+marron assourdi
+#785200
+マカダム
+macadam
+#3E423C
+マロン アカジュ
+marron acajou
+#6A2C26
+マンダリーヌ
+mandarine
+#FF5959
+マント
+menthe
+#00A265
+ムエット
+mouette
+#C0BEA9
+ラピス ラジュリ
+lapis-lazuli
+#006297
+ミョゾティス
+myosotis
+#5B7B8E
+ラック
+laque
+#820551
+ミュール
+mure
+#40005B
+モーヴ
+mauve
+#D8C9D7
+ミエル
+miel
+#FBC50B
+ムリジエ
+merisier
+#BB6605
+ラン
+lan
+#C4A577
+リエージュ
+liege
+#A07149
+リー ドゥ ヴァン
+lie-de-vin
+#89013F
+ルージュ
+rouge
+#F00042
+リズロン
+liseron
+#E482C2
+ルイユ
+rouille
+#D55C53
+リケン
+lichen
+#9FBB97
+ルー
+roux
+#DD8C2B
+リエール
+lierre
+#1E6F5A
+リラ
+lilas
+#CDA7FC
+ルージュ アルダン
+rouge ardent
+#F00066
+ルージュ ヴィフ
+rouge vif
+#F00078
+ルージュ ダングルテール
+rouge dan guru tail
+#BC5F3A
+レゼダ
+reseda
+#CCE193
+ルージュ テルニ
+rouge terni
+#BE5678
+ルノンキュール
+renoncule
+#E7C523
+ルージュ サン
+rouge sang
+#B0003E
+ルージュ リュビ
+rouge rubis
+#BF0060
+ルージュ オランジェ
+rouge orange
+#FF522D
+ルージュ ド フェール
+rouge de fair
+#9B5033
+ロワイヤルエールフォルス
+royal air force
+#415976
+ローズ
+rose
+#DF9FAB
+ローズ コライユ
+rose corail
+#AC4A6A
+ローズ テ
+rose the
+#F4C6A6
+ローズ オルタンシャ
+rose hortensia
+#F374DA
+ローズ タンドル
+rose tendre
+#FAB1D8
+ローズ イビス
+rose ibis
+#E46D94
+ローズ ソーモン
+rose saumon
+#F8AFA5
+ローズ アンディヤン
+rose indien
+#F36186
+ローズ ショッキング
+rose shocking
+#FF1A81
+ローズ ドラジェ
+rose dragee
+#EED0DF
+ローズ パール
+rose pale
+#DE87AA
+ローズ プードル
+rose poudre
+#F1C2CD
+ローズ ビュヴァール
+rose buvard
+#D8A5AD
+ローズ ペーシュ
+rose peche
+#DF669F
+ローリエ
+laurier
+#1B6358

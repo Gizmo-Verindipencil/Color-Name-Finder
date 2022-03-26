@@ -1,0 +1,78 @@
+ザンジバール
+zanzibar
+#FD0013
+ノース アフリカ
+north africa
+#F62713
+ウェスタン サハラ
+western sahara
+#FA321F
+スワジランド
+swaziland
+#ED3524
+イースト アフリカ
+east africa
+#FF8040
+リビア
+libya
+#FF8042
+ボツワナ
+botswana
+#FF8044
+ウェスト アフリカ
+west africa
+#00FF00
+アルジェリア
+algeria
+#00FF02
+ジンバブエ
+zimbabwe
+#00FF04
+サザン アフリカ
+southern africa
+#00FFF5
+エジプト
+egypt
+#00FFF9
+サファリ アフリカ
+south africa
+#00FFFF
+モロッコ
+morocco
+#0000FF
+ナミビア
+namibia
+#3300FF
+サハラ アフリカ
+saharan africa
+#3300CC
+トゥアレグ
+touareg
+#051A3B
+アフリカンバイオレット
+african violet
+#3D1C79
+セントラル アフリカ
+central africa
+#800085
+チュニジア
+tunisia
+#800082
+レソト
+lesotho
+#800089
+サハラ
+sahara
+#B2864E
+スーダン ブラウン
+sudan brown
+#9F4F05
+アフリカン ブラウン
+african brown
+#40201B
+サファリ
+safari
+#303B29
+ギニ グリーン
+gini green
+#005558

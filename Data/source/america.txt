@@ -1,0 +1,531 @@
+アメリカン レッド
+american red
+#BF0A30
+バッカイ レッド
+buckeye red
+#FF0000
+リンカーン レッド
+lincoln red
+#E2184F
+リンカーン ピンク
+lincoln pink
+#E24A4F
+グランドキャニオン ピンク
+grand canyon pink
+#EFC1A9
+ディキシー レッド
+dixie red
+#B10021
+ホークアイ レッド
+hawkeye red
+#E3003D
+ナチュラル レッド
+natural red
+#CC0033
+エンパイア レッド
+empire red
+#D60000
+グローリー レッド
+glory red
+#CC0033
+カリフォルニア サザン
+southern california
+#E03030
+サウスウエスト
+southwest
+#EE2222
+ゴールデン レッド
+golden red
+#C10435
+グランドキャニオン レッド
+grand canyon red
+#BF0A30
+バッドゲル レッド
+badger red
+#F3334B
+カリフォルニア ベイ エリア
+bay area california
+#E06060
+シャスタ カスケード
+shasta cascades
+#E03030
+アメリカン ブルー
+american blue
+#002868
+アメリカン グリーン
+american green
+#006E53
+アメリカン イエロー
+american yellow
+#DEB301
+アメリカン ライトブルー
+american light blue
+#CBDDF3
+アメリカン ブラウン
+american brown
+#9A6B37
+アメリカン グレー
+american gray
+#AFAFB1
+グローリー ブルー
+glory blue
+#0000FF
+グローリー ホワイト
+glory white
+#FFF9F5
+ビッグ アップル レッド
+big apple red
+#FF6331
+ビッグ アップル ブルー
+big apple blue
+#3131CE
+エンパイア ブルー
+empire blue
+#001873
+エンパイア シアン
+empire cyan
+#00B5D6
+エンパイア イエロー
+empire yellow
+#F7F700
+エンパイア オレンジ
+empire orange
+#F79429
+エンパイア グリーン
+empire green
+#084A29
+エンパイア エボニー
+empire ebony
+#424A00
+ナチュラル ブルー
+natural blue
+#000099
+ナチュラル ライトブルー
+natural light blue
+#84C8EF
+ナチュラル グリーン
+natural green
+#90C924
+ナチュラル オレンジ
+natural orange
+#F39234
+ナチュラル ブラウン
+natural brown
+#843A2F
+ナチュラル グレー
+natural gray
+#BFBFBF
+ホークアイ ブルー
+hawkeye blue
+#3C3C9E
+ホークアイ イエロー
+hawkeye yellow
+#FFB30F
+ホークアイ ブラウン
+hawkeye brown
+#A54A00
+フロンティア ブルー
+frontier blue
+#000080
+フロンティア ライトブルー
+frontier light blue
+#D3EEF7
+フロンティア グリーン
+frontier green
+#024900
+フロンティア イエロー
+frontier yellow
+#FFFF00
+フロンティア パープル
+frontier purple
+#8663BD
+ディキシー ブルー
+dixie blue
+#083152
+ディキシー グリーン
+dixie green
+#105A21
+ディキシー イエロー
+dixie yellow
+#FFC621
+グランドキャニオン ブルー
+grand canyon blue
+#002868
+グランドキャニオンブラウン
+grand canyon brown
+#CE5C17
+グランドキャニオンイエロー
+grand canyon yellow
+#FED700
+グランドキャニオングリーン
+grand canyon green
+#00320B
+リンカーン ライトブルー
+lincoln light blue
+#64B4FF
+リンカーン ブルー
+lincoln blue
+#3C3C9E
+リンカーン グリーン
+lincoln green
+#3F863F
+リンカーン イエロー
+lincoln yellow
+#FFE60F
+リンカーン オレンジ
+lincoln orange
+#FFB316
+フージャース ブルー
+hoosier blue
+#101195
+フージャース イエロー
+hoosier yellow
+#FFE700
+フージャース グリーン
+hoosier green
+#197351
+フージャース ブラウン
+hoosier brown
+#563837
+バッドゲル ブルー
+badger blue
+#002986
+バッドゲル ライトブルー
+badger light blue
+#00B2FD
+バッドゲル ピンク
+badger pink
+#F8B8DE
+バッドゲル グリーン
+badger green
+#41AD16
+バッドゲル イエロー
+badger yellow
+#FFE618
+バッドゲル ブラウン
+badger brown
+#66180B
+バッドゲル グレー
+badger gray
+#A2B9B9
+マウンテン レッド
+mountain red
+#FF3516
+マウンテン ブルー
+mountain blue
+#003776
+マウンテン グリーン
+mountain green
+#20D942
+マウンテン イエロー
+mountain yellow
+#FFB30F
+マウンテン ブラウン
+mountain brown
+#D15B25
+マウンテン グレー
+mountain gray
+#C0C0C0
+ソナー ブルー
+sooner blue
+#0E4892
+ソナー ライトブルー
+sooner light blue
+#00ADC6
+ソナー グリーン
+sooner green
+#1B692B
+ソナー オパール
+sooner opal
+#8AB87A
+ソナー イエロー
+sooner yellow
+#F0C016
+ソナー ブラウン
+sooner brown
+#421000
+ソナー ベージュ
+sooner beige
+#FFC69C
+ソナー グレー
+sooner gray
+#D6C6C6
+ソナー ブラック
+sooner black
+#454442
+バッカイ ブルー
+buckeye blue
+#1A3B86
+バッカイ グリーン
+buckeye green
+#00784B
+バッカイ イエロー
+buckeye yellow
+#F8C300
+バッカイ ブラウン
+buckeye brown
+#4E3330
+バッカイ ライトブルー
+buckeye light blue
+#027BC2
+ビーバー ブルー
+beaver blue
+#002A86
+ビーバー イエロー
+beaver yellow
+#FFEA0F
+ゴールデン グリーン
+golden green
+#007E3A
+ゴールデン ブラウン
+golden brown
+#391800
+ゴールデン イエロー
+golden yellow
+#BC8E07
+ゴールデン シアン
+golden cyan
+#40A7AA
+ゴールデン グレー
+golden gray
+#84948E
+サンフラワー ブルー
+sunflower blue
+#00009C
+サンフラワー ライトブルー
+sunflower light blue
+#0092DF
+サンフラワー グリーン
+sunflower green
+#29B910
+サンフラワー オレンジ
+sunflower orange
+#FF660F
+サンフラワー ブラウン
+sunflower brown
+#B34E20
+サンフラワー パープル
+sunflower purple
+#7C4790
+サンフラワー イエロー
+sunflower yellow
+#FFE400
+サンフラワー グレー
+sunflower gray
+#DEDEDE
+ニュー イングランド
+new england
+#E25C5C
+ミッド アトランティック
+mid atlantic
+#5C7A7A
+サーフ
+south
+#8A84A3
+フロリダ
+florida
+#E9BDA2
+ミッドウェスト
+midwest
+#FFD577
+テキサス
+texas
+#77CBB3
+グレート プレインズ
+great plains
+#B6BC4D
+ロッキー マウンテン
+rocky mountain
+#E9DF25
+カリフォルニア
+california
+#E0FA92
+パシフィックノースウエスト
+pacific northwest
+#38911C
+アラスカ
+alaska
+#D09440
+ハワイ
+hawaii
+#4F93C0
+アラバマ マウンテン
+mountains alabama
+#999966
+アラバマ メトロポリタン
+metropolitan alabama
+#FF9933
+アラバマリバーヘリテイジ
+river heritage alabama
+#996699
+ガルフ コースト アラバマ
+gulf coast alabama
+#99CCCC
+カリフォルニア デザート
+california desert
+#E0B000
+カリフォルニア セントラル コースト
+california central coast
+#00B000
+サン ホアキン ヴァレイ
+san joaquin valley
+#A0A0C0
+サクラメント ヴァレイ
+sacramento valley
+#E0B000
+シエラ ネバダ
+sierra nevada
+#00E000
+ゴールド カントリー
+gold country
+#E0E000
+カリフォルニア ノース コースト
+california north coast
+#B0B000
+ミシシッピキャピタルリバー
+mississippi capital river
+#336699
+ミシシッピ デルタ
+mississippi delta
+#663366
+ミシシッピ パインズ
+mississippi pines
+#339966
+ミシシッピガルフコースト
+gulf coast mississippi
+#660033
+ミシシッピ ヒルズ
+mississippi hills
+#996633
+パンハンドル ネブラスカ
+panhandle nebraska
+#CC9966
+ノースセントラルネブラスカ
+north central nebraska
+#CCCC66
+イースタン ネブラスカ
+eastern nebraska
+#99CCCC
+ウェスタン ネバダ
+western nevada
+#CC9999
+ノーザン ネバダ
+northern nevada
+#CC9966
+セントラル ネバダ
+central nevada
+#9999CC
+サザン ネバダ
+southern nevada
+#99CCCC
+セントラル ニューメキシコ
+central new mexico
+#E0FA92
+ノース セントラル ニューメキシコ
+north central new mexico
+#6699AA
+ノース イースト ニューメキシコ
+northeast new mexico
+#B6BC4D
+ノース ウエスト ニューメキシコ
+northwest new mexico
+#D09440
+サウス ウエスト ニューメキシコ
+southwest new mexico
+#B2CC7F
+サウス イースト ニューメキシコ
+southeast new mexico
+#FFFF99
+ノース ウエスト オハイオ
+northwest ohio
+#666633
+ノース イースト オハイオ
+northeast ohio
+#669999
+ミッド オハイオ
+mid ohio
+#996666
+サウス ウエスト オハイオ
+southwest ohio
+#666699
+サウス イースト オハイオ
+southeast ohio
+#CC9933
+ウエスタン テネシー
+western tennessee
+#996699
+セントラル テネシー
+central tennessee
+#339999
+イースタン テネシー
+eastern tennessee
+#339966
+パンハンドルテキサス
+panhandle texas
+#80622F
+プレリーズアンドレイクス
+prairies and lakes
+#335C64
+ピニー ウッズ
+piney woods
+#406324
+ガルフ コースト テキサス
+gulf coast texas
+#7895A3
+サウステキサスプレインズ
+south texas plains
+#7D6B71
+ヒル カントリー
+hill country
+#D1A85E
+ビッグ ベンド カントリー
+big bend country
+#C6AB7A
+ワサッチ フロント
+wasatch front
+#99CC33
+キャニオン カントリー
+canyon country
+#CC6600
+ノース イースタン ユタ
+northeastern utah
+#669900
+デキシー
+dixie
+#B2CC7F
+セントラル ユタ
+central utah
+#999933
+ウエスタン ユタ
+western utah
+#FFFF99
+ノーザン バージニア
+northern virginia
+#9966FF
+イースタン バージニア
+eastern virginia
+#33BBEE
+セントラル バージニア
+central virginia
+#FF6655
+サザンウエストバージニア
+southwest virginia
+#FFCC33
+シェナンドー ヴァレイ
+shenandoah valley
+#339933
+サウス イースト ウィスコンシン
+southeast wisconsin
+#66CC99
+サウス ウエスト ウィスコンシン
+southwest wisconsin
+#99CCFF
+ノース イースト ウィスコンシン
+northeast wisconsin
+#009999
+ノース セントラル ウィスコンシン
+north central wisconsin
+#66CCFF
+ノース ウエスト ウィスコンシン
+northwest wisconsin
+#99CCCC
