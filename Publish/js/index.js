@@ -16,9 +16,20 @@ document.addEventListener("DOMContentLoaded", e => {
                 cmyk: false,
                 input: true,
                 clear: false,
-                save: true
+                save: false
             }
         }
+    });
+
+    // カラーピッカーで変更された色を保存
+    let selectedColor = picker.getColor();
+    picker.on("change", (color, eventSource, instance) => {
+        selectedColor = color;
+    });
+
+    // カラーピッカーが閉じられるとき、選択色を反映
+    picker.on("hide", instance => {
+        instance.applyColor(selectedColor);
     });
 
     // 境界の落雨アニメーションを設定
