@@ -35,7 +35,7 @@ main {
 }
 
 .outer-box {
-    animation: floating 3.0s linear infinite, shreak 1.0s linear infinite;
+    animation: floating 3.0s linear infinite, shrink 1.0s linear infinite;
     background-color: #000000;
     border-radius: 42%;
     height: 15em;
@@ -54,7 +54,7 @@ main {
     87%      { transform: translate(-1%  , 11%); } 
 }
 
-@keyframes shreak {
+@keyframes shrink {
     0%, 100% { border-radius: 44%; height: 15em;   }
     25%      { border-radius: 45%; height: 14.8em; }
     50%      { border-radius: 44%; height: 15em;   }
