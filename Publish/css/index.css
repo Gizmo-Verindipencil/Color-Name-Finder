@@ -15,7 +15,6 @@ header {
 
 main {
     background-color: #ffffff;
-    height: 20em;
 }
 
 .boundary {
@@ -187,4 +186,33 @@ main {
 
 .bottom-right.spike {
     transform: rotate(135deg) translate(0%, -220%);
+}
+
+.result-board-wrapper {
+    margin-top: 3em;
+}
+
+.result-board {
+    left: 0;
+    margin: auto;
+    right: 0;
+    width: 40em;
+}
+
+.body.result-board {
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+}
+
+.boundary.result-board {
+    height: 1em;
+}
+
+.top.boundary.result-board {
+    transform: rotate(0deg);
+}
+
+.bottom.boundary.result-board {
+    transform: rotate(180deg);
 }
