@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+    width: 60em;
+}
+
+header {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+main {
+    background-color: #ffffff;
+    height: 20em;
+}
+
+.boundary {
+    background-color: #ffffff;
+    height: 1em;
+}
+
+.top.boundary {
+    transform: rotate(180deg);
+}
+
+.left.boundary {
+    transform: rotate(90deg);
+}
+
+.right.boundary {
+    transform: rotate(270deg);
+}
+
+.outer-box {
+    animation: floating 3.0s linear infinite, shreak 1.0s linear infinite;
+    background-color: #000000;
+    border-radius: 42%;
+    height: 15em;
+    margin: auto;
+    width: 15em;
+}
+
+@keyframes floating {
+    0%, 100% { transform: translate(0%   , 10%); } 
+    12%      { transform: translate(2%   , 11%); }
+    25%      { transform: translate(3%   , 13%); }
+    32%      { transform: translate(2%   , 14%); }
+    50%      { transform: translate(0%   , 16%); }
+    62%      { transform: translate(-2%  , 15%); }
+    75%      { transform: translate(-3%  , 13%); }
+    87%      { transform: translate(-1%  , 11%); } 
+}
+
+@keyframes shreak {
+    0%, 100% { border-radius: 42%; height: 15em;   }
+    25%      { border-radius: 45%; height: 14.8em; }
+    50%      { border-radius: 42%; height: 15em;   }
+    75%      { border-radius: 39%; height: 15.2em; }
+}
+
+.eye-socket {
+    border-radius: 100%;
+    height: 3em;
+    transform: rotate(180deg);
+    width: 1em;
+}
+
+.left.eye-socket {
+    float: left;
+    margin-left: 5.5em;
+    margin-top: 1.7em;
+}
+
+.right.eye-socket {
+    float: right;
+    margin-right: 5.5em;
+    margin-top: 1.7em;
+}
+
+.eye {
+    animation: eye-blink 10.0s linear infinite;
+    background-color: #ffffff;
+    border-radius: 100%;
+    height: 100%;
+    width: 100%;
+}
+
+@keyframes eye-blink {
+    38%, 40%, 63.8%, 64.2%, 67.8%, 68.2% { height: 100%; }
+    39%,      64%,          68%          { height: 3%;   }
+}
+
+.inner-box {
+    animation: tourch 3.0s linear infinite;
+    border-radius: 100%;
+    height: 6em;
+    margin: auto;
+    transform: translate(0, 100%);
+    width: 6em;
+}
+
+@keyframes tourch {
+    0%  , 100% { background: radial-gradient(#ffffff, #000000 70%); }
+    6%  , 93%  { background: radial-gradient(#ffffff, #000000 69%); }
+    12% , 87%  { background: radial-gradient(#ffffff, #000000 67%); }
+    25% , 75%  { background: radial-gradient(#ffffff, #000000 65%); }
+    37% , 63%  { background: radial-gradient(#ffffff, #000000 63%); }
+    43% , 56%  { background: radial-gradient(#ffffff, #000000 61%); }
+    50%        { background: radial-gradient(#ffffff, #000000 60%); }
+}
+
+.color-pick-container {
+    display: flex;
+    height: 2.1em;
+    margin: auto;
+    transform: translate(0, -125%);
+    width: 2.12em;
+}
+
+.color-picker-wrapper-left-decolation {
+    animation: rainbow-background 8.0s linear infinite;
+    height: 2.1em;
+    width: 0.22em;
+}
+
+.color-picker-wrapper {
+    animation: rainbow-background 8.0s linear infinite;
+    height: 1.91em;
+    width: 1.9em;
+}
+
+.color-picker-wrapper::after {
+    animation: rainbow-background 8.0s linear infinite;
+    content: "";
+    display: block;
+    height: 0.203em;
+    width: 1.9em;
+}
+
+@keyframes rainbow-background {
+    100%, 0% { background-color: rgb(255 , 0   , 0   ); }
+    8%       { background-color: rgb(255 , 127 , 0   ); }
+    16%      { background-color: rgb(255 , 255 , 0   ); }
+    25%      { background-color: rgb(127 , 255 , 0   ); }
+    33%      { background-color: rgb(0   , 255 , 0   ); }
+    41%      { background-color: rgb(0   , 255 , 127 ); }
+    50%      { background-color: rgb(0   , 255 , 255 ); }
+    58%      { background-color: rgb(0   , 127 , 255 ); }
+    66%      { background-color: rgb(0   , 0   , 255 ); }
+    75%      { background-color: rgb(127 , 0   , 255 ); }
+    83%      { background-color: rgb(255 , 0   , 255 ); }
+    91%      { background-color: rgb(255 , 0   , 127 ); }
+}
