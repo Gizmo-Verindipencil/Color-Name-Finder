@@ -21,6 +21,7 @@ document.addEventListener("DOMContentLoaded", e => {
         }
     });
 
+    // 境界の落雨アニメーションを設定
     $(".boundary").raindrops({
         color: "#000000"
     });
