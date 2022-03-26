@@ -4,6 +4,7 @@
 
 body {
     background-color: #000000;
+    margin: 1em 2em;
     width: 60em;
 }
 
@@ -89,8 +90,8 @@ main {
 }
 
 @keyframes eye-blink {
-    38%, 40%, 63.8%, 64.2%, 67.8%, 68.2% { height: 100%; }
-    39%,      64%,          68%          { height: 3%;   }
+    38.8%, 40.2%, 63.8%, 64.2%, 67.8%, 68.2% { height: 100%; }
+    39%,          64%,          68%          { height: 3%;   }
 }
 
 .inner-box {
