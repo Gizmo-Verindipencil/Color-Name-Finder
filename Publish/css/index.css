@@ -27,15 +27,7 @@ main {
     transform: rotate(180deg);
 }
 
-.left.boundary {
-    transform: rotate(90deg);
-}
-
-.right.boundary {
-    transform: rotate(270deg);
-}
-
-.outer-box {
+.finder-outer-body {
     animation: floating 3.0s linear infinite, body-shrink 4.0s linear infinite;
     background-color: #000000;
     border-radius: 42%;
@@ -94,8 +86,8 @@ main {
     39%,          64%,          68%          { height: 3%;   }
 }
 
-.inner-box {
-    animation: tourch 3.0s linear infinite;
+.finder-inner-body {
+    animation: torch 3.0s linear infinite;
     border-radius: 100%;
     height: 6em;
     margin: auto;
@@ -103,7 +95,7 @@ main {
     width: 6em;
 }
 
-@keyframes tourch {
+@keyframes torch {
     0%  , 100% { background: radial-gradient(#ffffff, #000000 70%); }
     6%  , 93%  { background: radial-gradient(#ffffff, #000000 69%); }
     12% , 87%  { background: radial-gradient(#ffffff, #000000 67%); }
@@ -157,7 +149,7 @@ main {
 }
 
 .spike {
-    border-bottom: 4em solid #000000;
+    animation: spike-shrink 3.0s linear infinite;
     border-left: 1em solid transparent; 
     border-right: 1em solid transparent;
     height: 2em;
@@ -166,6 +158,11 @@ main {
     position: absolute;
     right: 0;
     width: 1em;
+}
+
+@keyframes spike-shrink {
+    0%, 100% { border-bottom: 3.8em solid #000000; }
+    50%      { border-bottom: 4.2em solid #000000; }
 }
 
 .top-left.spike {
