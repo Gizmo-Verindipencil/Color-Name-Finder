@@ -157,7 +157,7 @@ main {
 }
 
 .spike {
-    border-bottom: 4em solid #000000;
+    animation: spike-shrink 3.0s linear infinite;
     border-left: 1em solid transparent; 
     border-right: 1em solid transparent;
     height: 2em;
@@ -166,6 +166,11 @@ main {
     position: absolute;
     right: 0;
     width: 1em;
+}
+
+@keyframes spike-shrink {
+    0%, 100% { border-bottom: 3.8em solid #000000; }
+    50%      { border-bottom: 4.2em solid #000000; }
 }
 
 .top-left.spike {
