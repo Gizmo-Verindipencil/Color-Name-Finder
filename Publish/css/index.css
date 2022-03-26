@@ -36,7 +36,7 @@ main {
 }
 
 .outer-box {
-    animation: floating 3.0s linear infinite, shrink 1.0s linear infinite;
+    animation: floating 3.0s linear infinite, body-shrink 4.0s linear infinite;
     background-color: #000000;
     border-radius: 42%;
     height: 15em;
@@ -55,7 +55,7 @@ main {
     87%      { transform: translate(-1%  , 11%); } 
 }
 
-@keyframes shrink {
+@keyframes body-shrink {
     0%, 100% { border-radius: 44%; height: 15em;   }
     25%      { border-radius: 45%; height: 14.8em; }
     50%      { border-radius: 44%; height: 15em;   }
@@ -154,4 +154,40 @@ main {
     75%      { background-color: rgb(127 , 0   , 255 ); }
     83%      { background-color: rgb(255 , 0   , 255 ); }
     91%      { background-color: rgb(255 , 0   , 127 ); }
+}
+
+.spike {
+    border-bottom: 4em solid #000000;
+    border-left: 1em solid transparent; 
+    border-right: 1em solid transparent;
+    height: 2em;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    width: 1em;
+}
+
+.top-left.spike {
+    transform: rotate(315deg) translate(0%, -220%);
+}
+
+.left.spike {
+    transform: rotate(270deg) translate(0%, -220%);
+}
+
+.bottom-left.spike {
+    transform: rotate(225deg) translate(0%, -220%);
+}
+
+.top-right.spike {
+    transform: rotate(45deg) translate(0%, -220%);
+}
+
+.right.spike {
+    transform: rotate(90deg) translate(0%, -220%);
+}
+
+.bottom-right.spike {
+    transform: rotate(135deg) translate(0%, -220%);
 }
