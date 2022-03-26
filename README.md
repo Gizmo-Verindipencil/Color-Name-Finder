@@ -1,2 +1,7 @@
-# Color-Name-Findider
-A tool to find color name by rgb.
+Color-Name-Finder
+===
+
+![image](Image/title.png)
+
+## 概要
+RGBから色の名前を検索します。
