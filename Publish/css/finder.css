@@ -81,18 +81,18 @@
     height: 2.1em;
     margin: auto;
     transform: translate(0, -125%);
-    width: 2.12em;
+    width: 2.13em;
 }
 
 .color-picker-wrapper-left-decolation {
     animation: rainbow-background 8.0s linear infinite;
-    height: 2.1em;
+    height: 2.3em;
     width: 0.22em;
 }
 
 .color-picker-wrapper {
     animation: rainbow-background 8.0s linear infinite;
-    height: 1.91em;
+    height: 2em;
     width: 1.9em;
 }
 
@@ -100,7 +100,7 @@
     animation: rainbow-background 8.0s linear infinite;
     content: "";
     display: block;
-    height: 0.203em;
+    height: 0.3em;
     width: 1.9em;
 }
 
