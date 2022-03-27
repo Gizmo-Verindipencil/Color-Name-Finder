@@ -1,127 +1,132 @@
-﻿[
+﻿{
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Baby Pink",
+    "Name":  "baby pink",
     "Phonetic":  "ベビー ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Shell Pink",
+    "Name":  "shell pink",
     "Phonetic":  "シェル ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Fresh Pink",
+    "Name":  "flesh pink",
     "Phonetic":  "フレッシュ ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Pastel Pink",
+    "Name":  "pastel pink",
     "Phonetic":  "パステル ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Rose Pink",
+    "Name":  "rose pink",
     "Phonetic":  "ローズ ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Pink",
+    "Name":  "pink",
     "Phonetic":  "ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "French Rose",
+    "Name":  "french rose",
     "Phonetic":  "フレンチ ローズ"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Peach Blossam",
-    "Phonetic":  "ピーチ ブロッサム"
+    "Name":  "peach blossom",
+    "Phonetic":  "ピーチ ブラッサム"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Lotus",
+    "Name":  "lotus",
     "Phonetic":  "ロータス"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Tea Rose",
+    "Name":  "tea rose",
     "Phonetic":  "ティー ローズ"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Salmon Pink",
+    "Name":  "salmon pink",
     "Phonetic":  "サーモン ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Aurora",
+    "Name":  "aurora",
     "Phonetic":  "オーロラ"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Vinous",
+    "Name":  "vinous",
     "Phonetic":  "ヴァイナス"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Cosmos",
+    "Name":  "cosmos",
     "Phonetic":  "コスモス"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Corinthian Pink",
+    "Name":  "corinthian pink",
     "Phonetic":  "コーリンシアン ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Cherry Pink",
+    "Name":  "cherry pink",
     "Phonetic":  "チェリー ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Fuchsia Pink",
+    "Name":  "fuchsia pink",
     "Phonetic":  "フクシァ ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Daphne Pink",
+    "Name":  "pompadour pink",
+    "Phonetic":  "ポンパドール ピンク"
+},
+{
+    "Hex":  "#ffc6d6",
+    "Name":  "daphne pink",
     "Phonetic":  "ダフニー ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Carnation",
+    "Name":  "carnation",
     "Phonetic":  "カーネーション"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Shrimp Pink",
+    "Name":  "shrimp pink",
     "Phonetic":  "シェリンプ ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Coral Pink",
+    "Name":  "coral pink",
     "Phonetic":  "コーラル ピンク"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Rose Pompadour",
+    "Name":  "rose pompadour",
     "Phonetic":  "ローズ ポンパドウル"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Empire Rose",
+    "Name":  "empire rose",
     "Phonetic":  "エンパイア ローズ"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Flamingo",
+    "Name":  "flamingo",
     "Phonetic":  "フラミンゴ"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Etruscan Rose",
+    "Name":  "etruscan rose",
     "Phonetic":  "エトラスカン ローズ"
 },
 {
@@ -156,11 +161,6 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "signal red",
-    "Phonetic":  "ユニオンジャッグレッド"
-},
-{
-    "Hex":  "#ffc6d6",
     "Name":  "carmine",
     "Phonetic":  "カーマイン"
 },
@@ -186,18 +186,13 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Pomegranate",
+    "Name":  "pomegranate",
     "Phonetic":  "ポメグラネイト"
 },
 {
     "Hex":  "#ffc6d6",
     "Name":  "cinnabar",
     "Phonetic":  "シナバー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "Cent Patrick cross",
-    "Phonetic":  "セントパトリッククロス"
 },
 {
     "Hex":  "#ffc6d6",
@@ -221,12 +216,12 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Oxblood Red",
+    "Name":  "oxblood red",
     "Phonetic":  "オックスブラッド レッド"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Bole",
+    "Name":  "bole",
     "Phonetic":  "ボール"
 },
 {
@@ -241,13 +236,13 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Flea",
+    "Name":  "flea",
     "Phonetic":  "フリー"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "opal peach",
-    "Phonetic":  "オパール ピーチ"
+    "Name":  "beach",
+    "Phonetic":  "ピーチ"
 },
 {
     "Hex":  "#ffc6d6",
@@ -306,8 +301,8 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "morocco red",
-    "Phonetic":  "モロッコ レッド"
+    "Name":  "morocco",
+    "Phonetic":  "モロッコ"
 },
 {
     "Hex":  "#ffc6d6",
@@ -331,8 +326,8 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "beige",
-    "Phonetic":  "ベージュ"
+    "Name":  "ecru",
+    "Phonetic":  "エクリュ"
 },
 {
     "Hex":  "#ffc6d6",
@@ -411,18 +406,13 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Caffee",
+    "Name":  "caffee",
     "Phonetic":  "カフェ"
 },
 {
     "Hex":  "#ffc6d6",
     "Name":  "maroon",
     "Phonetic":  "マルーン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "maroon",
-    "Phonetic":  "メイフェイア ローズ"
 },
 {
     "Hex":  "#ffc6d6",
@@ -446,8 +436,8 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Brunette",
-    "Phonetic":  "ブルネット"
+    "Name":  "hair brown",
+    "Phonetic":  "ヘア ブラウン"
 },
 {
     "Hex":  "#ffc6d6",
@@ -478,11 +468,6 @@
     "Hex":  "#ffc6d6",
     "Name":  "leghorn",
     "Phonetic":  "レグホーン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "cream",
-    "Phonetic":  "クリーム"
 },
 {
     "Hex":  "#ffc6d6",
@@ -526,13 +511,8 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Orpiment",
+    "Name":  "auripigment",
     "Phonetic":  "オーピメント"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "weld",
-    "Phonetic":  "ウェルド"
 },
 {
     "Hex":  "#ffc6d6",
@@ -581,18 +561,8 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "mustard",
-    "Phonetic":  "ロンドン ゴールド"
-},
-{
-    "Hex":  "#ffc6d6",
     "Name":  "chartreuse yellow",
     "Phonetic":  "シャトルーズ イエロー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "union jug",
-    "Phonetic":  "ユニオン ジャッグ"
 },
 {
     "Hex":  "#ffc6d6",
@@ -601,8 +571,8 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "grecian bronze",
-    "Phonetic":  "グリーシァン ローズ"
+    "Name":  "bronze",
+    "Phonetic":  "ブロンズ"
 },
 {
     "Hex":  "#ffc6d6",
@@ -621,18 +591,13 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "bistachio Green",
-    "Phonetic":  "ピスタチオ グリーン"
+    "Name":  "pistache",
+    "Phonetic":  "ピスターシュ"
 },
 {
     "Hex":  "#ffc6d6",
     "Name":  "night green",
     "Phonetic":  "ナイト グリーン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "night green",
-    "Phonetic":  "グリニッジ"
 },
 {
     "Hex":  "#ffc6d6",
@@ -676,8 +641,8 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Caudy Green",
-    "Phonetic":  "サウディー グリーン"
+    "Name":  "godey green",
+    "Phonetic":  "ゴーディ グリーン"
 },
 {
     "Hex":  "#ffc6d6",
@@ -696,13 +661,13 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "flower drew",
-    "Phonetic":  "フラワードリュース"
+    "Name":  "flower drew green",
+    "Phonetic":  "フラワードリュースグリーン"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "schweinfurt",
-    "Phonetic":  "シュヴァインフルト"
+    "Name":  "schweinfurt green",
+    "Phonetic":  "シュヴァインフルトグリーン"
 },
 {
     "Hex":  "#ffc6d6",
@@ -772,7 +737,7 @@
 {
     "Hex":  "#ffc6d6",
     "Name":  "celestial blue",
-    "Phonetic":  "シレスティアルブルー"
+    "Phonetic":  "シレスティアル ブルー"
 },
 {
     "Hex":  "#ffc6d6",
@@ -781,7 +746,7 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Venet",
+    "Name":  "vnet",
     "Phonetic":  "ヴェニット"
 },
 {
@@ -802,7 +767,7 @@
 {
     "Hex":  "#ffc6d6",
     "Name":  "forget me not",
-    "Phonetic":  "フォーゲットミーノット"
+    "Phonetic":  "フォーゲット ミー ノット"
 },
 {
     "Hex":  "#ffc6d6",
@@ -811,7 +776,7 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Peacock",
+    "Name":  "peacock",
     "Phonetic":  "ピーコック"
 },
 {
@@ -823,11 +788,6 @@
     "Hex":  "#ffc6d6",
     "Name":  "vice",
     "Phonetic":  "バイス"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "pompadour pink",
-    "Phonetic":  "ポンパドール ピンク"
 },
 {
     "Hex":  "#ffc6d6",
@@ -876,11 +836,6 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "union jack",
-    "Phonetic":  "ユニオン ジャック"
-},
-{
-    "Hex":  "#ffc6d6",
     "Name":  "royal blue",
     "Phonetic":  "ロイヤル ブルー"
 },
@@ -911,16 +866,6 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "midnight blue",
-    "Phonetic":  "ロンドン トワイライト"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "midnight blue",
-    "Phonetic":  "ウェストミンスター"
-},
-{
-    "Hex":  "#ffc6d6",
     "Name":  "lavender",
     "Phonetic":  "ラべンダー"
 },
@@ -938,11 +883,6 @@
     "Hex":  "#ffc6d6",
     "Name":  "mallow",
     "Phonetic":  "マロウ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "mallow",
-    "Phonetic":  "チェルシー ピンク"
 },
 {
     "Hex":  "#ffc6d6",
@@ -971,7 +911,7 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Amaranth Purple",
+    "Name":  "amaranth purple",
     "Phonetic":  "アメジスト パープル"
 },
 {
@@ -992,12 +932,12 @@
 {
     "Hex":  "#ffc6d6",
     "Name":  "aconite violet",
-    "Phonetic":  "アコナイトバイオレット"
+    "Phonetic":  "アコナイト バイオレット"
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "mulberry",
-    "Phonetic":  "マルベリー"
+    "Name":  "murray",
+    "Phonetic":  "マーリー"
 },
 {
     "Hex":  "#ffc6d6",
@@ -1026,8 +966,8 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "White",
-    "Phonetic":  "ホワイト"
+    "Name":  "white lead",
+    "Phonetic":  "ホワイト レド"
 },
 {
     "Hex":  "#ffc6d6",
@@ -1038,11 +978,6 @@
     "Hex":  "#ffc6d6",
     "Name":  "milk white",
     "Phonetic":  "ミルク ホワイト"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "pale white lily",
-    "Phonetic":  "ペールホワイトリリー"
 },
 {
     "Hex":  "#ffc6d6",
@@ -1061,7 +996,7 @@
 },
 {
     "Hex":  "#ffc6d6",
-    "Name":  "Smoke Grey",
+    "Name":  "smoke grey",
     "Phonetic":  "スモーク グレイ"
 },
 {
@@ -1093,550 +1028,5 @@
     "Hex":  "#ffc6d6",
     "Name":  "goose gray",
     "Phonetic":  "グーズグレイ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "Black",
-    "Phonetic":  "ブラック"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "england",
-    "Phonetic":  "イングランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "scotland",
-    "Phonetic":  "スコットランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "wales",
-    "Phonetic":  "ウェールズ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "northern Ireland",
-    "Phonetic":  "ノーザン アイルランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "channel Islands",
-    "Phonetic":  "チャンネルアイスランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "isle of man",
-    "Phonetic":  "アイル オブ マン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "london",
-    "Phonetic":  "ロンドン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "south east",
-    "Phonetic":  "サウス イースト"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "west country",
-    "Phonetic":  "ウエスト カントリー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "east anglia",
-    "Phonetic":  "イースト アングリア"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "east midlands",
-    "Phonetic":  "イースト ミッドランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "west midlands",
-    "Phonetic":  "ウエスト ミッドランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "yorkshire",
-    "Phonetic":  "ヨークシャイア"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "north west",
-    "Phonetic":  "ノース ウエスト"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "north east",
-    "Phonetic":  "ノース イースト"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "borders",
-    "Phonetic":  "ボーダーズ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "south west",
-    "Phonetic":  "サウス ウエスト"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "central belt",
-    "Phonetic":  "セントラル ベルト"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "highlands",
-    "Phonetic":  "ハイランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "north east scotland",
-    "Phonetic":  "ノース イースト スコットランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "hebrides",
-    "Phonetic":  "ヘブリデス"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "orkney islands",
-    "Phonetic":  "オークニー アイランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "shetland islands",
-    "Phonetic":  "シェトランド アイランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "north wales",
-    "Phonetic":  "ノース ウェールズ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "mid wales",
-    "Phonetic":  "ミド ウェールズ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "south wales",
-    "Phonetic":  "サウス ウェールズ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "county antrim",
-    "Phonetic":  "カウンティ アントリム"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "county armagh",
-    "Phonetic":  "カウンティ アーマー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "county londonderry",
-    "Phonetic":  "カウンティ ロンドンデリー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "county down",
-    "Phonetic":  "カウンティ ダウン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "county fermanagh",
-    "Phonetic":  "カウンティ ファーマナ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "county tyrone",
-    "Phonetic":  "カウンティ ティロン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "oxfordshire",
-    "Phonetic":  "オックスフォードシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "buckinghamshire",
-    "Phonetic":  "バッキンガムシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "berkshire",
-    "Phonetic":  "バークシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "hampshire",
-    "Phonetic":  "ハンプシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "surrey",
-    "Phonetic":  "サリー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "west Sussex",
-    "Phonetic":  "ウェスト サセックス"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "east Sussex",
-    "Phonetic":  "イースト サセックス"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "kent",
-    "Phonetic":  "ケント"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "isle of wight",
-    "Phonetic":  "アイル オブ ワイト"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "gloucestershire",
-    "Phonetic":  "グロスターシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "cornwall",
-    "Phonetic":  "コーンウォール"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "wiltshire",
-    "Phonetic":  "ウィルトシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "somerset",
-    "Phonetic":  "サマーセット"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "dorset",
-    "Phonetic":  "ドーセット"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "devon",
-    "Phonetic":  "デボン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "isles of scilly",
-    "Phonetic":  "アイルズ オブ シリー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "hertfordshire",
-    "Phonetic":  "ハートフォードシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "essex",
-    "Phonetic":  "エセックス"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "bedfordshire",
-    "Phonetic":  "ベッドフォードシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "cambridgeshire",
-    "Phonetic":  "ケンブリッジシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "suffolk",
-    "Phonetic":  "サフォーク"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "norfolk",
-    "Phonetic":  "ノーフォーク"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "northamptonshire",
-    "Phonetic":  "ノーサンプトンシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "leicestershire",
-    "Phonetic":  "レスターシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "derbyshire",
-    "Phonetic":  "ダービーシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "nottinghamshire",
-    "Phonetic":  "ノッティンガムシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "lincolnshire",
-    "Phonetic":  "リンカーンシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "rutland",
-    "Phonetic":  "ラトランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "herefordshire",
-    "Phonetic":  "ヘレフォードシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "worcestershire",
-    "Phonetic":  "ウスターシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "warwickshire",
-    "Phonetic":  "ウォーリックシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "west Midlands County",
-    "Phonetic":  "ウェスト ミドランド カウンティ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "shropshire",
-    "Phonetic":  "シュロップシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "staffordshire",
-    "Phonetic":  "スタッフォードシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "north yorkshire",
-    "Phonetic":  "ノース ヨークシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "east yorkshire",
-    "Phonetic":  "イースト ヨークシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "south yorkshire",
-    "Phonetic":  "サウス ヨークシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "west yorkshire",
-    "Phonetic":  "ウェスト ヨークシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "cheshire",
-    "Phonetic":  "チェシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "merseyside",
-    "Phonetic":  "マージーサイド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "greater manchester",
-    "Phonetic":  "グレイター マンチェスター"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "lancashire",
-    "Phonetic":  "ランカシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "cumbria",
-    "Phonetic":  "カンブリア"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "cleveland",
-    "Phonetic":  "クリーブランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "county durham",
-    "Phonetic":  "カウンティ ダーラム"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "tyne and wear",
-    "Phonetic":  "タイン アン ウィア"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "northumberland",
-    "Phonetic":  "ノーサンバーランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "ayrshire",
-    "Phonetic":  "エアシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "clydesdale",
-    "Phonetic":  "クライズデール"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "dumfries and galloway",
-    "Phonetic":  "ダンフリース アンド ギャロウェー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "isle of arran",
-    "Phonetic":  "アイル オブ アラン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "clydeside",
-    "Phonetic":  "クライドサイド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "the lothians",
-    "Phonetic":  "ロジアン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "stirlingshire",
-    "Phonetic":  "スターリングシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "clackmannanshire",
-    "Phonetic":  "クラックマナンシャイア"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "argyll and bute",
-    "Phonetic":  "アーガイル アンド ビュート"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "highland",
-    "Phonetic":  "ハイランド"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "moray",
-    "Phonetic":  "モレイ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "aberdeenshire",
-    "Phonetic":  "アバディーンシャイア"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "angus",
-    "Phonetic":  "アンガス"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "perth and kinross",
-    "Phonetic":  "パース アンド キンロス"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "fife",
-    "Phonetic":  "ファイフ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "inner hebrides",
-    "Phonetic":  "インナー ヘブリディーズ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "outer hebrides",
-    "Phonetic":  "アウター ヘブリディーズ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "anglesey",
-    "Phonetic":  "アングルシー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "gwynedd",
-    "Phonetic":  "グウィネズ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "conwy",
-    "Phonetic":  "コンウィ"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "denbighshire",
-    "Phonetic":  "デンビーシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "flintshire",
-    "Phonetic":  "フリントシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "wrexham",
-    "Phonetic":  "レクサム"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "ceredigion",
-    "Phonetic":  "ケレディジョン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "powys",
-    "Phonetic":  "ポーイス"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "pembrokeshire",
-    "Phonetic":  "ペンブルックシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "carmarthenshire",
-    "Phonetic":  "カーマーゼンシャー"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "glamorgan",
-    "Phonetic":  "グラモーガン"
-},
-{
-    "Hex":  "#ffc6d6",
-    "Name":  "monmouthshire",
-    "Phonetic":  "モンマスシャー"
 }
-]
+}

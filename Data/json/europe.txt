@@ -1,4 +1,4 @@
-﻿{
+﻿[
 {
     "Hex":  "#ffc6d6",
     "Name":  "baby pink",
@@ -1029,4 +1029,4 @@
     "Name":  "goose gray",
     "Phonetic":  "グーズグレイ"
 }
-}
+]

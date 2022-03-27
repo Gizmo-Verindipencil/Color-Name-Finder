@@ -100,6 +100,6 @@ foreach($source in $sources) {
 
     # Œ‹‰Ê‚ğo—Í
     $outputFilePath = Join-Path -Path $outputDirectoryPath -ChildPath $source.Name
-    $outputContent = "{`n$($list -join ",`n")`n}"
+    $outputContent = "[`n$($list -join ",`n")`n]"
     Write-Output $outputContent | Out-File $outputFilePath -Encoding utf8
 }
