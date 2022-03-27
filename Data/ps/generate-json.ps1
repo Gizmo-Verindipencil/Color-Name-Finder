@@ -86,7 +86,7 @@ foreach($source in $sources) {
         # 名称を設定
         if     ($itemNames[0] -eq "name"    ) { $name = $data[$i]         } 
         elseif ($itemNames[1] -eq "name"    ) { $name = $data[$i + 1]     } 
-        elseif ($itemNames[2] -eq "name"    ) { $name = $data[$2 + 2]     }
+        elseif ($itemNames[2] -eq "name"    ) { $name = $data[$i + 2]     }
         else {
             Write-Host "Error: name is missing."
             exit
@@ -95,7 +95,7 @@ foreach($source in $sources) {
         # フリガナを設定
         if     ($itemNames[0] -eq "phonetic") { $phonetic = $data[$i]     } 
         elseif ($itemNames[1] -eq "phonetic") { $phonetic = $data[$i + 1] } 
-        elseif ($itemNames[2] -eq "phonetic") { $phonetic = $data[$2 + 2] }
+        elseif ($itemNames[2] -eq "phonetic") { $phonetic = $data[$i + 2] }
         else {
             Write-Host "Error: phoetic is missing."
             exit
@@ -104,7 +104,7 @@ foreach($source in $sources) {
         # 色コードを設定
         if     ($itemNames[0] -eq "hex"     ) { $hex     = $data[$i]      } 
         elseif ($itemNames[1] -eq "hex"     ) { $hex     = $data[$i + 1]  } 
-        elseif ($itemNames[2] -eq "hex"     ) { $hex     = $data[$2 + 2]  }
+        elseif ($itemNames[2] -eq "hex"     ) { $hex     = $data[$i + 2]  }
         else {
             Write-Host "Error: hex is missing."
             exit
