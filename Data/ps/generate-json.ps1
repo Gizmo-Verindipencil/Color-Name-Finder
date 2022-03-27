@@ -52,6 +52,24 @@ foreach($structure in $structures) {
     }
 }
 
+# ファイル拡張子の置換処理
+function Replace-FileExtension {
+    param(
+        $FileName,
+        $Extension
+    )
+
+    $indexOfLastDot = $FileName.LastIndexOf(".")
+    if ($indexOfLastDot -eq -1) {
+        return $FileName + ".json"
+    }
+    else {
+        $originalExtension = $FileName.Substring($indexOfLastDot)
+        $fileNameWithoutExtension = $FileName.Substring(0, $FileName.Length - $originalExtension.Length)        
+        return $fileNameWithoutExtension + $Extension
+    }
+}
+
 # ファイル毎にjsonとして出力
 $outputDirectoryPath = Join-Path -Path $root -ChildPath "json"
 foreach($source in $sources) {
@@ -99,7 +117,8 @@ foreach($source in $sources) {
     }
 
     # 結果を出力
-    $outputFilePath = Join-Path -Path $outputDirectoryPath -ChildPath $source.Name
+    $newFileName = Replace-FileExtension -FileName $source.Name -Extension ".json"
+    $outputFilePath = Join-Path -Path $outputDirectoryPath -ChildPath $newFileName
     $outputContent = "[`n$($list -join ",`n")`n]"
     Write-Output $outputContent | Out-File $outputFilePath -Encoding utf8
 }
