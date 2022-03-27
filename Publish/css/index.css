@@ -24,5 +24,5 @@ main {
 }
 
 .top.boundary {
-    transform: rotate(180deg);
+    transform: rotate(180deg) translate(0, -1em);
 }
