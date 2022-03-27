@@ -13,6 +13,7 @@
     background-color: #000000;
     color: #ffffff;
     display: flex;
+    padding: 0 2em;
 }
 
 .boundary.result-board {
