@@ -4,11 +4,17 @@
     <meta charset="UTF-8">
     <title>Color Name Finder</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/themes/classic.min.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/index.css"/>
+    <link rel="stylesheet" href="css/finder.css"/>
+    <link rel="stylesheet" href="css/result-board.css"/>
     <script src="https://cdn.jsdelivr.net/npm/@simonwep/pickr/dist/pickr.min.js"></script>
     <script src="js/vendor/jquery-3.6.0.min.js"></script>
     <script src="js/vendor/jquery-ui-1.13.1.min.js"></script>
     <script src="js/vendor/raindrops.js"></script>
+    <script src="js/data.js"></script>
     <script src="js/index.js"></script>
 </head>
 <body>
@@ -26,7 +32,7 @@
             </div>
             <div class="finder-inner-body">
                 <div class="color-pick-container">
-                    <div class="color-picker-wrapper-left-decolation"></div>
+                    <div class="color-picker-wrapper-left-decoration"></div>
                     <div class="color-picker-wrapper">
                         <div class="color-picker"></div>
                     </div>
@@ -38,6 +44,11 @@
             <div class="top-right spike"></div>
             <div class="right spike"></div>
             <div class="bottom-right spike"></div>
+        </div>
+        <div class="result-board-wrapper">
+            <div class="top boundary result-board"></div>
+            <div class="body result-board"><p>Pick up color.</p></div>
+            <div class="bottom boundary result-board"></div>
         </div>
     </main>
     <div class="bottom boundary"></div>
