@@ -48,6 +48,7 @@ document.addEventListener("DOMContentLoaded", e => {
         const createTable = rows => {
             return `<table>
                 <tr>
+                    <th></th>
                     <th>Category</th>
                     <th>Name</th>
                     <th>Phonetic</th>
@@ -61,6 +62,7 @@ document.addEventListener("DOMContentLoaded", e => {
         // 結果テーブル行の作成処理
         const createRow = color => {
             return `<tr>
+                <td style="background:${color.hex}"></td>
                 <td>${color.category}</td>
                 <td>${color.name}</td>
                 <td>${color.phonetic}</td>
