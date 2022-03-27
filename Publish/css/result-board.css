@@ -16,6 +16,35 @@
     padding: 0 2em;
 }
 
+.body.result-board p {
+    font-family: 'Palette Mosaic', cursive;
+}
+
+.body.result-board table {
+    border-collapse: collapse;
+    font-size: 0.8em;
+    left: 0;
+    margin: 1em auto;
+    right: 0;
+}
+
+.body.result-board table th,
+.body.result-board table td {
+    border: solid 1px #ffffff;
+    margin: 0 0.5em;
+}
+
+.body.result-board table tr td:nth-child(1),
+.body.result-board table tr td:nth-child(2),
+.body.result-board table tr td:nth-child(3) {
+    text-align: left;
+}
+
+.body.result-board table tr td:nth-child(4),
+.body.result-board table tr td:nth-child(5) {
+    text-align: center;
+}
+
 .boundary.result-board {
     height: 1em;
 }
@@ -25,5 +54,5 @@
 }
 
 .bottom.boundary.result-board {
-    transform: rotate(180deg) translate(0, 0.3em);
+    transform: rotate(180deg) translate(0, 0);
 }
