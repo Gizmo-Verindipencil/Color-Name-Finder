@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", e => {
         }
 
         // 類似する色を表示
-        colors.sort((a, b) => b.getDifference(hex) - a.getDifference(hex));
+        colors.sort((a, b) => a.getDifference(hex) - b.getDifference(hex));
         let top5 = [];
         for(let i = 0; i < 5; i++) {
             top5.push(createRow(colors[i]));
