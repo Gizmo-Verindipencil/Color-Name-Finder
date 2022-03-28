@@ -13,6 +13,7 @@
     background-color: #000000;
     color: #ffffff;
     display: flex;
+    flex-direction: column;
     padding: 0 2em;
 }
 
@@ -20,11 +21,20 @@
     font-family: 'Palette Mosaic', cursive;
 }
 
+.body.result-board button {
+    left: 0;
+    line-height: 0.5em;
+    margin: auto;
+    margin-bottom: 2em;
+    right: 0;
+    width: 10em;
+}
+
 .body.result-board table {
     border-collapse: collapse;
     font-size: 0.8em;
     left: 0;
-    margin: 1em auto;
+    margin: 1em auto 0 auto;
     right: 0;
 }
 
