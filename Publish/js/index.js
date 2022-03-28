@@ -56,7 +56,8 @@ document.addEventListener("DOMContentLoaded", e => {
                     <th>Score</th>
                 </tr>
                 ${rows.join("")}
-            </table>`;
+            </table><br>
+            <button><p>Close</p></button>`;
         }
 
         // 結果テーブル行の作成処理

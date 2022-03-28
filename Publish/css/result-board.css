@@ -13,11 +13,21 @@
     background-color: #000000;
     color: #ffffff;
     display: flex;
+    flex-direction: column;
     padding: 0 2em;
 }
 
 .body.result-board p {
     font-family: 'Palette Mosaic', cursive;
+}
+
+.body.result-board button {
+    left: 0;
+    line-height: 0.5em;
+    margin: auto;
+    margin-bottom: 2em;
+    right: 0;
+    width: 10em;
 }
 
 .body.result-board table {
