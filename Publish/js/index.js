@@ -2,8 +2,14 @@
 const gateway = new Gateway();
 const colors = gateway.getColors();
 
+// 
+const resultBoard = new ResultBoard();
+
 // ドキュメントの準備完了後に実行
 document.addEventListener("DOMContentLoaded", e => {
+    // 結果ボードを初期化
+    resultBoard.initialize();
+
     // カラーピッカーを初期化
     const picker = Pickr.create({
         el: ".color-picker",
@@ -36,13 +42,8 @@ document.addEventListener("DOMContentLoaded", e => {
         // 選択色を反映
         instance.applyColor(selectedColor);
 
-        // 結果の設定処理
-        const setResult = html => {
-            $(".result-board.body").html(html);
-        }
-
         // 検索中を表示
-        setResult("<p>finding...</p>");
+        resultBoard.setHtml("<p>finding...</p>");
 
         // 結果テーブルの作成処理
         const createTable = rows => {
@@ -57,7 +58,7 @@ document.addEventListener("DOMContentLoaded", e => {
                 </tr>
                 ${rows.join("")}
             </table><br>
-            <button><p>Close</p></button>`;
+            <button onclick="resultBoard.initialize();"><p>Close</p></button>`;
         }
 
         // 結果テーブル行の作成処理
@@ -80,7 +81,7 @@ document.addEventListener("DOMContentLoaded", e => {
             for(let i = 0; i < matchedColors.length; i++) {
                 rows.push(createRow(matchedColors[i]));
             }
-            setResult(createTable(rows));
+            resultBoard.setHtml(createTable(rows));
             return;
         }
 
@@ -90,7 +91,7 @@ document.addEventListener("DOMContentLoaded", e => {
         for(let i = 0; i < 5; i++) {
             top5.push(createRow(colors[i]));
         }
-        setResult(createTable(top5));
+        resultBoard.setHtml(createTable(top5));
     });
 
     // 境界の落雨アニメーションを設定
