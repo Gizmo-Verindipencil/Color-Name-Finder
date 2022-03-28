@@ -1,3 +1,7 @@
+.finder-cage {
+    height: 15em;
+}
+
 .finder-outer-body {
     animation: floating 3.0s linear infinite, body-shrink 4.0s linear infinite;
     background-color: #000000;
