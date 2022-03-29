@@ -6,14 +6,15 @@ class ResultBoard {
      * 表示を初期化します。
      */
     initialize = () => {
-        this.setHtml("<p>Pick up color.</p>");
+        this.setHtml($("<p>").text("Pick up color."));
     }
 
     /**
      * htmlを設定します。
-     * @param {String} html 設定するhtml。 
+     * @param {Array<Object>} html 設定するhtml。 
      */
     setHtml = html => {
-        $(".result-board.body").html(html);
+        const body = $(".result-board.body");
+        body.empty().append(...html);
     }
 }

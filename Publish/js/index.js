@@ -43,34 +43,40 @@ document.addEventListener("DOMContentLoaded", e => {
         instance.applyColor(selectedColor);
 
         // 検索中を表示
-        resultBoard.setHtml("<p>finding...</p>");
+        resultBoard.setHtml($("<p>").text("finding..."));
 
         // 結果テーブルの作成処理
         const createTable = rows => {
-            return `<table>
-                <tr>
-                    <th></th>
-                    <th>Category</th>
-                    <th>Name</th>
-                    <th>Phonetic</th>
-                    <th>Hex</th>
-                    <th>Score</th>
-                </tr>
-                ${rows.join("")}
-            </table><br>
-            <button onclick="resultBoard.initialize();"><p>Close</p></button>`;
+            return $("<table>")
+                .append($("<tr>"))
+                .append([
+                    $("<th>"),
+                    $("<th>").text("Category"),
+                    $("<th>").text("Name"),
+                    $("<th>").text("Phonetic"),
+                    $("<th>").text("Hex"),
+                    $("<th>").text("Score")
+                ])
+                .append(...rows);
+        }
+
+        // 閉じるボタンの作成処理
+        const createCloseButton = () => {
+            return $("<button>")
+                .on("click", () => resultBoard.initialize())
+                .append($("<p>").text("Close"));
         }
 
         // 結果テーブル行の作成処理
         const createRow = color => {
-            return `<tr>
-                <td style="background:${color.hex}"></td>
-                <td>${color.category}</td>
-                <td>${color.name}</td>
-                <td>${color.phonetic}</td>
-                <td>${color.hex}</td>
-                <td>${color.getDifference(hex)}</td>
-            </tr>`;
+            return $("<tr>").append([
+                $("<td>").css("background", color.hex),
+                $("<td>").text(color.category),
+                $("<td>").text(color.name),
+                $("<td>").text(color.phonetic),
+                $("<td>").text(color.hex),
+                $("<td>").text(color.getDifference(hex))
+            ]);
         }
 
         // 一致する色があれば表示
@@ -81,9 +87,10 @@ document.addEventListener("DOMContentLoaded", e => {
             for(let i = 0; i < matchedColors.length; i++) {
                 rows.push(createRow(matchedColors[i]));
             }
-            const heading = `<p>Matched Color${matchedColors.length > 1 ? "s" : ""}:</p>`
+            const heading = $("<p>").text(`Matched Color${matchedColors.length > 1 ? "s" : ""}`);
             const table = createTable(rows);
-            resultBoard.setHtml(heading + table);
+            const button = createCloseButton();
+            resultBoard.setHtml([heading, table, button]);
             return;
         }
 
@@ -93,9 +100,10 @@ document.addEventListener("DOMContentLoaded", e => {
         for(let i = 0; i < 5; i++) {
             top5.push(createRow(colors[i]));
         }
-        const heading = "<p>Similar Colors:</p>"
+        const heading = $("<p>").text("Similar Colors:");
         const table = createTable(top5);
-        resultBoard.setHtml(heading + table);
+        const button = createCloseButton();
+        resultBoard.setHtml([heading, table, button]);
     });
 
     // 境界の落雨アニメーションを設定
