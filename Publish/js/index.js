@@ -81,7 +81,9 @@ document.addEventListener("DOMContentLoaded", e => {
             for(let i = 0; i < matchedColors.length; i++) {
                 rows.push(createRow(matchedColors[i]));
             }
-            resultBoard.setHtml(createTable(rows));
+            const heading = `<p>Matched Color${matchedColors.length > 1 ? "s" : ""}:</p>`
+            const table = createTable(rows);
+            resultBoard.setHtml(heading + table);
             return;
         }
 
@@ -91,7 +93,9 @@ document.addEventListener("DOMContentLoaded", e => {
         for(let i = 0; i < 5; i++) {
             top5.push(createRow(colors[i]));
         }
-        resultBoard.setHtml(createTable(top5));
+        const heading = "<p>Similar Colors:</p>"
+        const table = createTable(top5);
+        resultBoard.setHtml(heading + table);
     });
 
     // 境界の落雨アニメーションを設定
