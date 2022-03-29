@@ -11,7 +11,7 @@ class ResultBoard {
 
     /**
      * htmlを設定します。
-     * @param {Array<String>} html 設定するhtml。 
+     * @param {Array<Object>} html 設定するhtml。 
      */
     setHtml = html => {
         const body = $(".result-board.body");
