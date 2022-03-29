@@ -2,7 +2,7 @@
 const gateway = new Gateway();
 const colors = gateway.getColors();
 
-// 
+// 結果ボードのインスタンスを作成
 const resultBoard = new ResultBoard();
 
 // ドキュメントの準備完了後に実行
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", e => {
                 <td>${color.phonetic}</td>
                 <td>${color.hex}</td>
                 <td>${color.getDifference(hex)}</td>
-            </tr>`
+            </tr>`;
         }
 
         // 一致する色があれば表示
