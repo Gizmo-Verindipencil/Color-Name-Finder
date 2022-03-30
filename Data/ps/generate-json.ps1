@@ -78,7 +78,7 @@ foreach($source in $sources) {
     $itemNames = Get-Content $matchedStructures[0].FullPath
     
     # データソースを取得
-    $data = Get-Content $source.FullPath
+    $data = Get-Content $source.FullPath -Encoding UTF8
     
     # データソースをオブジェクトに変換
     $list = [System.Collections.ArrayList]::new()

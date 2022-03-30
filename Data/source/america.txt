@@ -1,531 +1,531 @@
-ƒAƒƒŠƒJƒ“ ƒŒƒbƒh
+ã‚¢ãƒ¡ãƒªã‚«ãƒ³ ãƒ¬ãƒƒãƒ‰
 american red
 #BF0A30
-ƒoƒbƒJƒC ƒŒƒbƒh
+ãƒãƒƒã‚«ã‚¤ ãƒ¬ãƒƒãƒ‰
 buckeye red
 #FF0000
-ƒŠƒ“ƒJ[ƒ“ ƒŒƒbƒh
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ ãƒ¬ãƒƒãƒ‰
 lincoln red
 #E2184F
-ƒŠƒ“ƒJ[ƒ“ ƒsƒ“ƒN
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ ãƒ”ãƒ³ã‚¯
 lincoln pink
 #E24A4F
-ƒOƒ‰ƒ“ƒhƒLƒƒƒjƒIƒ“ ƒsƒ“ƒN
+ã‚°ãƒ©ãƒ³ãƒ‰ã‚­ãƒ£ãƒ‹ã‚ªãƒ³ ãƒ”ãƒ³ã‚¯
 grand canyon pink
 #EFC1A9
-ƒfƒBƒLƒV[ ƒŒƒbƒh
+ãƒ‡ã‚£ã‚­ã‚·ãƒ¼ ãƒ¬ãƒƒãƒ‰
 dixie red
 #B10021
-ƒz[ƒNƒAƒC ƒŒƒbƒh
+ãƒ›ãƒ¼ã‚¯ã‚¢ã‚¤ ãƒ¬ãƒƒãƒ‰
 hawkeye red
 #E3003D
-ƒiƒ`ƒ…ƒ‰ƒ‹ ƒŒƒbƒh
+ãƒŠãƒãƒ¥ãƒ©ãƒ« ãƒ¬ãƒƒãƒ‰
 natural red
 #CC0033
-ƒGƒ“ƒpƒCƒA ƒŒƒbƒh
+ã‚¨ãƒ³ãƒ‘ã‚¤ã‚¢ ãƒ¬ãƒƒãƒ‰
 empire red
 #D60000
-ƒOƒ[ƒŠ[ ƒŒƒbƒh
+ã‚°ãƒ­ãƒ¼ãƒªãƒ¼ ãƒ¬ãƒƒãƒ‰
 glory red
 #CC0033
-ƒJƒŠƒtƒHƒ‹ƒjƒA ƒTƒUƒ“
+ã‚«ãƒªãƒ•ã‚©ãƒ«ãƒ‹ã‚¢ ã‚µã‚¶ãƒ³
 southern california
 #E03030
-ƒTƒEƒXƒEƒGƒXƒg
+ã‚µã‚¦ã‚¹ã‚¦ã‚¨ã‚¹ãƒˆ
 southwest
 #EE2222
-ƒS[ƒ‹ƒfƒ“ ƒŒƒbƒh
+ã‚´ãƒ¼ãƒ«ãƒ‡ãƒ³ ãƒ¬ãƒƒãƒ‰
 golden red
 #C10435
-ƒOƒ‰ƒ“ƒhƒLƒƒƒjƒIƒ“ ƒŒƒbƒh
+ã‚°ãƒ©ãƒ³ãƒ‰ã‚­ãƒ£ãƒ‹ã‚ªãƒ³ ãƒ¬ãƒƒãƒ‰
 grand canyon red
 #BF0A30
-ƒoƒbƒhƒQƒ‹ ƒŒƒbƒh
+ãƒãƒƒãƒ‰ã‚²ãƒ« ãƒ¬ãƒƒãƒ‰
 badger red
 #F3334B
-ƒJƒŠƒtƒHƒ‹ƒjƒA ƒxƒC ƒGƒŠƒA
+ã‚«ãƒªãƒ•ã‚©ãƒ«ãƒ‹ã‚¢ ãƒ™ã‚¤ ã‚¨ãƒªã‚¢
 bay area california
 #E06060
-ƒVƒƒƒXƒ^ ƒJƒXƒP[ƒh
+ã‚·ãƒ£ã‚¹ã‚¿ ã‚«ã‚¹ã‚±ãƒ¼ãƒ‰
 shasta cascades
 #E03030
-ƒAƒƒŠƒJƒ“ ƒuƒ‹[
+ã‚¢ãƒ¡ãƒªã‚«ãƒ³ ãƒ–ãƒ«ãƒ¼
 american blue
 #002868
-ƒAƒƒŠƒJƒ“ ƒOƒŠ[ƒ“
+ã‚¢ãƒ¡ãƒªã‚«ãƒ³ ã‚°ãƒªãƒ¼ãƒ³
 american green
 #006E53
-ƒAƒƒŠƒJƒ“ ƒCƒGƒ[
+ã‚¢ãƒ¡ãƒªã‚«ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 american yellow
 #DEB301
-ƒAƒƒŠƒJƒ“ ƒ‰ƒCƒgƒuƒ‹[
+ã‚¢ãƒ¡ãƒªã‚«ãƒ³ ãƒ©ã‚¤ãƒˆãƒ–ãƒ«ãƒ¼
 american light blue
 #CBDDF3
-ƒAƒƒŠƒJƒ“ ƒuƒ‰ƒEƒ“
+ã‚¢ãƒ¡ãƒªã‚«ãƒ³ ãƒ–ãƒ©ã‚¦ãƒ³
 american brown
 #9A6B37
-ƒAƒƒŠƒJƒ“ ƒOƒŒ[
+ã‚¢ãƒ¡ãƒªã‚«ãƒ³ ã‚°ãƒ¬ãƒ¼
 american gray
 #AFAFB1
-ƒOƒ[ƒŠ[ ƒuƒ‹[
+ã‚°ãƒ­ãƒ¼ãƒªãƒ¼ ãƒ–ãƒ«ãƒ¼
 glory blue
 #0000FF
-ƒOƒ[ƒŠ[ ƒzƒƒCƒg
+ã‚°ãƒ­ãƒ¼ãƒªãƒ¼ ãƒ›ãƒ¯ã‚¤ãƒˆ
 glory white
 #FFF9F5
-ƒrƒbƒO ƒAƒbƒvƒ‹ ƒŒƒbƒh
+ãƒ“ãƒƒã‚° ã‚¢ãƒƒãƒ—ãƒ« ãƒ¬ãƒƒãƒ‰
 big apple red
 #FF6331
-ƒrƒbƒO ƒAƒbƒvƒ‹ ƒuƒ‹[
+ãƒ“ãƒƒã‚° ã‚¢ãƒƒãƒ—ãƒ« ãƒ–ãƒ«ãƒ¼
 big apple blue
 #3131CE
-ƒGƒ“ƒpƒCƒA ƒuƒ‹[
+ã‚¨ãƒ³ãƒ‘ã‚¤ã‚¢ ãƒ–ãƒ«ãƒ¼
 empire blue
 #001873
-ƒGƒ“ƒpƒCƒA ƒVƒAƒ“
+ã‚¨ãƒ³ãƒ‘ã‚¤ã‚¢ ã‚·ã‚¢ãƒ³
 empire cyan
 #00B5D6
-ƒGƒ“ƒpƒCƒA ƒCƒGƒ[
+ã‚¨ãƒ³ãƒ‘ã‚¤ã‚¢ ã‚¤ã‚¨ãƒ­ãƒ¼
 empire yellow
 #F7F700
-ƒGƒ“ƒpƒCƒA ƒIƒŒƒ“ƒW
+ã‚¨ãƒ³ãƒ‘ã‚¤ã‚¢ ã‚ªãƒ¬ãƒ³ã‚¸
 empire orange
 #F79429
-ƒGƒ“ƒpƒCƒA ƒOƒŠ[ƒ“
+ã‚¨ãƒ³ãƒ‘ã‚¤ã‚¢ ã‚°ãƒªãƒ¼ãƒ³
 empire green
 #084A29
-ƒGƒ“ƒpƒCƒA ƒGƒ{ƒj[
+ã‚¨ãƒ³ãƒ‘ã‚¤ã‚¢ ã‚¨ãƒœãƒ‹ãƒ¼
 empire ebony
 #424A00
-ƒiƒ`ƒ…ƒ‰ƒ‹ ƒuƒ‹[
+ãƒŠãƒãƒ¥ãƒ©ãƒ« ãƒ–ãƒ«ãƒ¼
 natural blue
 #000099
-ƒiƒ`ƒ…ƒ‰ƒ‹ ƒ‰ƒCƒgƒuƒ‹[
+ãƒŠãƒãƒ¥ãƒ©ãƒ« ãƒ©ã‚¤ãƒˆãƒ–ãƒ«ãƒ¼
 natural light blue
 #84C8EF
-ƒiƒ`ƒ…ƒ‰ƒ‹ ƒOƒŠ[ƒ“
+ãƒŠãƒãƒ¥ãƒ©ãƒ« ã‚°ãƒªãƒ¼ãƒ³
 natural green
 #90C924
-ƒiƒ`ƒ…ƒ‰ƒ‹ ƒIƒŒƒ“ƒW
+ãƒŠãƒãƒ¥ãƒ©ãƒ« ã‚ªãƒ¬ãƒ³ã‚¸
 natural orange
 #F39234
-ƒiƒ`ƒ…ƒ‰ƒ‹ ƒuƒ‰ƒEƒ“
+ãƒŠãƒãƒ¥ãƒ©ãƒ« ãƒ–ãƒ©ã‚¦ãƒ³
 natural brown
 #843A2F
-ƒiƒ`ƒ…ƒ‰ƒ‹ ƒOƒŒ[
+ãƒŠãƒãƒ¥ãƒ©ãƒ« ã‚°ãƒ¬ãƒ¼
 natural gray
 #BFBFBF
-ƒz[ƒNƒAƒC ƒuƒ‹[
+ãƒ›ãƒ¼ã‚¯ã‚¢ã‚¤ ãƒ–ãƒ«ãƒ¼
 hawkeye blue
 #3C3C9E
-ƒz[ƒNƒAƒC ƒCƒGƒ[
+ãƒ›ãƒ¼ã‚¯ã‚¢ã‚¤ ã‚¤ã‚¨ãƒ­ãƒ¼
 hawkeye yellow
 #FFB30F
-ƒz[ƒNƒAƒC ƒuƒ‰ƒEƒ“
+ãƒ›ãƒ¼ã‚¯ã‚¢ã‚¤ ãƒ–ãƒ©ã‚¦ãƒ³
 hawkeye brown
 #A54A00
-ƒtƒƒ“ƒeƒBƒA ƒuƒ‹[
+ãƒ•ãƒ­ãƒ³ãƒ†ã‚£ã‚¢ ãƒ–ãƒ«ãƒ¼
 frontier blue
 #000080
-ƒtƒƒ“ƒeƒBƒA ƒ‰ƒCƒgƒuƒ‹[
+ãƒ•ãƒ­ãƒ³ãƒ†ã‚£ã‚¢ ãƒ©ã‚¤ãƒˆãƒ–ãƒ«ãƒ¼
 frontier light blue
 #D3EEF7
-ƒtƒƒ“ƒeƒBƒA ƒOƒŠ[ƒ“
+ãƒ•ãƒ­ãƒ³ãƒ†ã‚£ã‚¢ ã‚°ãƒªãƒ¼ãƒ³
 frontier green
 #024900
-ƒtƒƒ“ƒeƒBƒA ƒCƒGƒ[
+ãƒ•ãƒ­ãƒ³ãƒ†ã‚£ã‚¢ ã‚¤ã‚¨ãƒ­ãƒ¼
 frontier yellow
 #FFFF00
-ƒtƒƒ“ƒeƒBƒA ƒp[ƒvƒ‹
+ãƒ•ãƒ­ãƒ³ãƒ†ã‚£ã‚¢ ãƒ‘ãƒ¼ãƒ—ãƒ«
 frontier purple
 #8663BD
-ƒfƒBƒLƒV[ ƒuƒ‹[
+ãƒ‡ã‚£ã‚­ã‚·ãƒ¼ ãƒ–ãƒ«ãƒ¼
 dixie blue
 #083152
-ƒfƒBƒLƒV[ ƒOƒŠ[ƒ“
+ãƒ‡ã‚£ã‚­ã‚·ãƒ¼ ã‚°ãƒªãƒ¼ãƒ³
 dixie green
 #105A21
-ƒfƒBƒLƒV[ ƒCƒGƒ[
+ãƒ‡ã‚£ã‚­ã‚·ãƒ¼ ã‚¤ã‚¨ãƒ­ãƒ¼
 dixie yellow
 #FFC621
-ƒOƒ‰ƒ“ƒhƒLƒƒƒjƒIƒ“ ƒuƒ‹[
+ã‚°ãƒ©ãƒ³ãƒ‰ã‚­ãƒ£ãƒ‹ã‚ªãƒ³ ãƒ–ãƒ«ãƒ¼
 grand canyon blue
 #002868
-ƒOƒ‰ƒ“ƒhƒLƒƒƒjƒIƒ“ƒuƒ‰ƒEƒ“
+ã‚°ãƒ©ãƒ³ãƒ‰ã‚­ãƒ£ãƒ‹ã‚ªãƒ³ãƒ–ãƒ©ã‚¦ãƒ³
 grand canyon brown
 #CE5C17
-ƒOƒ‰ƒ“ƒhƒLƒƒƒjƒIƒ“ƒCƒGƒ[
+ã‚°ãƒ©ãƒ³ãƒ‰ã‚­ãƒ£ãƒ‹ã‚ªãƒ³ã‚¤ã‚¨ãƒ­ãƒ¼
 grand canyon yellow
 #FED700
-ƒOƒ‰ƒ“ƒhƒLƒƒƒjƒIƒ“ƒOƒŠ[ƒ“
+ã‚°ãƒ©ãƒ³ãƒ‰ã‚­ãƒ£ãƒ‹ã‚ªãƒ³ã‚°ãƒªãƒ¼ãƒ³
 grand canyon green
 #00320B
-ƒŠƒ“ƒJ[ƒ“ ƒ‰ƒCƒgƒuƒ‹[
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ ãƒ©ã‚¤ãƒˆãƒ–ãƒ«ãƒ¼
 lincoln light blue
 #64B4FF
-ƒŠƒ“ƒJ[ƒ“ ƒuƒ‹[
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ ãƒ–ãƒ«ãƒ¼
 lincoln blue
 #3C3C9E
-ƒŠƒ“ƒJ[ƒ“ ƒOƒŠ[ƒ“
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ ã‚°ãƒªãƒ¼ãƒ³
 lincoln green
 #3F863F
-ƒŠƒ“ƒJ[ƒ“ ƒCƒGƒ[
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 lincoln yellow
 #FFE60F
-ƒŠƒ“ƒJ[ƒ“ ƒIƒŒƒ“ƒW
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ ã‚ªãƒ¬ãƒ³ã‚¸
 lincoln orange
 #FFB316
-ƒt[ƒWƒƒ[ƒX ƒuƒ‹[
+ãƒ•ãƒ¼ã‚¸ãƒ£ãƒ¼ã‚¹ ãƒ–ãƒ«ãƒ¼
 hoosier blue
 #101195
-ƒt[ƒWƒƒ[ƒX ƒCƒGƒ[
+ãƒ•ãƒ¼ã‚¸ãƒ£ãƒ¼ã‚¹ ã‚¤ã‚¨ãƒ­ãƒ¼
 hoosier yellow
 #FFE700
-ƒt[ƒWƒƒ[ƒX ƒOƒŠ[ƒ“
+ãƒ•ãƒ¼ã‚¸ãƒ£ãƒ¼ã‚¹ ã‚°ãƒªãƒ¼ãƒ³
 hoosier green
 #197351
-ƒt[ƒWƒƒ[ƒX ƒuƒ‰ƒEƒ“
+ãƒ•ãƒ¼ã‚¸ãƒ£ãƒ¼ã‚¹ ãƒ–ãƒ©ã‚¦ãƒ³
 hoosier brown
 #563837
-ƒoƒbƒhƒQƒ‹ ƒuƒ‹[
+ãƒãƒƒãƒ‰ã‚²ãƒ« ãƒ–ãƒ«ãƒ¼
 badger blue
 #002986
-ƒoƒbƒhƒQƒ‹ ƒ‰ƒCƒgƒuƒ‹[
+ãƒãƒƒãƒ‰ã‚²ãƒ« ãƒ©ã‚¤ãƒˆãƒ–ãƒ«ãƒ¼
 badger light blue
 #00B2FD
-ƒoƒbƒhƒQƒ‹ ƒsƒ“ƒN
+ãƒãƒƒãƒ‰ã‚²ãƒ« ãƒ”ãƒ³ã‚¯
 badger pink
 #F8B8DE
-ƒoƒbƒhƒQƒ‹ ƒOƒŠ[ƒ“
+ãƒãƒƒãƒ‰ã‚²ãƒ« ã‚°ãƒªãƒ¼ãƒ³
 badger green
 #41AD16
-ƒoƒbƒhƒQƒ‹ ƒCƒGƒ[
+ãƒãƒƒãƒ‰ã‚²ãƒ« ã‚¤ã‚¨ãƒ­ãƒ¼
 badger yellow
 #FFE618
-ƒoƒbƒhƒQƒ‹ ƒuƒ‰ƒEƒ“
+ãƒãƒƒãƒ‰ã‚²ãƒ« ãƒ–ãƒ©ã‚¦ãƒ³
 badger brown
 #66180B
-ƒoƒbƒhƒQƒ‹ ƒOƒŒ[
+ãƒãƒƒãƒ‰ã‚²ãƒ« ã‚°ãƒ¬ãƒ¼
 badger gray
 #A2B9B9
-ƒ}ƒEƒ“ƒeƒ“ ƒŒƒbƒh
+ãƒžã‚¦ãƒ³ãƒ†ãƒ³ ãƒ¬ãƒƒãƒ‰
 mountain red
 #FF3516
-ƒ}ƒEƒ“ƒeƒ“ ƒuƒ‹[
+ãƒžã‚¦ãƒ³ãƒ†ãƒ³ ãƒ–ãƒ«ãƒ¼
 mountain blue
 #003776
-ƒ}ƒEƒ“ƒeƒ“ ƒOƒŠ[ƒ“
+ãƒžã‚¦ãƒ³ãƒ†ãƒ³ ã‚°ãƒªãƒ¼ãƒ³
 mountain green
 #20D942
-ƒ}ƒEƒ“ƒeƒ“ ƒCƒGƒ[
+ãƒžã‚¦ãƒ³ãƒ†ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 mountain yellow
 #FFB30F
-ƒ}ƒEƒ“ƒeƒ“ ƒuƒ‰ƒEƒ“
+ãƒžã‚¦ãƒ³ãƒ†ãƒ³ ãƒ–ãƒ©ã‚¦ãƒ³
 mountain brown
 #D15B25
-ƒ}ƒEƒ“ƒeƒ“ ƒOƒŒ[
+ãƒžã‚¦ãƒ³ãƒ†ãƒ³ ã‚°ãƒ¬ãƒ¼
 mountain gray
 #C0C0C0
-ƒ\ƒi[ ƒuƒ‹[
+ã‚½ãƒŠãƒ¼ ãƒ–ãƒ«ãƒ¼
 sooner blue
 #0E4892
-ƒ\ƒi[ ƒ‰ƒCƒgƒuƒ‹[
+ã‚½ãƒŠãƒ¼ ãƒ©ã‚¤ãƒˆãƒ–ãƒ«ãƒ¼
 sooner light blue
 #00ADC6
-ƒ\ƒi[ ƒOƒŠ[ƒ“
+ã‚½ãƒŠãƒ¼ ã‚°ãƒªãƒ¼ãƒ³
 sooner green
 #1B692B
-ƒ\ƒi[ ƒIƒp[ƒ‹
+ã‚½ãƒŠãƒ¼ ã‚ªãƒ‘ãƒ¼ãƒ«
 sooner opal
 #8AB87A
-ƒ\ƒi[ ƒCƒGƒ[
+ã‚½ãƒŠãƒ¼ ã‚¤ã‚¨ãƒ­ãƒ¼
 sooner yellow
 #F0C016
-ƒ\ƒi[ ƒuƒ‰ƒEƒ“
+ã‚½ãƒŠãƒ¼ ãƒ–ãƒ©ã‚¦ãƒ³
 sooner brown
 #421000
-ƒ\ƒi[ ƒx[ƒWƒ…
+ã‚½ãƒŠãƒ¼ ãƒ™ãƒ¼ã‚¸ãƒ¥
 sooner beige
 #FFC69C
-ƒ\ƒi[ ƒOƒŒ[
+ã‚½ãƒŠãƒ¼ ã‚°ãƒ¬ãƒ¼
 sooner gray
 #D6C6C6
-ƒ\ƒi[ ƒuƒ‰ƒbƒN
+ã‚½ãƒŠãƒ¼ ãƒ–ãƒ©ãƒƒã‚¯
 sooner black
 #454442
-ƒoƒbƒJƒC ƒuƒ‹[
+ãƒãƒƒã‚«ã‚¤ ãƒ–ãƒ«ãƒ¼
 buckeye blue
 #1A3B86
-ƒoƒbƒJƒC ƒOƒŠ[ƒ“
+ãƒãƒƒã‚«ã‚¤ ã‚°ãƒªãƒ¼ãƒ³
 buckeye green
 #00784B
-ƒoƒbƒJƒC ƒCƒGƒ[
+ãƒãƒƒã‚«ã‚¤ ã‚¤ã‚¨ãƒ­ãƒ¼
 buckeye yellow
 #F8C300
-ƒoƒbƒJƒC ƒuƒ‰ƒEƒ“
+ãƒãƒƒã‚«ã‚¤ ãƒ–ãƒ©ã‚¦ãƒ³
 buckeye brown
 #4E3330
-ƒoƒbƒJƒC ƒ‰ƒCƒgƒuƒ‹[
+ãƒãƒƒã‚«ã‚¤ ãƒ©ã‚¤ãƒˆãƒ–ãƒ«ãƒ¼
 buckeye light blue
 #027BC2
-ƒr[ƒo[ ƒuƒ‹[
+ãƒ“ãƒ¼ãƒãƒ¼ ãƒ–ãƒ«ãƒ¼
 beaver blue
 #002A86
-ƒr[ƒo[ ƒCƒGƒ[
+ãƒ“ãƒ¼ãƒãƒ¼ ã‚¤ã‚¨ãƒ­ãƒ¼
 beaver yellow
 #FFEA0F
-ƒS[ƒ‹ƒfƒ“ ƒOƒŠ[ƒ“
+ã‚´ãƒ¼ãƒ«ãƒ‡ãƒ³ ã‚°ãƒªãƒ¼ãƒ³
 golden green
 #007E3A
-ƒS[ƒ‹ƒfƒ“ ƒuƒ‰ƒEƒ“
+ã‚´ãƒ¼ãƒ«ãƒ‡ãƒ³ ãƒ–ãƒ©ã‚¦ãƒ³
 golden brown
 #391800
-ƒS[ƒ‹ƒfƒ“ ƒCƒGƒ[
+ã‚´ãƒ¼ãƒ«ãƒ‡ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 golden yellow
 #BC8E07
-ƒS[ƒ‹ƒfƒ“ ƒVƒAƒ“
+ã‚´ãƒ¼ãƒ«ãƒ‡ãƒ³ ã‚·ã‚¢ãƒ³
 golden cyan
 #40A7AA
-ƒS[ƒ‹ƒfƒ“ ƒOƒŒ[
+ã‚´ãƒ¼ãƒ«ãƒ‡ãƒ³ ã‚°ãƒ¬ãƒ¼
 golden gray
 #84948E
-ƒTƒ“ƒtƒ‰ƒ[ ƒuƒ‹[
+ã‚µãƒ³ãƒ•ãƒ©ãƒ¯ãƒ¼ ãƒ–ãƒ«ãƒ¼
 sunflower blue
 #00009C
-ƒTƒ“ƒtƒ‰ƒ[ ƒ‰ƒCƒgƒuƒ‹[
+ã‚µãƒ³ãƒ•ãƒ©ãƒ¯ãƒ¼ ãƒ©ã‚¤ãƒˆãƒ–ãƒ«ãƒ¼
 sunflower light blue
 #0092DF
-ƒTƒ“ƒtƒ‰ƒ[ ƒOƒŠ[ƒ“
+ã‚µãƒ³ãƒ•ãƒ©ãƒ¯ãƒ¼ ã‚°ãƒªãƒ¼ãƒ³
 sunflower green
 #29B910
-ƒTƒ“ƒtƒ‰ƒ[ ƒIƒŒƒ“ƒW
+ã‚µãƒ³ãƒ•ãƒ©ãƒ¯ãƒ¼ ã‚ªãƒ¬ãƒ³ã‚¸
 sunflower orange
 #FF660F
-ƒTƒ“ƒtƒ‰ƒ[ ƒuƒ‰ƒEƒ“
+ã‚µãƒ³ãƒ•ãƒ©ãƒ¯ãƒ¼ ãƒ–ãƒ©ã‚¦ãƒ³
 sunflower brown
 #B34E20
-ƒTƒ“ƒtƒ‰ƒ[ ƒp[ƒvƒ‹
+ã‚µãƒ³ãƒ•ãƒ©ãƒ¯ãƒ¼ ãƒ‘ãƒ¼ãƒ—ãƒ«
 sunflower purple
 #7C4790
-ƒTƒ“ƒtƒ‰ƒ[ ƒCƒGƒ[
+ã‚µãƒ³ãƒ•ãƒ©ãƒ¯ãƒ¼ ã‚¤ã‚¨ãƒ­ãƒ¼
 sunflower yellow
 #FFE400
-ƒTƒ“ƒtƒ‰ƒ[ ƒOƒŒ[
+ã‚µãƒ³ãƒ•ãƒ©ãƒ¯ãƒ¼ ã‚°ãƒ¬ãƒ¼
 sunflower gray
 #DEDEDE
-ƒjƒ…[ ƒCƒ“ƒOƒ‰ƒ“ƒh
+ãƒ‹ãƒ¥ãƒ¼ ã‚¤ãƒ³ã‚°ãƒ©ãƒ³ãƒ‰
 new england
 #E25C5C
-ƒ~ƒbƒh ƒAƒgƒ‰ƒ“ƒeƒBƒbƒN
+ãƒŸãƒƒãƒ‰ ã‚¢ãƒˆãƒ©ãƒ³ãƒ†ã‚£ãƒƒã‚¯
 mid atlantic
 #5C7A7A
-ƒT[ƒt
+ã‚µãƒ¼ãƒ•
 south
 #8A84A3
-ƒtƒƒŠƒ_
+ãƒ•ãƒ­ãƒªãƒ€
 florida
 #E9BDA2
-ƒ~ƒbƒhƒEƒFƒXƒg
+ãƒŸãƒƒãƒ‰ã‚¦ã‚§ã‚¹ãƒˆ
 midwest
 #FFD577
-ƒeƒLƒTƒX
+ãƒ†ã‚­ã‚µã‚¹
 texas
 #77CBB3
-ƒOƒŒ[ƒg ƒvƒŒƒCƒ“ƒY
+ã‚°ãƒ¬ãƒ¼ãƒˆ ãƒ—ãƒ¬ã‚¤ãƒ³ã‚º
 great plains
 #B6BC4D
-ƒƒbƒL[ ƒ}ƒEƒ“ƒeƒ“
+ãƒ­ãƒƒã‚­ãƒ¼ ãƒžã‚¦ãƒ³ãƒ†ãƒ³
 rocky mountain
 #E9DF25
-ƒJƒŠƒtƒHƒ‹ƒjƒA
+ã‚«ãƒªãƒ•ã‚©ãƒ«ãƒ‹ã‚¢
 california
 #E0FA92
-ƒpƒVƒtƒBƒbƒNƒm[ƒXƒEƒGƒXƒg
+ãƒ‘ã‚·ãƒ•ã‚£ãƒƒã‚¯ãƒŽãƒ¼ã‚¹ã‚¦ã‚¨ã‚¹ãƒˆ
 pacific northwest
 #38911C
-ƒAƒ‰ƒXƒJ
+ã‚¢ãƒ©ã‚¹ã‚«
 alaska
 #D09440
-ƒnƒƒC
+ãƒãƒ¯ã‚¤
 hawaii
 #4F93C0
-ƒAƒ‰ƒoƒ} ƒ}ƒEƒ“ƒeƒ“
+ã‚¢ãƒ©ãƒãƒž ãƒžã‚¦ãƒ³ãƒ†ãƒ³
 mountains alabama
 #999966
-ƒAƒ‰ƒoƒ} ƒƒgƒƒ|ƒŠƒ^ƒ“
+ã‚¢ãƒ©ãƒãƒž ãƒ¡ãƒˆãƒ­ãƒãƒªã‚¿ãƒ³
 metropolitan alabama
 #FF9933
-ƒAƒ‰ƒoƒ}ƒŠƒo[ƒwƒŠƒeƒCƒW
+ã‚¢ãƒ©ãƒãƒžãƒªãƒãƒ¼ãƒ˜ãƒªãƒ†ã‚¤ã‚¸
 river heritage alabama
 #996699
-ƒKƒ‹ƒt ƒR[ƒXƒg ƒAƒ‰ƒoƒ}
+ã‚¬ãƒ«ãƒ• ã‚³ãƒ¼ã‚¹ãƒˆ ã‚¢ãƒ©ãƒãƒž
 gulf coast alabama
 #99CCCC
-ƒJƒŠƒtƒHƒ‹ƒjƒA ƒfƒU[ƒg
+ã‚«ãƒªãƒ•ã‚©ãƒ«ãƒ‹ã‚¢ ãƒ‡ã‚¶ãƒ¼ãƒˆ
 california desert
 #E0B000
-ƒJƒŠƒtƒHƒ‹ƒjƒA ƒZƒ“ƒgƒ‰ƒ‹ ƒR[ƒXƒg
+ã‚«ãƒªãƒ•ã‚©ãƒ«ãƒ‹ã‚¢ ã‚»ãƒ³ãƒˆãƒ©ãƒ« ã‚³ãƒ¼ã‚¹ãƒˆ
 california central coast
 #00B000
-ƒTƒ“ ƒzƒAƒLƒ“ ƒ”ƒ@ƒŒƒC
+ã‚µãƒ³ ãƒ›ã‚¢ã‚­ãƒ³ ãƒ´ã‚¡ãƒ¬ã‚¤
 san joaquin valley
 #A0A0C0
-ƒTƒNƒ‰ƒƒ“ƒg ƒ”ƒ@ƒŒƒC
+ã‚µã‚¯ãƒ©ãƒ¡ãƒ³ãƒˆ ãƒ´ã‚¡ãƒ¬ã‚¤
 sacramento valley
 #E0B000
-ƒVƒGƒ‰ ƒlƒoƒ_
+ã‚·ã‚¨ãƒ© ãƒãƒãƒ€
 sierra nevada
 #00E000
-ƒS[ƒ‹ƒh ƒJƒ“ƒgƒŠ[
+ã‚´ãƒ¼ãƒ«ãƒ‰ ã‚«ãƒ³ãƒˆãƒªãƒ¼
 gold country
 #E0E000
-ƒJƒŠƒtƒHƒ‹ƒjƒA ƒm[ƒX ƒR[ƒXƒg
+ã‚«ãƒªãƒ•ã‚©ãƒ«ãƒ‹ã‚¢ ãƒŽãƒ¼ã‚¹ ã‚³ãƒ¼ã‚¹ãƒˆ
 california north coast
 #B0B000
-ƒ~ƒVƒVƒbƒsƒLƒƒƒsƒ^ƒ‹ƒŠƒo[
+ãƒŸã‚·ã‚·ãƒƒãƒ”ã‚­ãƒ£ãƒ”ã‚¿ãƒ«ãƒªãƒãƒ¼
 mississippi capital river
 #336699
-ƒ~ƒVƒVƒbƒs ƒfƒ‹ƒ^
+ãƒŸã‚·ã‚·ãƒƒãƒ” ãƒ‡ãƒ«ã‚¿
 mississippi delta
 #663366
-ƒ~ƒVƒVƒbƒs ƒpƒCƒ“ƒY
+ãƒŸã‚·ã‚·ãƒƒãƒ” ãƒ‘ã‚¤ãƒ³ã‚º
 mississippi pines
 #339966
-ƒ~ƒVƒVƒbƒsƒKƒ‹ƒtƒR[ƒXƒg
+ãƒŸã‚·ã‚·ãƒƒãƒ”ã‚¬ãƒ«ãƒ•ã‚³ãƒ¼ã‚¹ãƒˆ
 gulf coast mississippi
 #660033
-ƒ~ƒVƒVƒbƒs ƒqƒ‹ƒY
+ãƒŸã‚·ã‚·ãƒƒãƒ” ãƒ’ãƒ«ã‚º
 mississippi hills
 #996633
-ƒpƒ“ƒnƒ“ƒhƒ‹ ƒlƒuƒ‰ƒXƒJ
+ãƒ‘ãƒ³ãƒãƒ³ãƒ‰ãƒ« ãƒãƒ–ãƒ©ã‚¹ã‚«
 panhandle nebraska
 #CC9966
-ƒm[ƒXƒZƒ“ƒgƒ‰ƒ‹ƒlƒuƒ‰ƒXƒJ
+ãƒŽãƒ¼ã‚¹ã‚»ãƒ³ãƒˆãƒ©ãƒ«ãƒãƒ–ãƒ©ã‚¹ã‚«
 north central nebraska
 #CCCC66
-ƒC[ƒXƒ^ƒ“ ƒlƒuƒ‰ƒXƒJ
+ã‚¤ãƒ¼ã‚¹ã‚¿ãƒ³ ãƒãƒ–ãƒ©ã‚¹ã‚«
 eastern nebraska
 #99CCCC
-ƒEƒFƒXƒ^ƒ“ ƒlƒoƒ_
+ã‚¦ã‚§ã‚¹ã‚¿ãƒ³ ãƒãƒãƒ€
 western nevada
 #CC9999
-ƒm[ƒUƒ“ ƒlƒoƒ_
+ãƒŽãƒ¼ã‚¶ãƒ³ ãƒãƒãƒ€
 northern nevada
 #CC9966
-ƒZƒ“ƒgƒ‰ƒ‹ ƒlƒoƒ_
+ã‚»ãƒ³ãƒˆãƒ©ãƒ« ãƒãƒãƒ€
 central nevada
 #9999CC
-ƒTƒUƒ“ ƒlƒoƒ_
+ã‚µã‚¶ãƒ³ ãƒãƒãƒ€
 southern nevada
 #99CCCC
-ƒZƒ“ƒgƒ‰ƒ‹ ƒjƒ…[ƒƒLƒVƒR
+ã‚»ãƒ³ãƒˆãƒ©ãƒ« ãƒ‹ãƒ¥ãƒ¼ãƒ¡ã‚­ã‚·ã‚³
 central new mexico
 #E0FA92
-ƒm[ƒX ƒZƒ“ƒgƒ‰ƒ‹ ƒjƒ…[ƒƒLƒVƒR
+ãƒŽãƒ¼ã‚¹ ã‚»ãƒ³ãƒˆãƒ©ãƒ« ãƒ‹ãƒ¥ãƒ¼ãƒ¡ã‚­ã‚·ã‚³
 north central new mexico
 #6699AA
-ƒm[ƒX ƒC[ƒXƒg ƒjƒ…[ƒƒLƒVƒR
+ãƒŽãƒ¼ã‚¹ ã‚¤ãƒ¼ã‚¹ãƒˆ ãƒ‹ãƒ¥ãƒ¼ãƒ¡ã‚­ã‚·ã‚³
 northeast new mexico
 #B6BC4D
-ƒm[ƒX ƒEƒGƒXƒg ƒjƒ…[ƒƒLƒVƒR
+ãƒŽãƒ¼ã‚¹ ã‚¦ã‚¨ã‚¹ãƒˆ ãƒ‹ãƒ¥ãƒ¼ãƒ¡ã‚­ã‚·ã‚³
 northwest new mexico
 #D09440
-ƒTƒEƒX ƒEƒGƒXƒg ƒjƒ…[ƒƒLƒVƒR
+ã‚µã‚¦ã‚¹ ã‚¦ã‚¨ã‚¹ãƒˆ ãƒ‹ãƒ¥ãƒ¼ãƒ¡ã‚­ã‚·ã‚³
 southwest new mexico
 #B2CC7F
-ƒTƒEƒX ƒC[ƒXƒg ƒjƒ…[ƒƒLƒVƒR
+ã‚µã‚¦ã‚¹ ã‚¤ãƒ¼ã‚¹ãƒˆ ãƒ‹ãƒ¥ãƒ¼ãƒ¡ã‚­ã‚·ã‚³
 southeast new mexico
 #FFFF99
-ƒm[ƒX ƒEƒGƒXƒg ƒIƒnƒCƒI
+ãƒŽãƒ¼ã‚¹ ã‚¦ã‚¨ã‚¹ãƒˆ ã‚ªãƒã‚¤ã‚ª
 northwest ohio
 #666633
-ƒm[ƒX ƒC[ƒXƒg ƒIƒnƒCƒI
+ãƒŽãƒ¼ã‚¹ ã‚¤ãƒ¼ã‚¹ãƒˆ ã‚ªãƒã‚¤ã‚ª
 northeast ohio
 #669999
-ƒ~ƒbƒh ƒIƒnƒCƒI
+ãƒŸãƒƒãƒ‰ ã‚ªãƒã‚¤ã‚ª
 mid ohio
 #996666
-ƒTƒEƒX ƒEƒGƒXƒg ƒIƒnƒCƒI
+ã‚µã‚¦ã‚¹ ã‚¦ã‚¨ã‚¹ãƒˆ ã‚ªãƒã‚¤ã‚ª
 southwest ohio
 #666699
-ƒTƒEƒX ƒC[ƒXƒg ƒIƒnƒCƒI
+ã‚µã‚¦ã‚¹ ã‚¤ãƒ¼ã‚¹ãƒˆ ã‚ªãƒã‚¤ã‚ª
 southeast ohio
 #CC9933
-ƒEƒGƒXƒ^ƒ“ ƒeƒlƒV[
+ã‚¦ã‚¨ã‚¹ã‚¿ãƒ³ ãƒ†ãƒã‚·ãƒ¼
 western tennessee
 #996699
-ƒZƒ“ƒgƒ‰ƒ‹ ƒeƒlƒV[
+ã‚»ãƒ³ãƒˆãƒ©ãƒ« ãƒ†ãƒã‚·ãƒ¼
 central tennessee
 #339999
-ƒC[ƒXƒ^ƒ“ ƒeƒlƒV[
+ã‚¤ãƒ¼ã‚¹ã‚¿ãƒ³ ãƒ†ãƒã‚·ãƒ¼
 eastern tennessee
 #339966
-ƒpƒ“ƒnƒ“ƒhƒ‹ƒeƒLƒTƒX
+ãƒ‘ãƒ³ãƒãƒ³ãƒ‰ãƒ«ãƒ†ã‚­ã‚µã‚¹
 panhandle texas
 #80622F
-ƒvƒŒƒŠ[ƒYƒAƒ“ƒhƒŒƒCƒNƒX
+ãƒ—ãƒ¬ãƒªãƒ¼ã‚ºã‚¢ãƒ³ãƒ‰ãƒ¬ã‚¤ã‚¯ã‚¹
 prairies and lakes
 #335C64
-ƒsƒj[ ƒEƒbƒY
+ãƒ”ãƒ‹ãƒ¼ ã‚¦ãƒƒã‚º
 piney woods
 #406324
-ƒKƒ‹ƒt ƒR[ƒXƒg ƒeƒLƒTƒX
+ã‚¬ãƒ«ãƒ• ã‚³ãƒ¼ã‚¹ãƒˆ ãƒ†ã‚­ã‚µã‚¹
 gulf coast texas
 #7895A3
-ƒTƒEƒXƒeƒLƒTƒXƒvƒŒƒCƒ“ƒY
+ã‚µã‚¦ã‚¹ãƒ†ã‚­ã‚µã‚¹ãƒ—ãƒ¬ã‚¤ãƒ³ã‚º
 south texas plains
 #7D6B71
-ƒqƒ‹ ƒJƒ“ƒgƒŠ[
+ãƒ’ãƒ« ã‚«ãƒ³ãƒˆãƒªãƒ¼
 hill country
 #D1A85E
-ƒrƒbƒO ƒxƒ“ƒh ƒJƒ“ƒgƒŠ[
+ãƒ“ãƒƒã‚° ãƒ™ãƒ³ãƒ‰ ã‚«ãƒ³ãƒˆãƒªãƒ¼
 big bend country
 #C6AB7A
-ƒƒTƒbƒ` ƒtƒƒ“ƒg
+ãƒ¯ã‚µãƒƒãƒ ãƒ•ãƒ­ãƒ³ãƒˆ
 wasatch front
 #99CC33
-ƒLƒƒƒjƒIƒ“ ƒJƒ“ƒgƒŠ[
+ã‚­ãƒ£ãƒ‹ã‚ªãƒ³ ã‚«ãƒ³ãƒˆãƒªãƒ¼
 canyon country
 #CC6600
-ƒm[ƒX ƒC[ƒXƒ^ƒ“ ƒ†ƒ^
+ãƒŽãƒ¼ã‚¹ ã‚¤ãƒ¼ã‚¹ã‚¿ãƒ³ ãƒ¦ã‚¿
 northeastern utah
 #669900
-ƒfƒLƒV[
+ãƒ‡ã‚­ã‚·ãƒ¼
 dixie
 #B2CC7F
-ƒZƒ“ƒgƒ‰ƒ‹ ƒ†ƒ^
+ã‚»ãƒ³ãƒˆãƒ©ãƒ« ãƒ¦ã‚¿
 central utah
 #999933
-ƒEƒGƒXƒ^ƒ“ ƒ†ƒ^
+ã‚¦ã‚¨ã‚¹ã‚¿ãƒ³ ãƒ¦ã‚¿
 western utah
 #FFFF99
-ƒm[ƒUƒ“ ƒo[ƒWƒjƒA
+ãƒŽãƒ¼ã‚¶ãƒ³ ãƒãƒ¼ã‚¸ãƒ‹ã‚¢
 northern virginia
 #9966FF
-ƒC[ƒXƒ^ƒ“ ƒo[ƒWƒjƒA
+ã‚¤ãƒ¼ã‚¹ã‚¿ãƒ³ ãƒãƒ¼ã‚¸ãƒ‹ã‚¢
 eastern virginia
 #33BBEE
-ƒZƒ“ƒgƒ‰ƒ‹ ƒo[ƒWƒjƒA
+ã‚»ãƒ³ãƒˆãƒ©ãƒ« ãƒãƒ¼ã‚¸ãƒ‹ã‚¢
 central virginia
 #FF6655
-ƒTƒUƒ“ƒEƒGƒXƒgƒo[ƒWƒjƒA
+ã‚µã‚¶ãƒ³ã‚¦ã‚¨ã‚¹ãƒˆãƒãƒ¼ã‚¸ãƒ‹ã‚¢
 southwest virginia
 #FFCC33
-ƒVƒFƒiƒ“ƒh[ ƒ”ƒ@ƒŒƒC
+ã‚·ã‚§ãƒŠãƒ³ãƒ‰ãƒ¼ ãƒ´ã‚¡ãƒ¬ã‚¤
 shenandoah valley
 #339933
-ƒTƒEƒX ƒC[ƒXƒg ƒEƒBƒXƒRƒ“ƒVƒ“
+ã‚µã‚¦ã‚¹ ã‚¤ãƒ¼ã‚¹ãƒˆ ã‚¦ã‚£ã‚¹ã‚³ãƒ³ã‚·ãƒ³
 southeast wisconsin
 #66CC99
-ƒTƒEƒX ƒEƒGƒXƒg ƒEƒBƒXƒRƒ“ƒVƒ“
+ã‚µã‚¦ã‚¹ ã‚¦ã‚¨ã‚¹ãƒˆ ã‚¦ã‚£ã‚¹ã‚³ãƒ³ã‚·ãƒ³
 southwest wisconsin
 #99CCFF
-ƒm[ƒX ƒC[ƒXƒg ƒEƒBƒXƒRƒ“ƒVƒ“
+ãƒŽãƒ¼ã‚¹ ã‚¤ãƒ¼ã‚¹ãƒˆ ã‚¦ã‚£ã‚¹ã‚³ãƒ³ã‚·ãƒ³
 northeast wisconsin
 #009999
-ƒm[ƒX ƒZƒ“ƒgƒ‰ƒ‹ ƒEƒBƒXƒRƒ“ƒVƒ“
+ãƒŽãƒ¼ã‚¹ ã‚»ãƒ³ãƒˆãƒ©ãƒ« ã‚¦ã‚£ã‚¹ã‚³ãƒ³ã‚·ãƒ³
 north central wisconsin
 #66CCFF
-ƒm[ƒX ƒEƒGƒXƒg ƒEƒBƒXƒRƒ“ƒVƒ“
+ãƒŽãƒ¼ã‚¹ ã‚¦ã‚¨ã‚¹ãƒˆ ã‚¦ã‚£ã‚¹ã‚³ãƒ³ã‚·ãƒ³
 northwest wisconsin
 #99CCCC
