@@ -1,618 +1,618 @@
-ƒxƒr[ ƒsƒ“ƒN
+ãƒ™ãƒ“ãƒ¼ ãƒ”ãƒ³ã‚¯
 baby pink
 #FFC6D6
-ƒVƒFƒ‹ ƒsƒ“ƒN
+ã‚·ã‚§ãƒ« ãƒ”ãƒ³ã‚¯
 shell pink
 #FFBDB3
-ƒtƒŒƒbƒVƒ… ƒsƒ“ƒN
+ãƒ•ãƒ¬ãƒƒã‚·ãƒ¥ ãƒ”ãƒ³ã‚¯
 flesh pink
 #F2D5CC
-ƒpƒXƒeƒ‹ ƒsƒ“ƒN
+ãƒ‘ã‚¹ãƒ†ãƒ« ãƒ”ãƒ³ã‚¯
 pastel pink
 #FC9DB8
-ƒ[ƒY ƒsƒ“ƒN
+ãƒ­ãƒ¼ã‚º ãƒ”ãƒ³ã‚¯
 rose pink
 #F55064
-ƒsƒ“ƒN
+ãƒ”ãƒ³ã‚¯
 pink
 #ECC2C8
-ƒtƒŒƒ“ƒ` ƒ[ƒY
+ãƒ•ãƒ¬ãƒ³ãƒ ãƒ­ãƒ¼ã‚º
 french rose
 #EF8184
-ƒs[ƒ` ƒuƒ‰ƒbƒTƒ€
+ãƒ”ãƒ¼ãƒ ãƒ–ãƒ©ãƒƒã‚µãƒ 
 peach blossom
 #E8C7CC
-ƒ[ƒ^ƒX
+ãƒ­ãƒ¼ã‚¿ã‚¹
 lotus
 #CF8878
-ƒeƒB[ ƒ[ƒY
+ãƒ†ã‚£ãƒ¼ ãƒ­ãƒ¼ã‚º
 tea rose
 #D8B197
-ƒT[ƒ‚ƒ“ ƒsƒ“ƒN
+ã‚µãƒ¼ãƒ¢ãƒ³ ãƒ”ãƒ³ã‚¯
 salmon pink
 #FF9C8C
-ƒI[ƒƒ‰
+ã‚ªãƒ¼ãƒ­ãƒ©
 aurora
 #FFCEC6
-ƒ”ƒ@ƒCƒiƒX
+ãƒ´ã‚¡ã‚¤ãƒŠã‚¹
 vinous
 #B1988F
-ƒRƒXƒ‚ƒX
+ã‚³ã‚¹ãƒ¢ã‚¹
 cosmos
 #F39AAB
-ƒR[ƒŠƒ“ƒVƒAƒ“ ƒsƒ“ƒN
+ã‚³ãƒ¼ãƒªãƒ³ã‚·ã‚¢ãƒ³ ãƒ”ãƒ³ã‚¯
 corinthian pink
 #C49793
-ƒ`ƒFƒŠ[ ƒsƒ“ƒN
+ãƒã‚§ãƒªãƒ¼ ãƒ”ãƒ³ã‚¯
 cherry pink
 #F05187
-ƒtƒNƒVƒ@ ƒsƒ“ƒN
+ãƒ•ã‚¯ã‚·ã‚¡ ãƒ”ãƒ³ã‚¯
 fuchsia pink
 #FC9DB8
-ƒ|ƒ“ƒpƒh[ƒ‹ ƒsƒ“ƒN
+ãƒãƒ³ãƒ‘ãƒ‰ãƒ¼ãƒ« ãƒ”ãƒ³ã‚¯
 pompadour pink
 #FD90A5
-ƒ_ƒtƒj[ ƒsƒ“ƒN
+ãƒ€ãƒ•ãƒ‹ãƒ¼ ãƒ”ãƒ³ã‚¯
 daphne pink
 #A26168
-ƒJ[ƒl[ƒVƒ‡ƒ“
+ã‚«ãƒ¼ãƒãƒ¼ã‚·ãƒ§ãƒ³
 carnation
 #D37A83
-ƒVƒFƒŠƒ“ƒv ƒsƒ“ƒN
+ã‚·ã‚§ãƒªãƒ³ãƒ— ãƒ”ãƒ³ã‚¯
 shrimp pink
 #DC7563
-ƒR[ƒ‰ƒ‹ ƒsƒ“ƒN
+ã‚³ãƒ¼ãƒ©ãƒ« ãƒ”ãƒ³ã‚¯
 coral pink
 #FF9888
-ƒ[ƒY ƒ|ƒ“ƒpƒhƒEƒ‹
+ãƒ­ãƒ¼ã‚º ãƒãƒ³ãƒ‘ãƒ‰ã‚¦ãƒ«
 rose pompadour
 #A66061
-ƒGƒ“ƒpƒCƒA ƒ[ƒY
+ã‚¨ãƒ³ãƒ‘ã‚¤ã‚¢ ãƒ­ãƒ¼ã‚º
 empire rose
 #F08687
-ƒtƒ‰ƒ~ƒ“ƒS
+ãƒ•ãƒ©ãƒŸãƒ³ã‚´
 flamingo
 #EF8865
-ƒGƒgƒ‰ƒXƒJƒ“ ƒ[ƒY
+ã‚¨ãƒˆãƒ©ã‚¹ã‚«ãƒ³ ãƒ­ãƒ¼ã‚º
 etruscan rose
 #B0755C
-ƒAƒbƒVƒY ƒIƒu ƒ[ƒY
+ã‚¢ãƒƒã‚·ã‚º ã‚ªãƒ– ãƒ­ãƒ¼ã‚º
 ashes of rose
 #B86D77
-ƒ[ƒY ƒŒƒbƒh
+ãƒ­ãƒ¼ã‚º ãƒ¬ãƒƒãƒ‰
 rose red
 #E31262
-ƒJƒƒŠƒA
+ã‚«ãƒ¡ãƒªã‚¢
 camellia
 #E85466
-ƒ[ƒ‰ƒjƒEƒ€
+ã‚¼ãƒ©ãƒ‹ã‚¦ãƒ 
 geranium
 #E22838
-ƒ`ƒFƒŠ[
+ãƒã‚§ãƒªãƒ¼
 cherry
 #D00026
-ƒVƒOƒiƒ‹ ƒŒƒbƒh
+ã‚·ã‚°ãƒŠãƒ« ãƒ¬ãƒƒãƒ‰
 signal red
 #E0002A
-ƒJ[ƒ}ƒCƒ“
+ã‚«ãƒ¼ãƒžã‚¤ãƒ³
 carmine
 #E10041
-ƒ^[ƒL[ ƒŒƒbƒh
+ã‚¿ãƒ¼ã‚­ãƒ¼ ãƒ¬ãƒƒãƒ‰
 turkey red
 #B21D33
-ƒ|ƒs[ƒŒƒbƒh
+ãƒãƒ”ãƒ¼ãƒ¬ãƒƒãƒ‰
 poppy red
 #CE382B
-ƒJ[ƒfƒBƒiƒ‹
+ã‚«ãƒ¼ãƒ‡ã‚£ãƒŠãƒ«
 cardinal
 #891E34
-ƒNƒŠƒ€ƒXƒ“ ƒŒ[ƒL
+ã‚¯ãƒªãƒ ã‚¹ãƒ³ ãƒ¬ãƒ¼ã‚­
 crimson rake
 #AA0044
-ƒ|ƒƒOƒ‰ƒlƒCƒg
+ãƒãƒ¡ã‚°ãƒ©ãƒã‚¤ãƒˆ
 pomegranate
 #CF498F
-ƒVƒiƒo[
+ã‚·ãƒŠãƒãƒ¼
 cinnabar
 #ED2F1F
-ƒgƒ}ƒg ƒŒƒbƒh
+ãƒˆãƒžãƒˆ ãƒ¬ãƒƒãƒ‰
 tomato red
 #C13321
-ƒ‹ƒr[
+ãƒ«ãƒ“ãƒ¼
 ruby
 #AE003A
-ƒCƒ“ƒOƒŠƒbƒVƒ… ƒŒƒbƒh
+ã‚¤ãƒ³ã‚°ãƒªãƒƒã‚·ãƒ¥ ãƒ¬ãƒƒãƒ‰
 english red
 #D47467
-ƒIƒNƒTƒCƒhƒŒƒbƒh
+ã‚ªã‚¯ã‚µã‚¤ãƒ‰ãƒ¬ãƒƒãƒ‰
 oxide red
 #7F3330
-ƒIƒbƒNƒXƒuƒ‰ƒbƒh ƒŒƒbƒh
+ã‚ªãƒƒã‚¯ã‚¹ãƒ–ãƒ©ãƒƒãƒ‰ ãƒ¬ãƒƒãƒ‰
 oxblood red
 #7B2B47
-ƒ{[ƒ‹
+ãƒœãƒ¼ãƒ«
 bole
 #9B5033
-ƒo[ƒKƒ“ƒfƒB
+ãƒãƒ¼ã‚¬ãƒ³ãƒ‡ã‚£
 burgundy
 #3C1117
-ƒ}ƒzƒKƒj[
+ãƒžãƒ›ã‚¬ãƒ‹ãƒ¼
 mahogany
 #4B1016
-ƒtƒŠ[
+ãƒ•ãƒªãƒ¼
 flea
 #6A1A2E
-ƒs[ƒ`
+ãƒ”ãƒ¼ãƒ
 beach
 #FFD4C4
-ƒtƒŒƒbƒVƒ…
+ãƒ•ãƒ¬ãƒƒã‚·ãƒ¥
 flesh
 #FFC8AB
-ƒAƒvƒŠƒRƒbƒg
+ã‚¢ãƒ—ãƒªã‚³ãƒƒãƒˆ
 apricot
 #F79469
-ƒTƒ“ƒZƒbƒg
+ã‚µãƒ³ã‚»ãƒƒãƒˆ
 sunset
 #D4A56F
-ƒTƒ“ƒo[ƒ“
+ã‚µãƒ³ãƒãƒ¼ãƒ³
 sunburn
 #AF7C54
-ƒtƒ@ƒCƒA[ ƒŒƒbƒh
+ãƒ•ã‚¡ã‚¤ã‚¢ãƒ¼ ãƒ¬ãƒƒãƒ‰
 fire red
 #E23724
-ƒLƒƒƒƒbƒg ƒIƒŒƒ“ƒW
+ã‚­ãƒ£ãƒ­ãƒƒãƒˆ ã‚ªãƒ¬ãƒ³ã‚¸
 carrot orange
 #E97117
-ƒ^ƒ“ƒWƒFƒŠƒ“
+ã‚¿ãƒ³ã‚¸ã‚§ãƒªãƒ³
 tangerine
 #DD562E
-ƒIƒŒƒ“ƒW
+ã‚ªãƒ¬ãƒ³ã‚¸
 orange
 #FD680D
-ƒƒCƒY
+ãƒ¡ã‚¤ã‚º
 maize
 #EBAC85
-ƒNƒ[ƒ€ ƒIƒŒƒ“ƒW
+ã‚¯ãƒ­ãƒ¼ãƒ  ã‚ªãƒ¬ãƒ³ã‚¸
 chrome orange
 #FE6D0D
-ƒAƒ“ƒo[
+ã‚¢ãƒ³ãƒãƒ¼
 amber
 #BC753B
-ƒ‚ƒƒbƒR
+ãƒ¢ãƒ­ãƒƒã‚³
 morocco
 #562F2F
-ƒLƒƒƒ‰ƒƒ‹
+ã‚­ãƒ£ãƒ©ãƒ¡ãƒ«
 caramel
 #D47643
-ƒ^ƒ“
+ã‚¿ãƒ³
 tan
 #DE772C
-ƒgƒp[ƒY
+ãƒˆãƒ‘ãƒ¼ã‚º
 topaz
 #C47C50
-ƒ€[ƒ“ƒ‰ƒCƒg
+ãƒ ãƒ¼ãƒ³ãƒ©ã‚¤ãƒˆ
 moon light
 #FCD8B1
-ƒGƒNƒŠƒ…
+ã‚¨ã‚¯ãƒªãƒ¥
 ecru
 #FFD0A1
-ƒtƒ‰ƒbƒNƒX
+ãƒ•ãƒ©ãƒƒã‚¯ã‚¹
 flax
 #EBC6A9
-ƒuƒƒ“ƒh
+ãƒ–ãƒ­ãƒ³ãƒ‰
 blond
 #E0B188
-ƒJƒtƒF ƒI ƒŒ
+ã‚«ãƒ•ã‚§ ã‚ª ãƒ¬
 cafe au lait
 #C88659
-ƒrƒXƒPƒbƒg
+ãƒ“ã‚¹ã‚±ãƒƒãƒˆ
 biscuit
 #FFB989
-ƒo[ƒ`ƒƒ“ƒg
+ãƒãƒ¼ãƒãƒ¡ãƒ³ãƒˆ
 parchment
 #C0AB8A
-ƒVƒƒƒ“ƒp[ƒjƒ…
+ã‚·ãƒ£ãƒ³ãƒ‘ãƒ¼ãƒ‹ãƒ¥
 champagne
 #E7BF7C
-ƒLƒƒƒƒ‹
+ã‚­ãƒ£ãƒ¡ãƒ«
 camel
 #B57A59
-ƒOƒŒ[ƒWƒ…
+ã‚°ãƒ¬ãƒ¼ã‚¸ãƒ¥
 grege
 #9E756C
-ƒtƒH[ƒ“
+ãƒ•ã‚©ãƒ¼ãƒ³
 fawn
 #AD775A
-ƒVƒƒƒ‚ƒA
+ã‚·ãƒ£ãƒ¢ã‚¢
 chamois
 #F7C2C2
-ƒo[ƒ“ƒg ƒVƒGƒ“ƒi
+ãƒãƒ¼ãƒ³ãƒˆ ã‚·ã‚¨ãƒ³ãƒŠ
 burnt sienna
 #B75237
-ƒuƒŠƒbƒN ƒŒƒbƒh
+ãƒ–ãƒªãƒƒã‚¯ ãƒ¬ãƒƒãƒ‰
 brick red
 #9C302A
-ƒuƒ‰ƒEƒ“
+ãƒ–ãƒ©ã‚¦ãƒ³
 brown
 #5C3418
-ƒ[ƒVƒFƒ“ƒi
+ãƒ­ãƒ¼ã‚·ã‚§ãƒ³ãƒŠ
 raw sienna
 #86410B
-ƒ[ƒAƒ“ƒo[
+ãƒ­ãƒ¼ã‚¢ãƒ³ãƒãƒ¼
 raw umber
 #854E38
-ƒJƒtƒF
+ã‚«ãƒ•ã‚§
 caffee
 #604A2B
-ƒ}ƒ‹[ƒ“
+ãƒžãƒ«ãƒ¼ãƒ³
 maroon
 #56001D
-ƒŠƒo[
+ãƒªãƒãƒ¼
 liver
 #8B6165
-ƒwƒ“ƒi
+ãƒ˜ãƒ³ãƒŠ
 henna
 #9A1912
-ƒ‰ƒZƒbƒg
+ãƒ©ã‚»ãƒƒãƒˆ
 russet
 #AD5F47
-ƒ`ƒFƒXƒiƒbƒg ƒuƒ‰ƒEƒ“
+ãƒã‚§ã‚¹ãƒŠãƒƒãƒˆ ãƒ–ãƒ©ã‚¦ãƒ³
 chestnut brown
 #68412F
-ƒwƒA ƒuƒ‰ƒEƒ“
+ãƒ˜ã‚¢ ãƒ–ãƒ©ã‚¦ãƒ³
 hair brown
 #695242
-ƒ`ƒ‡ƒRƒŒ[ƒg
+ãƒãƒ§ã‚³ãƒ¬ãƒ¼ãƒˆ
 chocolate
 #3E1F0F
-ƒZƒsƒA
+ã‚»ãƒ”ã‚¢
 sepia
 #402923
-ƒ”ƒ@ƒ“ƒ_ƒCƒN ƒuƒ‰ƒEƒ“
+ãƒ´ã‚¡ãƒ³ãƒ€ã‚¤ã‚¯ ãƒ–ãƒ©ã‚¦ãƒ³
 vandike brown
 #7F5139
-ƒAƒCƒ{ƒŠ[
+ã‚¢ã‚¤ãƒœãƒªãƒ¼
 ivory
 #F8F4E6
-ƒ”ƒ@ƒjƒ‰
+ãƒ´ã‚¡ãƒ‹ãƒ©
 vanilla
 #E8C59C
-ƒŒƒOƒz[ƒ“
+ãƒ¬ã‚°ãƒ›ãƒ¼ãƒ³
 leghorn
 #E7C59C
-ƒXƒgƒ[
+ã‚¹ãƒˆãƒ­ãƒ¼
 straw
 #F2DB9C
-ƒ}ƒVƒRƒbƒg
+ãƒžã‚·ã‚³ãƒƒãƒˆ
 massicot
 #FCCDA2
-ƒTƒ‹ƒtƒ@[ ƒCƒGƒ[
+ã‚µãƒ«ãƒ•ã‚¡ãƒ¼ ã‚¤ã‚¨ãƒ­ãƒ¼
 sulphar yellow
 #FFD93C
-ƒ_ƒCƒ„[ƒYƒuƒ‹[ƒ€
+ãƒ€ã‚¤ãƒ¤ãƒ¼ã‚ºãƒ–ãƒ«ãƒ¼ãƒ 
 dyres broom
 #C5BE82
-ƒ~ƒ‚ƒU
+ãƒŸãƒ¢ã‚¶
 mimosa
 #FFCD25
-ƒl[ƒvƒ‹ƒX ƒCƒGƒ[
+ãƒãƒ¼ãƒ—ãƒ«ã‚¹ ã‚¤ã‚¨ãƒ­ãƒ¼
 naples yellow
 #FFBC7B
-ƒnƒj[ ƒCƒGƒ[
+ãƒãƒ‹ãƒ¼ ã‚¤ã‚¨ãƒ­ãƒ¼
 honey yellow
 #B68954
-ƒKƒ“ƒ{[ƒW
+ã‚¬ãƒ³ãƒœãƒ¼ã‚¸
 gamboge
 #E2B55B
-ƒI[ƒsƒƒ“ƒg
+ã‚ªãƒ¼ãƒ”ãƒ¡ãƒ³ãƒˆ
 auripigment
 #F7CB4A
-ƒCƒ“ƒfƒBƒAƒ“ ƒCƒGƒ[
+ã‚¤ãƒ³ãƒ‡ã‚£ã‚¢ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 indian yellow
 #FF9700
-ƒ_ƒtƒ@ƒfƒBƒ‹ ƒCƒGƒ[
+ãƒ€ãƒ•ã‚¡ãƒ‡ã‚£ãƒ« ã‚¤ã‚¨ãƒ­ãƒ¼
 daffodil yellow
 #EDAA5A
-ƒTƒtƒ‰ƒ“ ƒCƒGƒ[
+ã‚µãƒ•ãƒ©ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 saffran yellow
 #FFAF00
-ƒNƒ[ƒ€ ƒCƒGƒ[
+ã‚¯ãƒ­ãƒ¼ãƒ  ã‚¤ã‚¨ãƒ­ãƒ¼
 chrome yellow
 #F4C600
-ƒˆ[ƒN ƒCƒGƒ[
+ãƒ¨ãƒ¼ã‚¯ ã‚¤ã‚¨ãƒ­ãƒ¼
 yolk yellow
 #F3B927
-ƒJƒiƒŠ[
+ã‚«ãƒŠãƒªãƒ¼
 canary
 #FFD718
-ƒoƒiƒi
+ãƒãƒŠãƒŠ
 banana
 #F5D300
-ƒŒƒ‚ƒ“ ƒCƒGƒ[
+ãƒ¬ãƒ¢ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 lemon yellow
 #FEC300
-ƒ}ƒXƒ^[ƒh
+ãƒžã‚¹ã‚¿ãƒ¼ãƒ‰
 mustard
 #E3AB0D
-ƒVƒƒƒgƒ‹[ƒY ƒCƒGƒ[
+ã‚·ãƒ£ãƒˆãƒ«ãƒ¼ã‚º ã‚¤ã‚¨ãƒ­ãƒ¼
 chartreuse yellow
 #EADE5D
-ƒS[ƒ‹ƒh
+ã‚´ãƒ¼ãƒ«ãƒ‰
 gold
 #A37E00
-ƒuƒƒ“ƒY
+ãƒ–ãƒ­ãƒ³ã‚º
 bronze
 #AC6B25
-ƒIƒŠ[ƒu
+ã‚ªãƒªãƒ¼ãƒ–
 olive
 #584C0F
-ƒ‰ƒCƒ€ ƒOƒŠ[ƒ“
+ãƒ©ã‚¤ãƒ  ã‚°ãƒªãƒ¼ãƒ³
 lime green
 #CFD10C
-ƒV[ƒtƒH[ƒ€ ƒOƒŠ[ƒ“
+ã‚·ãƒ¼ãƒ•ã‚©ãƒ¼ãƒ  ã‚°ãƒªãƒ¼ãƒ³
 sea foam green
 #BDCE96
-ƒsƒXƒ^[ƒVƒ…
+ãƒ”ã‚¹ã‚¿ãƒ¼ã‚·ãƒ¥
 pistache
 #EBF7D3
-ƒiƒCƒg ƒOƒŠ[ƒ“
+ãƒŠã‚¤ãƒˆ ã‚°ãƒªãƒ¼ãƒ³
 night green
 #45AA31
-ƒGƒbƒOƒVƒFƒ‹ ƒOƒŠ[ƒ“
+ã‚¨ãƒƒã‚°ã‚·ã‚§ãƒ« ã‚°ãƒªãƒ¼ãƒ³
 eggshell green
 #87AC9E
-ƒOƒ‰ƒX ƒOƒŠ[ƒ“
+ã‚°ãƒ©ã‚¹ ã‚°ãƒªãƒ¼ãƒ³
 grass green
 #96BE7B
-ƒOƒ[ƒJƒX
+ã‚°ãƒ­ãƒ¼ã‚«ã‚¹
 glaucas
 #B6BEA2
-ƒAƒbƒvƒ‹ ƒOƒŠ[ƒ“
+ã‚¢ãƒƒãƒ—ãƒ« ã‚°ãƒªãƒ¼ãƒ³
 apple green
 #97BE1C
-ƒQƒCƒOƒŠ[ƒ“
+ã‚²ã‚¤ã‚°ãƒªãƒ¼ãƒ³
 gay green
 #5C700A
-ƒs[ƒOƒŠ[ƒ“
+ãƒ”ãƒ¼ã‚°ãƒªãƒ¼ãƒ³
 pea green
 #93B17D
-ƒXƒvƒŠƒ“ƒO ƒOƒŠ[ƒ“
+ã‚¹ãƒ—ãƒªãƒ³ã‚° ã‚°ãƒªãƒ¼ãƒ³
 spring green
 #B4CB5E
-ƒEƒBƒ[ ƒOƒŠ[ƒ“
+ã‚¦ã‚£ãƒ­ãƒ¼ ã‚°ãƒªãƒ¼ãƒ³
 willow green
 #95875A
-ƒS[ƒfƒB ƒOƒŠ[ƒ“
+ã‚´ãƒ¼ãƒ‡ã‚£ ã‚°ãƒªãƒ¼ãƒ³
 godey green
 #507A49
-ƒ‚ƒX ƒOƒŠ[ƒ“
+ãƒ¢ã‚¹ ã‚°ãƒªãƒ¼ãƒ³
 moth green
 #7B7C46
-ƒŠƒ“ƒJ[ƒ“ ƒOƒŠ[ƒ“
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ ã‚°ãƒªãƒ¼ãƒ³
 lincoln green
 #615C41
-ƒIƒŠ[ƒu ƒOƒŠ[ƒ“
+ã‚ªãƒªãƒ¼ãƒ– ã‚°ãƒªãƒ¼ãƒ³
 olive green
 #3B3F10
-ƒtƒ‰ƒ[ƒhƒŠƒ…[ƒXƒOƒŠ[ƒ“
+ãƒ•ãƒ©ãƒ¯ãƒ¼ãƒ‰ãƒªãƒ¥ãƒ¼ã‚¹ã‚°ãƒªãƒ¼ãƒ³
 flower drew green
 #5C7449
-ƒVƒ…ƒ”ƒ@ƒCƒ“ƒtƒ‹ƒgƒOƒŠ[ƒ“
+ã‚·ãƒ¥ãƒ´ã‚¡ã‚¤ãƒ³ãƒ•ãƒ«ãƒˆã‚°ãƒªãƒ¼ãƒ³
 schweinfurt green
 #00AE42
-ƒ~ƒ“ƒg
+ãƒŸãƒ³ãƒˆ
 mint
 #006252
-ƒNƒ[ƒ€ ƒOƒŠ[ƒ“
+ã‚¯ãƒ­ãƒ¼ãƒ  ã‚°ãƒªãƒ¼ãƒ³
 chrome green
 #00885F
-ƒ}ƒ‰ƒJƒCƒg ƒOƒŠ[ƒ“
+ãƒžãƒ©ã‚«ã‚¤ãƒˆ ã‚°ãƒªãƒ¼ãƒ³
 malachite green
 #347655
-ƒ”ƒFƒ‹ƒfƒBƒOƒŠ
+ãƒ´ã‚§ãƒ«ãƒ‡ã‚£ã‚°ãƒª
 verdigris
 #5BA080
-ƒ~ƒXƒ‹ƒg[
+ãƒŸã‚¹ãƒ«ãƒˆãƒ¼
 mistletoe
 #576A3E
-ƒnƒ“ƒ^[ ƒOƒŠ[ƒ“
+ãƒãƒ³ã‚¿ãƒ¼ ã‚°ãƒªãƒ¼ãƒ³
 hunter green
 #0E291B
-ƒ{ƒgƒ‹ ƒOƒŠ[ƒ“
+ãƒœãƒˆãƒ« ã‚°ãƒªãƒ¼ãƒ³
 bottle green
 #0B2F31
-ƒ}[ƒgƒ‹ ƒOƒŠ[ƒ“
+ãƒžãƒ¼ãƒˆãƒ« ã‚°ãƒªãƒ¼ãƒ³
 myrtle green
 #273931
-ƒzƒŠƒ]ƒ“ ƒuƒ‹[
+ãƒ›ãƒªã‚¾ãƒ³ ãƒ–ãƒ«ãƒ¼
 horizon blue
 #B0E2F6
-ƒiƒCƒ‹ ƒuƒ‹[
+ãƒŠã‚¤ãƒ« ãƒ–ãƒ«ãƒ¼
 nile blue
 #418C8C
-ƒxƒr[ ƒuƒ‹[
+ãƒ™ãƒ“ãƒ¼ ãƒ–ãƒ«ãƒ¼
 baby blue
 #CBECF6
-ƒPƒ“ƒuƒŠƒbƒW ƒuƒ‹[
+ã‚±ãƒ³ãƒ–ãƒªãƒƒã‚¸ ãƒ–ãƒ«ãƒ¼
 cambridge blue
 #54B6BE
-ƒXƒJƒC ƒuƒ‹[
+ã‚¹ã‚«ã‚¤ ãƒ–ãƒ«ãƒ¼
 sky blue
 #8BAFDB
-ƒVƒŒƒXƒeƒBƒAƒ‹ ƒuƒ‹[
+ã‚·ãƒ¬ã‚¹ãƒ†ã‚£ã‚¢ãƒ« ãƒ–ãƒ«ãƒ¼
 celestial blue
 #496F8E
-ƒ[ƒjƒXƒuƒ‹[
+ã‚¼ãƒ‹ã‚¹ãƒ–ãƒ«ãƒ¼
 zenith blue
 #999DB9
-ƒ”ƒFƒjƒbƒg
+ãƒ´ã‚§ãƒ‹ãƒƒãƒˆ
 vnet
 #02977D
-ƒAƒNƒA ƒ}ƒŠƒ“
+ã‚¢ã‚¯ã‚¢ ãƒžãƒªãƒ³
 aqua marine
 #327585
-ƒ^[ƒRƒCƒY
+ã‚¿ãƒ¼ã‚³ã‚¤ã‚º
 turquoise
 #0097A2
-ƒ|[ƒXƒŠƒ“ ƒuƒ‹[
+ãƒãƒ¼ã‚¹ãƒªãƒ³ ãƒ–ãƒ«ãƒ¼
 porcelain blue
 #5E94A5
-ƒtƒH[ƒQƒbƒg ƒ~[ ƒmƒbƒg
+ãƒ•ã‚©ãƒ¼ã‚²ãƒƒãƒˆ ãƒŸãƒ¼ ãƒŽãƒƒãƒˆ
 forget me not
 #66B7D8
-ƒpƒEƒ_[ ƒuƒ‹[
+ãƒ‘ã‚¦ãƒ€ãƒ¼ ãƒ–ãƒ«ãƒ¼
 powder blue
 #E6F6FC
-ƒs[ƒRƒbƒN
+ãƒ”ãƒ¼ã‚³ãƒƒã‚¯
 peacock
 #00586D
-ƒGƒWƒvƒVƒAƒ“ ƒuƒ‹[
+ã‚¨ã‚¸ãƒ—ã‚·ã‚¢ãƒ³ ãƒ–ãƒ«ãƒ¼
 egyptian blue
 #006785
-ƒoƒCƒX
+ãƒã‚¤ã‚¹
 vice
 #427596
-ƒEƒFƒbƒWƒEƒbƒh ƒuƒ‹[
+ã‚¦ã‚§ãƒƒã‚¸ã‚¦ãƒƒãƒ‰ ãƒ–ãƒ«ãƒ¼
 wedgewood blue
 #505B8C
-ƒuƒ‹[ƒGƒbƒg
+ãƒ–ãƒ«ãƒ¼ã‚¨ãƒƒãƒˆ
 bluette
 #5782A1
-ƒnƒCƒhƒŒƒ“ƒWƒA ƒuƒ‹[
+ãƒã‚¤ãƒ‰ãƒ¬ãƒ³ã‚¸ã‚¢ ãƒ–ãƒ«ãƒ¼
 hydrangea blue
 #325E9A
-ƒTƒCƒAƒ“ ƒuƒ‹[
+ã‚µã‚¤ã‚¢ãƒ³ ãƒ–ãƒ«ãƒ¼
 cyan blue
 #5DBBB8
-ƒRƒoƒ‹ƒg ƒuƒ‹[
+ã‚³ãƒãƒ«ãƒˆ ãƒ–ãƒ«ãƒ¼
 cobalt blue
 #1581C5
-ƒXƒ}ƒ‹ƒg
+ã‚¹ãƒžãƒ«ãƒˆ
 smalt
 #3A4789
-ƒTƒtƒ@ƒCƒA ƒuƒ‹[
+ã‚µãƒ•ã‚¡ã‚¤ã‚¢ ãƒ–ãƒ«ãƒ¼
 sapphire blue
 #004D6A
-ƒEƒ‹ƒgƒ‰ƒ}ƒŠƒ“
+ã‚¦ãƒ«ãƒˆãƒ©ãƒžãƒªãƒ³
 ultramarine
 #2D3289
-ƒvƒ‹ƒVƒAƒ“ ƒuƒ‹[
+ãƒ—ãƒ«ã‚·ã‚¢ãƒ³ ãƒ–ãƒ«ãƒ¼
 prussian blue
 #392C87
-ƒƒCƒ„ƒ‹ ƒuƒ‹[
+ãƒ­ã‚¤ãƒ¤ãƒ« ãƒ–ãƒ«ãƒ¼
 royal blue
 #004E8A
-ƒK[ƒ^[ ƒuƒ‹[
+ã‚¬ãƒ¼ã‚¿ãƒ¼ ãƒ–ãƒ«ãƒ¼
 garter blue
 #00538D
-ƒfƒ‹ƒtƒg ƒuƒ‹[
+ãƒ‡ãƒ«ãƒ•ãƒˆ ãƒ–ãƒ«ãƒ¼
 delft blue
 #002D64
-ƒ}ƒŠƒ“ ƒuƒ‹[
+ãƒžãƒªãƒ³ ãƒ–ãƒ«ãƒ¼
 marine blue
 #1847AA
-ƒlƒCƒ”ƒBƒuƒ‹[
+ãƒã‚¤ãƒ´ã‚£ãƒ–ãƒ«ãƒ¼
 navy blue
 #001D3A
-ƒ~ƒbƒhƒiƒCƒg ƒuƒ‹[
+ãƒŸãƒƒãƒ‰ãƒŠã‚¤ãƒˆ ãƒ–ãƒ«ãƒ¼
 midnight blue
 #1A1F47
-ƒ‰‚×ƒ“ƒ_[
+ãƒ©ã¹ãƒ³ãƒ€ãƒ¼
 lavender
 #AB85B2
-ƒEƒBƒXƒ^ƒŠƒA
+ã‚¦ã‚£ã‚¹ã‚¿ãƒªã‚¢
 wisteria
 #7B639C
-ƒ‰ƒCƒ‰ƒbƒN
+ãƒ©ã‚¤ãƒ©ãƒƒã‚¯
 lilac
 #D191B4
-ƒ}ƒƒE
+ãƒžãƒ­ã‚¦
 mallow
 #C6639E
-ƒVƒXƒ‹
+ã‚·ã‚¹ãƒ«
 thistle
 #822759
-ƒ~ƒlƒ‰ƒ‹ ƒoƒCƒIƒŒƒbƒg
+ãƒŸãƒãƒ©ãƒ« ãƒã‚¤ã‚ªãƒ¬ãƒƒãƒˆ
 mineral violet
 #926A90
-ƒRƒoƒ‹ƒg ƒoƒCƒIƒŒƒbƒg
+ã‚³ãƒãƒ«ãƒˆ ãƒã‚¤ã‚ªãƒ¬ãƒƒãƒˆ
 cobalt violet
 #A269A8
-ƒp[ƒvƒ‹
+ãƒ‘ãƒ¼ãƒ—ãƒ«
 purple
 #4C045A
-ƒAƒƒWƒXƒg
+ã‚¢ãƒ¡ã‚¸ã‚¹ãƒˆ
 amethyst
 #634669
-ƒAƒƒWƒXƒg ƒp[ƒvƒ‹
+ã‚¢ãƒ¡ã‚¸ã‚¹ãƒˆ ãƒ‘ãƒ¼ãƒ—ãƒ«
 amaranth purple
 #993945
-ƒ}ƒ[ƒ“ƒ^
+ãƒžã‚¼ãƒ³ã‚¿
 magenta
 #DE0067
-ƒpƒ“ƒW[
+ãƒ‘ãƒ³ã‚¸ãƒ¼
 pansy
 #35178C
-ƒtƒ…[ƒVƒƒ
+ãƒ•ãƒ¥ãƒ¼ã‚·ãƒ£
 fuchsia
 #AE006D
-ƒAƒRƒiƒCƒg ƒoƒCƒIƒŒƒbƒg
+ã‚¢ã‚³ãƒŠã‚¤ãƒˆ ãƒã‚¤ã‚ªãƒ¬ãƒƒãƒˆ
 aconite violet
 #661065
-ƒ}[ƒŠ[
+ãƒžãƒ¼ãƒªãƒ¼
 murray
 #2E141C
-ƒwƒŠƒIƒgƒ[ƒv
+ãƒ˜ãƒªã‚ªãƒˆãƒ­ãƒ¼ãƒ—
 heliotrope
 #75106D
-ƒvƒ‰ƒ€ ƒp[ƒvƒ‹
+ãƒ—ãƒ©ãƒ  ãƒ‘ãƒ¼ãƒ—ãƒ«
 plum purple
 #361A33
-ƒ‰ƒYƒxƒŠ[
+ãƒ©ã‚ºãƒ™ãƒªãƒ¼
 raspberry
 #8A004F
-ƒŒ[ƒYƒ“
+ãƒ¬ãƒ¼ã‚ºãƒ³
 raisins
 #491830
-ƒƒCƒ“
+ãƒ¯ã‚¤ãƒ³
 wine
 #6B0032
-ƒzƒƒCƒg ƒŒƒh
+ãƒ›ãƒ¯ã‚¤ãƒˆ ãƒ¬ãƒ‰
 white lead
 #F9FBF9
-ƒAƒ‰ƒoƒXƒ^[
+ã‚¢ãƒ©ãƒã‚¹ã‚¿ãƒ¼
 alabaster
 #FCDFD4
-ƒ~ƒ‹ƒN ƒzƒƒCƒg
+ãƒŸãƒ«ã‚¯ ãƒ›ãƒ¯ã‚¤ãƒˆ
 milk white
 #FDFAED
-ƒVƒ‹ƒo[
+ã‚·ãƒ«ãƒãƒ¼
 silver
 #B5B9BC
-ƒTƒ“ƒh
+ã‚µãƒ³ãƒ‰
 sand
 #A69278
-ƒAƒbƒVƒ… ƒOƒŒƒC
+ã‚¢ãƒƒã‚·ãƒ¥ ã‚°ãƒ¬ã‚¤
 ash grey
 #C2B799
-ƒXƒ‚[ƒN ƒOƒŒƒC
+ã‚¹ãƒ¢ãƒ¼ã‚¯ ã‚°ãƒ¬ã‚¤
 smoke grey
 #83857A
-ƒp[ƒ‹ ƒOƒŠ[ƒ“
+ãƒ‘ãƒ¼ãƒ« ã‚°ãƒªãƒ¼ãƒ³
 pearl green
 #C2CEBA
-ƒ}ƒEƒX ƒOƒŒƒC
+ãƒžã‚¦ã‚¹ ã‚°ãƒ¬ã‚¤
 mouse grey
 #777777
-ƒ_ƒu ƒOƒŒƒC
+ãƒ€ãƒ– ã‚°ãƒ¬ã‚¤
 dove gray
 #987C84
-ƒ~ƒXƒg
+ãƒŸã‚¹ãƒˆ
 mist
 #AF9090
-ƒOƒ‰ƒtƒ@ƒCƒg
+ã‚°ãƒ©ãƒ•ã‚¡ã‚¤ãƒˆ
 graphite
 #000000
-ƒO[ƒYƒOƒŒƒC
+ã‚°ãƒ¼ã‚ºã‚°ãƒ¬ã‚¤
 goose gray
 #323934

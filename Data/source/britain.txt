@@ -1,984 +1,984 @@
-ƒxƒr[ ƒsƒ“ƒN
+ãƒ™ãƒ“ãƒ¼ ãƒ”ãƒ³ã‚¯
 Baby Pink
 #FFC6D6
-ƒVƒFƒ‹ ƒsƒ“ƒN
+ã‚·ã‚§ãƒ« ãƒ”ãƒ³ã‚¯
 Shell Pink
 #FFBDB3
-ƒtƒŒƒbƒVƒ… ƒsƒ“ƒN
+ãƒ•ãƒ¬ãƒƒã‚·ãƒ¥ ãƒ”ãƒ³ã‚¯
 Fresh Pink
 #F2D5CC
-ƒpƒXƒeƒ‹ ƒsƒ“ƒN
+ãƒ‘ã‚¹ãƒ†ãƒ« ãƒ”ãƒ³ã‚¯
 Pastel Pink
 #FC9DB8
-ƒ[ƒY ƒsƒ“ƒN
+ãƒ­ãƒ¼ã‚º ãƒ”ãƒ³ã‚¯
 Rose Pink
 #F55064
-ƒsƒ“ƒN
+ãƒ”ãƒ³ã‚¯
 Pink
 #DFAEB1
-ƒtƒŒƒ“ƒ` ƒ[ƒY
+ãƒ•ãƒ¬ãƒ³ãƒ ãƒ­ãƒ¼ã‚º
 French Rose
 #EF8184
-ƒs[ƒ` ƒuƒƒbƒTƒ€
+ãƒ”ãƒ¼ãƒ ãƒ–ãƒ­ãƒƒã‚µãƒ 
 Peach Blossam
 #D5C1CE
-ƒ[ƒ^ƒX
+ãƒ­ãƒ¼ã‚¿ã‚¹
 Lotus
 #CF8878
-ƒeƒB[ ƒ[ƒY
+ãƒ†ã‚£ãƒ¼ ãƒ­ãƒ¼ã‚º
 Tea Rose
 #D8B197
-ƒT[ƒ‚ƒ“ ƒsƒ“ƒN
+ã‚µãƒ¼ãƒ¢ãƒ³ ãƒ”ãƒ³ã‚¯
 Salmon Pink
 #FF9C8C
-ƒI[ƒƒ‰
+ã‚ªãƒ¼ãƒ­ãƒ©
 Aurora
 #FFCEC6
-ƒ”ƒ@ƒCƒiƒX
+ãƒ´ã‚¡ã‚¤ãƒŠã‚¹
 Vinous
 #B1988F
-ƒRƒXƒ‚ƒX
+ã‚³ã‚¹ãƒ¢ã‚¹
 Cosmos
 #F39AAB
-ƒR[ƒŠƒ“ƒVƒAƒ“ ƒsƒ“ƒN
+ã‚³ãƒ¼ãƒªãƒ³ã‚·ã‚¢ãƒ³ ãƒ”ãƒ³ã‚¯
 Corinthian Pink
 #C49793
-ƒ`ƒFƒŠ[ ƒsƒ“ƒN
+ãƒã‚§ãƒªãƒ¼ ãƒ”ãƒ³ã‚¯
 Cherry Pink
 #F05187
-ƒtƒNƒVƒ@ ƒsƒ“ƒN
+ãƒ•ã‚¯ã‚·ã‚¡ ãƒ”ãƒ³ã‚¯
 Fuchsia Pink
 #FC9DB8
-ƒ_ƒtƒj[ ƒsƒ“ƒN
+ãƒ€ãƒ•ãƒ‹ãƒ¼ ãƒ”ãƒ³ã‚¯
 Daphne Pink
 #A26168
-ƒJ[ƒl[ƒVƒ‡ƒ“
+ã‚«ãƒ¼ãƒãƒ¼ã‚·ãƒ§ãƒ³
 Carnation
 #D37A83
-ƒVƒFƒŠƒ“ƒv ƒsƒ“ƒN
+ã‚·ã‚§ãƒªãƒ³ãƒ— ãƒ”ãƒ³ã‚¯
 Shrimp Pink
 #DC7563
-ƒR[ƒ‰ƒ‹ ƒsƒ“ƒN
+ã‚³ãƒ¼ãƒ©ãƒ« ãƒ”ãƒ³ã‚¯
 Coral Pink
 #FF9888
-ƒ[ƒY ƒ|ƒ“ƒpƒhƒEƒ‹
+ãƒ­ãƒ¼ã‚º ãƒãƒ³ãƒ‘ãƒ‰ã‚¦ãƒ«
 Rose Pompadour
 #A66061
-ƒGƒ“ƒpƒCƒA ƒ[ƒY
+ã‚¨ãƒ³ãƒ‘ã‚¤ã‚¢ ãƒ­ãƒ¼ã‚º
 Empire Rose
 #F08687
-ƒtƒ‰ƒ~ƒ“ƒS
+ãƒ•ãƒ©ãƒŸãƒ³ã‚´
 Flamingo
 #EF8865
-ƒGƒgƒ‰ƒXƒJƒ“ ƒ[ƒY
+ã‚¨ãƒˆãƒ©ã‚¹ã‚«ãƒ³ ãƒ­ãƒ¼ã‚º
 Etruscan Rose
 #B0755C
-ƒAƒbƒVƒY ƒIƒu ƒ[ƒY
+ã‚¢ãƒƒã‚·ã‚º ã‚ªãƒ– ãƒ­ãƒ¼ã‚º
 ashes of rose
 #B86D77
-ƒ[ƒY ƒŒƒbƒh
+ãƒ­ãƒ¼ã‚º ãƒ¬ãƒƒãƒ‰
 rose red
 #E31262
-ƒJƒƒŠƒA
+ã‚«ãƒ¡ãƒªã‚¢
 camellia
 #E85466
-ƒ[ƒ‰ƒjƒEƒ€
+ã‚¼ãƒ©ãƒ‹ã‚¦ãƒ 
 geranium
 #E22838
-ƒ`ƒFƒŠ[
+ãƒã‚§ãƒªãƒ¼
 cherry
 #D00026
-ƒVƒOƒiƒ‹ ƒŒƒbƒh
+ã‚·ã‚°ãƒŠãƒ« ãƒ¬ãƒƒãƒ‰
 signal red
 #E0002A
-ƒ†ƒjƒIƒ“ƒWƒƒƒbƒOƒŒƒbƒh
+ãƒ¦ãƒ‹ã‚ªãƒ³ã‚¸ãƒ£ãƒƒã‚°ãƒ¬ãƒƒãƒ‰
 signal red
 #E60032
-ƒJ[ƒ}ƒCƒ“
+ã‚«ãƒ¼ãƒžã‚¤ãƒ³
 carmine
 #E10041
-ƒ^[ƒL[ ƒŒƒbƒh
+ã‚¿ãƒ¼ã‚­ãƒ¼ ãƒ¬ãƒƒãƒ‰
 turkey red
 #B21D33
-ƒ|ƒs[ƒŒƒbƒh
+ãƒãƒ”ãƒ¼ãƒ¬ãƒƒãƒ‰
 poppy red
 #CE382B
-ƒJ[ƒfƒBƒiƒ‹
+ã‚«ãƒ¼ãƒ‡ã‚£ãƒŠãƒ«
 cardinal
 #891E34
-ƒNƒŠƒ€ƒXƒ“ ƒŒ[ƒL
+ã‚¯ãƒªãƒ ã‚¹ãƒ³ ãƒ¬ãƒ¼ã‚­
 crimson rake
 #AA0044
-ƒ|ƒƒOƒ‰ƒlƒCƒg
+ãƒãƒ¡ã‚°ãƒ©ãƒã‚¤ãƒˆ
 Pomegranate
 #CF498F
-ƒVƒiƒo[
+ã‚·ãƒŠãƒãƒ¼
 cinnabar
 #ED2F1F
-ƒZƒ“ƒgƒpƒgƒŠƒbƒNƒNƒƒX
+ã‚»ãƒ³ãƒˆãƒ‘ãƒˆãƒªãƒƒã‚¯ã‚¯ãƒ­ã‚¹
 Cent Patrick cross
 #FF0000
-ƒgƒ}ƒg ƒŒƒbƒh
+ãƒˆãƒžãƒˆ ãƒ¬ãƒƒãƒ‰
 tomato red
 #C13321
-ƒ‹ƒr[
+ãƒ«ãƒ“ãƒ¼
 ruby
 #AE003A
-ƒCƒ“ƒOƒŠƒbƒVƒ… ƒŒƒbƒh
+ã‚¤ãƒ³ã‚°ãƒªãƒƒã‚·ãƒ¥ ãƒ¬ãƒƒãƒ‰
 english red
 #D47467
-ƒIƒNƒTƒCƒhƒŒƒbƒh
+ã‚ªã‚¯ã‚µã‚¤ãƒ‰ãƒ¬ãƒƒãƒ‰
 oxide red
 #7F3330
-ƒIƒbƒNƒXƒuƒ‰ƒbƒh ƒŒƒbƒh
+ã‚ªãƒƒã‚¯ã‚¹ãƒ–ãƒ©ãƒƒãƒ‰ ãƒ¬ãƒƒãƒ‰
 Oxblood Red
 #7B2B47
-ƒ{[ƒ‹
+ãƒœãƒ¼ãƒ«
 Bole
 #9B5033
-ƒo[ƒKƒ“ƒfƒB
+ãƒãƒ¼ã‚¬ãƒ³ãƒ‡ã‚£
 burgundy
 #3C1117
-ƒ}ƒzƒKƒj[
+ãƒžãƒ›ã‚¬ãƒ‹ãƒ¼
 mahogany
 #4B1016
-ƒtƒŠ[
+ãƒ•ãƒªãƒ¼
 Flea
 #6A1A2E
-ƒIƒp[ƒ‹ ƒs[ƒ`
+ã‚ªãƒ‘ãƒ¼ãƒ« ãƒ”ãƒ¼ãƒ
 opal peach
 #F0BCB7
-ƒtƒŒƒbƒVƒ…
+ãƒ•ãƒ¬ãƒƒã‚·ãƒ¥
 flesh
 #FFC8AB
-ƒAƒvƒŠƒRƒbƒg
+ã‚¢ãƒ—ãƒªã‚³ãƒƒãƒˆ
 apricot
 #F79469
-ƒTƒ“ƒZƒbƒg
+ã‚µãƒ³ã‚»ãƒƒãƒˆ
 sunset
 #D4A56F
-ƒTƒ“ƒo[ƒ“
+ã‚µãƒ³ãƒãƒ¼ãƒ³
 sunburn
 #AF7C54
-ƒtƒ@ƒCƒA[ ƒŒƒbƒh
+ãƒ•ã‚¡ã‚¤ã‚¢ãƒ¼ ãƒ¬ãƒƒãƒ‰
 fire red
 #E23724
-ƒLƒƒƒƒbƒg ƒIƒŒƒ“ƒW
+ã‚­ãƒ£ãƒ­ãƒƒãƒˆ ã‚ªãƒ¬ãƒ³ã‚¸
 carrot orange
 #E97117
-ƒ^ƒ“ƒWƒFƒŠƒ“
+ã‚¿ãƒ³ã‚¸ã‚§ãƒªãƒ³
 tangerine
 #DD562E
-ƒIƒŒƒ“ƒW
+ã‚ªãƒ¬ãƒ³ã‚¸
 orange
 #FD680D
-ƒƒCƒY
+ãƒ¡ã‚¤ã‚º
 maize
 #EBAC85
-ƒNƒ[ƒ€ ƒIƒŒƒ“ƒW
+ã‚¯ãƒ­ãƒ¼ãƒ  ã‚ªãƒ¬ãƒ³ã‚¸
 chrome orange
 #FE6D0D
-ƒAƒ“ƒo[
+ã‚¢ãƒ³ãƒãƒ¼
 amber
 #BC753B
-ƒ‚ƒƒbƒR ƒŒƒbƒh
+ãƒ¢ãƒ­ãƒƒã‚³ ãƒ¬ãƒƒãƒ‰
 morocco red
 #86002C
-ƒLƒƒƒ‰ƒƒ‹
+ã‚­ãƒ£ãƒ©ãƒ¡ãƒ«
 caramel
 #D47643
-ƒ^ƒ“
+ã‚¿ãƒ³
 tan
 #DE772C
-ƒgƒp[ƒY
+ãƒˆãƒ‘ãƒ¼ã‚º
 topaz
 #C47C50
-ƒ€[ƒ“ƒ‰ƒCƒg
+ãƒ ãƒ¼ãƒ³ãƒ©ã‚¤ãƒˆ
 moon light
 #FCD8B1
-ƒx[ƒWƒ…
+ãƒ™ãƒ¼ã‚¸ãƒ¥
 beige
 #E3B797
-ƒtƒ‰ƒbƒNƒX
+ãƒ•ãƒ©ãƒƒã‚¯ã‚¹
 flax
 #EBC6A9
-ƒuƒƒ“ƒh
+ãƒ–ãƒ­ãƒ³ãƒ‰
 blond
 #E0B188
-ƒJƒtƒF ƒI ƒŒ
+ã‚«ãƒ•ã‚§ ã‚ª ãƒ¬
 cafe au lait
 #C88659
-ƒrƒXƒPƒbƒg
+ãƒ“ã‚¹ã‚±ãƒƒãƒˆ
 biscuit
 #FFB989
-ƒo[ƒ`ƒƒ“ƒg
+ãƒãƒ¼ãƒãƒ¡ãƒ³ãƒˆ
 parchment
 #C0AB8A
-ƒVƒƒƒ“ƒp[ƒjƒ…
+ã‚·ãƒ£ãƒ³ãƒ‘ãƒ¼ãƒ‹ãƒ¥
 champagne
 #E7BF7C
-ƒLƒƒƒƒ‹
+ã‚­ãƒ£ãƒ¡ãƒ«
 camel
 #B57A59
-ƒOƒŒ[ƒWƒ…
+ã‚°ãƒ¬ãƒ¼ã‚¸ãƒ¥
 grege
 #9E756C
-ƒtƒH[ƒ“
+ãƒ•ã‚©ãƒ¼ãƒ³
 fawn
 #AD775A
-ƒVƒƒƒ‚ƒA
+ã‚·ãƒ£ãƒ¢ã‚¢
 chamois
 #F7C2C2
-ƒo[ƒ“ƒg ƒVƒGƒ“ƒi
+ãƒãƒ¼ãƒ³ãƒˆ ã‚·ã‚¨ãƒ³ãƒŠ
 burnt sienna
 #B75237
-ƒuƒŠƒbƒN ƒŒƒbƒh
+ãƒ–ãƒªãƒƒã‚¯ ãƒ¬ãƒƒãƒ‰
 brick red
 #9C302A
-ƒuƒ‰ƒEƒ“
+ãƒ–ãƒ©ã‚¦ãƒ³
 brown
 #5C3418
-ƒ[ƒVƒFƒ“ƒi
+ãƒ­ãƒ¼ã‚·ã‚§ãƒ³ãƒŠ
 raw sienna
 #86410B
-ƒ[ƒAƒ“ƒo[
+ãƒ­ãƒ¼ã‚¢ãƒ³ãƒãƒ¼
 raw umber
 #854E38
-ƒJƒtƒF
+ã‚«ãƒ•ã‚§
 Caffee
 #604A2B
-ƒ}ƒ‹[ƒ“
+ãƒžãƒ«ãƒ¼ãƒ³
 maroon
 #56001D
-ƒƒCƒtƒFƒCƒA ƒ[ƒY
+ãƒ¡ã‚¤ãƒ•ã‚§ã‚¤ã‚¢ ãƒ­ãƒ¼ã‚º
 maroon
 #670026
-ƒŠƒo[
+ãƒªãƒãƒ¼
 liver
 #8B6165
-ƒwƒ“ƒi
+ãƒ˜ãƒ³ãƒŠ
 henna
 #9A1912
-ƒ‰ƒZƒbƒg
+ãƒ©ã‚»ãƒƒãƒˆ
 russet
 #AD5F47
-ƒ`ƒFƒXƒiƒbƒg ƒuƒ‰ƒEƒ“
+ãƒã‚§ã‚¹ãƒŠãƒƒãƒˆ ãƒ–ãƒ©ã‚¦ãƒ³
 chestnut brown
 #68412F
-ƒuƒ‹ƒlƒbƒg
+ãƒ–ãƒ«ãƒãƒƒãƒˆ
 Brunette
 #87745C
-ƒ`ƒ‡ƒRƒŒ[ƒg
+ãƒãƒ§ã‚³ãƒ¬ãƒ¼ãƒˆ
 chocolate
 #3E1F0F
-ƒZƒsƒA
+ã‚»ãƒ”ã‚¢
 sepia
 #402923
-ƒ”ƒ@ƒ“ƒ_ƒCƒN ƒuƒ‰ƒEƒ“
+ãƒ´ã‚¡ãƒ³ãƒ€ã‚¤ã‚¯ ãƒ–ãƒ©ã‚¦ãƒ³
 vandike brown
 #7F5139
-ƒAƒCƒ{ƒŠ[
+ã‚¢ã‚¤ãƒœãƒªãƒ¼
 ivory
 #F1E1CE
-ƒ”ƒ@ƒjƒ‰
+ãƒ´ã‚¡ãƒ‹ãƒ©
 vanilla
 #E1C79A
-ƒŒƒOƒz[ƒ“
+ãƒ¬ã‚°ãƒ›ãƒ¼ãƒ³
 leghorn
 #E7C59C
-ƒNƒŠ[ƒ€
+ã‚¯ãƒªãƒ¼ãƒ 
 cream
 #FFF4DC
-ƒXƒgƒ[
+ã‚¹ãƒˆãƒ­ãƒ¼
 straw
 #F2DB9C
-ƒ}ƒVƒRƒbƒg
+ãƒžã‚·ã‚³ãƒƒãƒˆ
 massicot
 #FCCDA2
-ƒTƒ‹ƒtƒ@[ ƒCƒGƒ[
+ã‚µãƒ«ãƒ•ã‚¡ãƒ¼ ã‚¤ã‚¨ãƒ­ãƒ¼
 sulphar yellow
 #FFD93C
-ƒ_ƒCƒ„[ƒYƒuƒ‹[ƒ€
+ãƒ€ã‚¤ãƒ¤ãƒ¼ã‚ºãƒ–ãƒ«ãƒ¼ãƒ 
 dyres broom
 #C5BE82
-ƒ~ƒ‚ƒU
+ãƒŸãƒ¢ã‚¶
 mimosa
 #FFCD25
-ƒl[ƒvƒ‹ƒX ƒCƒGƒ[
+ãƒãƒ¼ãƒ—ãƒ«ã‚¹ ã‚¤ã‚¨ãƒ­ãƒ¼
 naples yellow
 #FFBC7B
-ƒnƒj[ ƒCƒGƒ[
+ãƒãƒ‹ãƒ¼ ã‚¤ã‚¨ãƒ­ãƒ¼
 honey yellow
 #B68954
-ƒKƒ“ƒ{[ƒW
+ã‚¬ãƒ³ãƒœãƒ¼ã‚¸
 gamboge
 #E2B55B
-ƒI[ƒsƒƒ“ƒg
+ã‚ªãƒ¼ãƒ”ãƒ¡ãƒ³ãƒˆ
 Orpiment
 #D9B453
-ƒEƒFƒ‹ƒh
+ã‚¦ã‚§ãƒ«ãƒ‰
 weld
 #C1BC55
-ƒCƒ“ƒfƒBƒAƒ“ ƒCƒGƒ[
+ã‚¤ãƒ³ãƒ‡ã‚£ã‚¢ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 indian yellow
 #FF9700
-ƒ_ƒtƒ@ƒfƒBƒ‹ ƒCƒGƒ[
+ãƒ€ãƒ•ã‚¡ãƒ‡ã‚£ãƒ« ã‚¤ã‚¨ãƒ­ãƒ¼
 daffodil yellow
 #EDAA5A
-ƒTƒtƒ‰ƒ“ ƒCƒGƒ[
+ã‚µãƒ•ãƒ©ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 saffran yellow
 #FFAF00
-ƒNƒ[ƒ€ ƒCƒGƒ[
+ã‚¯ãƒ­ãƒ¼ãƒ  ã‚¤ã‚¨ãƒ­ãƒ¼
 chrome yellow
 #F4C600
-ƒˆ[ƒN ƒCƒGƒ[
+ãƒ¨ãƒ¼ã‚¯ ã‚¤ã‚¨ãƒ­ãƒ¼
 yolk yellow
 #F3B927
-ƒJƒiƒŠ[
+ã‚«ãƒŠãƒªãƒ¼
 canary
 #FFD718
-ƒoƒiƒi
+ãƒãƒŠãƒŠ
 banana
 #F5D300
-ƒŒƒ‚ƒ“ ƒCƒGƒ[
+ãƒ¬ãƒ¢ãƒ³ ã‚¤ã‚¨ãƒ­ãƒ¼
 lemon yellow
 #FEC300
-ƒ}ƒXƒ^[ƒh
+ãƒžã‚¹ã‚¿ãƒ¼ãƒ‰
 mustard
 #E3AB0D
-ƒƒ“ƒhƒ“ ƒS[ƒ‹ƒh
+ãƒ­ãƒ³ãƒ‰ãƒ³ ã‚´ãƒ¼ãƒ«ãƒ‰
 mustard
 #CC7F0F
-ƒVƒƒƒgƒ‹[ƒY ƒCƒGƒ[
+ã‚·ãƒ£ãƒˆãƒ«ãƒ¼ã‚º ã‚¤ã‚¨ãƒ­ãƒ¼
 chartreuse yellow
 #EADE5D
-ƒ†ƒjƒIƒ“ ƒWƒƒƒbƒO
+ãƒ¦ãƒ‹ã‚ªãƒ³ ã‚¸ãƒ£ãƒƒã‚°
 union jug
 #F0E889
-ƒS[ƒ‹ƒh
+ã‚´ãƒ¼ãƒ«ãƒ‰
 gold
 #A37E00
-ƒOƒŠ[ƒVƒ@ƒ“ ƒ[ƒY
+ã‚°ãƒªãƒ¼ã‚·ã‚¡ãƒ³ ãƒ­ãƒ¼ã‚º
 grecian bronze
 #FA9685
-ƒIƒŠ[ƒu
+ã‚ªãƒªãƒ¼ãƒ–
 olive
 #584C0F
-ƒ‰ƒCƒ€ ƒOƒŠ[ƒ“
+ãƒ©ã‚¤ãƒ  ã‚°ãƒªãƒ¼ãƒ³
 lime green
 #CFD10C
-ƒV[ƒtƒH[ƒ€ ƒOƒŠ[ƒ“
+ã‚·ãƒ¼ãƒ•ã‚©ãƒ¼ãƒ  ã‚°ãƒªãƒ¼ãƒ³
 sea foam green
 #BDCE96
-ƒsƒXƒ^ƒ`ƒI ƒOƒŠ[ƒ“
+ãƒ”ã‚¹ã‚¿ãƒã‚ª ã‚°ãƒªãƒ¼ãƒ³
 bistachio Green
 #ABC789
-ƒiƒCƒg ƒOƒŠ[ƒ“
+ãƒŠã‚¤ãƒˆ ã‚°ãƒªãƒ¼ãƒ³
 night green
 #45AA31
-ƒOƒŠƒjƒbƒW
+ã‚°ãƒªãƒ‹ãƒƒã‚¸
 night green
 #4E9432
-ƒGƒbƒOƒVƒFƒ‹ ƒOƒŠ[ƒ“
+ã‚¨ãƒƒã‚°ã‚·ã‚§ãƒ« ã‚°ãƒªãƒ¼ãƒ³
 eggshell green
 #87AC9E
-ƒOƒ‰ƒX ƒOƒŠ[ƒ“
+ã‚°ãƒ©ã‚¹ ã‚°ãƒªãƒ¼ãƒ³
 grass green
 #96BE7B
-ƒOƒ[ƒJƒX
+ã‚°ãƒ­ãƒ¼ã‚«ã‚¹
 glaucas
 #B6BEA2
-ƒAƒbƒvƒ‹ ƒOƒŠ[ƒ“
+ã‚¢ãƒƒãƒ—ãƒ« ã‚°ãƒªãƒ¼ãƒ³
 apple green
 #97BE1C
-ƒQƒCƒOƒŠ[ƒ“
+ã‚²ã‚¤ã‚°ãƒªãƒ¼ãƒ³
 gay green
 #5C700A
-ƒs[ƒOƒŠ[ƒ“
+ãƒ”ãƒ¼ã‚°ãƒªãƒ¼ãƒ³
 pea green
 #93B17D
-ƒXƒvƒŠƒ“ƒO ƒOƒŠ[ƒ“
+ã‚¹ãƒ—ãƒªãƒ³ã‚° ã‚°ãƒªãƒ¼ãƒ³
 spring green
 #B4CB5E
-ƒEƒBƒ[ ƒOƒŠ[ƒ“
+ã‚¦ã‚£ãƒ­ãƒ¼ ã‚°ãƒªãƒ¼ãƒ³
 willow green
 #95875A
-ƒTƒEƒfƒB[ ƒOƒŠ[ƒ“
+ã‚µã‚¦ãƒ‡ã‚£ãƒ¼ ã‚°ãƒªãƒ¼ãƒ³
 Caudy Green
 #718451
-ƒ‚ƒX ƒOƒŠ[ƒ“
+ãƒ¢ã‚¹ ã‚°ãƒªãƒ¼ãƒ³
 moth green
 #7B7C46
-ƒŠƒ“ƒJ[ƒ“ ƒOƒŠ[ƒ“
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ ã‚°ãƒªãƒ¼ãƒ³
 lincoln green
 #615C41
-ƒIƒŠ[ƒu ƒOƒŠ[ƒ“
+ã‚ªãƒªãƒ¼ãƒ– ã‚°ãƒªãƒ¼ãƒ³
 olive green
 #3B3F10
-ƒtƒ‰ƒ[ƒhƒŠƒ…[ƒX
+ãƒ•ãƒ©ãƒ¯ãƒ¼ãƒ‰ãƒªãƒ¥ãƒ¼ã‚¹
 flower drew
 #5C7449
-ƒVƒ…ƒ”ƒ@ƒCƒ“ƒtƒ‹ƒg
+ã‚·ãƒ¥ãƒ´ã‚¡ã‚¤ãƒ³ãƒ•ãƒ«ãƒˆ
 schweinfurt
 #00AE42
-ƒ~ƒ“ƒg
+ãƒŸãƒ³ãƒˆ
 mint
 #006252
-ƒNƒ[ƒ€ ƒOƒŠ[ƒ“
+ã‚¯ãƒ­ãƒ¼ãƒ  ã‚°ãƒªãƒ¼ãƒ³
 chrome green
 #00885F
-ƒ}ƒ‰ƒJƒCƒg ƒOƒŠ[ƒ“
+ãƒžãƒ©ã‚«ã‚¤ãƒˆ ã‚°ãƒªãƒ¼ãƒ³
 malachite green
 #347655
-ƒ”ƒFƒ‹ƒfƒBƒOƒŠ
+ãƒ´ã‚§ãƒ«ãƒ‡ã‚£ã‚°ãƒª
 verdigris
 #5BA080
-ƒ~ƒXƒ‹ƒg[
+ãƒŸã‚¹ãƒ«ãƒˆãƒ¼
 mistletoe
 #576A3E
-ƒnƒ“ƒ^[ ƒOƒŠ[ƒ“
+ãƒãƒ³ã‚¿ãƒ¼ ã‚°ãƒªãƒ¼ãƒ³
 hunter green
 #0E291B
-ƒ{ƒgƒ‹ ƒOƒŠ[ƒ“
+ãƒœãƒˆãƒ« ã‚°ãƒªãƒ¼ãƒ³
 bottle green
 #0B2F31
-ƒ}[ƒgƒ‹ ƒOƒŠ[ƒ“
+ãƒžãƒ¼ãƒˆãƒ« ã‚°ãƒªãƒ¼ãƒ³
 myrtle green
 #273931
-ƒzƒŠƒ]ƒ“ ƒuƒ‹[
+ãƒ›ãƒªã‚¾ãƒ³ ãƒ–ãƒ«ãƒ¼
 horizon blue
 #B0E2F6
-ƒiƒCƒ‹ ƒuƒ‹[
+ãƒŠã‚¤ãƒ« ãƒ–ãƒ«ãƒ¼
 nile blue
 #418C8C
-ƒxƒr[ ƒuƒ‹[
+ãƒ™ãƒ“ãƒ¼ ãƒ–ãƒ«ãƒ¼
 baby blue
 #CBECF6
-ƒPƒ“ƒuƒŠƒbƒW ƒuƒ‹[
+ã‚±ãƒ³ãƒ–ãƒªãƒƒã‚¸ ãƒ–ãƒ«ãƒ¼
 cambridge blue
 #54B6BE
-ƒXƒJƒC ƒuƒ‹[
+ã‚¹ã‚«ã‚¤ ãƒ–ãƒ«ãƒ¼
 sky blue
 #8BAFDB
-ƒVƒŒƒXƒeƒBƒAƒ‹ƒuƒ‹[
+ã‚·ãƒ¬ã‚¹ãƒ†ã‚£ã‚¢ãƒ«ãƒ–ãƒ«ãƒ¼
 celestial blue
 #496F8E
-ƒ[ƒjƒXƒuƒ‹[
+ã‚¼ãƒ‹ã‚¹ãƒ–ãƒ«ãƒ¼
 zenith blue
 #999DB9
-ƒ”ƒFƒjƒbƒg
+ãƒ´ã‚§ãƒ‹ãƒƒãƒˆ
 Venet
 #02977D
-ƒAƒNƒA ƒ}ƒŠƒ“
+ã‚¢ã‚¯ã‚¢ ãƒžãƒªãƒ³
 aqua marine
 #327585
-ƒ^[ƒRƒCƒY
+ã‚¿ãƒ¼ã‚³ã‚¤ã‚º
 turquoise
 #0097A2
-ƒ|[ƒXƒŠƒ“ ƒuƒ‹[
+ãƒãƒ¼ã‚¹ãƒªãƒ³ ãƒ–ãƒ«ãƒ¼
 porcelain blue
 #5E94A5
-ƒtƒH[ƒQƒbƒgƒ~[ƒmƒbƒg
+ãƒ•ã‚©ãƒ¼ã‚²ãƒƒãƒˆãƒŸãƒ¼ãƒŽãƒƒãƒˆ
 forget me not
 #66B7D8
-ƒpƒEƒ_[ ƒuƒ‹[
+ãƒ‘ã‚¦ãƒ€ãƒ¼ ãƒ–ãƒ«ãƒ¼
 powder blue
 #E6F6FC
-ƒs[ƒRƒbƒN
+ãƒ”ãƒ¼ã‚³ãƒƒã‚¯
 Peacock
 #00586D
-ƒGƒWƒvƒVƒAƒ“ ƒuƒ‹[
+ã‚¨ã‚¸ãƒ—ã‚·ã‚¢ãƒ³ ãƒ–ãƒ«ãƒ¼
 egyptian blue
 #006785
-ƒoƒCƒX
+ãƒã‚¤ã‚¹
 vice
 #427596
-ƒ|ƒ“ƒpƒh[ƒ‹ ƒsƒ“ƒN
+ãƒãƒ³ãƒ‘ãƒ‰ãƒ¼ãƒ« ãƒ”ãƒ³ã‚¯
 pompadour pink
 #FD90A5
-ƒEƒFƒbƒWƒEƒbƒh ƒuƒ‹[
+ã‚¦ã‚§ãƒƒã‚¸ã‚¦ãƒƒãƒ‰ ãƒ–ãƒ«ãƒ¼
 wedgewood blue
 #505B8C
-ƒuƒ‹[ƒGƒbƒg
+ãƒ–ãƒ«ãƒ¼ã‚¨ãƒƒãƒˆ
 bluette
 #5782A1
-ƒnƒCƒhƒŒƒ“ƒWƒA ƒuƒ‹[
+ãƒã‚¤ãƒ‰ãƒ¬ãƒ³ã‚¸ã‚¢ ãƒ–ãƒ«ãƒ¼
 hydrangea blue
 #325E9A
-ƒTƒCƒAƒ“ ƒuƒ‹[
+ã‚µã‚¤ã‚¢ãƒ³ ãƒ–ãƒ«ãƒ¼
 cyan blue
 #5DBBB8
-ƒRƒoƒ‹ƒg ƒuƒ‹[
+ã‚³ãƒãƒ«ãƒˆ ãƒ–ãƒ«ãƒ¼
 cobalt blue
 #1581C5
-ƒXƒ}ƒ‹ƒg
+ã‚¹ãƒžãƒ«ãƒˆ
 smalt
 #3A4789
-ƒTƒtƒ@ƒCƒA ƒuƒ‹[
+ã‚µãƒ•ã‚¡ã‚¤ã‚¢ ãƒ–ãƒ«ãƒ¼
 sapphire blue
 #004D6A
-ƒEƒ‹ƒgƒ‰ƒ}ƒŠƒ“
+ã‚¦ãƒ«ãƒˆãƒ©ãƒžãƒªãƒ³
 ultramarine
 #2D3289
-ƒvƒ‹ƒVƒAƒ“ ƒuƒ‹[
+ãƒ—ãƒ«ã‚·ã‚¢ãƒ³ ãƒ–ãƒ«ãƒ¼
 prussian blue
 #392C87
-ƒ†ƒjƒIƒ“ ƒWƒƒƒbƒN
+ãƒ¦ãƒ‹ã‚ªãƒ³ ã‚¸ãƒ£ãƒƒã‚¯
 union jack
 #385086
-ƒƒCƒ„ƒ‹ ƒuƒ‹[
+ãƒ­ã‚¤ãƒ¤ãƒ« ãƒ–ãƒ«ãƒ¼
 royal blue
 #004E8A
-ƒK[ƒ^[ ƒuƒ‹[
+ã‚¬ãƒ¼ã‚¿ãƒ¼ ãƒ–ãƒ«ãƒ¼
 garter blue
 #00538D
-ƒfƒ‹ƒtƒg ƒuƒ‹[
+ãƒ‡ãƒ«ãƒ•ãƒˆ ãƒ–ãƒ«ãƒ¼
 delft blue
 #002D64
-ƒ}ƒŠƒ“ ƒuƒ‹[
+ãƒžãƒªãƒ³ ãƒ–ãƒ«ãƒ¼
 marine blue
 #1847AA
-ƒlƒCƒ”ƒBƒuƒ‹[
+ãƒã‚¤ãƒ´ã‚£ãƒ–ãƒ«ãƒ¼
 navy blue
 #001D3A
-ƒ~ƒbƒhƒiƒCƒg ƒuƒ‹[
+ãƒŸãƒƒãƒ‰ãƒŠã‚¤ãƒˆ ãƒ–ãƒ«ãƒ¼
 midnight blue
 #1A1F47
-ƒƒ“ƒhƒ“ ƒgƒƒCƒ‰ƒCƒg
+ãƒ­ãƒ³ãƒ‰ãƒ³ ãƒˆãƒ¯ã‚¤ãƒ©ã‚¤ãƒˆ
 midnight blue
 #1A2D4F
-ƒEƒFƒXƒgƒ~ƒ“ƒXƒ^[
+ã‚¦ã‚§ã‚¹ãƒˆãƒŸãƒ³ã‚¹ã‚¿ãƒ¼
 midnight blue
 #0B004E
-ƒ‰‚×ƒ“ƒ_[
+ãƒ©ã¹ãƒ³ãƒ€ãƒ¼
 lavender
 #AB85B2
-ƒEƒBƒXƒ^ƒŠƒA
+ã‚¦ã‚£ã‚¹ã‚¿ãƒªã‚¢
 wisteria
 #7B639C
-ƒ‰ƒCƒ‰ƒbƒN
+ãƒ©ã‚¤ãƒ©ãƒƒã‚¯
 lilac
 #D191B4
-ƒ}ƒƒE
+ãƒžãƒ­ã‚¦
 mallow
 #C6639E
-ƒ`ƒFƒ‹ƒV[ ƒsƒ“ƒN
+ãƒã‚§ãƒ«ã‚·ãƒ¼ ãƒ”ãƒ³ã‚¯
 mallow
 #AB5677
-ƒVƒXƒ‹
+ã‚·ã‚¹ãƒ«
 thistle
 #822759
-ƒ~ƒlƒ‰ƒ‹ ƒoƒCƒIƒŒƒbƒg
+ãƒŸãƒãƒ©ãƒ« ãƒã‚¤ã‚ªãƒ¬ãƒƒãƒˆ
 mineral violet
 #926A90
-ƒRƒoƒ‹ƒg ƒoƒCƒIƒŒƒbƒg
+ã‚³ãƒãƒ«ãƒˆ ãƒã‚¤ã‚ªãƒ¬ãƒƒãƒˆ
 cobalt violet
 #A269A8
-ƒp[ƒvƒ‹
+ãƒ‘ãƒ¼ãƒ—ãƒ«
 purple
 #4C045A
-ƒAƒƒWƒXƒg
+ã‚¢ãƒ¡ã‚¸ã‚¹ãƒˆ
 amethyst
 #634669
-ƒAƒƒWƒXƒg ƒp[ƒvƒ‹
+ã‚¢ãƒ¡ã‚¸ã‚¹ãƒˆ ãƒ‘ãƒ¼ãƒ—ãƒ«
 Amaranth Purple
 #993945
-ƒ}ƒ[ƒ“ƒ^
+ãƒžã‚¼ãƒ³ã‚¿
 magenta
 #DE0067
-ƒpƒ“ƒW[
+ãƒ‘ãƒ³ã‚¸ãƒ¼
 pansy
 #35178C
-ƒtƒ…[ƒVƒƒ
+ãƒ•ãƒ¥ãƒ¼ã‚·ãƒ£
 fuchsia
 #AE006D
-ƒAƒRƒiƒCƒgƒoƒCƒIƒŒƒbƒg
+ã‚¢ã‚³ãƒŠã‚¤ãƒˆãƒã‚¤ã‚ªãƒ¬ãƒƒãƒˆ
 aconite violet
 #661065
-ƒ}ƒ‹ƒxƒŠ[
+ãƒžãƒ«ãƒ™ãƒªãƒ¼
 mulberry
 #4A273B
-ƒwƒŠƒIƒgƒ[ƒv
+ãƒ˜ãƒªã‚ªãƒˆãƒ­ãƒ¼ãƒ—
 heliotrope
 #75106D
-ƒvƒ‰ƒ€ ƒp[ƒvƒ‹
+ãƒ—ãƒ©ãƒ  ãƒ‘ãƒ¼ãƒ—ãƒ«
 plum purple
 #361A33
-ƒ‰ƒYƒxƒŠ[
+ãƒ©ã‚ºãƒ™ãƒªãƒ¼
 raspberry
 #8A004F
-ƒŒ[ƒYƒ“
+ãƒ¬ãƒ¼ã‚ºãƒ³
 raisins
 #491830
-ƒƒCƒ“
+ãƒ¯ã‚¤ãƒ³
 wine
 #6B0032
-ƒzƒƒCƒg
+ãƒ›ãƒ¯ã‚¤ãƒˆ
 White
 #FFFFFF
-ƒAƒ‰ƒoƒXƒ^[
+ã‚¢ãƒ©ãƒã‚¹ã‚¿ãƒ¼
 alabaster
 #FCDFD4
-ƒ~ƒ‹ƒN ƒzƒƒCƒg
+ãƒŸãƒ«ã‚¯ ãƒ›ãƒ¯ã‚¤ãƒˆ
 milk white
 #FDFAED
-ƒy[ƒ‹ƒzƒƒCƒgƒŠƒŠ[
+ãƒšãƒ¼ãƒ«ãƒ›ãƒ¯ã‚¤ãƒˆãƒªãƒªãƒ¼
 pale white lily
 #FDF6DB
-ƒVƒ‹ƒo[
+ã‚·ãƒ«ãƒãƒ¼
 silver
 #B5B9BC
-ƒTƒ“ƒh
+ã‚µãƒ³ãƒ‰
 sand
 #A69278
-ƒAƒbƒVƒ… ƒOƒŒƒC
+ã‚¢ãƒƒã‚·ãƒ¥ ã‚°ãƒ¬ã‚¤
 ash grey
 #C2B799
-ƒXƒ‚[ƒN ƒOƒŒƒC
+ã‚¹ãƒ¢ãƒ¼ã‚¯ ã‚°ãƒ¬ã‚¤
 Smoke Grey
 #83857A
-ƒp[ƒ‹ ƒOƒŠ[ƒ“
+ãƒ‘ãƒ¼ãƒ« ã‚°ãƒªãƒ¼ãƒ³
 pearl green
 #C2CEBA
-ƒ}ƒEƒX ƒOƒŒƒC
+ãƒžã‚¦ã‚¹ ã‚°ãƒ¬ã‚¤
 mouse grey
 #777777
-ƒ_ƒu ƒOƒŒƒC
+ãƒ€ãƒ– ã‚°ãƒ¬ã‚¤
 dove gray
 #987C84
-ƒ~ƒXƒg
+ãƒŸã‚¹ãƒˆ
 mist
 #AF9090
-ƒOƒ‰ƒtƒ@ƒCƒg
+ã‚°ãƒ©ãƒ•ã‚¡ã‚¤ãƒˆ
 graphite
 #000000
-ƒO[ƒYƒOƒŒƒC
+ã‚°ãƒ¼ã‚ºã‚°ãƒ¬ã‚¤
 goose gray
 #323934
-ƒuƒ‰ƒbƒN
+ãƒ–ãƒ©ãƒƒã‚¯
 Black
 #000000
-ƒCƒ“ƒOƒ‰ƒ“ƒh
+ã‚¤ãƒ³ã‚°ãƒ©ãƒ³ãƒ‰
 england
 #FF2A2A
-ƒXƒRƒbƒgƒ‰ƒ“ƒh
+ã‚¹ã‚³ãƒƒãƒˆãƒ©ãƒ³ãƒ‰
 scotland
 #212178
-ƒEƒF[ƒ‹ƒY
+ã‚¦ã‚§ãƒ¼ãƒ«ã‚º
 wales
 #800000
-ƒm[ƒUƒ“ ƒAƒCƒ‹ƒ‰ƒ“ƒh
+ãƒŽãƒ¼ã‚¶ãƒ³ ã‚¢ã‚¤ãƒ«ãƒ©ãƒ³ãƒ‰
 northern Ireland
 #165016
-ƒ`ƒƒƒ“ƒlƒ‹ƒAƒCƒXƒ‰ƒ“ƒh
+ãƒãƒ£ãƒ³ãƒãƒ«ã‚¢ã‚¤ã‚¹ãƒ©ãƒ³ãƒ‰
 channel Islands
 #0066FF
-ƒAƒCƒ‹ ƒIƒu ƒ}ƒ“
+ã‚¢ã‚¤ãƒ« ã‚ªãƒ– ãƒžãƒ³
 isle of man
 #D45500
-ƒƒ“ƒhƒ“
+ãƒ­ãƒ³ãƒ‰ãƒ³
 london
 #000080
-ƒTƒEƒX ƒC[ƒXƒg
+ã‚µã‚¦ã‚¹ ã‚¤ãƒ¼ã‚¹ãƒˆ
 south east
 #44AA00
-ƒEƒGƒXƒg ƒJƒ“ƒgƒŠ[
+ã‚¦ã‚¨ã‚¹ãƒˆ ã‚«ãƒ³ãƒˆãƒªãƒ¼
 west country
 #2AD4FF
-ƒC[ƒXƒg ƒAƒ“ƒOƒŠƒA
+ã‚¤ãƒ¼ã‚¹ãƒˆ ã‚¢ãƒ³ã‚°ãƒªã‚¢
 east anglia
 #D4AA00
-ƒC[ƒXƒg ƒ~ƒbƒhƒ‰ƒ“ƒh
+ã‚¤ãƒ¼ã‚¹ãƒˆ ãƒŸãƒƒãƒ‰ãƒ©ãƒ³ãƒ‰
 east midlands
 #3B5781
-ƒEƒGƒXƒg ƒ~ƒbƒhƒ‰ƒ“ƒh
+ã‚¦ã‚¨ã‚¹ãƒˆ ãƒŸãƒƒãƒ‰ãƒ©ãƒ³ãƒ‰
 west midlands
 #921FAF
-ƒˆ[ƒNƒVƒƒƒCƒA
+ãƒ¨ãƒ¼ã‚¯ã‚·ãƒ£ã‚¤ã‚¢
 yorkshire
 #FFEEAA
-ƒm[ƒX ƒEƒGƒXƒg
+ãƒŽãƒ¼ã‚¹ ã‚¦ã‚¨ã‚¹ãƒˆ
 north west
 #C10000
-ƒm[ƒX ƒC[ƒXƒg
+ãƒŽãƒ¼ã‚¹ ã‚¤ãƒ¼ã‚¹ãƒˆ
 north east
 #C87137
-ƒ{[ƒ_[ƒY
+ãƒœãƒ¼ãƒ€ãƒ¼ã‚º
 borders
 #D4AA00
-ƒTƒEƒX ƒEƒGƒXƒg
+ã‚µã‚¦ã‚¹ ã‚¦ã‚¨ã‚¹ãƒˆ
 south west
 #55D400
-ƒZƒ“ƒgƒ‰ƒ‹ ƒxƒ‹ƒg
+ã‚»ãƒ³ãƒˆãƒ©ãƒ« ãƒ™ãƒ«ãƒˆ
 central belt
 #0000D4
-ƒnƒCƒ‰ƒ“ƒh
+ãƒã‚¤ãƒ©ãƒ³ãƒ‰
 highlands
 #B380FF
-ƒm[ƒX ƒC[ƒXƒg ƒXƒRƒbƒgƒ‰ƒ“ƒh
+ãƒŽãƒ¼ã‚¹ ã‚¤ãƒ¼ã‚¹ãƒˆ ã‚¹ã‚³ãƒƒãƒˆãƒ©ãƒ³ãƒ‰
 north east scotland
 #FF0000
-ƒwƒuƒŠƒfƒX
+ãƒ˜ãƒ–ãƒªãƒ‡ã‚¹
 hebrides
 #87AADE
-ƒI[ƒNƒj[ ƒAƒCƒ‰ƒ“ƒh
+ã‚ªãƒ¼ã‚¯ãƒ‹ãƒ¼ ã‚¢ã‚¤ãƒ©ãƒ³ãƒ‰
 orkney islands
 #D5D5FF
-ƒVƒFƒgƒ‰ƒ“ƒh ƒAƒCƒ‰ƒ“ƒh
+ã‚·ã‚§ãƒˆãƒ©ãƒ³ãƒ‰ ã‚¢ã‚¤ãƒ©ãƒ³ãƒ‰
 shetland islands
 #AFE9DD
-ƒm[ƒX ƒEƒF[ƒ‹ƒY
+ãƒŽãƒ¼ã‚¹ ã‚¦ã‚§ãƒ¼ãƒ«ã‚º
 north wales
 #8DD35F
-ƒ~ƒh ƒEƒF[ƒ‹ƒY
+ãƒŸãƒ‰ ã‚¦ã‚§ãƒ¼ãƒ«ã‚º
 mid wales
 #A0892C
-ƒTƒEƒX ƒEƒF[ƒ‹ƒY
+ã‚µã‚¦ã‚¹ ã‚¦ã‚§ãƒ¼ãƒ«ã‚º
 south wales
 #D40000
-ƒJƒEƒ“ƒeƒB ƒAƒ“ƒgƒŠƒ€
+ã‚«ã‚¦ãƒ³ãƒ†ã‚£ ã‚¢ãƒ³ãƒˆãƒªãƒ 
 county antrim
 #00AA00
-ƒJƒEƒ“ƒeƒB ƒA[ƒ}[
+ã‚«ã‚¦ãƒ³ãƒ†ã‚£ ã‚¢ãƒ¼ãƒžãƒ¼
 county armagh
 #87DE87
-ƒJƒEƒ“ƒeƒB ƒƒ“ƒhƒ“ƒfƒŠ[
+ã‚«ã‚¦ãƒ³ãƒ†ã‚£ ãƒ­ãƒ³ãƒ‰ãƒ³ãƒ‡ãƒªãƒ¼
 county londonderry
 #447821
-ƒJƒEƒ“ƒeƒB ƒ_ƒEƒ“
+ã‚«ã‚¦ãƒ³ãƒ†ã‚£ ãƒ€ã‚¦ãƒ³
 county down
 #5FD35F
-ƒJƒEƒ“ƒeƒB ƒtƒ@[ƒ}ƒi
+ã‚«ã‚¦ãƒ³ãƒ†ã‚£ ãƒ•ã‚¡ãƒ¼ãƒžãƒŠ
 county fermanagh
 #AADE87
-ƒJƒEƒ“ƒeƒB ƒeƒBƒƒ“
+ã‚«ã‚¦ãƒ³ãƒ†ã‚£ ãƒ†ã‚£ãƒ­ãƒ³
 county tyrone
 #71C837
-ƒIƒbƒNƒXƒtƒH[ƒhƒVƒƒ[
+ã‚ªãƒƒã‚¯ã‚¹ãƒ•ã‚©ãƒ¼ãƒ‰ã‚·ãƒ£ãƒ¼
 oxfordshire
 #447821
-ƒoƒbƒLƒ“ƒKƒ€ƒVƒƒ[
+ãƒãƒƒã‚­ãƒ³ã‚¬ãƒ ã‚·ãƒ£ãƒ¼
 buckinghamshire
 #5AA02C
-ƒo[ƒNƒVƒƒ[
+ãƒãƒ¼ã‚¯ã‚·ãƒ£ãƒ¼
 berkshire
 #8DD35F
-ƒnƒ“ƒvƒVƒƒ[
+ãƒãƒ³ãƒ—ã‚·ãƒ£ãƒ¼
 hampshire
 #225500
-ƒTƒŠ[
+ã‚µãƒªãƒ¼
 surrey
 #008000
-ƒEƒFƒXƒg ƒTƒZƒbƒNƒX
+ã‚¦ã‚§ã‚¹ãƒˆ ã‚µã‚»ãƒƒã‚¯ã‚¹
 west Sussex
 #AADE87
-ƒC[ƒXƒg ƒTƒZƒbƒNƒX
+ã‚¤ãƒ¼ã‚¹ãƒˆ ã‚µã‚»ãƒƒã‚¯ã‚¹
 east Sussex
 #CCFFAA
-ƒPƒ“ƒg
+ã‚±ãƒ³ãƒˆ
 kent
 #44AA00
-ƒAƒCƒ‹ ƒIƒu ƒƒCƒg
+ã‚¢ã‚¤ãƒ« ã‚ªãƒ– ãƒ¯ã‚¤ãƒˆ
 isle of wight
 #B3FF80
-ƒOƒƒXƒ^[ƒVƒƒ[
+ã‚°ãƒ­ã‚¹ã‚¿ãƒ¼ã‚·ãƒ£ãƒ¼
 gloucestershire
 #87CDDE
-ƒR[ƒ“ƒEƒH[ƒ‹
+ã‚³ãƒ¼ãƒ³ã‚¦ã‚©ãƒ¼ãƒ«
 cornwall
 #2AD4FF
-ƒEƒBƒ‹ƒgƒVƒƒ[
+ã‚¦ã‚£ãƒ«ãƒˆã‚·ãƒ£ãƒ¼
 wiltshire
 #AAEEFF
-ƒTƒ}[ƒZƒbƒg
+ã‚µãƒžãƒ¼ã‚»ãƒƒãƒˆ
 somerset
 #80E5FF
-ƒh[ƒZƒbƒg
+ãƒ‰ãƒ¼ã‚»ãƒƒãƒˆ
 dorset
 #216778
-ƒfƒ{ƒ“
+ãƒ‡ãƒœãƒ³
 devon
 #0088AA
-ƒAƒCƒ‹ƒY ƒIƒu ƒVƒŠ[
+ã‚¢ã‚¤ãƒ«ã‚º ã‚ªãƒ– ã‚·ãƒªãƒ¼
 isles of scilly
 #162D50
-ƒn[ƒgƒtƒH[ƒhƒVƒƒ[
+ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒ¼ãƒ‰ã‚·ãƒ£ãƒ¼
 hertfordshire
 #554400
-ƒGƒZƒbƒNƒX
+ã‚¨ã‚»ãƒƒã‚¯ã‚¹
 essex
 #D3BC5F
-ƒxƒbƒhƒtƒH[ƒhƒVƒƒ[
+ãƒ™ãƒƒãƒ‰ãƒ•ã‚©ãƒ¼ãƒ‰ã‚·ãƒ£ãƒ¼
 bedfordshire
 #786721
-ƒPƒ“ƒuƒŠƒbƒWƒVƒƒ[
+ã‚±ãƒ³ãƒ–ãƒªãƒƒã‚¸ã‚·ãƒ£ãƒ¼
 cambridgeshire
 #A0892C
-ƒTƒtƒH[ƒN
+ã‚µãƒ•ã‚©ãƒ¼ã‚¯
 suffolk
 #E9DDAF
-ƒm[ƒtƒH[ƒN
+ãƒŽãƒ¼ãƒ•ã‚©ãƒ¼ã‚¯
 norfolk
 #D4AA00
-ƒm[ƒTƒ“ƒvƒgƒ“ƒVƒƒ[
+ãƒŽãƒ¼ã‚µãƒ³ãƒ—ãƒˆãƒ³ã‚·ãƒ£ãƒ¼
 northamptonshire
 #0044AA
-ƒŒƒXƒ^[ƒVƒƒ[
+ãƒ¬ã‚¹ã‚¿ãƒ¼ã‚·ãƒ£ãƒ¼
 leicestershire
 #214478
-ƒ_[ƒr[ƒVƒƒ[
+ãƒ€ãƒ¼ãƒ“ãƒ¼ã‚·ãƒ£ãƒ¼
 derbyshire
 #162D50
-ƒmƒbƒeƒBƒ“ƒKƒ€ƒVƒƒ[
+ãƒŽãƒƒãƒ†ã‚£ãƒ³ã‚¬ãƒ ã‚·ãƒ£ãƒ¼
 nottinghamshire
 #000080
-ƒŠƒ“ƒJ[ƒ“ƒVƒƒ[
+ãƒªãƒ³ã‚«ãƒ¼ãƒ³ã‚·ãƒ£ãƒ¼
 lincolnshire
 #5599FF
-ƒ‰ƒgƒ‰ƒ“ƒh
+ãƒ©ãƒˆãƒ©ãƒ³ãƒ‰
 rutland
 #2C5AA0
-ƒwƒŒƒtƒH[ƒhƒVƒƒ[
+ãƒ˜ãƒ¬ãƒ•ã‚©ãƒ¼ãƒ‰ã‚·ãƒ£ãƒ¼
 herefordshire
 #DD55FF
-ƒEƒXƒ^[ƒVƒƒ[
+ã‚¦ã‚¹ã‚¿ãƒ¼ã‚·ãƒ£ãƒ¼
 worcestershire
 #CD87DE
-ƒEƒH[ƒŠƒbƒNƒVƒƒ[
+ã‚¦ã‚©ãƒ¼ãƒªãƒƒã‚¯ã‚·ãƒ£ãƒ¼
 warwickshire
 #8D5FD3
-ƒEƒFƒXƒg ƒ~ƒhƒ‰ƒ“ƒh ƒJƒEƒ“ƒeƒB
+ã‚¦ã‚§ã‚¹ãƒˆ ãƒŸãƒ‰ãƒ©ãƒ³ãƒ‰ ã‚«ã‚¦ãƒ³ãƒ†ã‚£
 west Midlands County
 #660080
-ƒVƒ…ƒƒbƒvƒVƒƒ[
+ã‚·ãƒ¥ãƒ­ãƒƒãƒ—ã‚·ãƒ£ãƒ¼
 shropshire
 #C837AB
-ƒXƒ^ƒbƒtƒH[ƒhƒVƒƒ[
+ã‚¹ã‚¿ãƒƒãƒ•ã‚©ãƒ¼ãƒ‰ã‚·ãƒ£ãƒ¼
 staffordshire
 #800066
-ƒm[ƒX ƒˆ[ƒNƒVƒƒ[
+ãƒŽãƒ¼ã‚¹ ãƒ¨ãƒ¼ã‚¯ã‚·ãƒ£ãƒ¼
 north yorkshire
 #FFEEAA
-ƒC[ƒXƒg ƒˆ[ƒNƒVƒƒ[
+ã‚¤ãƒ¼ã‚¹ãƒˆ ãƒ¨ãƒ¼ã‚¯ã‚·ãƒ£ãƒ¼
 east yorkshire
 #D3BC5F
-ƒTƒEƒX ƒˆ[ƒNƒVƒƒ[
+ã‚µã‚¦ã‚¹ ãƒ¨ãƒ¼ã‚¯ã‚·ãƒ£ãƒ¼
 south yorkshire
 #E9DDAF
-ƒEƒFƒXƒg ƒˆ[ƒNƒVƒƒ[
+ã‚¦ã‚§ã‚¹ãƒˆ ãƒ¨ãƒ¼ã‚¯ã‚·ãƒ£ãƒ¼
 west yorkshire
 #FFDD55
-ƒ`ƒFƒVƒƒ[
+ãƒã‚§ã‚·ãƒ£ãƒ¼
 cheshire
 #FF5555
-ƒ}[ƒW[ƒTƒCƒh
+ãƒžãƒ¼ã‚¸ãƒ¼ã‚µã‚¤ãƒ‰
 merseyside
 #50162D
-ƒOƒŒƒCƒ^[ ƒ}ƒ“ƒ`ƒFƒXƒ^[
+ã‚°ãƒ¬ã‚¤ã‚¿ãƒ¼ ãƒžãƒ³ãƒã‚§ã‚¹ã‚¿ãƒ¼
 greater manchester
 #AA0000
-ƒ‰ƒ“ƒJƒVƒƒ[
+ãƒ©ãƒ³ã‚«ã‚·ãƒ£ãƒ¼
 lancashire
 #D40000
-ƒJƒ“ƒuƒŠƒA
+ã‚«ãƒ³ãƒ–ãƒªã‚¢
 cumbria
 #FF8080
-ƒNƒŠ[ƒuƒ‰ƒ“ƒh
+ã‚¯ãƒªãƒ¼ãƒ–ãƒ©ãƒ³ãƒ‰
 cleveland
 #784421
-ƒJƒEƒ“ƒeƒB ƒ_[ƒ‰ƒ€
+ã‚«ã‚¦ãƒ³ãƒ†ã‚£ ãƒ€ãƒ¼ãƒ©ãƒ 
 county durham
 #D45500
-ƒ^ƒCƒ“ ƒAƒ“ ƒEƒBƒA
+ã‚¿ã‚¤ãƒ³ ã‚¢ãƒ³ ã‚¦ã‚£ã‚¢
 tyne and wear
 #803300
-ƒm[ƒTƒ“ƒo[ƒ‰ƒ“ƒh
+ãƒŽãƒ¼ã‚µãƒ³ãƒãƒ¼ãƒ©ãƒ³ãƒ‰
 northumberland
 #C87137
-ƒGƒAƒVƒƒ[
+ã‚¨ã‚¢ã‚·ãƒ£ãƒ¼
 ayrshire
 #338000
-ƒNƒ‰ƒCƒYƒf[ƒ‹
+ã‚¯ãƒ©ã‚¤ã‚ºãƒ‡ãƒ¼ãƒ«
 clydesdale
 #00D400
-ƒ_ƒ“ƒtƒŠ[ƒX ƒAƒ“ƒh ƒMƒƒƒƒEƒF[
+ãƒ€ãƒ³ãƒ•ãƒªãƒ¼ã‚¹ ã‚¢ãƒ³ãƒ‰ ã‚®ãƒ£ãƒ­ã‚¦ã‚§ãƒ¼
 dumfries and galloway
 #55D400
-ƒAƒCƒ‹ ƒIƒu ƒAƒ‰ƒ“
+ã‚¢ã‚¤ãƒ« ã‚ªãƒ– ã‚¢ãƒ©ãƒ³
 isle of arran
 #AAFFAA
-ƒNƒ‰ƒCƒhƒTƒCƒh
+ã‚¯ãƒ©ã‚¤ãƒ‰ã‚µã‚¤ãƒ‰
 clydeside
 #0000AA
-ƒƒWƒAƒ“
+ãƒ­ã‚¸ã‚¢ãƒ³
 the lothians
 #2C2CA0
-ƒXƒ^[ƒŠƒ“ƒOƒVƒƒ[
+ã‚¹ã‚¿ãƒ¼ãƒªãƒ³ã‚°ã‚·ãƒ£ãƒ¼
 stirlingshire
 #0000D4
-ƒNƒ‰ƒbƒNƒ}ƒiƒ“ƒVƒƒƒCƒA
+ã‚¯ãƒ©ãƒƒã‚¯ãƒžãƒŠãƒ³ã‚·ãƒ£ã‚¤ã‚¢
 clackmannanshire
 #5F5FD3
-ƒA[ƒKƒCƒ‹ ƒAƒ“ƒh ƒrƒ…[ƒg
+ã‚¢ãƒ¼ã‚¬ã‚¤ãƒ« ã‚¢ãƒ³ãƒ‰ ãƒ“ãƒ¥ãƒ¼ãƒˆ
 argyll and bute
 #7F2AFF
-ƒnƒCƒ‰ƒ“ƒh
+ãƒã‚¤ãƒ©ãƒ³ãƒ‰
 highland
 #B380FF
-ƒ‚ƒŒƒC
+ãƒ¢ãƒ¬ã‚¤
 moray
 #E9AFAF
-ƒAƒoƒfƒB[ƒ“ƒVƒƒƒCƒA
+ã‚¢ãƒãƒ‡ã‚£ãƒ¼ãƒ³ã‚·ãƒ£ã‚¤ã‚¢
 aberdeenshire
 #D35F5F
-ƒAƒ“ƒKƒX
+ã‚¢ãƒ³ã‚¬ã‚¹
 angus
 #FF5555
-ƒp[ƒX ƒAƒ“ƒh ƒLƒ“ƒƒX
+ãƒ‘ãƒ¼ã‚¹ ã‚¢ãƒ³ãƒ‰ ã‚­ãƒ³ãƒ­ã‚¹
 perth and kinross
 #FFAAAA
-ƒtƒ@ƒCƒt
+ãƒ•ã‚¡ã‚¤ãƒ•
 fife
 #FF0000
-ƒCƒ“ƒi[ ƒwƒuƒŠƒfƒB[ƒY
+ã‚¤ãƒ³ãƒŠãƒ¼ ãƒ˜ãƒ–ãƒªãƒ‡ã‚£ãƒ¼ã‚º
 inner hebrides
 #3771C8
-ƒAƒEƒ^[ ƒwƒuƒŠƒfƒB[ƒY
+ã‚¢ã‚¦ã‚¿ãƒ¼ ãƒ˜ãƒ–ãƒªãƒ‡ã‚£ãƒ¼ã‚º
 outer hebrides
 #AFC6E9
-ƒAƒ“ƒOƒ‹ƒV[
+ã‚¢ãƒ³ã‚°ãƒ«ã‚·ãƒ¼
 anglesey
 #87DEAA
-ƒOƒEƒBƒlƒY
+ã‚°ã‚¦ã‚£ãƒã‚º
 gwynedd
 #8DD35F
-ƒRƒ“ƒEƒB
+ã‚³ãƒ³ã‚¦ã‚£
 conwy
 #44AA00
-ƒfƒ“ƒr[ƒVƒƒ[
+ãƒ‡ãƒ³ãƒ“ãƒ¼ã‚·ãƒ£ãƒ¼
 denbighshire
 #71C837
-ƒtƒŠƒ“ƒgƒVƒƒ[
+ãƒ•ãƒªãƒ³ãƒˆã‚·ãƒ£ãƒ¼
 flintshire
 #008000
-ƒŒƒNƒTƒ€
+ãƒ¬ã‚¯ã‚µãƒ 
 wrexham
 #005522
-ƒPƒŒƒfƒBƒWƒ‡ƒ“
+ã‚±ãƒ¬ãƒ‡ã‚£ã‚¸ãƒ§ãƒ³
 ceredigion
 #DECD87
-ƒ|[ƒCƒX
+ãƒãƒ¼ã‚¤ã‚¹
 powys
 #A0892C
-ƒyƒ“ƒuƒ‹ƒbƒNƒVƒƒ[
+ãƒšãƒ³ãƒ–ãƒ«ãƒƒã‚¯ã‚·ãƒ£ãƒ¼
 pembrokeshire
 #FFAAAA
-ƒJ[ƒ}[ƒ[ƒ“ƒVƒƒ[
+ã‚«ãƒ¼ãƒžãƒ¼ã‚¼ãƒ³ã‚·ãƒ£ãƒ¼
 carmarthenshire
 #FF5555
-ƒOƒ‰ƒ‚[ƒKƒ“
+ã‚°ãƒ©ãƒ¢ãƒ¼ã‚¬ãƒ³
 glamorgan
 #D40000
-ƒ‚ƒ“ƒ}ƒXƒVƒƒ[
+ãƒ¢ãƒ³ãƒžã‚¹ã‚·ãƒ£ãƒ¼
 monmouthshire
 #D35F5F

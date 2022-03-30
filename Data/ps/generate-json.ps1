@@ -78,7 +78,7 @@ foreach($source in $sources) {
     $itemNames = Get-Content $matchedStructures[0].FullPath
     
     # データソースを取得
-    $data = Get-Content $source.FullPath
+    $data = Get-Content $source.FullPath -Encoding UTF8
     
     # データソースをオブジェクトに変換
     $list = [System.Collections.ArrayList]::new()
@@ -111,7 +111,7 @@ foreach($source in $sources) {
         }
 
         # オブジェクトを追加
-        $object = @{ Name=$name.ToString(); Phonetic=$phonetic.ToString(); Hex=$hex.ToLower(); }
+        $object = @{ name=$name.ToString(); phonetic=$phonetic.ToString(); hex=$hex.ToLower(); }
         $json = ConvertTo-Json -InputObject $object
         $list.Add($json)
     }

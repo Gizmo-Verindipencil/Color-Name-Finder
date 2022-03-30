@@ -1,78 +1,78 @@
-ƒUƒ“ƒWƒo[ƒ‹
+ã‚¶ãƒ³ã‚¸ãƒãƒ¼ãƒ«
 zanzibar
 #FD0013
-ƒm[ƒX ƒAƒtƒŠƒJ
+ãƒŽãƒ¼ã‚¹ ã‚¢ãƒ•ãƒªã‚«
 north africa
 #F62713
-ƒEƒFƒXƒ^ƒ“ ƒTƒnƒ‰
+ã‚¦ã‚§ã‚¹ã‚¿ãƒ³ ã‚µãƒãƒ©
 western sahara
 #FA321F
-ƒXƒƒWƒ‰ƒ“ƒh
+ã‚¹ãƒ¯ã‚¸ãƒ©ãƒ³ãƒ‰
 swaziland
 #ED3524
-ƒC[ƒXƒg ƒAƒtƒŠƒJ
+ã‚¤ãƒ¼ã‚¹ãƒˆ ã‚¢ãƒ•ãƒªã‚«
 east africa
 #FF8040
-ƒŠƒrƒA
+ãƒªãƒ“ã‚¢
 libya
 #FF8042
-ƒ{ƒcƒƒi
+ãƒœãƒ„ãƒ¯ãƒŠ
 botswana
 #FF8044
-ƒEƒFƒXƒg ƒAƒtƒŠƒJ
+ã‚¦ã‚§ã‚¹ãƒˆ ã‚¢ãƒ•ãƒªã‚«
 west africa
 #00FF00
-ƒAƒ‹ƒWƒFƒŠƒA
+ã‚¢ãƒ«ã‚¸ã‚§ãƒªã‚¢
 algeria
 #00FF02
-ƒWƒ“ƒoƒuƒG
+ã‚¸ãƒ³ãƒãƒ–ã‚¨
 zimbabwe
 #00FF04
-ƒTƒUƒ“ ƒAƒtƒŠƒJ
+ã‚µã‚¶ãƒ³ ã‚¢ãƒ•ãƒªã‚«
 southern africa
 #00FFF5
-ƒGƒWƒvƒg
+ã‚¨ã‚¸ãƒ—ãƒˆ
 egypt
 #00FFF9
-ƒTƒtƒ@ƒŠ ƒAƒtƒŠƒJ
+ã‚µãƒ•ã‚¡ãƒª ã‚¢ãƒ•ãƒªã‚«
 south africa
 #00FFFF
-ƒ‚ƒƒbƒR
+ãƒ¢ãƒ­ãƒƒã‚³
 morocco
 #0000FF
-ƒiƒ~ƒrƒA
+ãƒŠãƒŸãƒ“ã‚¢
 namibia
 #3300FF
-ƒTƒnƒ‰ ƒAƒtƒŠƒJ
+ã‚µãƒãƒ© ã‚¢ãƒ•ãƒªã‚«
 saharan africa
 #3300CC
-ƒgƒDƒAƒŒƒO
+ãƒˆã‚¥ã‚¢ãƒ¬ã‚°
 touareg
 #051A3B
-ƒAƒtƒŠƒJƒ“ƒoƒCƒIƒŒƒbƒg
+ã‚¢ãƒ•ãƒªã‚«ãƒ³ãƒã‚¤ã‚ªãƒ¬ãƒƒãƒˆ
 african violet
 #3D1C79
-ƒZƒ“ƒgƒ‰ƒ‹ ƒAƒtƒŠƒJ
+ã‚»ãƒ³ãƒˆãƒ©ãƒ« ã‚¢ãƒ•ãƒªã‚«
 central africa
 #800085
-ƒ`ƒ…ƒjƒWƒA
+ãƒãƒ¥ãƒ‹ã‚¸ã‚¢
 tunisia
 #800082
-ƒŒƒ\ƒg
+ãƒ¬ã‚½ãƒˆ
 lesotho
 #800089
-ƒTƒnƒ‰
+ã‚µãƒãƒ©
 sahara
 #B2864E
-ƒX[ƒ_ƒ“ ƒuƒ‰ƒEƒ“
+ã‚¹ãƒ¼ãƒ€ãƒ³ ãƒ–ãƒ©ã‚¦ãƒ³
 sudan brown
 #9F4F05
-ƒAƒtƒŠƒJƒ“ ƒuƒ‰ƒEƒ“
+ã‚¢ãƒ•ãƒªã‚«ãƒ³ ãƒ–ãƒ©ã‚¦ãƒ³
 african brown
 #40201B
-ƒTƒtƒ@ƒŠ
+ã‚µãƒ•ã‚¡ãƒª
 safari
 #303B29
-ƒMƒj ƒOƒŠ[ƒ“
+ã‚®ãƒ‹ ã‚°ãƒªãƒ¼ãƒ³
 gini green
 #005558
