@@ -2894,12 +2894,12 @@ class Gateway {
             },
             {
                 "hex": "#973444",
-                "name": "?瑰紅",
+                "name": "玫瑰紅",
                 "phonetic": "メイクイホン"
             },
             {
                 "hex": "#793d56",
-                "name": "?瑰灰",
+                "name": "玫瑰灰",
                 "phonetic": "メイクイホイ"
             },
             {
@@ -2999,17 +2999,17 @@ class Gateway {
             },
             {
                 "hex": "#b84b48",
-                "name": "?砂",
+                "name": "硃砂",
                 "phonetic": "チューシャ"
             },
             {
                 "hex": "#c6574b",
-                "name": "二?",
+                "name": "二硃",
                 "phonetic": "アルチュー"
             },
             {
                 "hex": "#e35c3e",
-                "name": "??",
+                "name": "硃膘",
                 "phonetic": "チューピャオ"
             },
             {
@@ -3444,12 +3444,12 @@ class Gateway {
             },
             {
                 "hex": "#241d00",
-                "name": "将校?",
+                "name": "将校呢",
                 "phonetic": "チェンシャオニー"
             },
             {
                 "hex": "#6d614a",
-                "name": "将校?",
+                "name": "将校呢",
                 "phonetic": "チャンシャオニー"
             },
             {
@@ -3469,7 +3469,7 @@ class Gateway {
             },
             {
                 "hex": "#d5b884",
-                "name": "?其黄",
+                "name": "卡其黄",
                 "phonetic": "カーチーホワン"
             },
             {
@@ -3879,7 +3879,7 @@ class Gateway {
             },
             {
                 "hex": "#647370",
-                "name": "?其緑",
+                "name": "卡其緑",
                 "phonetic": "カーチリュー"
             },
             {
@@ -4089,7 +4089,7 @@ class Gateway {
             },
             {
                 "hex": "#293150",
-                "name": "?藍",
+                "name": "靛藍",
                 "phonetic": "ティエンラン"
             },
             {
@@ -4134,7 +4134,7 @@ class Gateway {
             },
             {
                 "hex": "#282e55",
-                "name": "?鉄",
+                "name": "鈦鉄",
                 "phonetic": "タイチン"
             },
             {
@@ -4354,7 +4354,7 @@ class Gateway {
             },
             {
                 "hex": "#c1a299",
-                "name": "?棕",
+                "name": "奶棕",
                 "phonetic": "ナイツォン"
             },
             {
@@ -4374,10 +4374,10 @@ class Gateway {
             },
             {
                 "hex": "#afc8ba",
-                "name": "?緑",
+                "name": "奶緑",
                 "phonetic": "ナイリュー"
             }
-        ];
+        ];  
     }
 
     /**
