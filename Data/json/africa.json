@@ -1,132 +1,132 @@
 ﻿[
 {
-    "Hex":  "#fd0013",
-    "Name":  "zanzibar",
-    "Phonetic":  "ザンジバール"
+    "hex":  "#fd0013",
+    "name":  "zanzibar",
+    "phonetic":  "ザンジバール"
 },
 {
-    "Hex":  "#f62713",
-    "Name":  "north africa",
-    "Phonetic":  "ノース アフリカ"
+    "hex":  "#f62713",
+    "name":  "north africa",
+    "phonetic":  "ノース アフリカ"
 },
 {
-    "Hex":  "#fa321f",
-    "Name":  "western sahara",
-    "Phonetic":  "ウェスタン サハラ"
+    "hex":  "#fa321f",
+    "name":  "western sahara",
+    "phonetic":  "ウェスタン サハラ"
 },
 {
-    "Hex":  "#ed3524",
-    "Name":  "swaziland",
-    "Phonetic":  "スワジランド"
+    "hex":  "#ed3524",
+    "name":  "swaziland",
+    "phonetic":  "スワジランド"
 },
 {
-    "Hex":  "#ff8040",
-    "Name":  "east africa",
-    "Phonetic":  "イースト アフリカ"
+    "hex":  "#ff8040",
+    "name":  "east africa",
+    "phonetic":  "イースト アフリカ"
 },
 {
-    "Hex":  "#ff8042",
-    "Name":  "libya",
-    "Phonetic":  "リビア"
+    "hex":  "#ff8042",
+    "name":  "libya",
+    "phonetic":  "リビア"
 },
 {
-    "Hex":  "#ff8044",
-    "Name":  "botswana",
-    "Phonetic":  "ボツワナ"
+    "hex":  "#ff8044",
+    "name":  "botswana",
+    "phonetic":  "ボツワナ"
 },
 {
-    "Hex":  "#00ff00",
-    "Name":  "west africa",
-    "Phonetic":  "ウェスト アフリカ"
+    "hex":  "#00ff00",
+    "name":  "west africa",
+    "phonetic":  "ウェスト アフリカ"
 },
 {
-    "Hex":  "#00ff02",
-    "Name":  "algeria",
-    "Phonetic":  "アルジェリア"
+    "hex":  "#00ff02",
+    "name":  "algeria",
+    "phonetic":  "アルジェリア"
 },
 {
-    "Hex":  "#00ff04",
-    "Name":  "zimbabwe",
-    "Phonetic":  "ジンバブエ"
+    "hex":  "#00ff04",
+    "name":  "zimbabwe",
+    "phonetic":  "ジンバブエ"
 },
 {
-    "Hex":  "#00fff5",
-    "Name":  "southern africa",
-    "Phonetic":  "サザン アフリカ"
+    "hex":  "#00fff5",
+    "name":  "southern africa",
+    "phonetic":  "サザン アフリカ"
 },
 {
-    "Hex":  "#00fff9",
-    "Name":  "egypt",
-    "Phonetic":  "エジプト"
+    "hex":  "#00fff9",
+    "name":  "egypt",
+    "phonetic":  "エジプト"
 },
 {
-    "Hex":  "#00ffff",
-    "Name":  "south africa",
-    "Phonetic":  "サファリ アフリカ"
+    "hex":  "#00ffff",
+    "name":  "south africa",
+    "phonetic":  "サファリ アフリカ"
 },
 {
-    "Hex":  "#0000ff",
-    "Name":  "morocco",
-    "Phonetic":  "モロッコ"
+    "hex":  "#0000ff",
+    "name":  "morocco",
+    "phonetic":  "モロッコ"
 },
 {
-    "Hex":  "#3300ff",
-    "Name":  "namibia",
-    "Phonetic":  "ナミビア"
+    "hex":  "#3300ff",
+    "name":  "namibia",
+    "phonetic":  "ナミビア"
 },
 {
-    "Hex":  "#3300cc",
-    "Name":  "saharan africa",
-    "Phonetic":  "サハラ アフリカ"
+    "hex":  "#3300cc",
+    "name":  "saharan africa",
+    "phonetic":  "サハラ アフリカ"
 },
 {
-    "Hex":  "#051a3b",
-    "Name":  "touareg",
-    "Phonetic":  "トゥアレグ"
+    "hex":  "#051a3b",
+    "name":  "touareg",
+    "phonetic":  "トゥアレグ"
 },
 {
-    "Hex":  "#3d1c79",
-    "Name":  "african violet",
-    "Phonetic":  "アフリカンバイオレット"
+    "hex":  "#3d1c79",
+    "name":  "african violet",
+    "phonetic":  "アフリカンバイオレット"
 },
 {
-    "Hex":  "#800085",
-    "Name":  "central africa",
-    "Phonetic":  "セントラル アフリカ"
+    "hex":  "#800085",
+    "name":  "central africa",
+    "phonetic":  "セントラル アフリカ"
 },
 {
-    "Hex":  "#800082",
-    "Name":  "tunisia",
-    "Phonetic":  "チュニジア"
+    "hex":  "#800082",
+    "name":  "tunisia",
+    "phonetic":  "チュニジア"
 },
 {
-    "Hex":  "#800089",
-    "Name":  "lesotho",
-    "Phonetic":  "レソト"
+    "hex":  "#800089",
+    "name":  "lesotho",
+    "phonetic":  "レソト"
 },
 {
-    "Hex":  "#b2864e",
-    "Name":  "sahara",
-    "Phonetic":  "サハラ"
+    "hex":  "#b2864e",
+    "name":  "sahara",
+    "phonetic":  "サハラ"
 },
 {
-    "Hex":  "#9f4f05",
-    "Name":  "sudan brown",
-    "Phonetic":  "スーダン ブラウン"
+    "hex":  "#9f4f05",
+    "name":  "sudan brown",
+    "phonetic":  "スーダン ブラウン"
 },
 {
-    "Hex":  "#40201b",
-    "Name":  "african brown",
-    "Phonetic":  "アフリカン ブラウン"
+    "hex":  "#40201b",
+    "name":  "african brown",
+    "phonetic":  "アフリカン ブラウン"
 },
 {
-    "Hex":  "#303b29",
-    "Name":  "safari",
-    "Phonetic":  "サファリ"
+    "hex":  "#303b29",
+    "name":  "safari",
+    "phonetic":  "サファリ"
 },
 {
-    "Hex":  "#005558",
-    "Name":  "gini green",
-    "Phonetic":  "ギニ グリーン"
+    "hex":  "#005558",
+    "name":  "gini green",
+    "phonetic":  "ギニ グリーン"
 }
 ]

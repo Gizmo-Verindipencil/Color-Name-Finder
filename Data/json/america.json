@@ -1,887 +1,887 @@
 ﻿[
 {
-    "Hex":  "#bf0a30",
-    "Name":  "american red",
-    "Phonetic":  "アメリカン レッド"
+    "hex":  "#bf0a30",
+    "name":  "american red",
+    "phonetic":  "アメリカン レッド"
 },
 {
-    "Hex":  "#ff0000",
-    "Name":  "buckeye red",
-    "Phonetic":  "バッカイ レッド"
+    "hex":  "#ff0000",
+    "name":  "buckeye red",
+    "phonetic":  "バッカイ レッド"
 },
 {
-    "Hex":  "#e2184f",
-    "Name":  "lincoln red",
-    "Phonetic":  "リンカーン レッド"
+    "hex":  "#e2184f",
+    "name":  "lincoln red",
+    "phonetic":  "リンカーン レッド"
 },
 {
-    "Hex":  "#e24a4f",
-    "Name":  "lincoln pink",
-    "Phonetic":  "リンカーン ピンク"
+    "hex":  "#e24a4f",
+    "name":  "lincoln pink",
+    "phonetic":  "リンカーン ピンク"
 },
 {
-    "Hex":  "#efc1a9",
-    "Name":  "grand canyon pink",
-    "Phonetic":  "グランドキャニオン ピンク"
+    "hex":  "#efc1a9",
+    "name":  "grand canyon pink",
+    "phonetic":  "グランドキャニオン ピンク"
 },
 {
-    "Hex":  "#b10021",
-    "Name":  "dixie red",
-    "Phonetic":  "ディキシー レッド"
+    "hex":  "#b10021",
+    "name":  "dixie red",
+    "phonetic":  "ディキシー レッド"
 },
 {
-    "Hex":  "#e3003d",
-    "Name":  "hawkeye red",
-    "Phonetic":  "ホークアイ レッド"
+    "hex":  "#e3003d",
+    "name":  "hawkeye red",
+    "phonetic":  "ホークアイ レッド"
 },
 {
-    "Hex":  "#cc0033",
-    "Name":  "natural red",
-    "Phonetic":  "ナチュラル レッド"
+    "hex":  "#cc0033",
+    "name":  "natural red",
+    "phonetic":  "ナチュラル レッド"
 },
 {
-    "Hex":  "#d60000",
-    "Name":  "empire red",
-    "Phonetic":  "エンパイア レッド"
+    "hex":  "#d60000",
+    "name":  "empire red",
+    "phonetic":  "エンパイア レッド"
 },
 {
-    "Hex":  "#cc0033",
-    "Name":  "glory red",
-    "Phonetic":  "グローリー レッド"
+    "hex":  "#cc0033",
+    "name":  "glory red",
+    "phonetic":  "グローリー レッド"
 },
 {
-    "Hex":  "#e03030",
-    "Name":  "southern california",
-    "Phonetic":  "カリフォルニア サザン"
+    "hex":  "#e03030",
+    "name":  "southern california",
+    "phonetic":  "カリフォルニア サザン"
 },
 {
-    "Hex":  "#ee2222",
-    "Name":  "southwest",
-    "Phonetic":  "サウスウエスト"
+    "hex":  "#ee2222",
+    "name":  "southwest",
+    "phonetic":  "サウスウエスト"
 },
 {
-    "Hex":  "#c10435",
-    "Name":  "golden red",
-    "Phonetic":  "ゴールデン レッド"
+    "hex":  "#c10435",
+    "name":  "golden red",
+    "phonetic":  "ゴールデン レッド"
 },
 {
-    "Hex":  "#bf0a30",
-    "Name":  "grand canyon red",
-    "Phonetic":  "グランドキャニオン レッド"
+    "hex":  "#bf0a30",
+    "name":  "grand canyon red",
+    "phonetic":  "グランドキャニオン レッド"
 },
 {
-    "Hex":  "#f3334b",
-    "Name":  "badger red",
-    "Phonetic":  "バッドゲル レッド"
+    "hex":  "#f3334b",
+    "name":  "badger red",
+    "phonetic":  "バッドゲル レッド"
 },
 {
-    "Hex":  "#e06060",
-    "Name":  "bay area california",
-    "Phonetic":  "カリフォルニア ベイ エリア"
+    "hex":  "#e06060",
+    "name":  "bay area california",
+    "phonetic":  "カリフォルニア ベイ エリア"
 },
 {
-    "Hex":  "#e03030",
-    "Name":  "shasta cascades",
-    "Phonetic":  "シャスタ カスケード"
+    "hex":  "#e03030",
+    "name":  "shasta cascades",
+    "phonetic":  "シャスタ カスケード"
 },
 {
-    "Hex":  "#002868",
-    "Name":  "american blue",
-    "Phonetic":  "アメリカン ブルー"
+    "hex":  "#002868",
+    "name":  "american blue",
+    "phonetic":  "アメリカン ブルー"
 },
 {
-    "Hex":  "#006e53",
-    "Name":  "american green",
-    "Phonetic":  "アメリカン グリーン"
+    "hex":  "#006e53",
+    "name":  "american green",
+    "phonetic":  "アメリカン グリーン"
 },
 {
-    "Hex":  "#deb301",
-    "Name":  "american yellow",
-    "Phonetic":  "アメリカン イエロー"
+    "hex":  "#deb301",
+    "name":  "american yellow",
+    "phonetic":  "アメリカン イエロー"
 },
 {
-    "Hex":  "#cbddf3",
-    "Name":  "american light blue",
-    "Phonetic":  "アメリカン ライトブルー"
+    "hex":  "#cbddf3",
+    "name":  "american light blue",
+    "phonetic":  "アメリカン ライトブルー"
 },
 {
-    "Hex":  "#9a6b37",
-    "Name":  "american brown",
-    "Phonetic":  "アメリカン ブラウン"
+    "hex":  "#9a6b37",
+    "name":  "american brown",
+    "phonetic":  "アメリカン ブラウン"
 },
 {
-    "Hex":  "#afafb1",
-    "Name":  "american gray",
-    "Phonetic":  "アメリカン グレー"
+    "hex":  "#afafb1",
+    "name":  "american gray",
+    "phonetic":  "アメリカン グレー"
 },
 {
-    "Hex":  "#0000ff",
-    "Name":  "glory blue",
-    "Phonetic":  "グローリー ブルー"
+    "hex":  "#0000ff",
+    "name":  "glory blue",
+    "phonetic":  "グローリー ブルー"
 },
 {
-    "Hex":  "#fff9f5",
-    "Name":  "glory white",
-    "Phonetic":  "グローリー ホワイト"
+    "hex":  "#fff9f5",
+    "name":  "glory white",
+    "phonetic":  "グローリー ホワイト"
 },
 {
-    "Hex":  "#ff6331",
-    "Name":  "big apple red",
-    "Phonetic":  "ビッグ アップル レッド"
+    "hex":  "#ff6331",
+    "name":  "big apple red",
+    "phonetic":  "ビッグ アップル レッド"
 },
 {
-    "Hex":  "#3131ce",
-    "Name":  "big apple blue",
-    "Phonetic":  "ビッグ アップル ブルー"
+    "hex":  "#3131ce",
+    "name":  "big apple blue",
+    "phonetic":  "ビッグ アップル ブルー"
 },
 {
-    "Hex":  "#001873",
-    "Name":  "empire blue",
-    "Phonetic":  "エンパイア ブルー"
+    "hex":  "#001873",
+    "name":  "empire blue",
+    "phonetic":  "エンパイア ブルー"
 },
 {
-    "Hex":  "#00b5d6",
-    "Name":  "empire cyan",
-    "Phonetic":  "エンパイア シアン"
+    "hex":  "#00b5d6",
+    "name":  "empire cyan",
+    "phonetic":  "エンパイア シアン"
 },
 {
-    "Hex":  "#f7f700",
-    "Name":  "empire yellow",
-    "Phonetic":  "エンパイア イエロー"
+    "hex":  "#f7f700",
+    "name":  "empire yellow",
+    "phonetic":  "エンパイア イエロー"
 },
 {
-    "Hex":  "#f79429",
-    "Name":  "empire orange",
-    "Phonetic":  "エンパイア オレンジ"
+    "hex":  "#f79429",
+    "name":  "empire orange",
+    "phonetic":  "エンパイア オレンジ"
 },
 {
-    "Hex":  "#084a29",
-    "Name":  "empire green",
-    "Phonetic":  "エンパイア グリーン"
+    "hex":  "#084a29",
+    "name":  "empire green",
+    "phonetic":  "エンパイア グリーン"
 },
 {
-    "Hex":  "#424a00",
-    "Name":  "empire ebony",
-    "Phonetic":  "エンパイア エボニー"
+    "hex":  "#424a00",
+    "name":  "empire ebony",
+    "phonetic":  "エンパイア エボニー"
 },
 {
-    "Hex":  "#000099",
-    "Name":  "natural blue",
-    "Phonetic":  "ナチュラル ブルー"
+    "hex":  "#000099",
+    "name":  "natural blue",
+    "phonetic":  "ナチュラル ブルー"
 },
 {
-    "Hex":  "#84c8ef",
-    "Name":  "natural light blue",
-    "Phonetic":  "ナチュラル ライトブルー"
+    "hex":  "#84c8ef",
+    "name":  "natural light blue",
+    "phonetic":  "ナチュラル ライトブルー"
 },
 {
-    "Hex":  "#90c924",
-    "Name":  "natural green",
-    "Phonetic":  "ナチュラル グリーン"
+    "hex":  "#90c924",
+    "name":  "natural green",
+    "phonetic":  "ナチュラル グリーン"
 },
 {
-    "Hex":  "#f39234",
-    "Name":  "natural orange",
-    "Phonetic":  "ナチュラル オレンジ"
+    "hex":  "#f39234",
+    "name":  "natural orange",
+    "phonetic":  "ナチュラル オレンジ"
 },
 {
-    "Hex":  "#843a2f",
-    "Name":  "natural brown",
-    "Phonetic":  "ナチュラル ブラウン"
+    "hex":  "#843a2f",
+    "name":  "natural brown",
+    "phonetic":  "ナチュラル ブラウン"
 },
 {
-    "Hex":  "#bfbfbf",
-    "Name":  "natural gray",
-    "Phonetic":  "ナチュラル グレー"
+    "hex":  "#bfbfbf",
+    "name":  "natural gray",
+    "phonetic":  "ナチュラル グレー"
 },
 {
-    "Hex":  "#3c3c9e",
-    "Name":  "hawkeye blue",
-    "Phonetic":  "ホークアイ ブルー"
+    "hex":  "#3c3c9e",
+    "name":  "hawkeye blue",
+    "phonetic":  "ホークアイ ブルー"
 },
 {
-    "Hex":  "#ffb30f",
-    "Name":  "hawkeye yellow",
-    "Phonetic":  "ホークアイ イエロー"
+    "hex":  "#ffb30f",
+    "name":  "hawkeye yellow",
+    "phonetic":  "ホークアイ イエロー"
 },
 {
-    "Hex":  "#a54a00",
-    "Name":  "hawkeye brown",
-    "Phonetic":  "ホークアイ ブラウン"
+    "hex":  "#a54a00",
+    "name":  "hawkeye brown",
+    "phonetic":  "ホークアイ ブラウン"
 },
 {
-    "Hex":  "#000080",
-    "Name":  "frontier blue",
-    "Phonetic":  "フロンティア ブルー"
+    "hex":  "#000080",
+    "name":  "frontier blue",
+    "phonetic":  "フロンティア ブルー"
 },
 {
-    "Hex":  "#d3eef7",
-    "Name":  "frontier light blue",
-    "Phonetic":  "フロンティア ライトブルー"
+    "hex":  "#d3eef7",
+    "name":  "frontier light blue",
+    "phonetic":  "フロンティア ライトブルー"
 },
 {
-    "Hex":  "#024900",
-    "Name":  "frontier green",
-    "Phonetic":  "フロンティア グリーン"
+    "hex":  "#024900",
+    "name":  "frontier green",
+    "phonetic":  "フロンティア グリーン"
 },
 {
-    "Hex":  "#ffff00",
-    "Name":  "frontier yellow",
-    "Phonetic":  "フロンティア イエロー"
+    "hex":  "#ffff00",
+    "name":  "frontier yellow",
+    "phonetic":  "フロンティア イエロー"
 },
 {
-    "Hex":  "#8663bd",
-    "Name":  "frontier purple",
-    "Phonetic":  "フロンティア パープル"
+    "hex":  "#8663bd",
+    "name":  "frontier purple",
+    "phonetic":  "フロンティア パープル"
 },
 {
-    "Hex":  "#083152",
-    "Name":  "dixie blue",
-    "Phonetic":  "ディキシー ブルー"
+    "hex":  "#083152",
+    "name":  "dixie blue",
+    "phonetic":  "ディキシー ブルー"
 },
 {
-    "Hex":  "#105a21",
-    "Name":  "dixie green",
-    "Phonetic":  "ディキシー グリーン"
+    "hex":  "#105a21",
+    "name":  "dixie green",
+    "phonetic":  "ディキシー グリーン"
 },
 {
-    "Hex":  "#ffc621",
-    "Name":  "dixie yellow",
-    "Phonetic":  "ディキシー イエロー"
+    "hex":  "#ffc621",
+    "name":  "dixie yellow",
+    "phonetic":  "ディキシー イエロー"
 },
 {
-    "Hex":  "#002868",
-    "Name":  "grand canyon blue",
-    "Phonetic":  "グランドキャニオン ブルー"
+    "hex":  "#002868",
+    "name":  "grand canyon blue",
+    "phonetic":  "グランドキャニオン ブルー"
 },
 {
-    "Hex":  "#ce5c17",
-    "Name":  "grand canyon brown",
-    "Phonetic":  "グランドキャニオンブラウン"
+    "hex":  "#ce5c17",
+    "name":  "grand canyon brown",
+    "phonetic":  "グランドキャニオンブラウン"
 },
 {
-    "Hex":  "#fed700",
-    "Name":  "grand canyon yellow",
-    "Phonetic":  "グランドキャニオンイエロー"
+    "hex":  "#fed700",
+    "name":  "grand canyon yellow",
+    "phonetic":  "グランドキャニオンイエロー"
 },
 {
-    "Hex":  "#00320b",
-    "Name":  "grand canyon green",
-    "Phonetic":  "グランドキャニオングリーン"
+    "hex":  "#00320b",
+    "name":  "grand canyon green",
+    "phonetic":  "グランドキャニオングリーン"
 },
 {
-    "Hex":  "#64b4ff",
-    "Name":  "lincoln light blue",
-    "Phonetic":  "リンカーン ライトブルー"
+    "hex":  "#64b4ff",
+    "name":  "lincoln light blue",
+    "phonetic":  "リンカーン ライトブルー"
 },
 {
-    "Hex":  "#3c3c9e",
-    "Name":  "lincoln blue",
-    "Phonetic":  "リンカーン ブルー"
+    "hex":  "#3c3c9e",
+    "name":  "lincoln blue",
+    "phonetic":  "リンカーン ブルー"
 },
 {
-    "Hex":  "#3f863f",
-    "Name":  "lincoln green",
-    "Phonetic":  "リンカーン グリーン"
+    "hex":  "#3f863f",
+    "name":  "lincoln green",
+    "phonetic":  "リンカーン グリーン"
 },
 {
-    "Hex":  "#ffe60f",
-    "Name":  "lincoln yellow",
-    "Phonetic":  "リンカーン イエロー"
+    "hex":  "#ffe60f",
+    "name":  "lincoln yellow",
+    "phonetic":  "リンカーン イエロー"
 },
 {
-    "Hex":  "#ffb316",
-    "Name":  "lincoln orange",
-    "Phonetic":  "リンカーン オレンジ"
+    "hex":  "#ffb316",
+    "name":  "lincoln orange",
+    "phonetic":  "リンカーン オレンジ"
 },
 {
-    "Hex":  "#101195",
-    "Name":  "hoosier blue",
-    "Phonetic":  "フージャース ブルー"
+    "hex":  "#101195",
+    "name":  "hoosier blue",
+    "phonetic":  "フージャース ブルー"
 },
 {
-    "Hex":  "#ffe700",
-    "Name":  "hoosier yellow",
-    "Phonetic":  "フージャース イエロー"
+    "hex":  "#ffe700",
+    "name":  "hoosier yellow",
+    "phonetic":  "フージャース イエロー"
 },
 {
-    "Hex":  "#197351",
-    "Name":  "hoosier green",
-    "Phonetic":  "フージャース グリーン"
+    "hex":  "#197351",
+    "name":  "hoosier green",
+    "phonetic":  "フージャース グリーン"
 },
 {
-    "Hex":  "#563837",
-    "Name":  "hoosier brown",
-    "Phonetic":  "フージャース ブラウン"
+    "hex":  "#563837",
+    "name":  "hoosier brown",
+    "phonetic":  "フージャース ブラウン"
 },
 {
-    "Hex":  "#002986",
-    "Name":  "badger blue",
-    "Phonetic":  "バッドゲル ブルー"
+    "hex":  "#002986",
+    "name":  "badger blue",
+    "phonetic":  "バッドゲル ブルー"
 },
 {
-    "Hex":  "#00b2fd",
-    "Name":  "badger light blue",
-    "Phonetic":  "バッドゲル ライトブルー"
+    "hex":  "#00b2fd",
+    "name":  "badger light blue",
+    "phonetic":  "バッドゲル ライトブルー"
 },
 {
-    "Hex":  "#f8b8de",
-    "Name":  "badger pink",
-    "Phonetic":  "バッドゲル ピンク"
+    "hex":  "#f8b8de",
+    "name":  "badger pink",
+    "phonetic":  "バッドゲル ピンク"
 },
 {
-    "Hex":  "#41ad16",
-    "Name":  "badger green",
-    "Phonetic":  "バッドゲル グリーン"
+    "hex":  "#41ad16",
+    "name":  "badger green",
+    "phonetic":  "バッドゲル グリーン"
 },
 {
-    "Hex":  "#ffe618",
-    "Name":  "badger yellow",
-    "Phonetic":  "バッドゲル イエロー"
+    "hex":  "#ffe618",
+    "name":  "badger yellow",
+    "phonetic":  "バッドゲル イエロー"
 },
 {
-    "Hex":  "#66180b",
-    "Name":  "badger brown",
-    "Phonetic":  "バッドゲル ブラウン"
+    "hex":  "#66180b",
+    "name":  "badger brown",
+    "phonetic":  "バッドゲル ブラウン"
 },
 {
-    "Hex":  "#a2b9b9",
-    "Name":  "badger gray",
-    "Phonetic":  "バッドゲル グレー"
+    "hex":  "#a2b9b9",
+    "name":  "badger gray",
+    "phonetic":  "バッドゲル グレー"
 },
 {
-    "Hex":  "#ff3516",
-    "Name":  "mountain red",
-    "Phonetic":  "マウンテン レッド"
+    "hex":  "#ff3516",
+    "name":  "mountain red",
+    "phonetic":  "マウンテン レッド"
 },
 {
-    "Hex":  "#003776",
-    "Name":  "mountain blue",
-    "Phonetic":  "マウンテン ブルー"
+    "hex":  "#003776",
+    "name":  "mountain blue",
+    "phonetic":  "マウンテン ブルー"
 },
 {
-    "Hex":  "#20d942",
-    "Name":  "mountain green",
-    "Phonetic":  "マウンテン グリーン"
+    "hex":  "#20d942",
+    "name":  "mountain green",
+    "phonetic":  "マウンテン グリーン"
 },
 {
-    "Hex":  "#ffb30f",
-    "Name":  "mountain yellow",
-    "Phonetic":  "マウンテン イエロー"
+    "hex":  "#ffb30f",
+    "name":  "mountain yellow",
+    "phonetic":  "マウンテン イエロー"
 },
 {
-    "Hex":  "#d15b25",
-    "Name":  "mountain brown",
-    "Phonetic":  "マウンテン ブラウン"
+    "hex":  "#d15b25",
+    "name":  "mountain brown",
+    "phonetic":  "マウンテン ブラウン"
 },
 {
-    "Hex":  "#c0c0c0",
-    "Name":  "mountain gray",
-    "Phonetic":  "マウンテン グレー"
+    "hex":  "#c0c0c0",
+    "name":  "mountain gray",
+    "phonetic":  "マウンテン グレー"
 },
 {
-    "Hex":  "#0e4892",
-    "Name":  "sooner blue",
-    "Phonetic":  "ソナー ブルー"
+    "hex":  "#0e4892",
+    "name":  "sooner blue",
+    "phonetic":  "ソナー ブルー"
 },
 {
-    "Hex":  "#00adc6",
-    "Name":  "sooner light blue",
-    "Phonetic":  "ソナー ライトブルー"
+    "hex":  "#00adc6",
+    "name":  "sooner light blue",
+    "phonetic":  "ソナー ライトブルー"
 },
 {
-    "Hex":  "#1b692b",
-    "Name":  "sooner green",
-    "Phonetic":  "ソナー グリーン"
+    "hex":  "#1b692b",
+    "name":  "sooner green",
+    "phonetic":  "ソナー グリーン"
 },
 {
-    "Hex":  "#8ab87a",
-    "Name":  "sooner opal",
-    "Phonetic":  "ソナー オパール"
+    "hex":  "#8ab87a",
+    "name":  "sooner opal",
+    "phonetic":  "ソナー オパール"
 },
 {
-    "Hex":  "#f0c016",
-    "Name":  "sooner yellow",
-    "Phonetic":  "ソナー イエロー"
+    "hex":  "#f0c016",
+    "name":  "sooner yellow",
+    "phonetic":  "ソナー イエロー"
 },
 {
-    "Hex":  "#421000",
-    "Name":  "sooner brown",
-    "Phonetic":  "ソナー ブラウン"
+    "hex":  "#421000",
+    "name":  "sooner brown",
+    "phonetic":  "ソナー ブラウン"
 },
 {
-    "Hex":  "#ffc69c",
-    "Name":  "sooner beige",
-    "Phonetic":  "ソナー ベージュ"
+    "hex":  "#ffc69c",
+    "name":  "sooner beige",
+    "phonetic":  "ソナー ベージュ"
 },
 {
-    "Hex":  "#d6c6c6",
-    "Name":  "sooner gray",
-    "Phonetic":  "ソナー グレー"
+    "hex":  "#d6c6c6",
+    "name":  "sooner gray",
+    "phonetic":  "ソナー グレー"
 },
 {
-    "Hex":  "#454442",
-    "Name":  "sooner black",
-    "Phonetic":  "ソナー ブラック"
+    "hex":  "#454442",
+    "name":  "sooner black",
+    "phonetic":  "ソナー ブラック"
 },
 {
-    "Hex":  "#1a3b86",
-    "Name":  "buckeye blue",
-    "Phonetic":  "バッカイ ブルー"
+    "hex":  "#1a3b86",
+    "name":  "buckeye blue",
+    "phonetic":  "バッカイ ブルー"
 },
 {
-    "Hex":  "#00784b",
-    "Name":  "buckeye green",
-    "Phonetic":  "バッカイ グリーン"
+    "hex":  "#00784b",
+    "name":  "buckeye green",
+    "phonetic":  "バッカイ グリーン"
 },
 {
-    "Hex":  "#f8c300",
-    "Name":  "buckeye yellow",
-    "Phonetic":  "バッカイ イエロー"
+    "hex":  "#f8c300",
+    "name":  "buckeye yellow",
+    "phonetic":  "バッカイ イエロー"
 },
 {
-    "Hex":  "#4e3330",
-    "Name":  "buckeye brown",
-    "Phonetic":  "バッカイ ブラウン"
+    "hex":  "#4e3330",
+    "name":  "buckeye brown",
+    "phonetic":  "バッカイ ブラウン"
 },
 {
-    "Hex":  "#027bc2",
-    "Name":  "buckeye light blue",
-    "Phonetic":  "バッカイ ライトブルー"
+    "hex":  "#027bc2",
+    "name":  "buckeye light blue",
+    "phonetic":  "バッカイ ライトブルー"
 },
 {
-    "Hex":  "#002a86",
-    "Name":  "beaver blue",
-    "Phonetic":  "ビーバー ブルー"
+    "hex":  "#002a86",
+    "name":  "beaver blue",
+    "phonetic":  "ビーバー ブルー"
 },
 {
-    "Hex":  "#ffea0f",
-    "Name":  "beaver yellow",
-    "Phonetic":  "ビーバー イエロー"
+    "hex":  "#ffea0f",
+    "name":  "beaver yellow",
+    "phonetic":  "ビーバー イエロー"
 },
 {
-    "Hex":  "#007e3a",
-    "Name":  "golden green",
-    "Phonetic":  "ゴールデン グリーン"
+    "hex":  "#007e3a",
+    "name":  "golden green",
+    "phonetic":  "ゴールデン グリーン"
 },
 {
-    "Hex":  "#391800",
-    "Name":  "golden brown",
-    "Phonetic":  "ゴールデン ブラウン"
+    "hex":  "#391800",
+    "name":  "golden brown",
+    "phonetic":  "ゴールデン ブラウン"
 },
 {
-    "Hex":  "#bc8e07",
-    "Name":  "golden yellow",
-    "Phonetic":  "ゴールデン イエロー"
+    "hex":  "#bc8e07",
+    "name":  "golden yellow",
+    "phonetic":  "ゴールデン イエロー"
 },
 {
-    "Hex":  "#40a7aa",
-    "Name":  "golden cyan",
-    "Phonetic":  "ゴールデン シアン"
+    "hex":  "#40a7aa",
+    "name":  "golden cyan",
+    "phonetic":  "ゴールデン シアン"
 },
 {
-    "Hex":  "#84948e",
-    "Name":  "golden gray",
-    "Phonetic":  "ゴールデン グレー"
+    "hex":  "#84948e",
+    "name":  "golden gray",
+    "phonetic":  "ゴールデン グレー"
 },
 {
-    "Hex":  "#00009c",
-    "Name":  "sunflower blue",
-    "Phonetic":  "サンフラワー ブルー"
+    "hex":  "#00009c",
+    "name":  "sunflower blue",
+    "phonetic":  "サンフラワー ブルー"
 },
 {
-    "Hex":  "#0092df",
-    "Name":  "sunflower light blue",
-    "Phonetic":  "サンフラワー ライトブルー"
+    "hex":  "#0092df",
+    "name":  "sunflower light blue",
+    "phonetic":  "サンフラワー ライトブルー"
 },
 {
-    "Hex":  "#29b910",
-    "Name":  "sunflower green",
-    "Phonetic":  "サンフラワー グリーン"
+    "hex":  "#29b910",
+    "name":  "sunflower green",
+    "phonetic":  "サンフラワー グリーン"
 },
 {
-    "Hex":  "#ff660f",
-    "Name":  "sunflower orange",
-    "Phonetic":  "サンフラワー オレンジ"
+    "hex":  "#ff660f",
+    "name":  "sunflower orange",
+    "phonetic":  "サンフラワー オレンジ"
 },
 {
-    "Hex":  "#b34e20",
-    "Name":  "sunflower brown",
-    "Phonetic":  "サンフラワー ブラウン"
+    "hex":  "#b34e20",
+    "name":  "sunflower brown",
+    "phonetic":  "サンフラワー ブラウン"
 },
 {
-    "Hex":  "#7c4790",
-    "Name":  "sunflower purple",
-    "Phonetic":  "サンフラワー パープル"
+    "hex":  "#7c4790",
+    "name":  "sunflower purple",
+    "phonetic":  "サンフラワー パープル"
 },
 {
-    "Hex":  "#ffe400",
-    "Name":  "sunflower yellow",
-    "Phonetic":  "サンフラワー イエロー"
+    "hex":  "#ffe400",
+    "name":  "sunflower yellow",
+    "phonetic":  "サンフラワー イエロー"
 },
 {
-    "Hex":  "#dedede",
-    "Name":  "sunflower gray",
-    "Phonetic":  "サンフラワー グレー"
+    "hex":  "#dedede",
+    "name":  "sunflower gray",
+    "phonetic":  "サンフラワー グレー"
 },
 {
-    "Hex":  "#e25c5c",
-    "Name":  "new england",
-    "Phonetic":  "ニュー イングランド"
+    "hex":  "#e25c5c",
+    "name":  "new england",
+    "phonetic":  "ニュー イングランド"
 },
 {
-    "Hex":  "#5c7a7a",
-    "Name":  "mid atlantic",
-    "Phonetic":  "ミッド アトランティック"
+    "hex":  "#5c7a7a",
+    "name":  "mid atlantic",
+    "phonetic":  "ミッド アトランティック"
 },
 {
-    "Hex":  "#8a84a3",
-    "Name":  "south",
-    "Phonetic":  "サーフ"
+    "hex":  "#8a84a3",
+    "name":  "south",
+    "phonetic":  "サーフ"
 },
 {
-    "Hex":  "#e9bda2",
-    "Name":  "florida",
-    "Phonetic":  "フロリダ"
+    "hex":  "#e9bda2",
+    "name":  "florida",
+    "phonetic":  "フロリダ"
 },
 {
-    "Hex":  "#ffd577",
-    "Name":  "midwest",
-    "Phonetic":  "ミッドウェスト"
+    "hex":  "#ffd577",
+    "name":  "midwest",
+    "phonetic":  "ミッドウェスト"
 },
 {
-    "Hex":  "#77cbb3",
-    "Name":  "texas",
-    "Phonetic":  "テキサス"
+    "hex":  "#77cbb3",
+    "name":  "texas",
+    "phonetic":  "テキサス"
 },
 {
-    "Hex":  "#b6bc4d",
-    "Name":  "great plains",
-    "Phonetic":  "グレート プレインズ"
+    "hex":  "#b6bc4d",
+    "name":  "great plains",
+    "phonetic":  "グレート プレインズ"
 },
 {
-    "Hex":  "#e9df25",
-    "Name":  "rocky mountain",
-    "Phonetic":  "ロッキー マウンテン"
+    "hex":  "#e9df25",
+    "name":  "rocky mountain",
+    "phonetic":  "ロッキー マウンテン"
 },
 {
-    "Hex":  "#e0fa92",
-    "Name":  "california",
-    "Phonetic":  "カリフォルニア"
+    "hex":  "#e0fa92",
+    "name":  "california",
+    "phonetic":  "カリフォルニア"
 },
 {
-    "Hex":  "#38911c",
-    "Name":  "pacific northwest",
-    "Phonetic":  "パシフィックノースウエスト"
+    "hex":  "#38911c",
+    "name":  "pacific northwest",
+    "phonetic":  "パシフィックノースウエスト"
 },
 {
-    "Hex":  "#d09440",
-    "Name":  "alaska",
-    "Phonetic":  "アラスカ"
+    "hex":  "#d09440",
+    "name":  "alaska",
+    "phonetic":  "アラスカ"
 },
 {
-    "Hex":  "#4f93c0",
-    "Name":  "hawaii",
-    "Phonetic":  "ハワイ"
+    "hex":  "#4f93c0",
+    "name":  "hawaii",
+    "phonetic":  "ハワイ"
 },
 {
-    "Hex":  "#999966",
-    "Name":  "mountains alabama",
-    "Phonetic":  "アラバマ マウンテン"
+    "hex":  "#999966",
+    "name":  "mountains alabama",
+    "phonetic":  "アラバマ マウンテン"
 },
 {
-    "Hex":  "#ff9933",
-    "Name":  "metropolitan alabama",
-    "Phonetic":  "アラバマ メトロポリタン"
+    "hex":  "#ff9933",
+    "name":  "metropolitan alabama",
+    "phonetic":  "アラバマ メトロポリタン"
 },
 {
-    "Hex":  "#996699",
-    "Name":  "river heritage alabama",
-    "Phonetic":  "アラバマリバーヘリテイジ"
+    "hex":  "#996699",
+    "name":  "river heritage alabama",
+    "phonetic":  "アラバマリバーヘリテイジ"
 },
 {
-    "Hex":  "#99cccc",
-    "Name":  "gulf coast alabama",
-    "Phonetic":  "ガルフ コースト アラバマ"
+    "hex":  "#99cccc",
+    "name":  "gulf coast alabama",
+    "phonetic":  "ガルフ コースト アラバマ"
 },
 {
-    "Hex":  "#e0b000",
-    "Name":  "california desert",
-    "Phonetic":  "カリフォルニア デザート"
+    "hex":  "#e0b000",
+    "name":  "california desert",
+    "phonetic":  "カリフォルニア デザート"
 },
 {
-    "Hex":  "#00b000",
-    "Name":  "california central coast",
-    "Phonetic":  "カリフォルニア セントラル コースト"
+    "hex":  "#00b000",
+    "name":  "california central coast",
+    "phonetic":  "カリフォルニア セントラル コースト"
 },
 {
-    "Hex":  "#a0a0c0",
-    "Name":  "san joaquin valley",
-    "Phonetic":  "サン ホアキン ヴァレイ"
+    "hex":  "#a0a0c0",
+    "name":  "san joaquin valley",
+    "phonetic":  "サン ホアキン ヴァレイ"
 },
 {
-    "Hex":  "#e0b000",
-    "Name":  "sacramento valley",
-    "Phonetic":  "サクラメント ヴァレイ"
+    "hex":  "#e0b000",
+    "name":  "sacramento valley",
+    "phonetic":  "サクラメント ヴァレイ"
 },
 {
-    "Hex":  "#00e000",
-    "Name":  "sierra nevada",
-    "Phonetic":  "シエラ ネバダ"
+    "hex":  "#00e000",
+    "name":  "sierra nevada",
+    "phonetic":  "シエラ ネバダ"
 },
 {
-    "Hex":  "#e0e000",
-    "Name":  "gold country",
-    "Phonetic":  "ゴールド カントリー"
+    "hex":  "#e0e000",
+    "name":  "gold country",
+    "phonetic":  "ゴールド カントリー"
 },
 {
-    "Hex":  "#b0b000",
-    "Name":  "california north coast",
-    "Phonetic":  "カリフォルニア ノース コースト"
+    "hex":  "#b0b000",
+    "name":  "california north coast",
+    "phonetic":  "カリフォルニア ノース コースト"
 },
 {
-    "Hex":  "#336699",
-    "Name":  "mississippi capital river",
-    "Phonetic":  "ミシシッピキャピタルリバー"
+    "hex":  "#336699",
+    "name":  "mississippi capital river",
+    "phonetic":  "ミシシッピキャピタルリバー"
 },
 {
-    "Hex":  "#663366",
-    "Name":  "mississippi delta",
-    "Phonetic":  "ミシシッピ デルタ"
+    "hex":  "#663366",
+    "name":  "mississippi delta",
+    "phonetic":  "ミシシッピ デルタ"
 },
 {
-    "Hex":  "#339966",
-    "Name":  "mississippi pines",
-    "Phonetic":  "ミシシッピ パインズ"
+    "hex":  "#339966",
+    "name":  "mississippi pines",
+    "phonetic":  "ミシシッピ パインズ"
 },
 {
-    "Hex":  "#660033",
-    "Name":  "gulf coast mississippi",
-    "Phonetic":  "ミシシッピガルフコースト"
+    "hex":  "#660033",
+    "name":  "gulf coast mississippi",
+    "phonetic":  "ミシシッピガルフコースト"
 },
 {
-    "Hex":  "#996633",
-    "Name":  "mississippi hills",
-    "Phonetic":  "ミシシッピ ヒルズ"
+    "hex":  "#996633",
+    "name":  "mississippi hills",
+    "phonetic":  "ミシシッピ ヒルズ"
 },
 {
-    "Hex":  "#cc9966",
-    "Name":  "panhandle nebraska",
-    "Phonetic":  "パンハンドル ネブラスカ"
+    "hex":  "#cc9966",
+    "name":  "panhandle nebraska",
+    "phonetic":  "パンハンドル ネブラスカ"
 },
 {
-    "Hex":  "#cccc66",
-    "Name":  "north central nebraska",
-    "Phonetic":  "ノースセントラルネブラスカ"
+    "hex":  "#cccc66",
+    "name":  "north central nebraska",
+    "phonetic":  "ノースセントラルネブラスカ"
 },
 {
-    "Hex":  "#99cccc",
-    "Name":  "eastern nebraska",
-    "Phonetic":  "イースタン ネブラスカ"
+    "hex":  "#99cccc",
+    "name":  "eastern nebraska",
+    "phonetic":  "イースタン ネブラスカ"
 },
 {
-    "Hex":  "#cc9999",
-    "Name":  "western nevada",
-    "Phonetic":  "ウェスタン ネバダ"
+    "hex":  "#cc9999",
+    "name":  "western nevada",
+    "phonetic":  "ウェスタン ネバダ"
 },
 {
-    "Hex":  "#cc9966",
-    "Name":  "northern nevada",
-    "Phonetic":  "ノーザン ネバダ"
+    "hex":  "#cc9966",
+    "name":  "northern nevada",
+    "phonetic":  "ノーザン ネバダ"
 },
 {
-    "Hex":  "#9999cc",
-    "Name":  "central nevada",
-    "Phonetic":  "セントラル ネバダ"
+    "hex":  "#9999cc",
+    "name":  "central nevada",
+    "phonetic":  "セントラル ネバダ"
 },
 {
-    "Hex":  "#99cccc",
-    "Name":  "southern nevada",
-    "Phonetic":  "サザン ネバダ"
+    "hex":  "#99cccc",
+    "name":  "southern nevada",
+    "phonetic":  "サザン ネバダ"
 },
 {
-    "Hex":  "#e0fa92",
-    "Name":  "central new mexico",
-    "Phonetic":  "セントラル ニューメキシコ"
+    "hex":  "#e0fa92",
+    "name":  "central new mexico",
+    "phonetic":  "セントラル ニューメキシコ"
 },
 {
-    "Hex":  "#6699aa",
-    "Name":  "north central new mexico",
-    "Phonetic":  "ノース セントラル ニューメキシコ"
+    "hex":  "#6699aa",
+    "name":  "north central new mexico",
+    "phonetic":  "ノース セントラル ニューメキシコ"
 },
 {
-    "Hex":  "#b6bc4d",
-    "Name":  "northeast new mexico",
-    "Phonetic":  "ノース イースト ニューメキシコ"
+    "hex":  "#b6bc4d",
+    "name":  "northeast new mexico",
+    "phonetic":  "ノース イースト ニューメキシコ"
 },
 {
-    "Hex":  "#d09440",
-    "Name":  "northwest new mexico",
-    "Phonetic":  "ノース ウエスト ニューメキシコ"
+    "hex":  "#d09440",
+    "name":  "northwest new mexico",
+    "phonetic":  "ノース ウエスト ニューメキシコ"
 },
 {
-    "Hex":  "#b2cc7f",
-    "Name":  "southwest new mexico",
-    "Phonetic":  "サウス ウエスト ニューメキシコ"
+    "hex":  "#b2cc7f",
+    "name":  "southwest new mexico",
+    "phonetic":  "サウス ウエスト ニューメキシコ"
 },
 {
-    "Hex":  "#ffff99",
-    "Name":  "southeast new mexico",
-    "Phonetic":  "サウス イースト ニューメキシコ"
+    "hex":  "#ffff99",
+    "name":  "southeast new mexico",
+    "phonetic":  "サウス イースト ニューメキシコ"
 },
 {
-    "Hex":  "#666633",
-    "Name":  "northwest ohio",
-    "Phonetic":  "ノース ウエスト オハイオ"
+    "hex":  "#666633",
+    "name":  "northwest ohio",
+    "phonetic":  "ノース ウエスト オハイオ"
 },
 {
-    "Hex":  "#669999",
-    "Name":  "northeast ohio",
-    "Phonetic":  "ノース イースト オハイオ"
+    "hex":  "#669999",
+    "name":  "northeast ohio",
+    "phonetic":  "ノース イースト オハイオ"
 },
 {
-    "Hex":  "#996666",
-    "Name":  "mid ohio",
-    "Phonetic":  "ミッド オハイオ"
+    "hex":  "#996666",
+    "name":  "mid ohio",
+    "phonetic":  "ミッド オハイオ"
 },
 {
-    "Hex":  "#666699",
-    "Name":  "southwest ohio",
-    "Phonetic":  "サウス ウエスト オハイオ"
+    "hex":  "#666699",
+    "name":  "southwest ohio",
+    "phonetic":  "サウス ウエスト オハイオ"
 },
 {
-    "Hex":  "#cc9933",
-    "Name":  "southeast ohio",
-    "Phonetic":  "サウス イースト オハイオ"
+    "hex":  "#cc9933",
+    "name":  "southeast ohio",
+    "phonetic":  "サウス イースト オハイオ"
 },
 {
-    "Hex":  "#996699",
-    "Name":  "western tennessee",
-    "Phonetic":  "ウエスタン テネシー"
+    "hex":  "#996699",
+    "name":  "western tennessee",
+    "phonetic":  "ウエスタン テネシー"
 },
 {
-    "Hex":  "#339999",
-    "Name":  "central tennessee",
-    "Phonetic":  "セントラル テネシー"
+    "hex":  "#339999",
+    "name":  "central tennessee",
+    "phonetic":  "セントラル テネシー"
 },
 {
-    "Hex":  "#339966",
-    "Name":  "eastern tennessee",
-    "Phonetic":  "イースタン テネシー"
+    "hex":  "#339966",
+    "name":  "eastern tennessee",
+    "phonetic":  "イースタン テネシー"
 },
 {
-    "Hex":  "#80622f",
-    "Name":  "panhandle texas",
-    "Phonetic":  "パンハンドルテキサス"
+    "hex":  "#80622f",
+    "name":  "panhandle texas",
+    "phonetic":  "パンハンドルテキサス"
 },
 {
-    "Hex":  "#335c64",
-    "Name":  "prairies and lakes",
-    "Phonetic":  "プレリーズアンドレイクス"
+    "hex":  "#335c64",
+    "name":  "prairies and lakes",
+    "phonetic":  "プレリーズアンドレイクス"
 },
 {
-    "Hex":  "#406324",
-    "Name":  "piney woods",
-    "Phonetic":  "ピニー ウッズ"
+    "hex":  "#406324",
+    "name":  "piney woods",
+    "phonetic":  "ピニー ウッズ"
 },
 {
-    "Hex":  "#7895a3",
-    "Name":  "gulf coast texas",
-    "Phonetic":  "ガルフ コースト テキサス"
+    "hex":  "#7895a3",
+    "name":  "gulf coast texas",
+    "phonetic":  "ガルフ コースト テキサス"
 },
 {
-    "Hex":  "#7d6b71",
-    "Name":  "south texas plains",
-    "Phonetic":  "サウステキサスプレインズ"
+    "hex":  "#7d6b71",
+    "name":  "south texas plains",
+    "phonetic":  "サウステキサスプレインズ"
 },
 {
-    "Hex":  "#d1a85e",
-    "Name":  "hill country",
-    "Phonetic":  "ヒル カントリー"
+    "hex":  "#d1a85e",
+    "name":  "hill country",
+    "phonetic":  "ヒル カントリー"
 },
 {
-    "Hex":  "#c6ab7a",
-    "Name":  "big bend country",
-    "Phonetic":  "ビッグ ベンド カントリー"
+    "hex":  "#c6ab7a",
+    "name":  "big bend country",
+    "phonetic":  "ビッグ ベンド カントリー"
 },
 {
-    "Hex":  "#99cc33",
-    "Name":  "wasatch front",
-    "Phonetic":  "ワサッチ フロント"
+    "hex":  "#99cc33",
+    "name":  "wasatch front",
+    "phonetic":  "ワサッチ フロント"
 },
 {
-    "Hex":  "#cc6600",
-    "Name":  "canyon country",
-    "Phonetic":  "キャニオン カントリー"
+    "hex":  "#cc6600",
+    "name":  "canyon country",
+    "phonetic":  "キャニオン カントリー"
 },
 {
-    "Hex":  "#669900",
-    "Name":  "northeastern utah",
-    "Phonetic":  "ノース イースタン ユタ"
+    "hex":  "#669900",
+    "name":  "northeastern utah",
+    "phonetic":  "ノース イースタン ユタ"
 },
 {
-    "Hex":  "#b2cc7f",
-    "Name":  "dixie",
-    "Phonetic":  "デキシー"
+    "hex":  "#b2cc7f",
+    "name":  "dixie",
+    "phonetic":  "デキシー"
 },
 {
-    "Hex":  "#999933",
-    "Name":  "central utah",
-    "Phonetic":  "セントラル ユタ"
+    "hex":  "#999933",
+    "name":  "central utah",
+    "phonetic":  "セントラル ユタ"
 },
 {
-    "Hex":  "#ffff99",
-    "Name":  "western utah",
-    "Phonetic":  "ウエスタン ユタ"
+    "hex":  "#ffff99",
+    "name":  "western utah",
+    "phonetic":  "ウエスタン ユタ"
 },
 {
-    "Hex":  "#9966ff",
-    "Name":  "northern virginia",
-    "Phonetic":  "ノーザン バージニア"
+    "hex":  "#9966ff",
+    "name":  "northern virginia",
+    "phonetic":  "ノーザン バージニア"
 },
 {
-    "Hex":  "#33bbee",
-    "Name":  "eastern virginia",
-    "Phonetic":  "イースタン バージニア"
+    "hex":  "#33bbee",
+    "name":  "eastern virginia",
+    "phonetic":  "イースタン バージニア"
 },
 {
-    "Hex":  "#ff6655",
-    "Name":  "central virginia",
-    "Phonetic":  "セントラル バージニア"
+    "hex":  "#ff6655",
+    "name":  "central virginia",
+    "phonetic":  "セントラル バージニア"
 },
 {
-    "Hex":  "#ffcc33",
-    "Name":  "southwest virginia",
-    "Phonetic":  "サザンウエストバージニア"
+    "hex":  "#ffcc33",
+    "name":  "southwest virginia",
+    "phonetic":  "サザンウエストバージニア"
 },
 {
-    "Hex":  "#339933",
-    "Name":  "shenandoah valley",
-    "Phonetic":  "シェナンドー ヴァレイ"
+    "hex":  "#339933",
+    "name":  "shenandoah valley",
+    "phonetic":  "シェナンドー ヴァレイ"
 },
 {
-    "Hex":  "#66cc99",
-    "Name":  "southeast wisconsin",
-    "Phonetic":  "サウス イースト ウィスコンシン"
+    "hex":  "#66cc99",
+    "name":  "southeast wisconsin",
+    "phonetic":  "サウス イースト ウィスコンシン"
 },
 {
-    "Hex":  "#99ccff",
-    "Name":  "southwest wisconsin",
-    "Phonetic":  "サウス ウエスト ウィスコンシン"
+    "hex":  "#99ccff",
+    "name":  "southwest wisconsin",
+    "phonetic":  "サウス ウエスト ウィスコンシン"
 },
 {
-    "Hex":  "#009999",
-    "Name":  "northeast wisconsin",
-    "Phonetic":  "ノース イースト ウィスコンシン"
+    "hex":  "#009999",
+    "name":  "northeast wisconsin",
+    "phonetic":  "ノース イースト ウィスコンシン"
 },
 {
-    "Hex":  "#66ccff",
-    "Name":  "north central wisconsin",
-    "Phonetic":  "ノース セントラル ウィスコンシン"
+    "hex":  "#66ccff",
+    "name":  "north central wisconsin",
+    "phonetic":  "ノース セントラル ウィスコンシン"
 },
 {
-    "Hex":  "#99cccc",
-    "Name":  "northwest wisconsin",
-    "Phonetic":  "ノース ウエスト ウィスコンシン"
+    "hex":  "#99cccc",
+    "name":  "northwest wisconsin",
+    "phonetic":  "ノース ウエスト ウィスコンシン"
 }
 ]

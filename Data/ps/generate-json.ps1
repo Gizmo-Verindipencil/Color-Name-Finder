@@ -111,7 +111,7 @@ foreach($source in $sources) {
         }
 
         # オブジェクトを追加
-        $object = @{ Name=$name.ToString(); Phonetic=$phonetic.ToString(); Hex=$hex.ToLower(); }
+        $object = @{ name=$name.ToString(); phonetic=$phonetic.ToString(); hex=$hex.ToLower(); }
         $json = ConvertTo-Json -InputObject $object
         $list.Add($json)
     }
