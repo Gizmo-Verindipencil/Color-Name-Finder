@@ -1,0 +1,1046 @@
+/**
+ * ヨーロッパ伝統色のデータストアを提供します。
+ * これはデータベースなどを表すダミーです。
+ */
+class EuropianColorDataStore {
+    /**
+     * ヨーロッパの色を取得します。
+     * @returns {Array<Object>} 色情報を返します。
+     */
+    get = () => {
+        return [
+            {
+                "hex": "#ffc6d6",
+                "name": "baby pink",
+                "phonetic": "ベビー ピンク"
+            },
+            {
+                "hex": "#ffbdb3",
+                "name": "shell pink",
+                "phonetic": "シェル ピンク"
+            },
+            {
+                "hex": "#f2d5cc",
+                "name": "flesh pink",
+                "phonetic": "フレッシュ ピンク"
+            },
+            {
+                "hex": "#fc9db8",
+                "name": "pastel pink",
+                "phonetic": "パステル ピンク"
+            },
+            {
+                "hex": "#f55064",
+                "name": "rose pink",
+                "phonetic": "ローズ ピンク"
+            },
+            {
+                "hex": "#ecc2c8",
+                "name": "pink",
+                "phonetic": "ピンク"
+            },
+            {
+                "hex": "#ef8184",
+                "name": "french rose",
+                "phonetic": "フレンチ ローズ"
+            },
+            {
+                "hex": "#e8c7cc",
+                "name": "peach blossom",
+                "phonetic": "ピーチ ブラッサム"
+            },
+            {
+                "hex": "#cf8878",
+                "name": "lotus",
+                "phonetic": "ロータス"
+            },
+            {
+                "hex": "#d8b197",
+                "name": "tea rose",
+                "phonetic": "ティー ローズ"
+            },
+            {
+                "hex": "#ff9c8c",
+                "name": "salmon pink",
+                "phonetic": "サーモン ピンク"
+            },
+            {
+                "hex": "#ffcec6",
+                "name": "aurora",
+                "phonetic": "オーロラ"
+            },
+            {
+                "hex": "#b1988f",
+                "name": "vinous",
+                "phonetic": "ヴァイナス"
+            },
+            {
+                "hex": "#f39aab",
+                "name": "cosmos",
+                "phonetic": "コスモス"
+            },
+            {
+                "hex": "#c49793",
+                "name": "corinthian pink",
+                "phonetic": "コーリンシアン ピンク"
+            },
+            {
+                "hex": "#f05187",
+                "name": "cherry pink",
+                "phonetic": "チェリー ピンク"
+            },
+            {
+                "hex": "#fc9db8",
+                "name": "fuchsia pink",
+                "phonetic": "フクシァ ピンク"
+            },
+            {
+                "hex": "#fd90a5",
+                "name": "pompadour pink",
+                "phonetic": "ポンパドール ピンク"
+            },
+            {
+                "hex": "#a26168",
+                "name": "daphne pink",
+                "phonetic": "ダフニー ピンク"
+            },
+            {
+                "hex": "#d37a83",
+                "name": "carnation",
+                "phonetic": "カーネーション"
+            },
+            {
+                "hex": "#dc7563",
+                "name": "shrimp pink",
+                "phonetic": "シェリンプ ピンク"
+            },
+            {
+                "hex": "#ff9888",
+                "name": "coral pink",
+                "phonetic": "コーラル ピンク"
+            },
+            {
+                "hex": "#a66061",
+                "name": "rose pompadour",
+                "phonetic": "ローズ ポンパドウル"
+            },
+            {
+                "hex": "#f08687",
+                "name": "empire rose",
+                "phonetic": "エンパイア ローズ"
+            },
+            {
+                "hex": "#ef8865",
+                "name": "flamingo",
+                "phonetic": "フラミンゴ"
+            },
+            {
+                "hex": "#b0755c",
+                "name": "etruscan rose",
+                "phonetic": "エトラスカン ローズ"
+            },
+            {
+                "hex": "#b86d77",
+                "name": "ashes of rose",
+                "phonetic": "アッシズ オブ ローズ"
+            },
+            {
+                "hex": "#e31262",
+                "name": "rose red",
+                "phonetic": "ローズ レッド"
+            },
+            {
+                "hex": "#e85466",
+                "name": "camellia",
+                "phonetic": "カメリア"
+            },
+            {
+                "hex": "#e22838",
+                "name": "geranium",
+                "phonetic": "ゼラニウム"
+            },
+            {
+                "hex": "#d00026",
+                "name": "cherry",
+                "phonetic": "チェリー"
+            },
+            {
+                "hex": "#e0002a",
+                "name": "signal red",
+                "phonetic": "シグナル レッド"
+            },
+            {
+                "hex": "#e10041",
+                "name": "carmine",
+                "phonetic": "カーマイン"
+            },
+            {
+                "hex": "#b21d33",
+                "name": "turkey red",
+                "phonetic": "ターキー レッド"
+            },
+            {
+                "hex": "#ce382b",
+                "name": "poppy red",
+                "phonetic": "ポピーレッド"
+            },
+            {
+                "hex": "#891e34",
+                "name": "cardinal",
+                "phonetic": "カーディナル"
+            },
+            {
+                "hex": "#aa0044",
+                "name": "crimson rake",
+                "phonetic": "クリムスン レーキ"
+            },
+            {
+                "hex": "#cf498f",
+                "name": "pomegranate",
+                "phonetic": "ポメグラネイト"
+            },
+            {
+                "hex": "#ed2f1f",
+                "name": "cinnabar",
+                "phonetic": "シナバー"
+            },
+            {
+                "hex": "#c13321",
+                "name": "tomato red",
+                "phonetic": "トマト レッド"
+            },
+            {
+                "hex": "#ae003a",
+                "name": "ruby",
+                "phonetic": "ルビー"
+            },
+            {
+                "hex": "#d47467",
+                "name": "english red",
+                "phonetic": "イングリッシュ レッド"
+            },
+            {
+                "hex": "#7f3330",
+                "name": "oxide red",
+                "phonetic": "オクサイドレッド"
+            },
+            {
+                "hex": "#7b2b47",
+                "name": "oxblood red",
+                "phonetic": "オックスブラッド レッド"
+            },
+            {
+                "hex": "#9b5033",
+                "name": "bole",
+                "phonetic": "ボール"
+            },
+            {
+                "hex": "#3c1117",
+                "name": "burgundy",
+                "phonetic": "バーガンディ"
+            },
+            {
+                "hex": "#4b1016",
+                "name": "mahogany",
+                "phonetic": "マホガニー"
+            },
+            {
+                "hex": "#6a1a2e",
+                "name": "flea",
+                "phonetic": "フリー"
+            },
+            {
+                "hex": "#ffd4c4",
+                "name": "beach",
+                "phonetic": "ピーチ"
+            },
+            {
+                "hex": "#ffc8ab",
+                "name": "flesh",
+                "phonetic": "フレッシュ"
+            },
+            {
+                "hex": "#f79469",
+                "name": "apricot",
+                "phonetic": "アプリコット"
+            },
+            {
+                "hex": "#d4a56f",
+                "name": "sunset",
+                "phonetic": "サンセット"
+            },
+            {
+                "hex": "#af7c54",
+                "name": "sunburn",
+                "phonetic": "サンバーン"
+            },
+            {
+                "hex": "#e23724",
+                "name": "fire red",
+                "phonetic": "ファイアー レッド"
+            },
+            {
+                "hex": "#e97117",
+                "name": "carrot orange",
+                "phonetic": "キャロット オレンジ"
+            },
+            {
+                "hex": "#dd562e",
+                "name": "tangerine",
+                "phonetic": "タンジェリン"
+            },
+            {
+                "hex": "#fd680d",
+                "name": "orange",
+                "phonetic": "オレンジ"
+            },
+            {
+                "hex": "#ebac85",
+                "name": "maize",
+                "phonetic": "メイズ"
+            },
+            {
+                "hex": "#fe6d0d",
+                "name": "chrome orange",
+                "phonetic": "クローム オレンジ"
+            },
+            {
+                "hex": "#bc753b",
+                "name": "amber",
+                "phonetic": "アンバー"
+            },
+            {
+                "hex": "#562f2f",
+                "name": "morocco",
+                "phonetic": "モロッコ"
+            },
+            {
+                "hex": "#d47643",
+                "name": "caramel",
+                "phonetic": "キャラメル"
+            },
+            {
+                "hex": "#de772c",
+                "name": "tan",
+                "phonetic": "タン"
+            },
+            {
+                "hex": "#c47c50",
+                "name": "topaz",
+                "phonetic": "トパーズ"
+            },
+            {
+                "hex": "#fcd8b1",
+                "name": "moon light",
+                "phonetic": "ムーンライト"
+            },
+            {
+                "hex": "#ffd0a1",
+                "name": "ecru",
+                "phonetic": "エクリュ"
+            },
+            {
+                "hex": "#ebc6a9",
+                "name": "flax",
+                "phonetic": "フラックス"
+            },
+            {
+                "hex": "#e0b188",
+                "name": "blond",
+                "phonetic": "ブロンド"
+            },
+            {
+                "hex": "#c88659",
+                "name": "cafe au lait",
+                "phonetic": "カフェ オ レ"
+            },
+            {
+                "hex": "#ffb989",
+                "name": "biscuit",
+                "phonetic": "ビスケット"
+            },
+            {
+                "hex": "#c0ab8a",
+                "name": "parchment",
+                "phonetic": "バーチメント"
+            },
+            {
+                "hex": "#e7bf7c",
+                "name": "champagne",
+                "phonetic": "シャンパーニュ"
+            },
+            {
+                "hex": "#b57a59",
+                "name": "camel",
+                "phonetic": "キャメル"
+            },
+            {
+                "hex": "#9e756c",
+                "name": "grege",
+                "phonetic": "グレージュ"
+            },
+            {
+                "hex": "#ad775a",
+                "name": "fawn",
+                "phonetic": "フォーン"
+            },
+            {
+                "hex": "#f7c2c2",
+                "name": "chamois",
+                "phonetic": "シャモア"
+            },
+            {
+                "hex": "#b75237",
+                "name": "burnt sienna",
+                "phonetic": "バーント シエンナ"
+            },
+            {
+                "hex": "#9c302a",
+                "name": "brick red",
+                "phonetic": "ブリック レッド"
+            },
+            {
+                "hex": "#5c3418",
+                "name": "brown",
+                "phonetic": "ブラウン"
+            },
+            {
+                "hex": "#86410b",
+                "name": "raw sienna",
+                "phonetic": "ローシェンナ"
+            },
+            {
+                "hex": "#854e38",
+                "name": "raw umber",
+                "phonetic": "ローアンバー"
+            },
+            {
+                "hex": "#604a2b",
+                "name": "caffee",
+                "phonetic": "カフェ"
+            },
+            {
+                "hex": "#56001d",
+                "name": "maroon",
+                "phonetic": "マルーン"
+            },
+            {
+                "hex": "#8b6165",
+                "name": "liver",
+                "phonetic": "リバー"
+            },
+            {
+                "hex": "#9a1912",
+                "name": "henna",
+                "phonetic": "ヘンナ"
+            },
+            {
+                "hex": "#ad5f47",
+                "name": "russet",
+                "phonetic": "ラセット"
+            },
+            {
+                "hex": "#68412f",
+                "name": "chestnut brown",
+                "phonetic": "チェスナット ブラウン"
+            },
+            {
+                "hex": "#695242",
+                "name": "hair brown",
+                "phonetic": "ヘア ブラウン"
+            },
+            {
+                "hex": "#3e1f0f",
+                "name": "chocolate",
+                "phonetic": "チョコレート"
+            },
+            {
+                "hex": "#402923",
+                "name": "sepia",
+                "phonetic": "セピア"
+            },
+            {
+                "hex": "#7f5139",
+                "name": "vandike brown",
+                "phonetic": "ヴァンダイク ブラウン"
+            },
+            {
+                "hex": "#f8f4e6",
+                "name": "ivory",
+                "phonetic": "アイボリー"
+            },
+            {
+                "hex": "#e8c59c",
+                "name": "vanilla",
+                "phonetic": "ヴァニラ"
+            },
+            {
+                "hex": "#e7c59c",
+                "name": "leghorn",
+                "phonetic": "レグホーン"
+            },
+            {
+                "hex": "#f2db9c",
+                "name": "straw",
+                "phonetic": "ストロー"
+            },
+            {
+                "hex": "#fccda2",
+                "name": "massicot",
+                "phonetic": "マシコット"
+            },
+            {
+                "hex": "#ffd93c",
+                "name": "sulphar yellow",
+                "phonetic": "サルファー イエロー"
+            },
+            {
+                "hex": "#c5be82",
+                "name": "dyres broom",
+                "phonetic": "ダイヤーズブルーム"
+            },
+            {
+                "hex": "#ffcd25",
+                "name": "mimosa",
+                "phonetic": "ミモザ"
+            },
+            {
+                "hex": "#ffbc7b",
+                "name": "naples yellow",
+                "phonetic": "ネープルス イエロー"
+            },
+            {
+                "hex": "#b68954",
+                "name": "honey yellow",
+                "phonetic": "ハニー イエロー"
+            },
+            {
+                "hex": "#e2b55b",
+                "name": "gamboge",
+                "phonetic": "ガンボージ"
+            },
+            {
+                "hex": "#f7cb4a",
+                "name": "auripigment",
+                "phonetic": "オーピメント"
+            },
+            {
+                "hex": "#ff9700",
+                "name": "indian yellow",
+                "phonetic": "インディアン イエロー"
+            },
+            {
+                "hex": "#edaa5a",
+                "name": "daffodil yellow",
+                "phonetic": "ダファディル イエロー"
+            },
+            {
+                "hex": "#ffaf00",
+                "name": "saffran yellow",
+                "phonetic": "サフラン イエロー"
+            },
+            {
+                "hex": "#f4c600",
+                "name": "chrome yellow",
+                "phonetic": "クローム イエロー"
+            },
+            {
+                "hex": "#f3b927",
+                "name": "yolk yellow",
+                "phonetic": "ヨーク イエロー"
+            },
+            {
+                "hex": "#ffd718",
+                "name": "canary",
+                "phonetic": "カナリー"
+            },
+            {
+                "hex": "#f5d300",
+                "name": "banana",
+                "phonetic": "バナナ"
+            },
+            {
+                "hex": "#fec300",
+                "name": "lemon yellow",
+                "phonetic": "レモン イエロー"
+            },
+            {
+                "hex": "#e3ab0d",
+                "name": "mustard",
+                "phonetic": "マスタード"
+            },
+            {
+                "hex": "#eade5d",
+                "name": "chartreuse yellow",
+                "phonetic": "シャトルーズ イエロー"
+            },
+            {
+                "hex": "#a37e00",
+                "name": "gold",
+                "phonetic": "ゴールド"
+            },
+            {
+                "hex": "#ac6b25",
+                "name": "bronze",
+                "phonetic": "ブロンズ"
+            },
+            {
+                "hex": "#584c0f",
+                "name": "olive",
+                "phonetic": "オリーブ"
+            },
+            {
+                "hex": "#cfd10c",
+                "name": "lime green",
+                "phonetic": "ライム グリーン"
+            },
+            {
+                "hex": "#bdce96",
+                "name": "sea foam green",
+                "phonetic": "シーフォーム グリーン"
+            },
+            {
+                "hex": "#ebf7d3",
+                "name": "pistache",
+                "phonetic": "ピスターシュ"
+            },
+            {
+                "hex": "#45aa31",
+                "name": "night green",
+                "phonetic": "ナイト グリーン"
+            },
+            {
+                "hex": "#87ac9e",
+                "name": "eggshell green",
+                "phonetic": "エッグシェル グリーン"
+            },
+            {
+                "hex": "#96be7b",
+                "name": "grass green",
+                "phonetic": "グラス グリーン"
+            },
+            {
+                "hex": "#b6bea2",
+                "name": "glaucas",
+                "phonetic": "グローカス"
+            },
+            {
+                "hex": "#97be1c",
+                "name": "apple green",
+                "phonetic": "アップル グリーン"
+            },
+            {
+                "hex": "#5c700a",
+                "name": "gay green",
+                "phonetic": "ゲイグリーン"
+            },
+            {
+                "hex": "#93b17d",
+                "name": "pea green",
+                "phonetic": "ピーグリーン"
+            },
+            {
+                "hex": "#b4cb5e",
+                "name": "spring green",
+                "phonetic": "スプリング グリーン"
+            },
+            {
+                "hex": "#95875a",
+                "name": "willow green",
+                "phonetic": "ウィロー グリーン"
+            },
+            {
+                "hex": "#507a49",
+                "name": "godey green",
+                "phonetic": "ゴーディ グリーン"
+            },
+            {
+                "hex": "#7b7c46",
+                "name": "moth green",
+                "phonetic": "モス グリーン"
+            },
+            {
+                "hex": "#615c41",
+                "name": "lincoln green",
+                "phonetic": "リンカーン グリーン"
+            },
+            {
+                "hex": "#3b3f10",
+                "name": "olive green",
+                "phonetic": "オリーブ グリーン"
+            },
+            {
+                "hex": "#5c7449",
+                "name": "flower drew green",
+                "phonetic": "フラワードリュースグリーン"
+            },
+            {
+                "hex": "#00ae42",
+                "name": "schweinfurt green",
+                "phonetic": "シュヴァインフルトグリーン"
+            },
+            {
+                "hex": "#006252",
+                "name": "mint",
+                "phonetic": "ミント"
+            },
+            {
+                "hex": "#00885f",
+                "name": "chrome green",
+                "phonetic": "クローム グリーン"
+            },
+            {
+                "hex": "#347655",
+                "name": "malachite green",
+                "phonetic": "マラカイト グリーン"
+            },
+            {
+                "hex": "#5ba080",
+                "name": "verdigris",
+                "phonetic": "ヴェルディグリ"
+            },
+            {
+                "hex": "#576a3e",
+                "name": "mistletoe",
+                "phonetic": "ミスルトー"
+            },
+            {
+                "hex": "#0e291b",
+                "name": "hunter green",
+                "phonetic": "ハンター グリーン"
+            },
+            {
+                "hex": "#0b2f31",
+                "name": "bottle green",
+                "phonetic": "ボトル グリーン"
+            },
+            {
+                "hex": "#273931",
+                "name": "myrtle green",
+                "phonetic": "マートル グリーン"
+            },
+            {
+                "hex": "#b0e2f6",
+                "name": "horizon blue",
+                "phonetic": "ホリゾン ブルー"
+            },
+            {
+                "hex": "#418c8c",
+                "name": "nile blue",
+                "phonetic": "ナイル ブルー"
+            },
+            {
+                "hex": "#cbecf6",
+                "name": "baby blue",
+                "phonetic": "ベビー ブルー"
+            },
+            {
+                "hex": "#54b6be",
+                "name": "cambridge blue",
+                "phonetic": "ケンブリッジ ブルー"
+            },
+            {
+                "hex": "#8bafdb",
+                "name": "sky blue",
+                "phonetic": "スカイ ブルー"
+            },
+            {
+                "hex": "#496f8e",
+                "name": "celestial blue",
+                "phonetic": "シレスティアル ブルー"
+            },
+            {
+                "hex": "#999db9",
+                "name": "zenith blue",
+                "phonetic": "ゼニスブルー"
+            },
+            {
+                "hex": "#02977d",
+                "name": "vnet",
+                "phonetic": "ヴェニット"
+            },
+            {
+                "hex": "#327585",
+                "name": "aqua marine",
+                "phonetic": "アクア マリン"
+            },
+            {
+                "hex": "#0097a2",
+                "name": "turquoise",
+                "phonetic": "ターコイズ"
+            },
+            {
+                "hex": "#5e94a5",
+                "name": "porcelain blue",
+                "phonetic": "ポースリン ブルー"
+            },
+            {
+                "hex": "#66b7d8",
+                "name": "forget me not",
+                "phonetic": "フォーゲット ミー ノット"
+            },
+            {
+                "hex": "#e6f6fc",
+                "name": "powder blue",
+                "phonetic": "パウダー ブルー"
+            },
+            {
+                "hex": "#00586d",
+                "name": "peacock",
+                "phonetic": "ピーコック"
+            },
+            {
+                "hex": "#006785",
+                "name": "egyptian blue",
+                "phonetic": "エジプシアン ブルー"
+            },
+            {
+                "hex": "#427596",
+                "name": "vice",
+                "phonetic": "バイス"
+            },
+            {
+                "hex": "#505b8c",
+                "name": "wedgewood blue",
+                "phonetic": "ウェッジウッド ブルー"
+            },
+            {
+                "hex": "#5782a1",
+                "name": "bluette",
+                "phonetic": "ブルーエット"
+            },
+            {
+                "hex": "#325e9a",
+                "name": "hydrangea blue",
+                "phonetic": "ハイドレンジア ブルー"
+            },
+            {
+                "hex": "#5dbbb8",
+                "name": "cyan blue",
+                "phonetic": "サイアン ブルー"
+            },
+            {
+                "hex": "#1581c5",
+                "name": "cobalt blue",
+                "phonetic": "コバルト ブルー"
+            },
+            {
+                "hex": "#3a4789",
+                "name": "smalt",
+                "phonetic": "スマルト"
+            },
+            {
+                "hex": "#004d6a",
+                "name": "sapphire blue",
+                "phonetic": "サファイア ブルー"
+            },
+            {
+                "hex": "#2d3289",
+                "name": "ultramarine",
+                "phonetic": "ウルトラマリン"
+            },
+            {
+                "hex": "#392c87",
+                "name": "prussian blue",
+                "phonetic": "プルシアン ブルー"
+            },
+            {
+                "hex": "#004e8a",
+                "name": "royal blue",
+                "phonetic": "ロイヤル ブルー"
+            },
+            {
+                "hex": "#00538d",
+                "name": "garter blue",
+                "phonetic": "ガーター ブルー"
+            },
+            {
+                "hex": "#002d64",
+                "name": "delft blue",
+                "phonetic": "デルフト ブルー"
+            },
+            {
+                "hex": "#1847aa",
+                "name": "marine blue",
+                "phonetic": "マリン ブルー"
+            },
+            {
+                "hex": "#001d3a",
+                "name": "navy blue",
+                "phonetic": "ネイヴィブルー"
+            },
+            {
+                "hex": "#1a1f47",
+                "name": "midnight blue",
+                "phonetic": "ミッドナイト ブルー"
+            },
+            {
+                "hex": "#ab85b2",
+                "name": "lavender",
+                "phonetic": "ラべンダー"
+            },
+            {
+                "hex": "#7b639c",
+                "name": "wisteria",
+                "phonetic": "ウィスタリア"
+            },
+            {
+                "hex": "#d191b4",
+                "name": "lilac",
+                "phonetic": "ライラック"
+            },
+            {
+                "hex": "#c6639e",
+                "name": "mallow",
+                "phonetic": "マロウ"
+            },
+            {
+                "hex": "#822759",
+                "name": "thistle",
+                "phonetic": "シスル"
+            },
+            {
+                "hex": "#926a90",
+                "name": "mineral violet",
+                "phonetic": "ミネラル バイオレット"
+            },
+            {
+                "hex": "#a269a8",
+                "name": "cobalt violet",
+                "phonetic": "コバルト バイオレット"
+            },
+            {
+                "hex": "#4c045a",
+                "name": "purple",
+                "phonetic": "パープル"
+            },
+            {
+                "hex": "#634669",
+                "name": "amethyst",
+                "phonetic": "アメジスト"
+            },
+            {
+                "hex": "#993945",
+                "name": "amaranth purple",
+                "phonetic": "アメジスト パープル"
+            },
+            {
+                "hex": "#de0067",
+                "name": "magenta",
+                "phonetic": "マゼンタ"
+            },
+            {
+                "hex": "#35178c",
+                "name": "pansy",
+                "phonetic": "パンジー"
+            },
+            {
+                "hex": "#ae006d",
+                "name": "fuchsia",
+                "phonetic": "フューシャ"
+            },
+            {
+                "hex": "#661065",
+                "name": "aconite violet",
+                "phonetic": "アコナイト バイオレット"
+            },
+            {
+                "hex": "#2e141c",
+                "name": "murray",
+                "phonetic": "マーリー"
+            },
+            {
+                "hex": "#75106d",
+                "name": "heliotrope",
+                "phonetic": "ヘリオトロープ"
+            },
+            {
+                "hex": "#361a33",
+                "name": "plum purple",
+                "phonetic": "プラム パープル"
+            },
+            {
+                "hex": "#8a004f",
+                "name": "raspberry",
+                "phonetic": "ラズベリー"
+            },
+            {
+                "hex": "#491830",
+                "name": "raisins",
+                "phonetic": "レーズン"
+            },
+            {
+                "hex": "#6b0032",
+                "name": "wine",
+                "phonetic": "ワイン"
+            },
+            {
+                "hex": "#f9fbf9",
+                "name": "white lead",
+                "phonetic": "ホワイト レド"
+            },
+            {
+                "hex": "#fcdfd4",
+                "name": "alabaster",
+                "phonetic": "アラバスター"
+            },
+            {
+                "hex": "#fdfaed",
+                "name": "milk white",
+                "phonetic": "ミルク ホワイト"
+            },
+            {
+                "hex": "#b5b9bc",
+                "name": "silver",
+                "phonetic": "シルバー"
+            },
+            {
+                "hex": "#a69278",
+                "name": "sand",
+                "phonetic": "サンド"
+            },
+            {
+                "hex": "#c2b799",
+                "name": "ash grey",
+                "phonetic": "アッシュ グレイ"
+            },
+            {
+                "hex": "#83857a",
+                "name": "smoke grey",
+                "phonetic": "スモーク グレイ"
+            },
+            {
+                "hex": "#c2ceba",
+                "name": "pearl green",
+                "phonetic": "パール グリーン"
+            },
+            {
+                "hex": "#777777",
+                "name": "mouse grey",
+                "phonetic": "マウス グレイ"
+            },
+            {
+                "hex": "#987c84",
+                "name": "dove gray",
+                "phonetic": "ダブ グレイ"
+            },
+            {
+                "hex": "#af9090",
+                "name": "mist",
+                "phonetic": "ミスト"
+            },
+            {
+                "hex": "#000000",
+                "name": "graphite",
+                "phonetic": "グラファイト"
+            },
+            {
+                "hex": "#323934",
+                "name": "goose gray",
+                "phonetic": "グーズグレイ"
+            }
+        ];
+    }
+}
+
+export { EuropianColorDataStore };

@@ -18,3 +18,5 @@ class ResultBoard {
         body.empty().append(...html);
     }
 }
+
+export { ResultBoard };
