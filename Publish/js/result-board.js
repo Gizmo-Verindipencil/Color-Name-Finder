@@ -6,7 +6,7 @@ class ResultBoard {
      * 表示を初期化します。
      */
     initialize = () => {
-        this.setHtml($("<p>").text("Pick up color."));
+        this.setHtml($("<p>").text("Pick up a color."));
     }
 
     /**
