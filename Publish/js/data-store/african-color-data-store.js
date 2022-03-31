@@ -1,0 +1,146 @@
+/**
+ * アフリカ伝統色のデータストアを提供します。
+ * これはデータベースなどを表すダミーです。
+ */
+class AfricanColorDataStore {
+    /**
+     * アフリカの色を取得します。
+     * @returns {Array<Object>} 色情報を返します。
+     */
+    get = () => {
+        return [
+            {
+                "hex": "#fd0013",
+                "name": "zanzibar",
+                "phonetic": "ザンジバール"
+            },
+            {
+                "hex": "#f62713",
+                "name": "north africa",
+                "phonetic": "ノース アフリカ"
+            },
+            {
+                "hex": "#fa321f",
+                "name": "western sahara",
+                "phonetic": "ウェスタン サハラ"
+            },
+            {
+                "hex": "#ed3524",
+                "name": "swaziland",
+                "phonetic": "スワジランド"
+            },
+            {
+                "hex": "#ff8040",
+                "name": "east africa",
+                "phonetic": "イースト アフリカ"
+            },
+            {
+                "hex": "#ff8042",
+                "name": "libya",
+                "phonetic": "リビア"
+            },
+            {
+                "hex": "#ff8044",
+                "name": "botswana",
+                "phonetic": "ボツワナ"
+            },
+            {
+                "hex": "#00ff00",
+                "name": "west africa",
+                "phonetic": "ウェスト アフリカ"
+            },
+            {
+                "hex": "#00ff02",
+                "name": "algeria",
+                "phonetic": "アルジェリア"
+            },
+            {
+                "hex": "#00ff04",
+                "name": "zimbabwe",
+                "phonetic": "ジンバブエ"
+            },
+            {
+                "hex": "#00fff5",
+                "name": "southern africa",
+                "phonetic": "サザン アフリカ"
+            },
+            {
+                "hex": "#00fff9",
+                "name": "egypt",
+                "phonetic": "エジプト"
+            },
+            {
+                "hex": "#00ffff",
+                "name": "south africa",
+                "phonetic": "サファリ アフリカ"
+            },
+            {
+                "hex": "#0000ff",
+                "name": "morocco",
+                "phonetic": "モロッコ"
+            },
+            {
+                "hex": "#3300ff",
+                "name": "namibia",
+                "phonetic": "ナミビア"
+            },
+            {
+                "hex": "#3300cc",
+                "name": "saharan africa",
+                "phonetic": "サハラ アフリカ"
+            },
+            {
+                "hex": "#051a3b",
+                "name": "touareg",
+                "phonetic": "トゥアレグ"
+            },
+            {
+                "hex": "#3d1c79",
+                "name": "african violet",
+                "phonetic": "アフリカンバイオレット"
+            },
+            {
+                "hex": "#800085",
+                "name": "central africa",
+                "phonetic": "セントラル アフリカ"
+            },
+            {
+                "hex": "#800082",
+                "name": "tunisia",
+                "phonetic": "チュニジア"
+            },
+            {
+                "hex": "#800089",
+                "name": "lesotho",
+                "phonetic": "レソト"
+            },
+            {
+                "hex": "#b2864e",
+                "name": "sahara",
+                "phonetic": "サハラ"
+            },
+            {
+                "hex": "#9f4f05",
+                "name": "sudan brown",
+                "phonetic": "スーダン ブラウン"
+            },
+            {
+                "hex": "#40201b",
+                "name": "african brown",
+                "phonetic": "アフリカン ブラウン"
+            },
+            {
+                "hex": "#303b29",
+                "name": "safari",
+                "phonetic": "サファリ"
+            },
+            {
+                "hex": "#005558",
+                "name": "gini green",
+                "phonetic": "ギニ グリーン"
+            }
+        ];
+    }
+}
+
+export { AfricanColorDataStore };

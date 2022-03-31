@@ -1,3 +1,6 @@
+import { Gateway } from "./gateway.js";
+import { ResultBoard } from "./result-board.js";
+
 // 全ての色情報を保持
 const gateway = new Gateway();
 const colors = gateway.getColors();
@@ -111,3 +114,4 @@ document.addEventListener("DOMContentLoaded", e => {
         color: "#000000"
     });
 });
+
