@@ -119,6 +119,6 @@ foreach($source in $sources) {
     # åãâ ÇèoóÕ
     $newFileName = Replace-FileExtension -FileName $source.Name -Extension ".json"
     $outputFilePath = Join-Path -Path $outputDirectoryPath -ChildPath $newFileName
-    $outputContent = "[`n$($list -join ",`n")`n]"
+    $outputContent = "[`n$($list -join ",`n")`n]" -replace "`":  `"", "`": `""
     Write-Output $outputContent | Out-File $outputFilePath -Encoding utf8
 }
