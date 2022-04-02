@@ -2,7 +2,7 @@
  * ヨーロッパ伝統色のデータストアを提供します。
  * これはデータベースなどを表すダミーです。
  */
-class EuropianColorDataStore {
+class EuropeanColorDataStore {
     /**
      * ヨーロッパの色を取得します。
      * @returns {Array<Object>} 色情報を返します。
@@ -2485,4 +2485,4 @@ class EuropianColorDataStore {
     }
 }
 
-export { EuropianColorDataStore };
+export { EuropeanColorDataStore };

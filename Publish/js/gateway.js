@@ -3,7 +3,7 @@ import { AfricanColorDataStore } from "./data-store/african-color-data-store.js"
 import { AmericanColorDataStore } from "./data-store/american-color-data-store.js";
 import { BritishColorDataStore } from "./data-store/british-color-data-store.js";
 import { ChineseColorDataStore } from "./data-store/chinese-color-data-store.js";
-import { EuropianColorDataStore } from "./data-store/europian-color-data-store.js";
+import { EuropeanColorDataStore } from "./data-store/european-color-data-store.js";
 import { FrenchColorDataStore } from "./data-store/french-color-data-store.js";
 import { JapaneseColorDataStore } from "./data-store/japanese-color-data-store.js";
 import { WebColorDataStore } from "./data-store/web-color-data-store.js";
@@ -33,7 +33,7 @@ class Gateway {
         add("america"  , this.#getAmericanColors() );
         add("biritain" , this.#getBritishColors () );
         add("china"    , this.#getChineseColors () );
-        add("europe"   , this.#getEuropianColors() );
+        add("europe"   , this.#getEuropeanColors() );
         add("france"   , this.#getFrenchColors  () );
         add("japan"    , this.#getJapaneseColors() );
         add("web"      , this.#getWebColors     () );
@@ -82,8 +82,8 @@ class Gateway {
      * ヨーロッパの色を取得します。
      * @returns {Array<Object>} 色情報を返します。
      */
-    #getEuropianColors = () => {
-        const dataStore = new EuropianColorDataStore();
+    #getEuropeanColors = () => {
+        const dataStore = new EuropeanColorDataStore();
         return dataStore.get();
     }
 
