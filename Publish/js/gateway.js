@@ -1,117 +1,103 @@
 import { Color } from "./color.js";
-import { AfricanColorDataStore } from "./data-store/african-color-data-store.js";
-import { AmericanColorDataStore } from "./data-store/american-color-data-store.js";
-import { BritishColorDataStore } from "./data-store/british-color-data-store.js";
-import { ChineseColorDataStore } from "./data-store/chinese-color-data-store.js";
-import { EuropeanColorDataStore } from "./data-store/european-color-data-store.js";
-import { FrenchColorDataStore } from "./data-store/french-color-data-store.js";
-import { JapaneseColorDataStore } from "./data-store/japanese-color-data-store.js";
-import { WebColorDataStore } from "./data-store/web-color-data-store.js";
 
 /**
  * データとの仲介を示すダミークラス。
  */
 class Gateway {
     /**
-     * 色を取得します。
-     * @returns {Array<Color>} 色情報を返します。。
+     * 色を追加します。
+     * @param {Array<Color>} array 追加先の配列。
      */
-    getColors = () => {
-        // 返却用の配列を作成
-        let colors = [];
-        
-        // 配列に追加する処理
-        const add = (category, data) => {
-            for (const i in data) {
-                const color = data[i];
-                colors.push(new Color(category, color));
-            }
-        };
-
-        // 色を配列に追加
-        add("africa"   , this.#getAfricanColors () );
-        add("america"  , this.#getAmericanColors() );
-        add("biritain" , this.#getBritishColors () );
-        add("china"    , this.#getChineseColors () );
-        add("europe"   , this.#getEuropeanColors() );
-        add("france"   , this.#getFrenchColors  () );
-        add("japan"    , this.#getJapaneseColors() );
-        add("web"      , this.#getWebColors     () );
-
-        // 結果を返す
-        return colors;
+    addColors = array => {
+        this.#appendAfricanColors(array);
+        this.#appendAmericanColors(array);
+        this.#appendBritishColors(array);
+        this.#appendChineseColors(array);
+        this.#appendEuropeanColors(array);
+        this.#appendFrenchColors(array);
+        this.#appendJapaneseColors(array);
+        this.#appendWebColors(array);
     }
     
     /**
-     * アフリカの色を取得します。
-     * @returns {Array<Object>} 色情報を返します。
+     * 配列に色情報を追加します。
+     * @param {Array<Color>} array 追加先の配列。
+     * @param {String} category カテゴリー名。
+     * @param {String} url 色を示す
      */
-    #getAfricanColors = () => {
-        const dataStore = new AfricanColorDataStore();
-        return dataStore.get();
+    #append = (array, category, fileName) => {
+        $.getJSON(`../Data/json/${fileName}`, data => {
+            for (const i in data) {
+                const color = data[i];
+                array.push(new Color(category, color));
+            }
+        });
     }
 
     /**
-     * アメリカの色を取得します。
-     * @returns {Array<Object>} 色情報を返します。
+     * アフリカの色を追加します。
+     * @param {Array<Color>} array 追加先の配列。
      */
-    #getAmericanColors = () => {
-        const dataStore = new AmericanColorDataStore();
-        return dataStore.get();
+    #appendAfricanColors = array => {
+        this.#append(array, "africa", "africa.json");
     }
 
     /**
-     * イギリスの色を取得します。
-     * @returns {Array<Object>} 色情報を返します。
+     * アメリカの色を追加します。
+     * @param {Array<Color>} array 追加先の配列。
      */
-    #getBritishColors = () => {
-        const dataStore = new BritishColorDataStore();
-        return dataStore.get();
+    #appendAmericanColors = array => {
+        this.#append(array, "america", "america.json");
     }
 
     /**
-     * 中国の色を取得します。
-     * @returns {Array<Object>} 色情報を返します。
+     * イギリスの色を追加します。
+     * @param {Array<Color>} array 追加先の配列。
      */
-    #getChineseColors = () => {
-        const dataStore = new ChineseColorDataStore();
-        return dataStore.get();
+    #appendBritishColors = array => {
+        this.#append(array, "britain", "britain.json");
     }
 
     /**
-     * ヨーロッパの色を取得します。
-     * @returns {Array<Object>} 色情報を返します。
+     * 中国の色を追加します。
+     * @param {Array<Color>} array 追加先の配列。
      */
-    #getEuropeanColors = () => {
-        const dataStore = new EuropeanColorDataStore();
-        return dataStore.get();
+    #appendChineseColors = array => {
+        this.#append(array, "china", "china.json");
     }
 
     /**
-     * フランスの色を取得します。
-     * @returns {Array<Object>} 色情報を返します。
+     * ヨーロッパの色を追加します。
+     * @param {Array<Color>} array 追加先の配列。
      */
-    #getFrenchColors = () => {
-        const dataStore = new FrenchColorDataStore();
-        return dataStore.get();
+    #appendEuropeanColors = array => {
+        this.#append(array, "europe", "europe.json");
+        this.#append(array, "europe", "europe2.json");
     }
 
     /**
-     * 日本の色を取得します。
-     * @returns {Array<Object>} 色情報を返します。
+     * フランスの色を追加します。
+     * @param {Array<Color>} array 追加先の配列。
      */
-    #getJapaneseColors = () => {
-        const dataStore = new JapaneseColorDataStore();
-        return dataStore.get();
+    #appendFrenchColors = array => {
+        this.#append(array, "france", "france.json");
     }
 
     /**
-     * WEBカラーを取得します。
-     * @returns {Array<Object>} 色情報を返します。
+     * 日本の色を追加します。
+     * @param {Array<Color>} array 追加先の配列。
      */
-    #getWebColors = () => {
-        const dataStore = new WebColorDataStore();
-        return dataStore.get();
+    #appendJapaneseColors = array => {
+        this.#append(array, "japan", "japan.json");
+        this.#append(array, "japan", "japan2.json");
+    }
+
+    /**
+     * WEBカラーを追加します。
+     * @param {Array<Color>} array 追加先の配列。
+     */
+    #appendWebColors = array => {
+        this.#append(array, "web", "web.json");
     }
 }
 
