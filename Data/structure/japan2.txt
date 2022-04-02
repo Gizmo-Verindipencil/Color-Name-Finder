@@ -1,3 +1,3 @@
-phonetic
 name
+phonetic
 hex
