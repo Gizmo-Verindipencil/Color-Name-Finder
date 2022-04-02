@@ -1,0 +1,855 @@
+アイアンブルー
+iron blue
+#192f60
+アイスグリーン
+ice green
+#a3d6cc
+アイビーグリーン
+ivy green
+#578a3d
+アイビーグレイ
+ivy gray
+#666c67
+アイボリー
+ivory
+#f8f4e6
+アイリス
+iris
+#c7a5cc
+アクアグリーン
+aqua green
+#88bfbf
+アクアマリン
+aquamarine
+#67b5b7
+アザレ
+azalee
+#d83473
+アスパラガスグリーン
+asparagus green
+#dbebc4
+アッシュグレイ
+ash gray
+#9fa09e
+アッシュブロンド
+ash blond
+#b5b5ae
+アッシュローズ
+ash rose
+#e6bfab
+アップルグリーン
+apple green
+#a7d28d
+アプリコット
+apricot
+#f7b977
+アンティークグリーン
+antique green
+#54917f
+アンティックゴールド
+antique gold
+#c1ab05
+アンバー
+amber
+#c2894b
+アンバーホワイト
+amber white
+#fff9f5
+アンバーローズ
+amber rose
+#e6bfb2
+イエロー
+yellow
+#ffdc00
+イエローオーカー
+yellow ocher
+#c4972f
+インクブルー
+ink blue
+#003f8e
+インディゴ
+indigo
+#043c78
+ヴァニラ
+vanilla
+#e8c59c
+ウイスタリア
+wistaria
+#8d93c8
+ウィステリアミスト
+wisteria mist
+#d3d6dd
+ウォーターグリーン
+water green
+#a5c9c1
+ウルトラマリン
+ultramarine
+#434da2
+ウルトラマリンブルー
+ultramarine blue
+#4753a2
+エクリュ
+ecru
+#eee7e0
+エクルベージュ
+ecru beige
+#f6e5cc
+エジプシャンブルー
+egyptian blue
+#0073a8
+エバーグリーン
+evergreen
+#00984f
+エメラルドグリーン
+emerald green
+#00a968
+エレファントスキン
+elephant skin
+#9f9f98
+オイスター
+oyster
+#eae1cf
+オイスターホワイト
+oyster white
+#eae8e1
+オーカー
+ochre
+#ba8b40
+オーキッド
+orchid
+#d9aacd
+オーキッドグレイ
+orchid gray
+#bcc7d7
+オーキッドパープル
+orchid purple
+#af0082
+オーキッドピンク
+orchid pink
+#da81b2
+オーキッドミスト
+orchid mist
+#d3d3d8
+オールドオーキッド
+old orchid
+#e3adc1
+オールドライラック
+old lilac
+#b0778c
+オールドローズ
+old rose
+#e29399
+オパールグリーン
+opal green
+#bee0ce
+オパールグレイ
+opal gray
+#bfbec5
+オペラ
+opera
+#e95388
+オリーブ
+olive
+#72640c
+オリーブグリーン
+olive green
+#5f6527
+オリーブドラブ
+olive drab
+#665a1a
+オリエンタルブルー
+oriental blue
+#26499d
+オレンジ
+orange
+#ee7800
+カーキー
+khaki
+#c5a05a
+ガーネット
+garnet
+#942343
+カーマイン
+carmine
+#d70035
+カクタス
+cactus
+#387d39
+カナリヤ
+canary yellow
+#fff462
+カフェオレ
+cafe au lait
+#946c45
+カプリブルー
+capri blue
+#00a3a7
+カメリア
+camellia
+#da536e
+キャラメル
+caramel
+#bc611e
+キャロットオレンジ
+carrot orange
+#ed6d35
+クラウド
+cloud
+#d4d9df
+グラスグリーン
+grass green
+#7b8d42
+グラファイト
+graphite
+#594e52
+クラレット
+claret
+#941f57
+クリーム
+cream
+#e3d7a3
+クリームイエロー
+cream yellow
+#fff3b8
+グリーン
+green
+#00a960
+グリーンフォッグ
+green fog
+#abb1ad
+グレイ
+gray
+#7d7d7d
+グレープ
+grape
+#56256e
+クロッカス
+crocus
+#b79fcb
+クロムイエロー
+chrome yellow
+#fcc800
+クロムグリーン
+chrome green
+#00533f
+ケンブリッジブルー
+cambridge blue
+#25b7c0
+コーヒー
+coffee
+#7b5544
+コーラルレッド
+coral red
+#ef857d
+ゴールデンイエロー
+golden yellow
+#f6ae54
+ココア
+cocoa
+#6e4a55
+ココアブラウン
+cocoa brown
+#98605e
+コスモス
+cosmos
+#dc6b9a
+コチニールレッド
+cochineal red
+#c82c55
+コバルトグリーン
+cobalt green
+#3cb37a
+コバルトブルー
+cobalt blue
+#0068b7
+コルク
+cork
+#c49a6a
+サーモンピンク
+salmon pink
+#f3a68c
+サックスブルー
+saxe blue
+#418b89
+サハラ
+sahara
+#e29676
+サファイアブルー
+sapphire blue
+#0068b7
+サフランイエロー
+saffron yellow
+#fac559
+サマーグリーン
+summer green
+#009944
+サマーシャワー
+summer shower
+#a1d8e2
+サルビアブルー
+salvia blue
+#94adda
+サンシャインイエロー
+sunshine yellow
+#ffedab
+サンセット
+sunset
+#f6b483
+サンドグレイ
+sand gray
+#c9c9c2
+サンドベージュ
+sand beige
+#dcd6d2
+シアン
+cyan
+#00a1e9
+シーグリーン
+sea green
+#00ac97
+シェルピンク
+shell pink
+#fbdac8
+シグナルレッド
+signal red
+#e8383d
+シクラメンピンク
+cyclamen pink
+#d04f97
+シトラス
+citrus
+#eddc44
+シトロングリーン
+citron green
+#618e34
+シナモン
+cinnamon
+#be8f68
+ジャスミンイエロー
+jasmine yellow
+#edde7b
+シャドウブルー
+shadow blue
+#719bad
+シャトルーズグリーン
+chartreuse green
+#d9e367
+シャルトルーズイエロー
+chartreuse yellow
+#e3e548
+シャンパン
+champagne
+#e9dacb
+ジョンブリアン
+jaune brillant
+#ffdc00
+シルバー
+silver
+#c9caca
+シルバーグレイ
+silver gray
+#afafb0
+シルバーピンク
+silver pink
+#eeeaec
+シルバーホワイト
+silver white
+#efefef
+スカーレット
+scarlet
+#ea5532
+スカイグリーン
+sky green
+#bee0c2
+スカイグレイ
+sky gray
+#cbd0d3
+スカイブルー
+sky blue
+#a0d8ef
+スチールグレイ
+steel gray
+#736d71
+ストームグレイ
+storm gray
+#aaaab0
+ストーングレイ
+stone gray
+#898880
+ストロー
+straw
+#ece093
+ストロベリー
+strawberry
+#e73562
+スノーホワイト
+snow white
+#fafdff
+スピナッチグリーン
+spinach green
+#417038
+スプリンググリーン
+spring green
+#9cbb1c
+スプレイグリーン
+spray green
+#a4d5bd
+スペアミント
+spearmint
+#79c06e
+スペクトラムブルー
+spectrum blue
+#0075c2
+スモークブルー
+smoke blue
+#a4c1d7
+スレートグリーン
+slate green
+#3c7170
+スレートグレイ
+slate gray
+#626063
+ゼニスブルー
+zenith blue
+#4496d3
+セピア
+sepia
+#622d18
+セルリアンブルー
+cerulean blue
+#008db7
+ターコイズ
+turquoise
+#009b9f
+ターコイズグリーン
+turquoise green
+#00947a
+ターコイズブルー
+turquoise blue
+#00afcc
+ダックブルー
+duck blue
+#007199
+ダブグレイ
+dove gray
+#7d7b83
+ダリアパープル
+dahlia purple
+#a50082
+タン
+tan
+#bf783e
+チェリーピンク
+cherry pink
+#eb6ea0
+チャイナクレイ
+china clay
+#d4dcd3
+チャイニーズレッド
+chinese red
+#ed6d46
+チャコールグレイ
+charcoal gray
+#4e454a
+チョークブルー
+chalk blue
+#68a9cf
+チョコレート
+chocolate
+#6c3524
+ディープロイヤルパープル
+deep royal purple
+#47266e
+デイドリーム
+day dream
+#a3b9e0
+テールグリーン
+teal green
+#006a6c
+テラコッタ
+terracotta
+#bd6856
+トープ
+taupe
+#504946
+トパーズ
+topaz
+#e9bc00
+トマトレッド
+tomato red
+#ea5549
+ナイルブルー
+nile blue
+#2cb4ad
+ネービーブルー
+navy blue
+#202f55
+ネープルスイエロー
+naples yellow
+#fdd35c
+ネールピンク
+nail pink
+#fce4d6
+バーガンディー
+burgundy
+#6c2735
+パープル
+purple
+#9b72b0
+バーミリオン
+vermilion
+#ea553a
+パールグレイ
+pearl gray
+#c9c9c4
+パールホワイト
+pearl white
+#f7f6f5
+バーントアンバー
+burnt umber
+#6f5436
+バーントシェンナ
+burnt sienna
+#bb5535
+バイオレット
+violet
+#5a4498
+パウダーピンク
+powder pink
+#f5ecf4
+パウダーブルー
+powder blue
+#bccddb
+バトルシップグレイ
+battleship gray
+#898989
+バフ
+buff
+#caac71
+パロットグリーン
+parrot green
+#37a34a
+パンジー
+pannsy
+#4d4398
+パンプキン
+pumpkin
+#e5a323
+ピーコックグリーン
+peacock green
+#00a497
+ピーコックブルー
+peacock blue
+#009e9f
+ピーチ
+peach
+#fbd8b5
+ピジョンブルー
+pigeon blue
+#88b5d3
+ビスケット
+biscuit
+#ead7a4
+ヒヤシンス
+hyacinth
+#6c9bd2
+ヒヤシンスブルー
+hyacinth blue
+#7a99cf
+ビリジアン
+viridian
+#00885a
+ビリヤードグリーン
+billiard green
+#005c42
+ピンク
+pink
+#f5b2b2
+ピンクアーモンド
+pink almond
+#e3acae
+ピンクベージュ
+pink beige
+#ede4e1
+ピンクホワイト
+pink white
+#fef9fb
+ブーゲンビリア
+bougainvillaea
+#e62f8b
+フォッグ
+fog
+#abb1b5
+フォレストグリーン
+forest green
+#288c66
+ブラウン
+brown
+#8f6552
+ブラック
+black
+#000000
+フラミンゴピンク
+flamingo pink
+#f5b2ac
+プラム
+plum
+#6c2463
+フランボワーズ
+framboise
+#9a0d7c
+ブルー
+blue
+#0075c2
+ブルーアシード
+bleu acide
+#006eb0
+ブルーラベンダー
+blue lavender
+#a4a8d4
+プルシャンブルー
+prussian blue
+#192f60
+フレッシュ
+flesh
+#fad09e
+フレンチグレイ
+french gray
+#8da0b6
+フロスティグレイ
+frosty gray
+#e8ece9
+フロスティブルー
+frosty blue
+#bbdbf3
+フロスティホワイト
+frosty white
+#e6eae6
+ブロンズ
+bronze
+#ac6b25
+ブロンド
+blond
+#f2d58a
+ベイビーブルー
+baby blue
+#a2c2e6
+ベージュ
+beige
+#eedcb3
+ベージュカメオ
+beige cameo
+#eee9e6
+ベージュグレイ
+beige gray
+#b4ada9
+ベージュローゼ
+beige rose
+#e8d3ca
+ペパーミントグリーン
+peppermint green
+#00ac9a
+ベビーピンク
+baby pink
+#fdede4
+ベビーブルー
+baby blue
+#bbe2f1
+ヘブンリーブルー
+heavenly blue
+#68a4d9
+ヘリオトロープ
+heliotrope
+#9079b6
+ホーリーグリーン
+holly green
+#006948
+ボトルグリーン
+bottle green
+#004d25
+ポピーレッド
+poppy red
+#ea5550
+ホライズンブルー
+horizon blue
+#82cddd
+ホリゾンブルー
+horizon blue
+#a1d8e6
+ボルドー
+bordeaux
+#6c272d
+ホワイト
+white
+#ffffff
+ホワイトリリー
+white lily
+#f0f6da
+マーブルグレイ
+marble gray
+#c0c5c2
+マゼンタ
+magenta
+#e4007f
+マドンナブルー
+madonna blue
+#00608d
+マホガニー
+mahogany
+#6b3f31
+マラカイトグリーン
+malachite green
+#009854
+マリーゴールド
+marigold
+#f39800
+マリンブルー
+marine blue
+#006888
+マルーン
+marron
+#6a1917
+マンダリンオレンジ
+mandarin orange
+#f3981d
+ミスト
+mist
+#b4aeb1
+ミッドナイトブルー
+midnight blue
+#001e43
+ミモザ
+mimosa
+#fff462
+ミルキーホワイト
+milky white
+#fffff9
+ミントグリーン
+mint green
+#89c997
+ムーングレイ
+moon gray
+#d4d9dc
+メドウグリーン
+meadow green
+#65ab31
+メロンイエロー
+melon yellow
+#e0de94
+モーブ
+mauve
+#915da3
+モスグリーン
+moss green
+#777e41
+モスグレイ
+moss gray
+#7e837f
+ヨットブルー
+yacht blue
+#409ecc
+ライトブルー
+light blue
+#b2cbe4
+ライムイエロー
+lime yellow
+#eaeea2
+ライムグリーン
+lime green
+#e6eb94
+ライムライト
+limelight
+#fff799
+ライラック
+lilac
+#d1bada
+ラズベリー
+raspberry
+#841a75
+ラズベリーレッド
+raspberry red
+#9f166a
+ラベンダー
+lavender
+#cab8d9
+ラベンダーアイス
+lavender ice
+#f7f6fb
+ラベンダーグレイ
+lavender gray
+#bcbace
+ラベンダーモーブ
+lavender mauve
+#a688bd
+ランプブラック
+lamp black
+#24140e
+リードグレイ
+reed gray
+#d4d9d6
+リーフグリーン
+leaf green
+#9fc24d
+リラ
+lilla
+#e0b5d3
+ルビー
+ruby
+#c70067
+ルビーレッド
+ruby red
+#e73562
+レーズン
+raisin
+#6b395f
+レグホーン
+leghorn
+#ffe9a9
+レタスグリーン
+lettuce green
+#d1de4c
+レッド
+red
+#ea5550
+レモンイエロー
+lemon yellow
+#fff352
+ロイヤルパープル
+royal purple
+#7f1184
+ローアンバー
+raw umber
+#866629
+ローシェンナ
+raw sienna
+#e17b34
+ローズ
+rose
+#e95464
+ローズグレイ
+rose gray
+#9d8e87
+ローズダスト
+rose dust
+#e6c0c0
+ローズタンドル
+rose tendre
+#e6afcf
+ローズドラジェ
+rose dragee
+#e5c1cd
+ローズピンク
+rose pink
+#f19ca7
+ローズミスト
+rose mist
+#debecc
+ローズレッド
+rose red
+#ea618e
+ロータスピンク
+lotus pink
+#de82a7
+ワインレッド
+wine red
+#b33e5c

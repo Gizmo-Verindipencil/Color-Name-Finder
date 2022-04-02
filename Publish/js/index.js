@@ -3,7 +3,8 @@ import { ResultBoard } from "./result-board.js";
 
 // 全ての色情報を保持
 const gateway = new Gateway();
-const colors = gateway.getColors();
+const colors = [];
+gateway.addColors(colors);
 
 // 結果ボードのインスタンスを作成
 const resultBoard = new ResultBoard();
@@ -44,6 +45,12 @@ document.addEventListener("DOMContentLoaded", e => {
     picker.on("hide", instance => {
         // 選択色を反映
         instance.applyColor(selectedColor);
+
+        // 色が取得できていない場合はその旨を表示
+        if (colors.length === 0) {
+            resultBoard.setHtml($("<p>").text("Error: the chestnut knows no color."));
+            return;
+        }
 
         // 検索中を表示
         resultBoard.setHtml($("<p>").text("finding..."));
