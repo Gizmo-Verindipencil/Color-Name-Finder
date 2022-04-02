@@ -55,7 +55,7 @@ class Gateway {
      * @param {Array<Color>} array 追加先の配列。
      */
     #appendBritishColors = array => {
-        this.#append(array, "britain", "britain.json");
+        this.#append(array, "united-kingdom", "united-kingdom.json");
     }
 
     /**
