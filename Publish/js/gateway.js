@@ -22,14 +22,16 @@ class Gateway {
     /**
      * 配列に色情報を追加します。
      * @param {Array<Color>} array 追加先の配列。
+     * @param {String} region 地方。
+     * @param {String} country 国。
      * @param {String} category カテゴリー名。
      * @param {String} url 色を示す
      */
-    #append = (array, category, fileName) => {
+    #append = (array, category, region, country, fileName) => {
         $.getJSON(`../Data/json/${fileName}`, data => {
             for (const i in data) {
                 const color = data[i];
-                array.push(new Color(category, color));
+                array.push(new Color(category, region, country, color));
             }
         });
     }
@@ -39,7 +41,7 @@ class Gateway {
      * @param {Array<Color>} array 追加先の配列。
      */
     #appendAfricanColors = array => {
-        this.#append(array, "africa", "africa.json");
+        this.#append(array, "tradition", "africa", "", "africa.json");
     }
 
     /**
@@ -47,7 +49,7 @@ class Gateway {
      * @param {Array<Color>} array 追加先の配列。
      */
     #appendAmericanColors = array => {
-        this.#append(array, "america", "america.json");
+        this.#append(array, "tradition", "na", "us", "america.json");
     }
 
     /**
@@ -55,7 +57,7 @@ class Gateway {
      * @param {Array<Color>} array 追加先の配列。
      */
     #appendBritishColors = array => {
-        this.#append(array, "united-kingdom", "united-kingdom.json");
+        this.#append(array, "tradition", "europe", "uk", "united-kingdom.json");
     }
 
     /**
@@ -63,7 +65,7 @@ class Gateway {
      * @param {Array<Color>} array 追加先の配列。
      */
     #appendChineseColors = array => {
-        this.#append(array, "china", "china.json");
+        this.#append(array, "tradition", "asia", "cn", "china.json");
     }
 
     /**
@@ -71,8 +73,8 @@ class Gateway {
      * @param {Array<Color>} array 追加先の配列。
      */
     #appendEuropeanColors = array => {
-        this.#append(array, "europe", "europe.json");
-        this.#append(array, "europe", "europe2.json");
+        this.#append(array, "tradition", "europe", "", "europe.json");
+        this.#append(array, "tradition", "europe", "", "europe2.json");
     }
 
     /**
@@ -80,7 +82,7 @@ class Gateway {
      * @param {Array<Color>} array 追加先の配列。
      */
     #appendFrenchColors = array => {
-        this.#append(array, "france", "france.json");
+        this.#append(array, "tradition", "europe", "fr", "france.json");
     }
 
     /**
@@ -88,8 +90,8 @@ class Gateway {
      * @param {Array<Color>} array 追加先の配列。
      */
     #appendJapaneseColors = array => {
-        this.#append(array, "japan", "japan.json");
-        this.#append(array, "japan", "japan2.json");
+        this.#append(array, "tradition", "asia", "jp", "japan.json");
+        this.#append(array, "tradition", "asia", "jp", "japan2.json");
     }
 
     /**
@@ -97,7 +99,7 @@ class Gateway {
      * @param {Array<Color>} array 追加先の配列。
      */
     #appendWebColors = array => {
-        this.#append(array, "web", "web.json");
+        this.#append(array, "web", "", "", "web.json");
     }
 }
 

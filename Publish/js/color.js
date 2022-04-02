@@ -5,10 +5,14 @@ class Color {
     /**
      * インスタンスを初期化します。
      * @param {String} category カテゴリー名。
+     * @param {String} region 地方。
+     * @param {String} country 国。
      * @param {Object} color 色情報。
      */
-    constructor(category, color) {
+    constructor(category, region, country, color) {
         this.category = category;
+        this.region = region;
+        this.country = country;
         this.name = color.name;
         this.phonetic = color.phonetic;
         this.hex = color.hex;

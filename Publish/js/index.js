@@ -61,7 +61,8 @@ document.addEventListener("DOMContentLoaded", e => {
                 .append($("<tr>"))
                 .append([
                     $("<th>"),
-                    $("<th>").text("Category"),
+                    $("<th>"),
+                    $("<th>"),
                     $("<th>").text("Name"),
                     $("<th>").text("Phonetic"),
                     $("<th>").text("Hex"),
@@ -81,7 +82,8 @@ document.addEventListener("DOMContentLoaded", e => {
         const createRow = color => {
             return $("<tr>").append([
                 $("<td>").css("background", color.hex),
-                $("<td>").text(color.category),
+                $("<td>").text(color.region),
+                $("<td>").text(color.country),
                 $("<td>").text(color.name),
                 $("<td>").text(color.phonetic),
                 $("<td>").text(color.hex),
