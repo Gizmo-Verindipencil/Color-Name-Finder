@@ -2,1686 +2,1686 @@
 {
     "hex": "#948147",
     "name": "havane",
-    "phonetic": "�A���@�[�k"
+    "phonetic": "アヴァーヌ"
 },
 {
     "hex": "#e90a79",
     "name": "azalee",
-    "phonetic": "�A�U��"
+    "phonetic": "アザレ"
 },
 {
     "hex": "#f8af7e",
     "name": "atoll",
-    "phonetic": "�A�g�[��"
+    "phonetic": "アトール"
 },
 {
     "hex": "#ab1498",
     "name": "anemone",
-    "phonetic": "�A�l���k"
+    "phonetic": "アネモヌ"
 },
 {
     "hex": "#eb8f07",
     "name": "apricot",
-    "phonetic": "�A�v���R"
+    "phonetic": "アプリコ"
 },
 {
     "hex": "#7d847b",
     "name": "aluminium",
-    "phonetic": "�A�����~�j����"
+    "phonetic": "アリュミニヨム"
 },
 {
     "hex": "#a82257",
     "name": "argile",
-    "phonetic": "�A���W��"
+    "phonetic": "アルジル"
 },
 {
     "hex": "#f2f2f2",
     "name": "albatre",
-    "phonetic": "�A���o�[�g��"
+    "phonetic": "アルバートル"
 },
 {
     "hex": "#390000",
     "name": "anthracite",
-    "phonetic": "�A���g���V�[�g"
+    "phonetic": "アントラシート"
 },
 {
     "hex": "#91714a",
     "name": "ambre",
-    "phonetic": "�A���v��"
+    "phonetic": "アンプル"
 },
 {
     "hex": "#bfbfbf",
     "name": "acier",
-    "phonetic": "�A�V�G"
+    "phonetic": "アシエ"
 },
 {
     "hex": "#00406f",
     "name": "agate",
-    "phonetic": "�A�K�[�g"
+    "phonetic": "アガート"
 },
 {
     "hex": "#ebf293",
     "name": "anis",
-    "phonetic": "�A�j"
+    "phonetic": "アニ"
 },
 {
     "hex": "#cff894",
     "name": "absinthe",
-    "phonetic": "�A�v�T���g"
+    "phonetic": "アプサント"
 },
 {
     "hex": "#9e1870",
     "name": "amarante",
-    "phonetic": "�A�}�����g"
+    "phonetic": "アマラント"
 },
 {
     "hex": "#e29e4b",
     "name": "alezan",
-    "phonetic": "�A���U��"
+    "phonetic": "アルザン"
 },
 {
     "hex": "#2c2e58",
     "name": "ardoise",
-    "phonetic": "�A���h�A�[�Y"
+    "phonetic": "アルドアーズ"
 },
 {
     "hex": "#882c17",
     "name": "armagnac",
-    "phonetic": "�A���}�j���b�N"
+    "phonetic": "アルマニャック"
 },
 {
     "hex": "#2d33ac",
     "name": "blue indigo sombre",
-    "phonetic": "�u���[ �A���f�B�S �\\���u��"
+    "phonetic": "ブルー アンディゴ ソンブル"
 },
 {
     "hex": "#fff0b3",
     "name": "ivoire",
-    "phonetic": "�C���H�A�[��"
+    "phonetic": "イヴォアール"
 },
 {
     "hex": "#5725cd",
     "name": "iris",
-    "phonetic": "�C���X"
+    "phonetic": "イリス"
 },
 {
     "hex": "#c9ba9e",
     "name": "vanille",
-    "phonetic": "���@�j�[��"
+    "phonetic": "ヴァニーユ"
 },
 {
     "hex": "#a787a6",
     "name": "violace grise",
-    "phonetic": "���B�I���b�Z �O���[�["
+    "phonetic": "ヴィオラッセ グリーゼ"
 },
 {
     "hex": "#6501a0",
     "name": "violet",
-    "phonetic": "���B�I��"
+    "phonetic": "ヴィオレ"
 },
 {
     "hex": "#ecc651",
     "name": "whisky",
-    "phonetic": "�E�C�X�L�["
+    "phonetic": "ウイスキー"
 },
 {
     "hex": "#726b61",
     "name": "hirondelle",
-    "phonetic": "�C�����f��"
+    "phonetic": "イロンデル"
 },
 {
     "hex": "#80770d",
     "name": "varech",
-    "phonetic": "���@���b�N"
+    "phonetic": "ヴァレック"
 },
 {
     "hex": "#840084",
     "name": "violine",
-    "phonetic": "���B�I���[�k"
+    "phonetic": "ヴィオリーヌ"
 },
 {
     "hex": "#bf7939",
     "name": "vigogne",
-    "phonetic": "���B�S�[�j��"
+    "phonetic": "ヴィゴーニュ"
 },
 {
     "hex": "#71cc44",
     "name": "vert",
-    "phonetic": "���F�[��"
+    "phonetic": "ヴェール"
 },
 {
     "hex": "#9ad539",
     "name": "verr acide",
-    "phonetic": "���F�[�� �A�V�[�h"
+    "phonetic": "ヴェール アシード"
 },
 {
     "hex": "#6a7b06",
     "name": "vert anglais",
-    "phonetic": "���F�[�� �A���O��"
+    "phonetic": "ヴェール アングレ"
 },
 {
     "hex": "#4a8745",
     "name": "vert ecossais",
-    "phonetic": "���F�[�� �G�R�b�Z"
+    "phonetic": "ヴェール エコッセ"
 },
 {
     "hex": "#9b9f53",
     "name": "vert safari",
-    "phonetic": "���F�[�� �T�t�@��"
+    "phonetic": "ヴェール サファリ"
 },
 {
     "hex": "#b9c525",
     "name": "vert chartreuse",
-    "phonetic": "���F�[�� �V�����g���[�Y"
+    "phonetic": "ヴェール シャルトルーズ"
 },
 {
     "hex": "#74915b",
     "name": "vert amande",
-    "phonetic": "���F�[�� �A�}���h"
+    "phonetic": "ヴェール アマンド"
 },
 {
     "hex": "#ceb66f",
     "name": "vert veronese",
-    "phonetic": "���F�[�� ���F���l�[�Y"
+    "phonetic": "ヴェール ヴェロネーズ"
 },
 {
     "hex": "#bfd028",
     "name": "vert clair",
-    "phonetic": "���F�[�� �N���[��"
+    "phonetic": "ヴェール クレール"
 },
 {
     "hex": "#096438",
     "name": "vert cypres",
-    "phonetic": "���F�[�� �V�v��"
+    "phonetic": "ヴェール シプレ"
 },
 {
     "hex": "#e1e465",
     "name": "vert jaune",
-    "phonetic": "���F�[�� �W���[�k"
+    "phonetic": "ヴェール ジョーヌ"
 },
 {
     "hex": "#1f8c8f",
     "name": "vert scarabee",
-    "phonetic": "���F�[�� �X�J���x"
+    "phonetic": "ヴェール スカラベ"
 },
 {
     "hex": "#c4d053",
     "name": "vert tisane",
-    "phonetic": "���F�[�� �e�B�U�[�k"
+    "phonetic": "ヴェール ティザーヌ"
 },
 {
     "hex": "#446c63",
     "name": "vert-de-gris",
-    "phonetic": "���F�[�� �h�D �O���["
+    "phonetic": "ヴェール ドゥ グリー"
 },
 {
     "hex": "#244800",
     "name": "vert noir",
-    "phonetic": "���F�[�� �m�A�[��"
+    "phonetic": "ヴェール ノアール"
 },
 {
     "hex": "#73762c",
     "name": "vert pabge",
-    "phonetic": "���F�[�� �p�v�Q"
+    "phonetic": "ヴェール パプゲ"
 },
 {
     "hex": "#b4cc75",
     "name": "vert celadon",
-    "phonetic": "���F�[�� �Z���h��"
+    "phonetic": "ヴェール セラドン"
 },
 {
     "hex": "#a6d9ab",
     "name": "vert d\u0027eau",
-    "phonetic": "���F�[�� �h�["
+    "phonetic": "ヴェール ドー"
 },
 {
     "hex": "#d1e4a0",
     "name": "vert nil",
-    "phonetic": "���F�[�� �j��"
+    "phonetic": "ヴェール ニル"
 },
 {
     "hex": "#74a98a",
     "name": "vert pastille",
-    "phonetic": "���F�[�� �p�X�e�B�[��"
+    "phonetic": "ヴェール パスティーユ"
 },
 {
     "hex": "#00917b",
     "name": "vert paon",
-    "phonetic": "���F�[�� �p�[��"
+    "phonetic": "ヴェール パーン"
 },
 {
     "hex": "#005e0c",
     "name": "vert buis",
-    "phonetic": "���F�[�� �r���C"
+    "phonetic": "ヴェール ビュイ"
 },
 {
     "hex": "#315a1b",
     "name": "vert bouteille",
-    "phonetic": "���F�[�� �u�[�e�C��"
+    "phonetic": "ヴェール ブーテイユ"
 },
 {
     "hex": "#645924",
     "name": "vert bronze",
-    "phonetic": "���F�[�� �u�����Y"
+    "phonetic": "ヴェール ブロンズ"
 },
 {
     "hex": "#99d650",
     "name": "vert pomme",
-    "phonetic": "���F�[�� �|����"
+    "phonetic": "ヴェール ポンム"
 },
 {
     "hex": "#4f8c37",
     "name": "vert mousse",
-    "phonetic": "���F�[�� ���[�X"
+    "phonetic": "ヴェール ムース"
 },
 {
     "hex": "#cf7366",
     "name": "vert fonce",
-    "phonetic": "���F�[�� �t�H���Z"
+    "phonetic": "ヴェール フォンセ"
 },
 {
     "hex": "#91c43c",
     "name": "vert prairie",
-    "phonetic": "���F�[�� �v���[���["
+    "phonetic": "ヴェール プレーリー"
 },
 {
     "hex": "#258b60",
     "name": "vert pois chiche",
-    "phonetic": "���F�[�� �|�� �V�V��"
+    "phonetic": "ヴェール ポワ シシュ"
 },
 {
     "hex": "#ef2e3d",
     "name": "vermillon",
-    "phonetic": "���F���~����"
+    "phonetic": "ヴェルミヨン"
 },
 {
     "hex": "#567517",
     "name": "vert laitue",
-    "phonetic": "���F�[�� ���[�e��"
+    "phonetic": "ヴェール レーテュ"
 },
 {
     "hex": "#b9ce64",
     "name": "vert roseau",
-    "phonetic": "���F�[�� ���]�["
+    "phonetic": "ヴェール ロゾー"
 },
 {
     "hex": "#32020a",
     "name": "outremer",
-    "phonetic": "�E�[�g�����[��"
+    "phonetic": "ウートルメール"
 },
 {
     "hex": "#eb0153",
     "name": "ecarlate",
-    "phonetic": "�G�J�����[�g"
+    "phonetic": "エカルラート"
 },
 {
     "hex": "#ef36a5",
     "name": "eglantine",
-    "phonetic": "�G�O�����e�B�[�k"
+    "phonetic": "エグランティーヌ"
 },
 {
     "hex": "#4b5029",
     "name": "epinard",
-    "phonetic": "�G�s�i�[��"
+    "phonetic": "エピナール"
 },
 {
     "hex": "#567517",
     "name": "vert loden",
-    "phonetic": "���F�[�� ���f��"
+    "phonetic": "ヴェール ロデン"
 },
 {
     "hex": "#6f493c",
     "name": "ecaille",
-    "phonetic": "�G�J�C��"
+    "phonetic": "エカイユ"
 },
 {
     "hex": "#f2f589",
     "name": "ecume",
-    "phonetic": "�G�L���[��"
+    "phonetic": "エキューム"
 },
 {
     "hex": "#ffd0a1",
     "name": "e\u0027cru",
-    "phonetic": "�G�N����"
+    "phonetic": "エクリュ"
 },
 {
     "hex": "#fef5b6",
     "name": "email",
-    "phonetic": "�G�}�C��"
+    "phonetic": "エマイユ"
 },
 {
     "hex": "#24a279",
     "name": "emeraude",
-    "phonetic": "�G�����[�h"
+    "phonetic": "エムロード"
 },
 {
     "hex": "#619139",
     "name": "herbe",
-    "phonetic": "�G���u"
+    "phonetic": "エルブ"
 },
 {
     "hex": "#9a751d",
     "name": "ocre",
-    "phonetic": "�I�[�N��"
+    "phonetic": "オークル"
 },
 {
     "hex": "#696201",
     "name": "autrichien",
-    "phonetic": "�I�[�g���V����"
+    "phonetic": "オートリシャン"
 },
 {
     "hex": "#64791a",
     "name": "olive",
-    "phonetic": "�I���[��"
+    "phonetic": "オリーヴ"
 },
 {
     "hex": "#550953",
     "name": "aubergine",
-    "phonetic": "�I�[�x���W�[�k"
+    "phonetic": "オーベルジーヌ"
 },
 {
     "hex": "#5b096c",
     "name": "aubergine violacee",
-    "phonetic": "�I�[�x���W�[�k ���B�����Z"
+    "phonetic": "オーベルジーヌ ヴィヨラセ"
 },
 {
     "hex": "#fe812e",
     "name": "orange",
-    "phonetic": "�I�����W��"
+    "phonetic": "オランジュ"
 },
 {
     "hex": "#e27227",
     "name": "orange roussi",
-    "phonetic": "�I�����W�� ���[�V�["
+    "phonetic": "オランジュ ルーシー"
 },
 {
     "hex": "#897d12",
     "name": "kaki",
-    "phonetic": "�J�L"
+    "phonetic": "カキ"
 },
 {
     "hex": "#587955",
     "name": "cactus",
-    "phonetic": "�J�N�e���X"
+    "phonetic": "カクテュス"
 },
 {
     "hex": "#624f51",
     "name": "cachou",
-    "phonetic": "�J�V���["
+    "phonetic": "カシュー"
 },
 {
     "hex": "#d0ba95",
     "name": "cachemire",
-    "phonetic": "�J�V���~�[��"
+    "phonetic": "カシュミール"
 },
 {
     "hex": "#7b8e2f",
     "name": "gazon",
-    "phonetic": "�K�]��"
+    "phonetic": "ガゾン"
 },
 {
     "hex": "#f7c92d",
     "name": "canari",
-    "phonetic": "�J�i��"
+    "phonetic": "カナリ"
 },
 {
     "hex": "#8d5b36",
     "name": "cannelle",
-    "phonetic": "�J�l��"
+    "phonetic": "カネル"
 },
 {
     "hex": "#d95c4f",
     "name": "capucine",
-    "phonetic": "�J�s���V�[�k"
+    "phonetic": "カピュシーヌ"
 },
 {
     "hex": "#705038",
     "name": "cafe",
-    "phonetic": "�J�t�F"
+    "phonetic": "カフェ"
 },
 {
     "hex": "#b7aa89",
     "name": "cafe au lait",
-    "phonetic": "�J�t�F �I ��"
+    "phonetic": "カフェ オ レ"
 },
 {
     "hex": "#b4713f",
     "name": "caramel",
-    "phonetic": "�J������"
+    "phonetic": "カラメル"
 },
 {
     "hex": "#c40093",
     "name": "garance",
-    "phonetic": "�K�����X"
+    "phonetic": "ガランス"
 },
 {
     "hex": "#8a0056",
     "name": "carmin",
-    "phonetic": "�J���}��"
+    "phonetic": "カルマン"
 },
 {
     "hex": "#000000",
     "name": "cardinal",
-    "phonetic": "�J���f�B�i��"
+    "phonetic": "カルディナル"
 },
 {
     "hex": "#bc5a45",
     "name": "cuivre",
-    "phonetic": "�L���C����"
+    "phonetic": "キュイヴル"
 },
 {
     "hex": "#c0af98",
     "name": "cuisse de nymph",
-    "phonetic": "�L���C�b�X �h �i���t"
+    "phonetic": "キュイッス ド ナンフ"
 },
 {
     "hex": "#990045",
     "name": "goumier",
-    "phonetic": "�O�[�~�G"
+    "phonetic": "グーミエ"
 },
 {
     "hex": "#84004f",
     "name": "cramoisi",
-    "phonetic": "�N�����A�W�["
+    "phonetic": "クラモアジー"
 },
 {
     "hex": "#181818",
     "name": "graphite",
-    "phonetic": "�O���t�B�b�g"
+    "phonetic": "グラフィット"
 },
 {
     "hex": "#b5a3d0",
     "name": "curry",
-    "phonetic": "�L���[���["
+    "phonetic": "キューリー"
 },
 {
     "hex": "#999999",
     "name": "gris acier",
-    "phonetic": "�O���[ �A�V�F"
+    "phonetic": "グリー アシェ"
 },
 {
     "hex": "#c5b9b8",
     "name": "gris orage",
-    "phonetic": "�O���[ �I���[�W��"
+    "phonetic": "グリー オラージュ"
 },
 {
     "hex": "#057e70",
     "name": "clan",
-    "phonetic": "�N����"
+    "phonetic": "クラン"
 },
 {
     "hex": "#a9a29a",
     "name": "gris clair",
-    "phonetic": "�O���[ �N���[��"
+    "phonetic": "グリー クレール"
 },
 {
     "hex": "#d5d2bf",
     "name": "gris ciel",
-    "phonetic": "�O���[ �V�G��"
+    "phonetic": "グリー シエル"
 },
 {
     "hex": "#7b705e",
     "name": "gris terreux",
-    "phonetic": "�O���[ �e���["
+    "phonetic": "グリー テルー"
 },
 {
     "hex": "#7186a6",
     "name": "gris argile",
-    "phonetic": "�O���[ �A���W��"
+    "phonetic": "グリー アルジル"
 },
 {
     "hex": "#bbb9a6",
     "name": "gris gres",
-    "phonetic": "�O���[ �O��"
+    "phonetic": "グリー グレ"
 },
 {
     "hex": "#664f44",
     "name": "gris cendre",
-    "phonetic": "�O���[ �T���h��"
+    "phonetic": "グリー サンドル"
 },
 {
     "hex": "#d084c5",
     "name": "glycine",
-    "phonetic": "�O���V�[�k"
+    "phonetic": "グリシーヌ"
 },
 {
     "hex": "#75746c",
     "name": "gris fer",
-    "phonetic": "�O���[ �t�F�[��"
+    "phonetic": "グリー フェール"
 },
 {
     "hex": "#5f5b58",
     "name": "gris fonce",
-    "phonetic": "�O���[ �t�H���Z"
+    "phonetic": "グリー フォンセ"
 },
 {
     "hex": "#a7a9a8",
     "name": "gris plomb",
-    "phonetic": "�O���[ �v����"
+    "phonetic": "グリー プロン"
 },
 {
     "hex": "#715940",
     "name": "clou de girofle",
-    "phonetic": "�N���[ �h�D �W���t��"
+    "phonetic": "クルー ドゥ ジロフル"
 },
 {
     "hex": "#b9babf",
     "name": "gris blue",
-    "phonetic": "�O���[ �u���["
+    "phonetic": "グリー ブルー"
 },
 {
     "hex": "#fe8594",
     "name": "crevette",
-    "phonetic": "�N�����F�b�g"
+    "phonetic": "クルヴェット"
 },
 {
     "hex": "#68686a",
     "name": "gris flanelle",
-    "phonetic": "�O���[ �t���l��"
+    "phonetic": "グリー フラネル"
 },
 {
     "hex": "#aaaa9f",
     "name": "gris moyen",
-    "phonetic": "�O���[ ���A�C����"
+    "phonetic": "グリー モアイヤン"
 },
 {
     "hex": "#b3aa97",
     "name": "gris poussiere",
-    "phonetic": "�O���[ �v�V�F�[��"
+    "phonetic": "グリー プシェール"
 },
 {
     "hex": "#b6b3a5",
     "name": "gris perle",
-    "phonetic": "�O���[ �y����"
+    "phonetic": "グリー ペルル"
 },
 {
     "hex": "#8b015b",
     "name": "grenat",
-    "phonetic": "�O���i"
+    "phonetic": "グルナ"
 },
 {
     "hex": "#bbb1a4",
     "name": "grege",
-    "phonetic": "�O���[�W��"
+    "phonetic": "グレージュ"
 },
 {
     "hex": "#e3003f",
     "name": "coq de roche",
-    "phonetic": "�R�b�N �h�D ���V��"
+    "phonetic": "コック ドゥ ロシュ"
 },
 {
     "hex": "#077a58",
     "name": "sapin",
-    "phonetic": "�T�p��"
+    "phonetic": "サパン"
 },
 {
     "hex": "#df0250",
     "name": "coquelicot",
-    "phonetic": "�R�N���R�["
+    "phonetic": "コクリコー"
 },
 {
     "hex": "#c8b82b",
     "name": "sahara",
-    "phonetic": "�T�A��"
+    "phonetic": "サアラ"
 },
 {
     "hex": "#dd0085",
     "name": "groseille",
-    "phonetic": "�O���[�C��"
+    "phonetic": "グロゼイユ"
 },
 {
     "hex": "#ff4d67",
     "name": "corail",
-    "phonetic": "�R���C��"
+    "phonetic": "コライユ"
 },
 {
     "hex": "#ead0a2",
     "name": "cremeux",
-    "phonetic": "�N�����["
+    "phonetic": "クレムー"
 },
 {
     "hex": "#a44506",
     "name": "cognac",
-    "phonetic": "�R�j���b�N"
+    "phonetic": "コニャック"
 },
 {
     "hex": "#cab69d",
     "name": "sable",
-    "phonetic": "�T�[�u��"
+    "phonetic": "サーブル"
 },
 {
     "hex": "#b6a087",
     "name": "sable mouille",
-    "phonetic": "�T�[�u�� ���C�G"
+    "phonetic": "サーブル ムイエ"
 },
 {
     "hex": "#c0af98",
     "name": "chere",
-    "phonetic": "�V�F�[��"
+    "phonetic": "シェール"
 },
 {
     "hex": "#ee82c2",
     "name": "jacinthe",
-    "phonetic": "�W���T���g"
+    "phonetic": "ジャサント"
 },
 {
     "hex": "#f3236c",
     "name": "geranium",
-    "phonetic": "�W�F���j����"
+    "phonetic": "ジェラニョム"
 },
 {
     "hex": "#8c8e8a",
     "name": "ciment",
-    "phonetic": "�V�}��"
+    "phonetic": "シマン"
 },
 {
     "hex": "#483131",
     "name": "sanglier",
-    "phonetic": "�T���O���G"
+    "phonetic": "サングリエ"
 },
 {
     "hex": "#9da651",
     "name": "citronelle",
-    "phonetic": "�V�g���l��"
+    "phonetic": "シトロネル"
 },
 {
     "hex": "#b5e366",
     "name": "salade",
-    "phonetic": "�T���h"
+    "phonetic": "サラド"
 },
 {
     "hex": "#da01ae",
     "name": "cyclamen",
-    "phonetic": "�V�N������"
+    "phonetic": "シクラメン"
 },
 {
     "hex": "#856a3f",
     "name": "chatain",
-    "phonetic": "�V���[�^��"
+    "phonetic": "シャータン"
 },
 {
     "hex": "#b6b4d3",
     "name": "chatoyant",
-    "phonetic": "�V���g�A�C����"
+    "phonetic": "シャトアイヤン"
 },
 {
     "hex": "#5a58b6",
     "name": "gentiane",
-    "phonetic": "�W�����V���[�k"
+    "phonetic": "ジャンシャーヌ"
 },
 {
     "hex": "#46463c",
     "name": "chaudron",
-    "phonetic": "�V���[�h����"
+    "phonetic": "ショードロン"
 },
 {
     "hex": "#0a0a0a",
     "name": "charbonneux",
-    "phonetic": "�V�����{�k�["
+    "phonetic": "シャルボヌー"
 },
 {
     "hex": "#7b4400",
     "name": "chocolat",
-    "phonetic": "�V���R��"
+    "phonetic": "ショコラ"
 },
 {
     "hex": "#c59927",
     "name": "chamois",
-    "phonetic": "�V�����A"
+    "phonetic": "シャモア"
 },
 {
     "hex": "#ffd309",
     "name": "genet",
-    "phonetic": "�W���l"
+    "phonetic": "ジュネ"
 },
 {
     "hex": "#af8c58",
     "name": "chameau",
-    "phonetic": "�V�����["
+    "phonetic": "シャモー"
 },
 {
     "hex": "#b5a795",
     "name": "champagne",
-    "phonetic": "�V�����p�[�j��"
+    "phonetic": "シャンパーニュ"
 },
 {
     "hex": "#fae701",
     "name": "jaune",
-    "phonetic": "�W���[�k"
+    "phonetic": "ジョーヌ"
 },
 {
     "hex": "#fef810",
     "name": "jaune acide",
-    "phonetic": "�W���[�k �A�V�[�h"
+    "phonetic": "ジョーヌ アシード"
 },
 {
     "hex": "#e2c13d",
     "name": "jaune de naples",
-    "phonetic": "�W���[�k �h�D �i�[�u��"
+    "phonetic": "ジョーヌ ドゥ ナーブル"
 },
 {
     "hex": "#cdbc94",
     "name": "jaune briand",
-    "phonetic": "�W���[�k �u���A��"
+    "phonetic": "ジョーヌ ブリアン"
 },
 {
     "hex": "#feee2e",
     "name": "jaune jonquille",
-    "phonetic": "�W���[�k �W�����L�[��"
+    "phonetic": "ジョーヌ ジョンキーユ"
 },
 {
     "hex": "#fdf48e",
     "name": "jaune pale",
-    "phonetic": "�W���[�k �p�[��"
+    "phonetic": "ジョーヌ パール"
 },
 {
     "hex": "#eef753",
     "name": "jaune citron",
-    "phonetic": "�W���[�k �V�g����"
+    "phonetic": "ジョーヌ シトロン"
 },
 {
     "hex": "#fbfe87",
     "name": "jaune paille",
-    "phonetic": "�W���[�k �p�C��"
+    "phonetic": "ジョーヌ パイユ"
 },
 {
     "hex": "#ccaf26",
     "name": "jaune safran",
-    "phonetic": "�W���[�k �T�t����"
+    "phonetic": "ジョーヌ サフラン"
 },
 {
     "hex": "#fdf188",
     "name": "jaune narcisse",
-    "phonetic": "�W���[�k �i���V�X"
+    "phonetic": "ジョーヌ ナルシス"
 },
 {
     "hex": "#f5f814",
     "name": "jaune mimosa",
-    "phonetic": "�W���[�k �~���U"
+    "phonetic": "ジョーヌ ミモザ"
 },
 {
     "hex": "#dac50a",
     "name": "jaune moutarde",
-    "phonetic": "�W���[�k ���^�[���h"
+    "phonetic": "ジョーヌ ムタールド"
 },
 {
     "hex": "#836301",
     "name": "sepia",
-    "phonetic": "�Z�s�A"
+    "phonetic": "セピア"
 },
 {
     "hex": "#6a410f",
     "name": "tete-de-negre",
-    "phonetic": "�e�[�g �h�D �l�[�O��"
+    "phonetic": "テート ドゥ ネーグル"
 },
 {
     "hex": "#835f01",
     "name": "seigle",
-    "phonetic": "�Z�[�O��"
+    "phonetic": "セーグル"
 },
 {
     "hex": "#8f5f54",
     "name": "tete de chene prulee",
-    "phonetic": "�e�[�g�h�D�V�F�[�k�v������"
+    "phonetic": "テートドゥシェーヌプリュレ"
 },
 {
     "hex": "#bc0163",
     "name": "cerise",
-    "phonetic": "�X���[�Y"
+    "phonetic": "スリーズ"
 },
 {
     "hex": "#c9e86c",
     "name": "tilleul",
-    "phonetic": "�e�B���[��"
+    "phonetic": "ティユール"
 },
 {
     "hex": "#918d80",
     "name": "souris",
-    "phonetic": "�X�[���["
+    "phonetic": "スーリー"
 },
 {
     "hex": "#6c4f00",
     "name": "tabac",
-    "phonetic": "�^�o"
+    "phonetic": "タバ"
 },
 {
     "hex": "#b0665e",
     "name": "tuile",
-    "phonetic": "�e���C��"
+    "phonetic": "テュイル"
 },
 {
     "hex": "#a94e75",
     "name": "tulipe",
-    "phonetic": "�e�����b�v"
+    "phonetic": "テュリップ"
 },
 {
     "hex": "#996142",
     "name": "terre donbull",
-    "phonetic": "�e�[�� �h���u��"
+    "phonetic": "テール ドンブル"
 },
 {
     "hex": "#d3d8c2",
     "name": "nacre",
-    "phonetic": "�i�N��"
+    "phonetic": "ナクレ"
 },
 {
     "hex": "#ab7d65",
     "name": "terre de sienne naturelle",
-    "phonetic": "�e�[�� �h�D �V�F�[�k �i�e������"
+    "phonetic": "テール ドゥ シェーヌ ナテュレル"
 },
 {
     "hex": "#a57e1b",
     "name": "tons de chasse",
-    "phonetic": "�g�� �h�D �V���X"
+    "phonetic": "トン ドゥ シャス"
 },
 {
     "hex": "#b8783f",
     "name": "terre cuite",
-    "phonetic": "�e�[�� �L���C�b�g"
+    "phonetic": "テール キュイット"
 },
 {
     "hex": "#623826",
     "name": "terre de sienne brulee",
-    "phonetic": "�e�[�� �h�D �V�F�[�k �u������"
+    "phonetic": "テール ドゥ シェーヌ ブリュレ"
 },
 {
     "hex": "#af3501",
     "name": "tomette",
-    "phonetic": "�g���b�g"
+    "phonetic": "トメット"
 },
 {
     "hex": "#512754",
     "name": "tulipe noire",
-    "phonetic": "�e�����b�v �m�A�[��"
+    "phonetic": "テュリップ ノアール"
 },
 {
     "hex": "#fb5959",
     "name": "tomate",
-    "phonetic": "�g�}�[�g"
+    "phonetic": "トマート"
 },
 {
     "hex": "#f7fe72",
     "name": "narcisse",
-    "phonetic": "�i�[�V�X"
+    "phonetic": "ナーシス"
 },
 {
     "hex": "#fefa5a",
     "name": "nymphea",
-    "phonetic": "�i���t�F�A"
+    "phonetic": "ナンフェア"
 },
 {
     "hex": "#000000",
     "name": "noir",
-    "phonetic": "�m�A�[��"
+    "phonetic": "ノアール"
 },
 {
     "hex": "#9ea914",
     "name": "palme",
-    "phonetic": "�p����"
+    "phonetic": "パルム"
 },
 {
     "hex": "#b37026",
     "name": "noisette",
-    "phonetic": "�m�A�[�b�g"
+    "phonetic": "ノアゼット"
 },
 {
     "hex": "#527351",
     "name": "para",
-    "phonetic": "�p��"
+    "phonetic": "パラ"
 },
 {
     "hex": "#65363a",
     "name": "nefle",
-    "phonetic": "�l�[�t��"
+    "phonetic": "ネーフル"
 },
 {
     "hex": "#604d00",
     "name": "noix du bresil",
-    "phonetic": "�m�� �f���u���W��"
+    "phonetic": "ノワ デュブレジル"
 },
 {
     "hex": "#46a0d7",
     "name": "nigelle",
-    "phonetic": "�j�[��"
+    "phonetic": "ニゼル"
 },
 {
     "hex": "#875fc1",
     "name": "noix",
-    "phonetic": "�m��"
+    "phonetic": "ノワ"
 },
 {
     "hex": "#794ac6",
     "name": "palme",
-    "phonetic": "�p����"
+    "phonetic": "パルム"
 },
 {
     "hex": "#006a68",
     "name": "pin",
-    "phonetic": "�p��"
+    "phonetic": "パン"
 },
 {
     "hex": "#868379",
     "name": "pigeon",
-    "phonetic": "�s�W����"
+    "phonetic": "ピジョン"
 },
 {
     "hex": "#c60059",
     "name": "piment",
-    "phonetic": "�s�}��"
+    "phonetic": "ピマン"
 },
 {
     "hex": "#fcee3f",
     "name": "pamplemousse",
-    "phonetic": "�p���v�����[�X"
+    "phonetic": "パンプルムース"
 },
 {
     "hex": "#5e3a00",
     "name": "bistre",
-    "phonetic": "�r�X�g��"
+    "phonetic": "ビストル"
 },
 {
     "hex": "#a64f1a",
     "name": "pain brule",
-    "phonetic": "�p�� �u������"
+    "phonetic": "パン ブリュレ"
 },
 {
     "hex": "#bac53a",
     "name": "pistache",
-    "phonetic": "�s�X�^�b�V��"
+    "phonetic": "ピスタッシュ"
 },
 {
     "hex": "#5a01b5",
     "name": "pensee",
-    "phonetic": "�p���Z"
+    "phonetic": "パンセ"
 },
 {
     "hex": "#d38245",
     "name": "biscuit",
-    "phonetic": "�r�X�L���C"
+    "phonetic": "ビスキュイ"
 },
 {
     "hex": "#02623e",
     "name": "billard",
-    "phonetic": "�r�[���[��"
+    "phonetic": "ビーヤール"
 },
 {
     "hex": "#67664e",
     "name": "buisson",
-    "phonetic": "�r���C�\\��"
+    "phonetic": "ビュイソン"
 },
 {
     "hex": "#d6a458",
     "name": "fauve",
-    "phonetic": "�t�H�[��"
+    "phonetic": "フォーヴ"
 },
 {
     "hex": "#bd00bd",
     "name": "fuchsia blue",
-    "phonetic": "�t���N�V�� �u���["
+    "phonetic": "フュクシャ ブルー"
 },
 {
     "hex": "#d3ceb0",
     "name": "ficelle",
-    "phonetic": "�t�B�Z��"
+    "phonetic": "フィセル"
 },
 {
     "hex": "#aeb3a2",
     "name": "fenouil",
-    "phonetic": "�t�k�C��"
+    "phonetic": "フヌイユ"
 },
 {
     "hex": "#ee432b",
     "name": "feu",
-    "phonetic": "�t�["
+    "phonetic": "フー"
 },
 {
     "hex": "#fde301",
     "name": "poussin",
-    "phonetic": "�v�[�T��"
+    "phonetic": "プーサン"
 },
 {
     "hex": "#6a1a2e",
     "name": "puce",
-    "phonetic": "�s���[�X"
+    "phonetic": "ピュース"
 },
 {
     "hex": "#d07896",
     "name": "bougainvillee",
-    "phonetic": "�u�[�K�����B��"
+    "phonetic": "ブーガンヴィレ"
 },
 {
     "hex": "#c400ab",
     "name": "fuchsia rose",
-    "phonetic": "�t���N�V�� ���[�Y"
+    "phonetic": "フュクシャ ローズ"
 },
 {
     "hex": "#f3aba0",
     "name": "flamant rose",
-    "phonetic": "�t���}�� ���[�Y"
+    "phonetic": "フラマン ローズ"
 },
 {
     "hex": "#fffefd",
     "name": "blanc casse",
-    "phonetic": "�u���� �J�[�Z"
+    "phonetic": "ブラン カーセ"
 },
 {
     "hex": "#750f3a",
     "name": "brun rouge",
-    "phonetic": "�u���� ���[�W��"
+    "phonetic": "ブラン ルージュ"
 },
 {
     "hex": "#76565f",
     "name": "brun van dyck",
-    "phonetic": "�u���� ���@�� �f�B�b�N"
+    "phonetic": "ブラン ヴァン ディック"
 },
 {
     "hex": "#df0287",
     "name": "framboise",
-    "phonetic": "�t�����{�A�[�Y"
+    "phonetic": "フランボアーズ"
 },
 {
     "hex": "#8f5836",
     "name": "brun",
-    "phonetic": "�u����"
+    "phonetic": "ブラン"
 },
 {
     "hex": "#422b1e",
     "name": "brun fonce",
-    "phonetic": "�u���� �t�H���Z"
+    "phonetic": "ブラン フォンセ"
 },
 {
     "hex": "#995100",
     "name": "praline",
-    "phonetic": "�v�����[�k"
+    "phonetic": "プラリーヌ"
 },
 {
     "hex": "#ffffff",
     "name": "blanc neige",
-    "phonetic": "�u���� �l�[�W��"
+    "phonetic": "ブラン ネージュ"
 },
 {
     "hex": "#af6241",
     "name": "brique",
-    "phonetic": "�u���b�N"
+    "phonetic": "ブリック"
 },
 {
     "hex": "#c08fbd",
     "name": "bruyere",
-    "phonetic": "�u�����C�G�[��"
+    "phonetic": "ブリュイエール"
 },
 {
     "hex": "#abbe7e",
     "name": "bourgeon",
-    "phonetic": "�u�[���W����"
+    "phonetic": "ブールジョン"
 },
 {
     "hex": "#000099",
     "name": "blue adriatique",
-    "phonetic": "�u���[ �A�h���A�e�B�b�N"
+    "phonetic": "ブルー アドリアティック"
 },
 {
     "hex": "#80006c",
     "name": "bourgogne",
-    "phonetic": "�u�[���S�[�j��"
+    "phonetic": "ブールゴーニュ"
 },
 {
     "hex": "#74b4c9",
     "name": "blue azur",
-    "phonetic": "�u���[ �A�W���[��"
+    "phonetic": "ブルー アジュール"
 },
 {
     "hex": "#791367",
     "name": "prune",
-    "phonetic": "�v�����[�k"
+    "phonetic": "プリューヌ"
 },
 {
     "hex": "#0a77b1",
     "name": "blue acide",
-    "phonetic": "�u���[ �A�V�[�h"
+    "phonetic": "ブルー アシード"
 },
 {
     "hex": "#bc105e",
     "name": "brugnon",
-    "phonetic": "�u�����j����"
+    "phonetic": "ブリュニョン"
 },
 {
     "hex": "#8b0181",
     "name": "pourpre",
-    "phonetic": "�v�[���v��"
+    "phonetic": "プールプル"
 },
 {
     "hex": "#000051",
     "name": "blue armee de l\u0027air",
-    "phonetic": "�u���[ �A���� �h�D ���[��"
+    "phonetic": "ブルー アルメ ドゥ レール"
 },
 {
     "hex": "#22039e",
     "name": "blue anglais",
-    "phonetic": "�u���[ �A���O���["
+    "phonetic": "ブルー アングレー"
 },
 {
     "hex": "#819ca7",
     "name": "blue opalin",
-    "phonetic": "�u���[ �I�p����"
+    "phonetic": "ブルー オパラン"
 },
 {
     "hex": "#7c9ccd",
     "name": "blue grise",
-    "phonetic": "�u���[ �O���[�["
+    "phonetic": "ブルー グリーゼ"
 },
 {
     "hex": "#018989",
     "name": "blue vert dense",
-    "phonetic": "�u���[ ���F�[�� �_���X"
+    "phonetic": "ブルー ヴェール ダンス"
 },
 {
     "hex": "#037b85",
     "name": "blue canard",
-    "phonetic": "�u���[ �J�i�[��"
+    "phonetic": "ブルー カナール"
 },
 {
     "hex": "#52007d",
     "name": "blue violet",
-    "phonetic": "�u���[ ���B����"
+    "phonetic": "ブルー ヴィヨレ"
 },
 {
     "hex": "#7572fe",
     "name": "blue hortensia",
-    "phonetic": "�u���[ �I���^���V��"
+    "phonetic": "ブルー オルタンシャ"
 },
 {
     "hex": "#043c78",
     "name": "indigo",
-    "phonetic": "�C���f�B�S"
+    "phonetic": "インディゴ"
 },
 {
     "hex": "#0c2b96",
     "name": "blue indigo sombre",
-    "phonetic": "�u���[�C���f�B�S�[�\\���u��"
+    "phonetic": "ブルーインディゴーソンブル"
 },
 {
     "hex": "#3191b0",
     "name": "blue orient",
-    "phonetic": "�u���[ �I������"
+    "phonetic": "ブルー オリヤン"
 },
 {
     "hex": "#85beba",
     "name": "blue clair",
-    "phonetic": "�u���[ �N���[��"
+    "phonetic": "ブルー クレール"
 },
 {
     "hex": "#82afd0",
     "name": "blue gauloise",
-    "phonetic": "�u���[ �S�[���A�[�Y"
+    "phonetic": "ブルー ゴーロアーズ"
 },
 {
     "hex": "#0000ae",
     "name": "blue dur",
-    "phonetic": "�u���[ �f���[��"
+    "phonetic": "ブルー デュール"
 },
 {
     "hex": "#91eee0",
     "name": "blue pale",
-    "phonetic": "�u���[ �p�[��"
+    "phonetic": "ブルー パール"
 },
 {
     "hex": "#28799b",
     "name": "blue turquoise",
-    "phonetic": "�u���[ �e�����R�A�[�Y"
+    "phonetic": "ブルー テュルコアーズ"
 },
 {
     "hex": "#00376f",
     "name": "blue nuit",
-    "phonetic": "�u���[ �j���C"
+    "phonetic": "ブルー ニュイ"
 },
 {
     "hex": "#0f52b7",
     "name": "blue gitane",
-    "phonetic": "�u���[ �W�^�[�k"
+    "phonetic": "ブルー ジターヌ"
 },
 {
     "hex": "#488995",
     "name": "blue nattier",
-    "phonetic": "�u���[ �i�e�B�G"
+    "phonetic": "ブルー ナティエ"
 },
 {
     "hex": "#02c4b5",
     "name": "blue ciel",
-    "phonetic": "�u���[ �V�F��"
+    "phonetic": "ブルー シェル"
 },
 {
     "hex": "#004080",
     "name": "blue de chine",
-    "phonetic": "�u���[ �h�D �V�[�k"
+    "phonetic": "ブルー ドゥ シーヌ"
 },
 {
     "hex": "#420265",
     "name": "blue paon",
-    "phonetic": "�u���[ �p��"
+    "phonetic": "ブルー パン"
 },
 {
     "hex": "#81a4c4",
     "name": "blue faience",
-    "phonetic": "�u���[ �t�@�C�����X"
+    "phonetic": "ブルー ファイヤンス"
 },
 {
     "hex": "#1d9bb1",
     "name": "blue petrole",
-    "phonetic": "�u���[ �y�g����"
+    "phonetic": "ブルー ペトロル"
 },
 {
     "hex": "#0046ae",
     "name": "blue mediterranee",
-    "phonetic": "�u���[ ���f�B�e���l"
+    "phonetic": "ブルー メディテラネ"
 },
 {
     "hex": "#9aaaaf",
     "name": "blue brouillard",
-    "phonetic": "�u���[ �u���C���[��"
+    "phonetic": "ブルー ブルイヤール"
 },
 {
     "hex": "#283d82",
     "name": "blue myosotis",
-    "phonetic": "�u���[ �~���]�e�B�[�X"
+    "phonetic": "ブルー ミヨゾティース"
 },
 {
     "hex": "#01529a",
     "name": "blue bleuet",
-    "phonetic": "�u���[ �u���[�G"
+    "phonetic": "ブルー ブルーエ"
 },
 {
     "hex": "#283d82",
     "name": "blue marine",
-    "phonetic": "�u���[ �}���[�k"
+    "phonetic": "ブルー マリーヌ"
 },
 {
     "hex": "#859ab1",
     "name": "blue fume",
-    "phonetic": "�u���[ �t����"
+    "phonetic": "ブルー フュメ"
 },
 {
     "hex": "#88c6d2",
     "name": "blue porcelaine",
-    "phonetic": "�u���[ �|���X���[�k"
+    "phonetic": "ブルー ポルスレーヌ"
 },
 {
     "hex": "#aa99d0",
     "name": "blue lavande",
-    "phonetic": "�u���[ �����@���h"
+    "phonetic": "ブルー ラヴァンド"
 },
 {
     "hex": "#5260ad",
     "name": "blue roi",
-    "phonetic": "�u���[ ����"
+    "phonetic": "ブルー ロワ"
 },
 {
     "hex": "#ffd955",
     "name": "blond",
-    "phonetic": "�u����"
+    "phonetic": "ブロン"
 },
 {
     "hex": "#bebc94",
     "name": "beige froid",
-    "phonetic": "�x�[�W�� �t����"
+    "phonetic": "ベージュ フロワ"
 },
 {
     "hex": "#979468",
     "name": "bouleau",
-    "phonetic": "�u�[���["
+    "phonetic": "ブーロー"
 },
 {
     "hex": "#9b8160",
     "name": "beige grise",
-    "phonetic": "�x�[�W�� �O���[�["
+    "phonetic": "ベージュ グリーゼ"
 },
 {
     "hex": "#bf4040",
     "name": "braise",
-    "phonetic": "�u���[�Y"
+    "phonetic": "ブレーズ"
 },
 {
     "hex": "#cca775",
     "name": "beige",
-    "phonetic": "�x�[�W��"
+    "phonetic": "ベージュ"
 },
 {
     "hex": "#564bb6",
     "name": "blue royal",
-    "phonetic": "�u���[ �����C����"
+    "phonetic": "ブルー ロワイヤル"
 },
 {
     "hex": "#82724d",
     "name": "bronze",
-    "phonetic": "�u�����Y"
+    "phonetic": "ブロンズ"
 },
 {
     "hex": "#e3a577",
     "name": "beige rose",
-    "phonetic": "�x�[�W�� ���[�["
+    "phonetic": "ベージュ ローゼ"
 },
 {
     "hex": "#f1dbc7",
     "name": "peche",
-    "phonetic": "�y�b�V��"
+    "phonetic": "ペッシュ"
 },
 {
     "hex": "#7d8053",
     "name": "poiver vert",
-    "phonetic": "�|�A�[���� ���F�[��"
+    "phonetic": "ポアーヴル ヴェール"
 },
 {
     "hex": "#b3849b",
     "name": "bois de rose",
-    "phonetic": "�{�� �h�D ���[�Y"
+    "phonetic": "ボワ ドゥ ローズ"
 },
 {
     "hex": "#f8ae34",
     "name": "berlingot",
-    "phonetic": "�x�������S�["
+    "phonetic": "ベルランゴー"
 },
 {
     "hex": "#8a6d4f",
     "name": "bois",
-    "phonetic": "�{��"
+    "phonetic": "ボワ"
 },
 {
     "hex": "#3868a3",
     "name": "pervenche",
-    "phonetic": "�y�����@���V��"
+    "phonetic": "ペルヴァンシュ"
 },
 {
     "hex": "#680663",
     "name": "bordeaux fonce",
-    "phonetic": "�{���h�[ �t�H���Z"
+    "phonetic": "ボルドー フォンセ"
 },
 {
     "hex": "#fb00af",
     "name": "petunia",
-    "phonetic": "�y�e���j�A"
+    "phonetic": "ペテュニア"
 },
 {
     "hex": "#7c0364",
     "name": "bordeaux clair",
-    "phonetic": "�{���h�[ �N���[��"
+    "phonetic": "ボルドー クレール"
 },
 {
     "hex": "#cc7d5b",
     "name": "bois fruitier",
-    "phonetic": "�{�� �t�����C�e�B�G"
+    "phonetic": "ボワ フリュイティエ"
 },
 {
     "hex": "#e8c431",
     "name": "mais",
-    "phonetic": "�}�C�[�X"
+    "phonetic": "マイース"
 },
 {
     "hex": "#844500",
     "name": "marron",
-    "phonetic": "�}����"
+    "phonetic": "マロン"
 },
 {
     "hex": "#895043",
     "name": "marron chaud",
-    "phonetic": "�}���� �V���["
+    "phonetic": "マロン ショー"
 },
 {
     "hex": "#612f14",
     "name": "marocan",
-    "phonetic": "�}���J��"
+    "phonetic": "マロカン"
 },
 {
     "hex": "#bfa68a",
     "name": "marron glaces",
-    "phonetic": "�}���� �O���b�Z"
+    "phonetic": "マロン グラッセ"
 },
 {
     "hex": "#a9a59a",
     "name": "mastic",
-    "phonetic": "�}�X�e�B�b�N"
+    "phonetic": "マスティック"
 },
 {
     "hex": "#785200",
     "name": "marron assourdi",
-    "phonetic": "�}���� �A�b�X�[���f�B"
+    "phonetic": "マロン アッスールディ"
 },
 {
     "hex": "#3e423c",
     "name": "macadam",
-    "phonetic": "�}�J�_��"
+    "phonetic": "マカダム"
 },
 {
     "hex": "#6a2c26",
     "name": "marron acajou",
-    "phonetic": "�}���� �A�J�W��"
+    "phonetic": "マロン アカジュ"
 },
 {
     "hex": "#ff5959",
     "name": "mandarine",
-    "phonetic": "�}���_���[�k"
+    "phonetic": "マンダリーヌ"
 },
 {
     "hex": "#00a265",
     "name": "menthe",
-    "phonetic": "�}���g"
+    "phonetic": "マント"
 },
 {
     "hex": "#c0bea9",
     "name": "mouette",
-    "phonetic": "���G�b�g"
+    "phonetic": "ムエット"
 },
 {
     "hex": "#006297",
     "name": "lapis-lazuli",
-    "phonetic": "���s�X ���W����"
+    "phonetic": "ラピス ラジュリ"
 },
 {
     "hex": "#5b7b8e",
     "name": "myosotis",
-    "phonetic": "�~���]�e�B�X"
+    "phonetic": "ミョゾティス"
 },
 {
     "hex": "#820551",
     "name": "laque",
-    "phonetic": "���b�N"
+    "phonetic": "ラック"
 },
 {
     "hex": "#40005b",
     "name": "mure",
-    "phonetic": "�~���[��"
+    "phonetic": "ミュール"
 },
 {
     "hex": "#d8c9d7",
     "name": "mauve",
-    "phonetic": "���[��"
+    "phonetic": "モーヴ"
 },
 {
     "hex": "#fbc50b",
     "name": "miel",
-    "phonetic": "�~�G��"
+    "phonetic": "ミエル"
 },
 {
     "hex": "#bb6605",
     "name": "merisier",
-    "phonetic": "�����W�G"
+    "phonetic": "ムリジエ"
 },
 {
     "hex": "#c4a577",
     "name": "lan",
-    "phonetic": "����"
+    "phonetic": "ラン"
 },
 {
     "hex": "#a07149",
     "name": "liege",
-    "phonetic": "���G�[�W��"
+    "phonetic": "リエージュ"
 },
 {
     "hex": "#89013f",
     "name": "lie-de-vin",
-    "phonetic": "���[ �h�D ���@��"
+    "phonetic": "リー ドゥ ヴァン"
 },
 {
     "hex": "#f00042",
     "name": "rouge",
-    "phonetic": "���[�W��"
+    "phonetic": "ルージュ"
 },
 {
     "hex": "#e482c2",
     "name": "liseron",
-    "phonetic": "���Y����"
+    "phonetic": "リズロン"
 },
 {
     "hex": "#d55c53",
     "name": "rouille",
-    "phonetic": "���C��"
+    "phonetic": "ルイユ"
 },
 {
     "hex": "#9fbb97",
     "name": "lichen",
-    "phonetic": "���P��"
+    "phonetic": "リケン"
 },
 {
     "hex": "#dd8c2b",
     "name": "roux",
-    "phonetic": "���["
+    "phonetic": "ルー"
 },
 {
     "hex": "#1e6f5a",
     "name": "lierre",
-    "phonetic": "���G�[��"
+    "phonetic": "リエール"
 },
 {
     "hex": "#cda7fc",
     "name": "lilas",
-    "phonetic": "����"
+    "phonetic": "リラ"
 },
 {
     "hex": "#f00066",
     "name": "rouge ardent",
-    "phonetic": "���[�W�� �A���_��"
+    "phonetic": "ルージュ アルダン"
 },
 {
     "hex": "#f00078",
     "name": "rouge vif",
-    "phonetic": "���[�W�� ���B�t"
+    "phonetic": "ルージュ ヴィフ"
 },
 {
     "hex": "#bc5f3a",
     "name": "rouge dan guru tail",
-    "phonetic": "���[�W�� �_���O���e�[��"
+    "phonetic": "ルージュ ダングルテール"
 },
 {
     "hex": "#cce193",
     "name": "reseda",
-    "phonetic": "���[�_"
+    "phonetic": "レゼダ"
 },
 {
     "hex": "#be5678",
     "name": "rouge terni",
-    "phonetic": "���[�W�� �e���j"
+    "phonetic": "ルージュ テルニ"
 },
 {
     "hex": "#e7c523",
     "name": "renoncule",
-    "phonetic": "���m���L���[��"
+    "phonetic": "ルノンキュール"
 },
 {
     "hex": "#b0003e",
     "name": "rouge sang",
-    "phonetic": "���[�W�� �T��"
+    "phonetic": "ルージュ サン"
 },
 {
     "hex": "#bf0060",
     "name": "rouge rubis",
-    "phonetic": "���[�W�� �����r"
+    "phonetic": "ルージュ リュビ"
 },
 {
     "hex": "#ff522d",
     "name": "rouge orange",
-    "phonetic": "���[�W�� �I�����W�F"
+    "phonetic": "ルージュ オランジェ"
 },
 {
     "hex": "#9b5033",
     "name": "rouge de fair",
-    "phonetic": "���[�W�� �h �t�F�[��"
+    "phonetic": "ルージュ ド フェール"
 },
 {
     "hex": "#415976",
     "name": "royal air force",
-    "phonetic": "�����C�����G�[���t�H���X"
+    "phonetic": "ロワイヤルエールフォルス"
 },
 {
     "hex": "#df9fab",
     "name": "rose",
-    "phonetic": "���[�Y"
+    "phonetic": "ローズ"
 },
 {
     "hex": "#ac4a6a",
     "name": "rose corail",
-    "phonetic": "���[�Y �R���C��"
+    "phonetic": "ローズ コライユ"
 },
 {
     "hex": "#f4c6a6",
     "name": "rose the",
-    "phonetic": "���[�Y �e"
+    "phonetic": "ローズ テ"
 },
 {
     "hex": "#f374da",
     "name": "rose hortensia",
-    "phonetic": "���[�Y �I���^���V��"
+    "phonetic": "ローズ オルタンシャ"
 },
 {
     "hex": "#fab1d8",
     "name": "rose tendre",
-    "phonetic": "���[�Y �^���h��"
+    "phonetic": "ローズ タンドル"
 },
 {
     "hex": "#e46d94",
     "name": "rose ibis",
-    "phonetic": "���[�Y �C�r�X"
+    "phonetic": "ローズ イビス"
 },
 {
     "hex": "#f8afa5",
     "name": "rose saumon",
-    "phonetic": "���[�Y �\\�[����"
+    "phonetic": "ローズ ソーモン"
 },
 {
     "hex": "#f36186",
     "name": "rose indien",
-    "phonetic": "���[�Y �A���f�B����"
+    "phonetic": "ローズ アンディヤン"
 },
 {
     "hex": "#ff1a81",
     "name": "rose shocking",
-    "phonetic": "���[�Y �V���b�L���O"
+    "phonetic": "ローズ ショッキング"
 },
 {
     "hex": "#eed0df",
     "name": "rose dragee",
-    "phonetic": "���[�Y �h���W�F"
+    "phonetic": "ローズ ドラジェ"
 },
 {
     "hex": "#de87aa",
     "name": "rose pale",
-    "phonetic": "���[�Y �p�[��"
+    "phonetic": "ローズ パール"
 },
 {
     "hex": "#f1c2cd",
     "name": "rose poudre",
-    "phonetic": "���[�Y �v�[�h��"
+    "phonetic": "ローズ プードル"
 },
 {
     "hex": "#d8a5ad",
     "name": "rose buvard",
-    "phonetic": "���[�Y �r�����@�[��"
+    "phonetic": "ローズ ビュヴァール"
 },
 {
     "hex": "#df669f",
     "name": "rose peche",
-    "phonetic": "���[�Y �y�[�V��"
+    "phonetic": "ローズ ペーシュ"
 },
 {
     "hex": "#1b6358",
     "name": "laurier",
-    "phonetic": "���[���G"
+    "phonetic": "ローリエ"
 }
 ]
