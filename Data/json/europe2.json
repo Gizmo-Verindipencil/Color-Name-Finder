@@ -1,1427 +1,1427 @@
 ﻿[
 {
     "hex": "#192f60",
-    "name": "アイアンブルー",
-    "phonetic": "iron blue"
+    "name": "iron blue",
+    "phonetic": "アイアンブルー"
 },
 {
     "hex": "#a3d6cc",
-    "name": "アイスグリーン",
-    "phonetic": "ice green"
+    "name": "ice green",
+    "phonetic": "アイスグリーン"
 },
 {
     "hex": "#578a3d",
-    "name": "アイビーグリーン",
-    "phonetic": "ivy green"
+    "name": "ivy green",
+    "phonetic": "アイビーグリーン"
 },
 {
     "hex": "#666c67",
-    "name": "アイビーグレイ",
-    "phonetic": "ivy gray"
+    "name": "ivy gray",
+    "phonetic": "アイビーグレイ"
 },
 {
     "hex": "#f8f4e6",
-    "name": "アイボリー",
-    "phonetic": "ivory"
+    "name": "ivory",
+    "phonetic": "アイボリー"
 },
 {
     "hex": "#c7a5cc",
-    "name": "アイリス",
-    "phonetic": "iris"
+    "name": "iris",
+    "phonetic": "アイリス"
 },
 {
     "hex": "#88bfbf",
-    "name": "アクアグリーン",
-    "phonetic": "aqua green"
+    "name": "aqua green",
+    "phonetic": "アクアグリーン"
 },
 {
     "hex": "#67b5b7",
-    "name": "アクアマリン",
-    "phonetic": "aquamarine"
+    "name": "aquamarine",
+    "phonetic": "アクアマリン"
 },
 {
     "hex": "#d83473",
-    "name": "アザレ",
-    "phonetic": "azalee"
+    "name": "azalee",
+    "phonetic": "アザレ"
 },
 {
     "hex": "#dbebc4",
-    "name": "アスパラガスグリーン",
-    "phonetic": "asparagus green"
+    "name": "asparagus green",
+    "phonetic": "アスパラガスグリーン"
 },
 {
     "hex": "#9fa09e",
-    "name": "アッシュグレイ",
-    "phonetic": "ash gray"
+    "name": "ash gray",
+    "phonetic": "アッシュグレイ"
 },
 {
     "hex": "#b5b5ae",
-    "name": "アッシュブロンド",
-    "phonetic": "ash blond"
+    "name": "ash blond",
+    "phonetic": "アッシュブロンド"
 },
 {
     "hex": "#e6bfab",
-    "name": "アッシュローズ",
-    "phonetic": "ash rose"
+    "name": "ash rose",
+    "phonetic": "アッシュローズ"
 },
 {
     "hex": "#a7d28d",
-    "name": "アップルグリーン",
-    "phonetic": "apple green"
+    "name": "apple green",
+    "phonetic": "アップルグリーン"
 },
 {
     "hex": "#f7b977",
-    "name": "アプリコット",
-    "phonetic": "apricot"
+    "name": "apricot",
+    "phonetic": "アプリコット"
 },
 {
     "hex": "#54917f",
-    "name": "アンティークグリーン",
-    "phonetic": "antique green"
+    "name": "antique green",
+    "phonetic": "アンティークグリーン"
 },
 {
     "hex": "#c1ab05",
-    "name": "アンティックゴールド",
-    "phonetic": "antique gold"
+    "name": "antique gold",
+    "phonetic": "アンティックゴールド"
 },
 {
     "hex": "#c2894b",
-    "name": "アンバー",
-    "phonetic": "amber"
+    "name": "amber",
+    "phonetic": "アンバー"
 },
 {
     "hex": "#fff9f5",
-    "name": "アンバーホワイト",
-    "phonetic": "amber white"
+    "name": "amber white",
+    "phonetic": "アンバーホワイト"
 },
 {
     "hex": "#e6bfb2",
-    "name": "アンバーローズ",
-    "phonetic": "amber rose"
+    "name": "amber rose",
+    "phonetic": "アンバーローズ"
 },
 {
     "hex": "#ffdc00",
-    "name": "イエロー",
-    "phonetic": "yellow"
+    "name": "yellow",
+    "phonetic": "イエロー"
 },
 {
     "hex": "#c4972f",
-    "name": "イエローオーカー",
-    "phonetic": "yellow ocher"
+    "name": "yellow ocher",
+    "phonetic": "イエローオーカー"
 },
 {
     "hex": "#003f8e",
-    "name": "インクブルー",
-    "phonetic": "ink blue"
+    "name": "ink blue",
+    "phonetic": "インクブルー"
 },
 {
     "hex": "#043c78",
-    "name": "インディゴ",
-    "phonetic": "indigo"
+    "name": "indigo",
+    "phonetic": "インディゴ"
 },
 {
     "hex": "#e8c59c",
-    "name": "ヴァニラ",
-    "phonetic": "vanilla"
+    "name": "vanilla",
+    "phonetic": "ヴァニラ"
 },
 {
     "hex": "#8d93c8",
-    "name": "ウイスタリア",
-    "phonetic": "wistaria"
+    "name": "wistaria",
+    "phonetic": "ウイスタリア"
 },
 {
     "hex": "#d3d6dd",
-    "name": "ウィステリアミスト",
-    "phonetic": "wisteria mist"
+    "name": "wisteria mist",
+    "phonetic": "ウィステリアミスト"
 },
 {
     "hex": "#a5c9c1",
-    "name": "ウォーターグリーン",
-    "phonetic": "water green"
+    "name": "water green",
+    "phonetic": "ウォーターグリーン"
 },
 {
     "hex": "#434da2",
-    "name": "ウルトラマリン",
-    "phonetic": "ultramarine"
+    "name": "ultramarine",
+    "phonetic": "ウルトラマリン"
 },
 {
     "hex": "#4753a2",
-    "name": "ウルトラマリンブルー",
-    "phonetic": "ultramarine blue"
+    "name": "ultramarine blue",
+    "phonetic": "ウルトラマリンブルー"
 },
 {
     "hex": "#eee7e0",
-    "name": "エクリュ",
-    "phonetic": "ecru"
+    "name": "ecru",
+    "phonetic": "エクリュ"
 },
 {
     "hex": "#f6e5cc",
-    "name": "エクルベージュ",
-    "phonetic": "ecru beige"
+    "name": "ecru beige",
+    "phonetic": "エクルベージュ"
 },
 {
     "hex": "#0073a8",
-    "name": "エジプシャンブルー",
-    "phonetic": "egyptian blue"
+    "name": "egyptian blue",
+    "phonetic": "エジプシャンブルー"
 },
 {
     "hex": "#00984f",
-    "name": "エバーグリーン",
-    "phonetic": "evergreen"
+    "name": "evergreen",
+    "phonetic": "エバーグリーン"
 },
 {
     "hex": "#00a968",
-    "name": "エメラルドグリーン",
-    "phonetic": "emerald green"
+    "name": "emerald green",
+    "phonetic": "エメラルドグリーン"
 },
 {
     "hex": "#9f9f98",
-    "name": "エレファントスキン",
-    "phonetic": "elephant skin"
+    "name": "elephant skin",
+    "phonetic": "エレファントスキン"
 },
 {
     "hex": "#eae1cf",
-    "name": "オイスター",
-    "phonetic": "oyster"
+    "name": "oyster",
+    "phonetic": "オイスター"
 },
 {
     "hex": "#eae8e1",
-    "name": "オイスターホワイト",
-    "phonetic": "oyster white"
+    "name": "oyster white",
+    "phonetic": "オイスターホワイト"
 },
 {
     "hex": "#ba8b40",
-    "name": "オーカー",
-    "phonetic": "ochre"
+    "name": "ochre",
+    "phonetic": "オーカー"
 },
 {
     "hex": "#d9aacd",
-    "name": "オーキッド",
-    "phonetic": "orchid"
+    "name": "orchid",
+    "phonetic": "オーキッド"
 },
 {
     "hex": "#bcc7d7",
-    "name": "オーキッドグレイ",
-    "phonetic": "orchid gray"
+    "name": "orchid gray",
+    "phonetic": "オーキッドグレイ"
 },
 {
     "hex": "#af0082",
-    "name": "オーキッドパープル",
-    "phonetic": "orchid purple"
+    "name": "orchid purple",
+    "phonetic": "オーキッドパープル"
 },
 {
     "hex": "#da81b2",
-    "name": "オーキッドピンク",
-    "phonetic": "orchid pink"
+    "name": "orchid pink",
+    "phonetic": "オーキッドピンク"
 },
 {
     "hex": "#d3d3d8",
-    "name": "オーキッドミスト",
-    "phonetic": "orchid mist"
+    "name": "orchid mist",
+    "phonetic": "オーキッドミスト"
 },
 {
     "hex": "#e3adc1",
-    "name": "オールドオーキッド",
-    "phonetic": "old orchid"
+    "name": "old orchid",
+    "phonetic": "オールドオーキッド"
 },
 {
     "hex": "#b0778c",
-    "name": "オールドライラック",
-    "phonetic": "old lilac"
+    "name": "old lilac",
+    "phonetic": "オールドライラック"
 },
 {
     "hex": "#e29399",
-    "name": "オールドローズ",
-    "phonetic": "old rose"
+    "name": "old rose",
+    "phonetic": "オールドローズ"
 },
 {
     "hex": "#bee0ce",
-    "name": "オパールグリーン",
-    "phonetic": "opal green"
+    "name": "opal green",
+    "phonetic": "オパールグリーン"
 },
 {
     "hex": "#bfbec5",
-    "name": "オパールグレイ",
-    "phonetic": "opal gray"
+    "name": "opal gray",
+    "phonetic": "オパールグレイ"
 },
 {
     "hex": "#e95388",
-    "name": "オペラ",
-    "phonetic": "opera"
+    "name": "opera",
+    "phonetic": "オペラ"
 },
 {
     "hex": "#72640c",
-    "name": "オリーブ",
-    "phonetic": "olive"
+    "name": "olive",
+    "phonetic": "オリーブ"
 },
 {
     "hex": "#5f6527",
-    "name": "オリーブグリーン",
-    "phonetic": "olive green"
+    "name": "olive green",
+    "phonetic": "オリーブグリーン"
 },
 {
     "hex": "#665a1a",
-    "name": "オリーブドラブ",
-    "phonetic": "olive drab"
+    "name": "olive drab",
+    "phonetic": "オリーブドラブ"
 },
 {
     "hex": "#26499d",
-    "name": "オリエンタルブルー",
-    "phonetic": "oriental blue"
+    "name": "oriental blue",
+    "phonetic": "オリエンタルブルー"
 },
 {
     "hex": "#ee7800",
-    "name": "オレンジ",
-    "phonetic": "orange"
+    "name": "orange",
+    "phonetic": "オレンジ"
 },
 {
     "hex": "#c5a05a",
-    "name": "カーキー",
-    "phonetic": "khaki"
+    "name": "khaki",
+    "phonetic": "カーキー"
 },
 {
     "hex": "#942343",
-    "name": "ガーネット",
-    "phonetic": "garnet"
+    "name": "garnet",
+    "phonetic": "ガーネット"
 },
 {
     "hex": "#d70035",
-    "name": "カーマイン",
-    "phonetic": "carmine"
+    "name": "carmine",
+    "phonetic": "カーマイン"
 },
 {
     "hex": "#387d39",
-    "name": "カクタス",
-    "phonetic": "cactus"
+    "name": "cactus",
+    "phonetic": "カクタス"
 },
 {
     "hex": "#fff462",
-    "name": "カナリヤ",
-    "phonetic": "canary yellow"
+    "name": "canary yellow",
+    "phonetic": "カナリヤ"
 },
 {
     "hex": "#946c45",
-    "name": "カフェオレ",
-    "phonetic": "cafe au lait"
+    "name": "cafe au lait",
+    "phonetic": "カフェオレ"
 },
 {
     "hex": "#00a3a7",
-    "name": "カプリブルー",
-    "phonetic": "capri blue"
+    "name": "capri blue",
+    "phonetic": "カプリブルー"
 },
 {
     "hex": "#da536e",
-    "name": "カメリア",
-    "phonetic": "camellia"
+    "name": "camellia",
+    "phonetic": "カメリア"
 },
 {
     "hex": "#bc611e",
-    "name": "キャラメル",
-    "phonetic": "caramel"
+    "name": "caramel",
+    "phonetic": "キャラメル"
 },
 {
     "hex": "#ed6d35",
-    "name": "キャロットオレンジ",
-    "phonetic": "carrot orange"
+    "name": "carrot orange",
+    "phonetic": "キャロットオレンジ"
 },
 {
     "hex": "#d4d9df",
-    "name": "クラウド",
-    "phonetic": "cloud"
+    "name": "cloud",
+    "phonetic": "クラウド"
 },
 {
     "hex": "#7b8d42",
-    "name": "グラスグリーン",
-    "phonetic": "grass green"
+    "name": "grass green",
+    "phonetic": "グラスグリーン"
 },
 {
     "hex": "#594e52",
-    "name": "グラファイト",
-    "phonetic": "graphite"
+    "name": "graphite",
+    "phonetic": "グラファイト"
 },
 {
     "hex": "#941f57",
-    "name": "クラレット",
-    "phonetic": "claret"
+    "name": "claret",
+    "phonetic": "クラレット"
 },
 {
     "hex": "#e3d7a3",
-    "name": "クリーム",
-    "phonetic": "cream"
+    "name": "cream",
+    "phonetic": "クリーム"
 },
 {
     "hex": "#fff3b8",
-    "name": "クリームイエロー",
-    "phonetic": "cream yellow"
+    "name": "cream yellow",
+    "phonetic": "クリームイエロー"
 },
 {
     "hex": "#00a960",
-    "name": "グリーン",
-    "phonetic": "green"
+    "name": "green",
+    "phonetic": "グリーン"
 },
 {
     "hex": "#abb1ad",
-    "name": "グリーンフォッグ",
-    "phonetic": "green fog"
+    "name": "green fog",
+    "phonetic": "グリーンフォッグ"
 },
 {
     "hex": "#7d7d7d",
-    "name": "グレイ",
-    "phonetic": "gray"
+    "name": "gray",
+    "phonetic": "グレイ"
 },
 {
     "hex": "#56256e",
-    "name": "グレープ",
-    "phonetic": "grape"
+    "name": "grape",
+    "phonetic": "グレープ"
 },
 {
     "hex": "#b79fcb",
-    "name": "クロッカス",
-    "phonetic": "crocus"
+    "name": "crocus",
+    "phonetic": "クロッカス"
 },
 {
     "hex": "#fcc800",
-    "name": "クロムイエロー",
-    "phonetic": "chrome yellow"
+    "name": "chrome yellow",
+    "phonetic": "クロムイエロー"
 },
 {
     "hex": "#00533f",
-    "name": "クロムグリーン",
-    "phonetic": "chrome green"
+    "name": "chrome green",
+    "phonetic": "クロムグリーン"
 },
 {
     "hex": "#25b7c0",
-    "name": "ケンブリッジブルー",
-    "phonetic": "cambridge blue"
+    "name": "cambridge blue",
+    "phonetic": "ケンブリッジブルー"
 },
 {
     "hex": "#7b5544",
-    "name": "コーヒー",
-    "phonetic": "coffee"
+    "name": "coffee",
+    "phonetic": "コーヒー"
 },
 {
     "hex": "#ef857d",
-    "name": "コーラルレッド",
-    "phonetic": "coral red"
+    "name": "coral red",
+    "phonetic": "コーラルレッド"
 },
 {
     "hex": "#f6ae54",
-    "name": "ゴールデンイエロー",
-    "phonetic": "golden yellow"
+    "name": "golden yellow",
+    "phonetic": "ゴールデンイエロー"
 },
 {
     "hex": "#6e4a55",
-    "name": "ココア",
-    "phonetic": "cocoa"
+    "name": "cocoa",
+    "phonetic": "ココア"
 },
 {
     "hex": "#98605e",
-    "name": "ココアブラウン",
-    "phonetic": "cocoa brown"
+    "name": "cocoa brown",
+    "phonetic": "ココアブラウン"
 },
 {
     "hex": "#dc6b9a",
-    "name": "コスモス",
-    "phonetic": "cosmos"
+    "name": "cosmos",
+    "phonetic": "コスモス"
 },
 {
     "hex": "#c82c55",
-    "name": "コチニールレッド",
-    "phonetic": "cochineal red"
+    "name": "cochineal red",
+    "phonetic": "コチニールレッド"
 },
 {
     "hex": "#3cb37a",
-    "name": "コバルトグリーン",
-    "phonetic": "cobalt green"
+    "name": "cobalt green",
+    "phonetic": "コバルトグリーン"
 },
 {
     "hex": "#0068b7",
-    "name": "コバルトブルー",
-    "phonetic": "cobalt blue"
+    "name": "cobalt blue",
+    "phonetic": "コバルトブルー"
 },
 {
     "hex": "#c49a6a",
-    "name": "コルク",
-    "phonetic": "cork"
+    "name": "cork",
+    "phonetic": "コルク"
 },
 {
     "hex": "#f3a68c",
-    "name": "サーモンピンク",
-    "phonetic": "salmon pink"
+    "name": "salmon pink",
+    "phonetic": "サーモンピンク"
 },
 {
     "hex": "#418b89",
-    "name": "サックスブルー",
-    "phonetic": "saxe blue"
+    "name": "saxe blue",
+    "phonetic": "サックスブルー"
 },
 {
     "hex": "#e29676",
-    "name": "サハラ",
-    "phonetic": "sahara"
+    "name": "sahara",
+    "phonetic": "サハラ"
 },
 {
     "hex": "#0068b7",
-    "name": "サファイアブルー",
-    "phonetic": "sapphire blue"
+    "name": "sapphire blue",
+    "phonetic": "サファイアブルー"
 },
 {
     "hex": "#fac559",
-    "name": "サフランイエロー",
-    "phonetic": "saffron yellow"
+    "name": "saffron yellow",
+    "phonetic": "サフランイエロー"
 },
 {
     "hex": "#009944",
-    "name": "サマーグリーン",
-    "phonetic": "summer green"
+    "name": "summer green",
+    "phonetic": "サマーグリーン"
 },
 {
     "hex": "#a1d8e2",
-    "name": "サマーシャワー",
-    "phonetic": "summer shower"
+    "name": "summer shower",
+    "phonetic": "サマーシャワー"
 },
 {
     "hex": "#94adda",
-    "name": "サルビアブルー",
-    "phonetic": "salvia blue"
+    "name": "salvia blue",
+    "phonetic": "サルビアブルー"
 },
 {
     "hex": "#ffedab",
-    "name": "サンシャインイエロー",
-    "phonetic": "sunshine yellow"
+    "name": "sunshine yellow",
+    "phonetic": "サンシャインイエロー"
 },
 {
     "hex": "#f6b483",
-    "name": "サンセット",
-    "phonetic": "sunset"
+    "name": "sunset",
+    "phonetic": "サンセット"
 },
 {
     "hex": "#c9c9c2",
-    "name": "サンドグレイ",
-    "phonetic": "sand gray"
+    "name": "sand gray",
+    "phonetic": "サンドグレイ"
 },
 {
     "hex": "#dcd6d2",
-    "name": "サンドベージュ",
-    "phonetic": "sand beige"
+    "name": "sand beige",
+    "phonetic": "サンドベージュ"
 },
 {
     "hex": "#00a1e9",
-    "name": "シアン",
-    "phonetic": "cyan"
+    "name": "cyan",
+    "phonetic": "シアン"
 },
 {
     "hex": "#00ac97",
-    "name": "シーグリーン",
-    "phonetic": "sea green"
+    "name": "sea green",
+    "phonetic": "シーグリーン"
 },
 {
     "hex": "#fbdac8",
-    "name": "シェルピンク",
-    "phonetic": "shell pink"
+    "name": "shell pink",
+    "phonetic": "シェルピンク"
 },
 {
     "hex": "#e8383d",
-    "name": "シグナルレッド",
-    "phonetic": "signal red"
+    "name": "signal red",
+    "phonetic": "シグナルレッド"
 },
 {
     "hex": "#d04f97",
-    "name": "シクラメンピンク",
-    "phonetic": "cyclamen pink"
+    "name": "cyclamen pink",
+    "phonetic": "シクラメンピンク"
 },
 {
     "hex": "#eddc44",
-    "name": "シトラス",
-    "phonetic": "citrus"
+    "name": "citrus",
+    "phonetic": "シトラス"
 },
 {
     "hex": "#618e34",
-    "name": "シトロングリーン",
-    "phonetic": "citron green"
+    "name": "citron green",
+    "phonetic": "シトロングリーン"
 },
 {
     "hex": "#be8f68",
-    "name": "シナモン",
-    "phonetic": "cinnamon"
+    "name": "cinnamon",
+    "phonetic": "シナモン"
 },
 {
     "hex": "#edde7b",
-    "name": "ジャスミンイエロー",
-    "phonetic": "jasmine yellow"
+    "name": "jasmine yellow",
+    "phonetic": "ジャスミンイエロー"
 },
 {
     "hex": "#719bad",
-    "name": "シャドウブルー",
-    "phonetic": "shadow blue"
+    "name": "shadow blue",
+    "phonetic": "シャドウブルー"
 },
 {
     "hex": "#d9e367",
-    "name": "シャトルーズグリーン",
-    "phonetic": "chartreuse green"
+    "name": "chartreuse green",
+    "phonetic": "シャトルーズグリーン"
 },
 {
     "hex": "#e3e548",
-    "name": "シャルトルーズイエロー",
-    "phonetic": "chartreuse yellow"
+    "name": "chartreuse yellow",
+    "phonetic": "シャルトルーズイエロー"
 },
 {
     "hex": "#e9dacb",
-    "name": "シャンパン",
-    "phonetic": "champagne"
+    "name": "champagne",
+    "phonetic": "シャンパン"
 },
 {
     "hex": "#ffdc00",
-    "name": "ジョンブリアン",
-    "phonetic": "jaune brillant"
+    "name": "jaune brillant",
+    "phonetic": "ジョンブリアン"
 },
 {
     "hex": "#c9caca",
-    "name": "シルバー",
-    "phonetic": "silver"
+    "name": "silver",
+    "phonetic": "シルバー"
 },
 {
     "hex": "#afafb0",
-    "name": "シルバーグレイ",
-    "phonetic": "silver gray"
+    "name": "silver gray",
+    "phonetic": "シルバーグレイ"
 },
 {
     "hex": "#eeeaec",
-    "name": "シルバーピンク",
-    "phonetic": "silver pink"
+    "name": "silver pink",
+    "phonetic": "シルバーピンク"
 },
 {
     "hex": "#efefef",
-    "name": "シルバーホワイト",
-    "phonetic": "silver white"
+    "name": "silver white",
+    "phonetic": "シルバーホワイト"
 },
 {
     "hex": "#ea5532",
-    "name": "スカーレット",
-    "phonetic": "scarlet"
+    "name": "scarlet",
+    "phonetic": "スカーレット"
 },
 {
     "hex": "#bee0c2",
-    "name": "スカイグリーン",
-    "phonetic": "sky green"
+    "name": "sky green",
+    "phonetic": "スカイグリーン"
 },
 {
     "hex": "#cbd0d3",
-    "name": "スカイグレイ",
-    "phonetic": "sky gray"
+    "name": "sky gray",
+    "phonetic": "スカイグレイ"
 },
 {
     "hex": "#a0d8ef",
-    "name": "スカイブルー",
-    "phonetic": "sky blue"
+    "name": "sky blue",
+    "phonetic": "スカイブルー"
 },
 {
     "hex": "#736d71",
-    "name": "スチールグレイ",
-    "phonetic": "steel gray"
+    "name": "steel gray",
+    "phonetic": "スチールグレイ"
 },
 {
     "hex": "#aaaab0",
-    "name": "ストームグレイ",
-    "phonetic": "storm gray"
+    "name": "storm gray",
+    "phonetic": "ストームグレイ"
 },
 {
     "hex": "#898880",
-    "name": "ストーングレイ",
-    "phonetic": "stone gray"
+    "name": "stone gray",
+    "phonetic": "ストーングレイ"
 },
 {
     "hex": "#ece093",
-    "name": "ストロー",
-    "phonetic": "straw"
+    "name": "straw",
+    "phonetic": "ストロー"
 },
 {
     "hex": "#e73562",
-    "name": "ストロベリー",
-    "phonetic": "strawberry"
+    "name": "strawberry",
+    "phonetic": "ストロベリー"
 },
 {
     "hex": "#fafdff",
-    "name": "スノーホワイト",
-    "phonetic": "snow white"
+    "name": "snow white",
+    "phonetic": "スノーホワイト"
 },
 {
     "hex": "#417038",
-    "name": "スピナッチグリーン",
-    "phonetic": "spinach green"
+    "name": "spinach green",
+    "phonetic": "スピナッチグリーン"
 },
 {
     "hex": "#9cbb1c",
-    "name": "スプリンググリーン",
-    "phonetic": "spring green"
+    "name": "spring green",
+    "phonetic": "スプリンググリーン"
 },
 {
     "hex": "#a4d5bd",
-    "name": "スプレイグリーン",
-    "phonetic": "spray green"
+    "name": "spray green",
+    "phonetic": "スプレイグリーン"
 },
 {
     "hex": "#79c06e",
-    "name": "スペアミント",
-    "phonetic": "spearmint"
+    "name": "spearmint",
+    "phonetic": "スペアミント"
 },
 {
     "hex": "#0075c2",
-    "name": "スペクトラムブルー",
-    "phonetic": "spectrum blue"
+    "name": "spectrum blue",
+    "phonetic": "スペクトラムブルー"
 },
 {
     "hex": "#a4c1d7",
-    "name": "スモークブルー",
-    "phonetic": "smoke blue"
+    "name": "smoke blue",
+    "phonetic": "スモークブルー"
 },
 {
     "hex": "#3c7170",
-    "name": "スレートグリーン",
-    "phonetic": "slate green"
+    "name": "slate green",
+    "phonetic": "スレートグリーン"
 },
 {
     "hex": "#626063",
-    "name": "スレートグレイ",
-    "phonetic": "slate gray"
+    "name": "slate gray",
+    "phonetic": "スレートグレイ"
 },
 {
     "hex": "#4496d3",
-    "name": "ゼニスブルー",
-    "phonetic": "zenith blue"
+    "name": "zenith blue",
+    "phonetic": "ゼニスブルー"
 },
 {
     "hex": "#622d18",
-    "name": "セピア",
-    "phonetic": "sepia"
+    "name": "sepia",
+    "phonetic": "セピア"
 },
 {
     "hex": "#008db7",
-    "name": "セルリアンブルー",
-    "phonetic": "cerulean blue"
+    "name": "cerulean blue",
+    "phonetic": "セルリアンブルー"
 },
 {
     "hex": "#009b9f",
-    "name": "ターコイズ",
-    "phonetic": "turquoise"
+    "name": "turquoise",
+    "phonetic": "ターコイズ"
 },
 {
     "hex": "#00947a",
-    "name": "ターコイズグリーン",
-    "phonetic": "turquoise green"
+    "name": "turquoise green",
+    "phonetic": "ターコイズグリーン"
 },
 {
     "hex": "#00afcc",
-    "name": "ターコイズブルー",
-    "phonetic": "turquoise blue"
+    "name": "turquoise blue",
+    "phonetic": "ターコイズブルー"
 },
 {
     "hex": "#007199",
-    "name": "ダックブルー",
-    "phonetic": "duck blue"
+    "name": "duck blue",
+    "phonetic": "ダックブルー"
 },
 {
     "hex": "#7d7b83",
-    "name": "ダブグレイ",
-    "phonetic": "dove gray"
+    "name": "dove gray",
+    "phonetic": "ダブグレイ"
 },
 {
     "hex": "#a50082",
-    "name": "ダリアパープル",
-    "phonetic": "dahlia purple"
+    "name": "dahlia purple",
+    "phonetic": "ダリアパープル"
 },
 {
     "hex": "#bf783e",
-    "name": "タン",
-    "phonetic": "tan"
+    "name": "tan",
+    "phonetic": "タン"
 },
 {
     "hex": "#eb6ea0",
-    "name": "チェリーピンク",
-    "phonetic": "cherry pink"
+    "name": "cherry pink",
+    "phonetic": "チェリーピンク"
 },
 {
     "hex": "#d4dcd3",
-    "name": "チャイナクレイ",
-    "phonetic": "china clay"
+    "name": "china clay",
+    "phonetic": "チャイナクレイ"
 },
 {
     "hex": "#ed6d46",
-    "name": "チャイニーズレッド",
-    "phonetic": "chinese red"
+    "name": "chinese red",
+    "phonetic": "チャイニーズレッド"
 },
 {
     "hex": "#4e454a",
-    "name": "チャコールグレイ",
-    "phonetic": "charcoal gray"
+    "name": "charcoal gray",
+    "phonetic": "チャコールグレイ"
 },
 {
     "hex": "#68a9cf",
-    "name": "チョークブルー",
-    "phonetic": "chalk blue"
+    "name": "chalk blue",
+    "phonetic": "チョークブルー"
 },
 {
     "hex": "#6c3524",
-    "name": "チョコレート",
-    "phonetic": "chocolate"
+    "name": "chocolate",
+    "phonetic": "チョコレート"
 },
 {
     "hex": "#47266e",
-    "name": "ディープロイヤルパープル",
-    "phonetic": "deep royal purple"
+    "name": "deep royal purple",
+    "phonetic": "ディープロイヤルパープル"
 },
 {
     "hex": "#a3b9e0",
-    "name": "デイドリーム",
-    "phonetic": "day dream"
+    "name": "day dream",
+    "phonetic": "デイドリーム"
 },
 {
     "hex": "#006a6c",
-    "name": "テールグリーン",
-    "phonetic": "teal green"
+    "name": "teal green",
+    "phonetic": "テールグリーン"
 },
 {
     "hex": "#bd6856",
-    "name": "テラコッタ",
-    "phonetic": "terracotta"
+    "name": "terracotta",
+    "phonetic": "テラコッタ"
 },
 {
     "hex": "#504946",
-    "name": "トープ",
-    "phonetic": "taupe"
+    "name": "taupe",
+    "phonetic": "トープ"
 },
 {
     "hex": "#e9bc00",
-    "name": "トパーズ",
-    "phonetic": "topaz"
+    "name": "topaz",
+    "phonetic": "トパーズ"
 },
 {
     "hex": "#ea5549",
-    "name": "トマトレッド",
-    "phonetic": "tomato red"
+    "name": "tomato red",
+    "phonetic": "トマトレッド"
 },
 {
     "hex": "#2cb4ad",
-    "name": "ナイルブルー",
-    "phonetic": "nile blue"
+    "name": "nile blue",
+    "phonetic": "ナイルブルー"
 },
 {
     "hex": "#202f55",
-    "name": "ネービーブルー",
-    "phonetic": "navy blue"
+    "name": "navy blue",
+    "phonetic": "ネービーブルー"
 },
 {
     "hex": "#fdd35c",
-    "name": "ネープルスイエロー",
-    "phonetic": "naples yellow"
+    "name": "naples yellow",
+    "phonetic": "ネープルスイエロー"
 },
 {
     "hex": "#fce4d6",
-    "name": "ネールピンク",
-    "phonetic": "nail pink"
+    "name": "nail pink",
+    "phonetic": "ネールピンク"
 },
 {
     "hex": "#6c2735",
-    "name": "バーガンディー",
-    "phonetic": "burgundy"
+    "name": "burgundy",
+    "phonetic": "バーガンディー"
 },
 {
     "hex": "#9b72b0",
-    "name": "パープル",
-    "phonetic": "purple"
+    "name": "purple",
+    "phonetic": "パープル"
 },
 {
     "hex": "#ea553a",
-    "name": "バーミリオン",
-    "phonetic": "vermilion"
+    "name": "vermilion",
+    "phonetic": "バーミリオン"
 },
 {
     "hex": "#c9c9c4",
-    "name": "パールグレイ",
-    "phonetic": "pearl gray"
+    "name": "pearl gray",
+    "phonetic": "パールグレイ"
 },
 {
     "hex": "#f7f6f5",
-    "name": "パールホワイト",
-    "phonetic": "pearl white"
+    "name": "pearl white",
+    "phonetic": "パールホワイト"
 },
 {
     "hex": "#6f5436",
-    "name": "バーントアンバー",
-    "phonetic": "burnt umber"
+    "name": "burnt umber",
+    "phonetic": "バーントアンバー"
 },
 {
     "hex": "#bb5535",
-    "name": "バーントシェンナ",
-    "phonetic": "burnt sienna"
+    "name": "burnt sienna",
+    "phonetic": "バーントシェンナ"
 },
 {
     "hex": "#5a4498",
-    "name": "バイオレット",
-    "phonetic": "violet"
+    "name": "violet",
+    "phonetic": "バイオレット"
 },
 {
     "hex": "#f5ecf4",
-    "name": "パウダーピンク",
-    "phonetic": "powder pink"
+    "name": "powder pink",
+    "phonetic": "パウダーピンク"
 },
 {
     "hex": "#bccddb",
-    "name": "パウダーブルー",
-    "phonetic": "powder blue"
+    "name": "powder blue",
+    "phonetic": "パウダーブルー"
 },
 {
     "hex": "#898989",
-    "name": "バトルシップグレイ",
-    "phonetic": "battleship gray"
+    "name": "battleship gray",
+    "phonetic": "バトルシップグレイ"
 },
 {
     "hex": "#caac71",
-    "name": "バフ",
-    "phonetic": "buff"
+    "name": "buff",
+    "phonetic": "バフ"
 },
 {
     "hex": "#37a34a",
-    "name": "パロットグリーン",
-    "phonetic": "parrot green"
+    "name": "parrot green",
+    "phonetic": "パロットグリーン"
 },
 {
     "hex": "#4d4398",
-    "name": "パンジー",
-    "phonetic": "pannsy"
+    "name": "pannsy",
+    "phonetic": "パンジー"
 },
 {
     "hex": "#e5a323",
-    "name": "パンプキン",
-    "phonetic": "pumpkin"
+    "name": "pumpkin",
+    "phonetic": "パンプキン"
 },
 {
     "hex": "#00a497",
-    "name": "ピーコックグリーン",
-    "phonetic": "peacock green"
+    "name": "peacock green",
+    "phonetic": "ピーコックグリーン"
 },
 {
     "hex": "#009e9f",
-    "name": "ピーコックブルー",
-    "phonetic": "peacock blue"
+    "name": "peacock blue",
+    "phonetic": "ピーコックブルー"
 },
 {
     "hex": "#fbd8b5",
-    "name": "ピーチ",
-    "phonetic": "peach"
+    "name": "peach",
+    "phonetic": "ピーチ"
 },
 {
     "hex": "#88b5d3",
-    "name": "ピジョンブルー",
-    "phonetic": "pigeon blue"
+    "name": "pigeon blue",
+    "phonetic": "ピジョンブルー"
 },
 {
     "hex": "#ead7a4",
-    "name": "ビスケット",
-    "phonetic": "biscuit"
+    "name": "biscuit",
+    "phonetic": "ビスケット"
 },
 {
     "hex": "#6c9bd2",
-    "name": "ヒヤシンス",
-    "phonetic": "hyacinth"
+    "name": "hyacinth",
+    "phonetic": "ヒヤシンス"
 },
 {
     "hex": "#7a99cf",
-    "name": "ヒヤシンスブルー",
-    "phonetic": "hyacinth blue"
+    "name": "hyacinth blue",
+    "phonetic": "ヒヤシンスブルー"
 },
 {
     "hex": "#00885a",
-    "name": "ビリジアン",
-    "phonetic": "viridian"
+    "name": "viridian",
+    "phonetic": "ビリジアン"
 },
 {
     "hex": "#005c42",
-    "name": "ビリヤードグリーン",
-    "phonetic": "billiard green"
+    "name": "billiard green",
+    "phonetic": "ビリヤードグリーン"
 },
 {
     "hex": "#f5b2b2",
-    "name": "ピンク",
-    "phonetic": "pink"
+    "name": "pink",
+    "phonetic": "ピンク"
 },
 {
     "hex": "#e3acae",
-    "name": "ピンクアーモンド",
-    "phonetic": "pink almond"
+    "name": "pink almond",
+    "phonetic": "ピンクアーモンド"
 },
 {
     "hex": "#ede4e1",
-    "name": "ピンクベージュ",
-    "phonetic": "pink beige"
+    "name": "pink beige",
+    "phonetic": "ピンクベージュ"
 },
 {
     "hex": "#fef9fb",
-    "name": "ピンクホワイト",
-    "phonetic": "pink white"
+    "name": "pink white",
+    "phonetic": "ピンクホワイト"
 },
 {
     "hex": "#e62f8b",
-    "name": "ブーゲンビリア",
-    "phonetic": "bougainvillaea"
+    "name": "bougainvillaea",
+    "phonetic": "ブーゲンビリア"
 },
 {
     "hex": "#abb1b5",
-    "name": "フォッグ",
-    "phonetic": "fog"
+    "name": "fog",
+    "phonetic": "フォッグ"
 },
 {
     "hex": "#288c66",
-    "name": "フォレストグリーン",
-    "phonetic": "forest green"
+    "name": "forest green",
+    "phonetic": "フォレストグリーン"
 },
 {
     "hex": "#8f6552",
-    "name": "ブラウン",
-    "phonetic": "brown"
+    "name": "brown",
+    "phonetic": "ブラウン"
 },
 {
     "hex": "#000000",
-    "name": "ブラック",
-    "phonetic": "black"
+    "name": "black",
+    "phonetic": "ブラック"
 },
 {
     "hex": "#f5b2ac",
-    "name": "フラミンゴピンク",
-    "phonetic": "flamingo pink"
+    "name": "flamingo pink",
+    "phonetic": "フラミンゴピンク"
 },
 {
     "hex": "#6c2463",
-    "name": "プラム",
-    "phonetic": "plum"
+    "name": "plum",
+    "phonetic": "プラム"
 },
 {
     "hex": "#9a0d7c",
-    "name": "フランボワーズ",
-    "phonetic": "framboise"
+    "name": "framboise",
+    "phonetic": "フランボワーズ"
 },
 {
     "hex": "#0075c2",
-    "name": "ブルー",
-    "phonetic": "blue"
+    "name": "blue",
+    "phonetic": "ブルー"
 },
 {
     "hex": "#006eb0",
-    "name": "ブルーアシード",
-    "phonetic": "bleu acide"
+    "name": "bleu acide",
+    "phonetic": "ブルーアシード"
 },
 {
     "hex": "#a4a8d4",
-    "name": "ブルーラベンダー",
-    "phonetic": "blue lavender"
+    "name": "blue lavender",
+    "phonetic": "ブルーラベンダー"
 },
 {
     "hex": "#192f60",
-    "name": "プルシャンブルー",
-    "phonetic": "prussian blue"
+    "name": "prussian blue",
+    "phonetic": "プルシャンブルー"
 },
 {
     "hex": "#fad09e",
-    "name": "フレッシュ",
-    "phonetic": "flesh"
+    "name": "flesh",
+    "phonetic": "フレッシュ"
 },
 {
     "hex": "#8da0b6",
-    "name": "フレンチグレイ",
-    "phonetic": "french gray"
+    "name": "french gray",
+    "phonetic": "フレンチグレイ"
 },
 {
     "hex": "#e8ece9",
-    "name": "フロスティグレイ",
-    "phonetic": "frosty gray"
+    "name": "frosty gray",
+    "phonetic": "フロスティグレイ"
 },
 {
     "hex": "#bbdbf3",
-    "name": "フロスティブルー",
-    "phonetic": "frosty blue"
+    "name": "frosty blue",
+    "phonetic": "フロスティブルー"
 },
 {
     "hex": "#e6eae6",
-    "name": "フロスティホワイト",
-    "phonetic": "frosty white"
+    "name": "frosty white",
+    "phonetic": "フロスティホワイト"
 },
 {
     "hex": "#ac6b25",
-    "name": "ブロンズ",
-    "phonetic": "bronze"
+    "name": "bronze",
+    "phonetic": "ブロンズ"
 },
 {
     "hex": "#f2d58a",
-    "name": "ブロンド",
-    "phonetic": "blond"
+    "name": "blond",
+    "phonetic": "ブロンド"
 },
 {
     "hex": "#a2c2e6",
-    "name": "ベイビーブルー",
-    "phonetic": "baby blue"
+    "name": "baby blue",
+    "phonetic": "ベイビーブルー"
 },
 {
     "hex": "#eedcb3",
-    "name": "ベージュ",
-    "phonetic": "beige"
+    "name": "beige",
+    "phonetic": "ベージュ"
 },
 {
     "hex": "#eee9e6",
-    "name": "ベージュカメオ",
-    "phonetic": "beige cameo"
+    "name": "beige cameo",
+    "phonetic": "ベージュカメオ"
 },
 {
     "hex": "#b4ada9",
-    "name": "ベージュグレイ",
-    "phonetic": "beige gray"
+    "name": "beige gray",
+    "phonetic": "ベージュグレイ"
 },
 {
     "hex": "#e8d3ca",
-    "name": "ベージュローゼ",
-    "phonetic": "beige rose"
+    "name": "beige rose",
+    "phonetic": "ベージュローゼ"
 },
 {
     "hex": "#00ac9a",
-    "name": "ペパーミントグリーン",
-    "phonetic": "peppermint green"
+    "name": "peppermint green",
+    "phonetic": "ペパーミントグリーン"
 },
 {
     "hex": "#fdede4",
-    "name": "ベビーピンク",
-    "phonetic": "baby pink"
+    "name": "baby pink",
+    "phonetic": "ベビーピンク"
 },
 {
     "hex": "#bbe2f1",
-    "name": "ベビーブルー",
-    "phonetic": "baby blue"
+    "name": "baby blue",
+    "phonetic": "ベビーブルー"
 },
 {
     "hex": "#68a4d9",
-    "name": "ヘブンリーブルー",
-    "phonetic": "heavenly blue"
+    "name": "heavenly blue",
+    "phonetic": "ヘブンリーブルー"
 },
 {
     "hex": "#9079b6",
-    "name": "ヘリオトロープ",
-    "phonetic": "heliotrope"
+    "name": "heliotrope",
+    "phonetic": "ヘリオトロープ"
 },
 {
     "hex": "#006948",
-    "name": "ホーリーグリーン",
-    "phonetic": "holly green"
+    "name": "holly green",
+    "phonetic": "ホーリーグリーン"
 },
 {
     "hex": "#004d25",
-    "name": "ボトルグリーン",
-    "phonetic": "bottle green"
+    "name": "bottle green",
+    "phonetic": "ボトルグリーン"
 },
 {
     "hex": "#ea5550",
-    "name": "ポピーレッド",
-    "phonetic": "poppy red"
+    "name": "poppy red",
+    "phonetic": "ポピーレッド"
 },
 {
     "hex": "#82cddd",
-    "name": "ホライズンブルー",
-    "phonetic": "horizon blue"
+    "name": "horizon blue",
+    "phonetic": "ホライズンブルー"
 },
 {
     "hex": "#a1d8e6",
-    "name": "ホリゾンブルー",
-    "phonetic": "horizon blue"
+    "name": "horizon blue",
+    "phonetic": "ホリゾンブルー"
 },
 {
     "hex": "#6c272d",
-    "name": "ボルドー",
-    "phonetic": "bordeaux"
+    "name": "bordeaux",
+    "phonetic": "ボルドー"
 },
 {
     "hex": "#ffffff",
-    "name": "ホワイト",
-    "phonetic": "white"
+    "name": "white",
+    "phonetic": "ホワイト"
 },
 {
     "hex": "#f0f6da",
-    "name": "ホワイトリリー",
-    "phonetic": "white lily"
+    "name": "white lily",
+    "phonetic": "ホワイトリリー"
 },
 {
     "hex": "#c0c5c2",
-    "name": "マーブルグレイ",
-    "phonetic": "marble gray"
+    "name": "marble gray",
+    "phonetic": "マーブルグレイ"
 },
 {
     "hex": "#e4007f",
-    "name": "マゼンタ",
-    "phonetic": "magenta"
+    "name": "magenta",
+    "phonetic": "マゼンタ"
 },
 {
     "hex": "#00608d",
-    "name": "マドンナブルー",
-    "phonetic": "madonna blue"
+    "name": "madonna blue",
+    "phonetic": "マドンナブルー"
 },
 {
     "hex": "#6b3f31",
-    "name": "マホガニー",
-    "phonetic": "mahogany"
+    "name": "mahogany",
+    "phonetic": "マホガニー"
 },
 {
     "hex": "#009854",
-    "name": "マラカイトグリーン",
-    "phonetic": "malachite green"
+    "name": "malachite green",
+    "phonetic": "マラカイトグリーン"
 },
 {
     "hex": "#f39800",
-    "name": "マリーゴールド",
-    "phonetic": "marigold"
+    "name": "marigold",
+    "phonetic": "マリーゴールド"
 },
 {
     "hex": "#006888",
-    "name": "マリンブルー",
-    "phonetic": "marine blue"
+    "name": "marine blue",
+    "phonetic": "マリンブルー"
 },
 {
     "hex": "#6a1917",
-    "name": "マルーン",
-    "phonetic": "marron"
+    "name": "marron",
+    "phonetic": "マルーン"
 },
 {
     "hex": "#f3981d",
-    "name": "マンダリンオレンジ",
-    "phonetic": "mandarin orange"
+    "name": "mandarin orange",
+    "phonetic": "マンダリンオレンジ"
 },
 {
     "hex": "#b4aeb1",
-    "name": "ミスト",
-    "phonetic": "mist"
+    "name": "mist",
+    "phonetic": "ミスト"
 },
 {
     "hex": "#001e43",
-    "name": "ミッドナイトブルー",
-    "phonetic": "midnight blue"
+    "name": "midnight blue",
+    "phonetic": "ミッドナイトブルー"
 },
 {
     "hex": "#fff462",
-    "name": "ミモザ",
-    "phonetic": "mimosa"
+    "name": "mimosa",
+    "phonetic": "ミモザ"
 },
 {
     "hex": "#fffff9",
-    "name": "ミルキーホワイト",
-    "phonetic": "milky white"
+    "name": "milky white",
+    "phonetic": "ミルキーホワイト"
 },
 {
     "hex": "#89c997",
-    "name": "ミントグリーン",
-    "phonetic": "mint green"
+    "name": "mint green",
+    "phonetic": "ミントグリーン"
 },
 {
     "hex": "#d4d9dc",
-    "name": "ムーングレイ",
-    "phonetic": "moon gray"
+    "name": "moon gray",
+    "phonetic": "ムーングレイ"
 },
 {
     "hex": "#65ab31",
-    "name": "メドウグリーン",
-    "phonetic": "meadow green"
+    "name": "meadow green",
+    "phonetic": "メドウグリーン"
 },
 {
     "hex": "#e0de94",
-    "name": "メロンイエロー",
-    "phonetic": "melon yellow"
+    "name": "melon yellow",
+    "phonetic": "メロンイエロー"
 },
 {
     "hex": "#915da3",
-    "name": "モーブ",
-    "phonetic": "mauve"
+    "name": "mauve",
+    "phonetic": "モーブ"
 },
 {
     "hex": "#777e41",
-    "name": "モスグリーン",
-    "phonetic": "moss green"
+    "name": "moss green",
+    "phonetic": "モスグリーン"
 },
 {
     "hex": "#7e837f",
-    "name": "モスグレイ",
-    "phonetic": "moss gray"
+    "name": "moss gray",
+    "phonetic": "モスグレイ"
 },
 {
     "hex": "#409ecc",
-    "name": "ヨットブルー",
-    "phonetic": "yacht blue"
+    "name": "yacht blue",
+    "phonetic": "ヨットブルー"
 },
 {
     "hex": "#b2cbe4",
-    "name": "ライトブルー",
-    "phonetic": "light blue"
+    "name": "light blue",
+    "phonetic": "ライトブルー"
 },
 {
     "hex": "#eaeea2",
-    "name": "ライムイエロー",
-    "phonetic": "lime yellow"
+    "name": "lime yellow",
+    "phonetic": "ライムイエロー"
 },
 {
     "hex": "#e6eb94",
-    "name": "ライムグリーン",
-    "phonetic": "lime green"
+    "name": "lime green",
+    "phonetic": "ライムグリーン"
 },
 {
     "hex": "#fff799",
-    "name": "ライムライト",
-    "phonetic": "limelight"
+    "name": "limelight",
+    "phonetic": "ライムライト"
 },
 {
     "hex": "#d1bada",
-    "name": "ライラック",
-    "phonetic": "lilac"
+    "name": "lilac",
+    "phonetic": "ライラック"
 },
 {
     "hex": "#841a75",
-    "name": "ラズベリー",
-    "phonetic": "raspberry"
+    "name": "raspberry",
+    "phonetic": "ラズベリー"
 },
 {
     "hex": "#9f166a",
-    "name": "ラズベリーレッド",
-    "phonetic": "raspberry red"
+    "name": "raspberry red",
+    "phonetic": "ラズベリーレッド"
 },
 {
     "hex": "#cab8d9",
-    "name": "ラベンダー",
-    "phonetic": "lavender"
+    "name": "lavender",
+    "phonetic": "ラベンダー"
 },
 {
     "hex": "#f7f6fb",
-    "name": "ラベンダーアイス",
-    "phonetic": "lavender ice"
+    "name": "lavender ice",
+    "phonetic": "ラベンダーアイス"
 },
 {
     "hex": "#bcbace",
-    "name": "ラベンダーグレイ",
-    "phonetic": "lavender gray"
+    "name": "lavender gray",
+    "phonetic": "ラベンダーグレイ"
 },
 {
     "hex": "#a688bd",
-    "name": "ラベンダーモーブ",
-    "phonetic": "lavender mauve"
+    "name": "lavender mauve",
+    "phonetic": "ラベンダーモーブ"
 },
 {
     "hex": "#24140e",
-    "name": "ランプブラック",
-    "phonetic": "lamp black"
+    "name": "lamp black",
+    "phonetic": "ランプブラック"
 },
 {
     "hex": "#d4d9d6",
-    "name": "リードグレイ",
-    "phonetic": "reed gray"
+    "name": "reed gray",
+    "phonetic": "リードグレイ"
 },
 {
     "hex": "#9fc24d",
-    "name": "リーフグリーン",
-    "phonetic": "leaf green"
+    "name": "leaf green",
+    "phonetic": "リーフグリーン"
 },
 {
     "hex": "#e0b5d3",
-    "name": "リラ",
-    "phonetic": "lilla"
+    "name": "lilla",
+    "phonetic": "リラ"
 },
 {
     "hex": "#c70067",
-    "name": "ルビー",
-    "phonetic": "ruby"
+    "name": "ruby",
+    "phonetic": "ルビー"
 },
 {
     "hex": "#e73562",
-    "name": "ルビーレッド",
-    "phonetic": "ruby red"
+    "name": "ruby red",
+    "phonetic": "ルビーレッド"
 },
 {
     "hex": "#6b395f",
-    "name": "レーズン",
-    "phonetic": "raisin"
+    "name": "raisin",
+    "phonetic": "レーズン"
 },
 {
     "hex": "#ffe9a9",
-    "name": "レグホーン",
-    "phonetic": "leghorn"
+    "name": "leghorn",
+    "phonetic": "レグホーン"
 },
 {
     "hex": "#d1de4c",
-    "name": "レタスグリーン",
-    "phonetic": "lettuce green"
+    "name": "lettuce green",
+    "phonetic": "レタスグリーン"
 },
 {
     "hex": "#ea5550",
-    "name": "レッド",
-    "phonetic": "red"
+    "name": "red",
+    "phonetic": "レッド"
 },
 {
     "hex": "#fff352",
-    "name": "レモンイエロー",
-    "phonetic": "lemon yellow"
+    "name": "lemon yellow",
+    "phonetic": "レモンイエロー"
 },
 {
     "hex": "#7f1184",
-    "name": "ロイヤルパープル",
-    "phonetic": "royal purple"
+    "name": "royal purple",
+    "phonetic": "ロイヤルパープル"
 },
 {
     "hex": "#866629",
-    "name": "ローアンバー",
-    "phonetic": "raw umber"
+    "name": "raw umber",
+    "phonetic": "ローアンバー"
 },
 {
     "hex": "#e17b34",
-    "name": "ローシェンナ",
-    "phonetic": "raw sienna"
+    "name": "raw sienna",
+    "phonetic": "ローシェンナ"
 },
 {
     "hex": "#e95464",
-    "name": "ローズ",
-    "phonetic": "rose"
+    "name": "rose",
+    "phonetic": "ローズ"
 },
 {
     "hex": "#9d8e87",
-    "name": "ローズグレイ",
-    "phonetic": "rose gray"
+    "name": "rose gray",
+    "phonetic": "ローズグレイ"
 },
 {
     "hex": "#e6c0c0",
-    "name": "ローズダスト",
-    "phonetic": "rose dust"
+    "name": "rose dust",
+    "phonetic": "ローズダスト"
 },
 {
     "hex": "#e6afcf",
-    "name": "ローズタンドル",
-    "phonetic": "rose tendre"
+    "name": "rose tendre",
+    "phonetic": "ローズタンドル"
 },
 {
     "hex": "#e5c1cd",
-    "name": "ローズドラジェ",
-    "phonetic": "rose dragee"
+    "name": "rose dragee",
+    "phonetic": "ローズドラジェ"
 },
 {
     "hex": "#f19ca7",
-    "name": "ローズピンク",
-    "phonetic": "rose pink"
+    "name": "rose pink",
+    "phonetic": "ローズピンク"
 },
 {
     "hex": "#debecc",
-    "name": "ローズミスト",
-    "phonetic": "rose mist"
+    "name": "rose mist",
+    "phonetic": "ローズミスト"
 },
 {
     "hex": "#ea618e",
-    "name": "ローズレッド",
-    "phonetic": "rose red"
+    "name": "rose red",
+    "phonetic": "ローズレッド"
 },
 {
     "hex": "#de82a7",
-    "name": "ロータスピンク",
-    "phonetic": "lotus pink"
+    "name": "lotus pink",
+    "phonetic": "ロータスピンク"
 },
 {
     "hex": "#b33e5c",
-    "name": "ワインレッド",
-    "phonetic": "wine red"
+    "name": "wine red",
+    "phonetic": "ワインレッド"
 }
 ]
