@@ -1,186 +1,186 @@
 アメリカン レッド
 american red
-#BF0A30
+#bf0a30
 バッカイ レッド
 buckeye red
-#FF0000
+#ff0000
 リンカーン レッド
 lincoln red
-#E2184F
+#e2184f
 リンカーン ピンク
 lincoln pink
-#E24A4F
+#e24a4f
 グランドキャニオン ピンク
 grand canyon pink
-#EFC1A9
+#efc1a9
 ディキシー レッド
 dixie red
-#B10021
+#b10021
 ホークアイ レッド
 hawkeye red
-#E3003D
+#e3003d
 ナチュラル レッド
 natural red
-#CC0033
+#cc0033
 エンパイア レッド
 empire red
-#D60000
+#d60000
 グローリー レッド
 glory red
-#CC0033
+#cc0033
 カリフォルニア サザン
 southern california
-#E03030
+#e03030
 サウスウエスト
 southwest
-#EE2222
+#ee2222
 ゴールデン レッド
 golden red
-#C10435
+#c10435
 グランドキャニオン レッド
 grand canyon red
-#BF0A30
+#bf0a30
 バッドゲル レッド
 badger red
-#F3334B
+#f3334b
 カリフォルニア ベイ エリア
 bay area california
-#E06060
+#e06060
 シャスタ カスケード
 shasta cascades
-#E03030
+#e03030
 アメリカン ブルー
 american blue
 #002868
 アメリカン グリーン
 american green
-#006E53
+#006e53
 アメリカン イエロー
 american yellow
-#DEB301
+#deb301
 アメリカン ライトブルー
 american light blue
-#CBDDF3
+#cbddf3
 アメリカン ブラウン
 american brown
-#9A6B37
+#9a6b37
 アメリカン グレー
 american gray
-#AFAFB1
+#afafb1
 グローリー ブルー
 glory blue
-#0000FF
+#0000ff
 グローリー ホワイト
 glory white
-#FFF9F5
+#fff9f5
 ビッグ アップル レッド
 big apple red
-#FF6331
+#ff6331
 ビッグ アップル ブルー
 big apple blue
-#3131CE
+#3131ce
 エンパイア ブルー
 empire blue
 #001873
 エンパイア シアン
 empire cyan
-#00B5D6
+#00b5d6
 エンパイア イエロー
 empire yellow
-#F7F700
+#f7f700
 エンパイア オレンジ
 empire orange
-#F79429
+#f79429
 エンパイア グリーン
 empire green
-#084A29
+#084a29
 エンパイア エボニー
 empire ebony
-#424A00
+#424a00
 ナチュラル ブルー
 natural blue
 #000099
 ナチュラル ライトブルー
 natural light blue
-#84C8EF
+#84c8ef
 ナチュラル グリーン
 natural green
-#90C924
+#90c924
 ナチュラル オレンジ
 natural orange
-#F39234
+#f39234
 ナチュラル ブラウン
 natural brown
-#843A2F
+#843a2f
 ナチュラル グレー
 natural gray
-#BFBFBF
+#bfbfbf
 ホークアイ ブルー
 hawkeye blue
-#3C3C9E
+#3c3c9e
 ホークアイ イエロー
 hawkeye yellow
-#FFB30F
+#ffb30f
 ホークアイ ブラウン
 hawkeye brown
-#A54A00
+#a54a00
 フロンティア ブルー
 frontier blue
 #000080
 フロンティア ライトブルー
 frontier light blue
-#D3EEF7
+#d3eef7
 フロンティア グリーン
 frontier green
 #024900
 フロンティア イエロー
 frontier yellow
-#FFFF00
+#ffff00
 フロンティア パープル
 frontier purple
-#8663BD
+#8663bd
 ディキシー ブルー
 dixie blue
 #083152
 ディキシー グリーン
 dixie green
-#105A21
+#105a21
 ディキシー イエロー
 dixie yellow
-#FFC621
+#ffc621
 グランドキャニオン ブルー
 grand canyon blue
 #002868
 グランドキャニオンブラウン
 grand canyon brown
-#CE5C17
+#ce5c17
 グランドキャニオンイエロー
 grand canyon yellow
-#FED700
+#fed700
 グランドキャニオングリーン
 grand canyon green
-#00320B
+#00320b
 リンカーン ライトブルー
 lincoln light blue
-#64B4FF
+#64b4ff
 リンカーン ブルー
 lincoln blue
-#3C3C9E
+#3c3c9e
 リンカーン グリーン
 lincoln green
-#3F863F
+#3f863f
 リンカーン イエロー
 lincoln yellow
-#FFE60F
+#ffe60f
 リンカーン オレンジ
 lincoln orange
-#FFB316
+#ffb316
 フージャース ブルー
 hoosier blue
 #101195
 フージャース イエロー
 hoosier yellow
-#FFE700
+#ffe700
 フージャース グリーン
 hoosier green
 #197351
@@ -192,196 +192,196 @@ badger blue
 #002986
 バッドゲル ライトブルー
 badger light blue
-#00B2FD
+#00b2fd
 バッドゲル ピンク
 badger pink
-#F8B8DE
+#f8b8de
 バッドゲル グリーン
 badger green
-#41AD16
+#41ad16
 バッドゲル イエロー
 badger yellow
-#FFE618
+#ffe618
 バッドゲル ブラウン
 badger brown
-#66180B
+#66180b
 バッドゲル グレー
 badger gray
-#A2B9B9
+#a2b9b9
 マウンテン レッド
 mountain red
-#FF3516
+#ff3516
 マウンテン ブルー
 mountain blue
 #003776
 マウンテン グリーン
 mountain green
-#20D942
+#20d942
 マウンテン イエロー
 mountain yellow
-#FFB30F
+#ffb30f
 マウンテン ブラウン
 mountain brown
-#D15B25
+#d15b25
 マウンテン グレー
 mountain gray
-#C0C0C0
+#c0c0c0
 ソナー ブルー
 sooner blue
-#0E4892
+#0e4892
 ソナー ライトブルー
 sooner light blue
-#00ADC6
+#00adc6
 ソナー グリーン
 sooner green
-#1B692B
+#1b692b
 ソナー オパール
 sooner opal
-#8AB87A
+#8ab87a
 ソナー イエロー
 sooner yellow
-#F0C016
+#f0c016
 ソナー ブラウン
 sooner brown
 #421000
 ソナー ベージュ
 sooner beige
-#FFC69C
+#ffc69c
 ソナー グレー
 sooner gray
-#D6C6C6
+#d6c6c6
 ソナー ブラック
 sooner black
 #454442
 バッカイ ブルー
 buckeye blue
-#1A3B86
+#1a3b86
 バッカイ グリーン
 buckeye green
-#00784B
+#00784b
 バッカイ イエロー
 buckeye yellow
-#F8C300
+#f8c300
 バッカイ ブラウン
 buckeye brown
-#4E3330
+#4e3330
 バッカイ ライトブルー
 buckeye light blue
-#027BC2
+#027bc2
 ビーバー ブルー
 beaver blue
-#002A86
+#002a86
 ビーバー イエロー
 beaver yellow
-#FFEA0F
+#ffea0f
 ゴールデン グリーン
 golden green
-#007E3A
+#007e3a
 ゴールデン ブラウン
 golden brown
 #391800
 ゴールデン イエロー
 golden yellow
-#BC8E07
+#bc8e07
 ゴールデン シアン
 golden cyan
-#40A7AA
+#40a7aa
 ゴールデン グレー
 golden gray
-#84948E
+#84948e
 サンフラワー ブルー
 sunflower blue
-#00009C
+#00009c
 サンフラワー ライトブルー
 sunflower light blue
-#0092DF
+#0092df
 サンフラワー グリーン
 sunflower green
-#29B910
+#29b910
 サンフラワー オレンジ
 sunflower orange
-#FF660F
+#ff660f
 サンフラワー ブラウン
 sunflower brown
-#B34E20
+#b34e20
 サンフラワー パープル
 sunflower purple
-#7C4790
+#7c4790
 サンフラワー イエロー
 sunflower yellow
-#FFE400
+#ffe400
 サンフラワー グレー
 sunflower gray
-#DEDEDE
+#dedede
 ニュー イングランド
 new england
-#E25C5C
+#e25c5c
 ミッド アトランティック
 mid atlantic
-#5C7A7A
+#5c7a7a
 サーフ
 south
-#8A84A3
+#8a84a3
 フロリダ
 florida
-#E9BDA2
+#e9bda2
 ミッドウェスト
 midwest
-#FFD577
+#ffd577
 テキサス
 texas
-#77CBB3
+#77cbb3
 グレート プレインズ
 great plains
-#B6BC4D
+#b6bc4d
 ロッキー マウンテン
 rocky mountain
-#E9DF25
+#e9df25
 カリフォルニア
 california
-#E0FA92
+#e0fa92
 パシフィックノースウエスト
 pacific northwest
-#38911C
+#38911c
 アラスカ
 alaska
-#D09440
+#d09440
 ハワイ
 hawaii
-#4F93C0
+#4f93c0
 アラバマ マウンテン
 mountains alabama
 #999966
 アラバマ メトロポリタン
 metropolitan alabama
-#FF9933
+#ff9933
 アラバマリバーヘリテイジ
 river heritage alabama
 #996699
 ガルフ コースト アラバマ
 gulf coast alabama
-#99CCCC
+#99cccc
 カリフォルニア デザート
 california desert
-#E0B000
+#e0b000
 カリフォルニア セントラル コースト
 california central coast
-#00B000
+#00b000
 サン ホアキン ヴァレイ
 san joaquin valley
-#A0A0C0
+#a0a0c0
 サクラメント ヴァレイ
 sacramento valley
-#E0B000
+#e0b000
 シエラ ネバダ
 sierra nevada
-#00E000
+#00e000
 ゴールド カントリー
 gold country
-#E0E000
+#e0e000
 カリフォルニア ノース コースト
 california north coast
-#B0B000
+#b0b000
 ミシシッピキャピタルリバー
 mississippi capital river
 #336699
@@ -399,43 +399,43 @@ mississippi hills
 #996633
 パンハンドル ネブラスカ
 panhandle nebraska
-#CC9966
+#cc9966
 ノースセントラルネブラスカ
 north central nebraska
-#CCCC66
+#cccc66
 イースタン ネブラスカ
 eastern nebraska
-#99CCCC
+#99cccc
 ウェスタン ネバダ
 western nevada
-#CC9999
+#cc9999
 ノーザン ネバダ
 northern nevada
-#CC9966
+#cc9966
 セントラル ネバダ
 central nevada
-#9999CC
+#9999cc
 サザン ネバダ
 southern nevada
-#99CCCC
+#99cccc
 セントラル ニューメキシコ
 central new mexico
-#E0FA92
+#e0fa92
 ノース セントラル ニューメキシコ
 north central new mexico
-#6699AA
+#6699aa
 ノース イースト ニューメキシコ
 northeast new mexico
-#B6BC4D
+#b6bc4d
 ノース ウエスト ニューメキシコ
 northwest new mexico
-#D09440
+#d09440
 サウス ウエスト ニューメキシコ
 southwest new mexico
-#B2CC7F
+#b2cc7f
 サウス イースト ニューメキシコ
 southeast new mexico
-#FFFF99
+#ffff99
 ノース ウエスト オハイオ
 northwest ohio
 #666633
@@ -450,7 +450,7 @@ southwest ohio
 #666699
 サウス イースト オハイオ
 southeast ohio
-#CC9933
+#cc9933
 ウエスタン テネシー
 western tennessee
 #996699
@@ -462,70 +462,70 @@ eastern tennessee
 #339966
 パンハンドルテキサス
 panhandle texas
-#80622F
+#80622f
 プレリーズアンドレイクス
 prairies and lakes
-#335C64
+#335c64
 ピニー ウッズ
 piney woods
 #406324
 ガルフ コースト テキサス
 gulf coast texas
-#7895A3
+#7895a3
 サウステキサスプレインズ
 south texas plains
-#7D6B71
+#7d6b71
 ヒル カントリー
 hill country
-#D1A85E
+#d1a85e
 ビッグ ベンド カントリー
 big bend country
-#C6AB7A
+#c6ab7a
 ワサッチ フロント
 wasatch front
-#99CC33
+#99cc33
 キャニオン カントリー
 canyon country
-#CC6600
+#cc6600
 ノース イースタン ユタ
 northeastern utah
 #669900
 デキシー
 dixie
-#B2CC7F
+#b2cc7f
 セントラル ユタ
 central utah
 #999933
 ウエスタン ユタ
 western utah
-#FFFF99
+#ffff99
 ノーザン バージニア
 northern virginia
-#9966FF
+#9966ff
 イースタン バージニア
 eastern virginia
-#33BBEE
+#33bbee
 セントラル バージニア
 central virginia
-#FF6655
+#ff6655
 サザンウエストバージニア
 southwest virginia
-#FFCC33
+#ffcc33
 シェナンドー ヴァレイ
 shenandoah valley
 #339933
 サウス イースト ウィスコンシン
 southeast wisconsin
-#66CC99
+#66cc99
 サウス ウエスト ウィスコンシン
 southwest wisconsin
-#99CCFF
+#99ccff
 ノース イースト ウィスコンシン
 northeast wisconsin
 #009999
 ノース セントラル ウィスコンシン
 north central wisconsin
-#66CCFF
+#66ccff
 ノース ウエスト ウィスコンシン
 northwest wisconsin
-#99CCCC
+#99cccc
