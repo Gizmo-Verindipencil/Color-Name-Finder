@@ -1,471 +1,471 @@
 ベビー ピンク
 baby pink
-#FFC6D6
+#ffc6d6
 シェル ピンク
 shell pink
-#FFBDB3
+#ffbdb3
 フレッシュ ピンク
 flesh pink
-#F2D5CC
+#f2d5cc
 パステル ピンク
 pastel pink
-#FC9DB8
+#fc9db8
 ローズ ピンク
 rose pink
-#F55064
+#f55064
 ピンク
 pink
-#ECC2C8
+#ecc2c8
 フレンチ ローズ
 french rose
-#EF8184
+#ef8184
 ピーチ ブラッサム
 peach blossom
-#E8C7CC
+#e8c7cc
 ロータス
 lotus
-#CF8878
+#cf8878
 ティー ローズ
 tea rose
-#D8B197
+#d8b197
 サーモン ピンク
 salmon pink
-#FF9C8C
+#ff9c8c
 オーロラ
 aurora
-#FFCEC6
+#ffcec6
 ヴァイナス
 vinous
-#B1988F
+#b1988f
 コスモス
 cosmos
-#F39AAB
+#f39aab
 コーリンシアン ピンク
 corinthian pink
-#C49793
+#c49793
 チェリー ピンク
 cherry pink
-#F05187
+#f05187
 フクシァ ピンク
 fuchsia pink
-#FC9DB8
+#fc9db8
 ポンパドール ピンク
 pompadour pink
-#FD90A5
+#fd90a5
 ダフニー ピンク
 daphne pink
-#A26168
+#a26168
 カーネーション
 carnation
-#D37A83
+#d37a83
 シェリンプ ピンク
 shrimp pink
-#DC7563
+#dc7563
 コーラル ピンク
 coral pink
-#FF9888
+#ff9888
 ローズ ポンパドウル
 rose pompadour
-#A66061
+#a66061
 エンパイア ローズ
 empire rose
-#F08687
+#f08687
 フラミンゴ
 flamingo
-#EF8865
+#ef8865
 エトラスカン ローズ
 etruscan rose
-#B0755C
+#b0755c
 アッシズ オブ ローズ
 ashes of rose
-#B86D77
+#b86d77
 ローズ レッド
 rose red
-#E31262
+#e31262
 カメリア
 camellia
-#E85466
+#e85466
 ゼラニウム
 geranium
-#E22838
+#e22838
 チェリー
 cherry
-#D00026
+#d00026
 シグナル レッド
 signal red
-#E0002A
+#e0002a
 カーマイン
 carmine
-#E10041
+#e10041
 ターキー レッド
 turkey red
-#B21D33
+#b21d33
 ポピーレッド
 poppy red
-#CE382B
+#ce382b
 カーディナル
 cardinal
-#891E34
+#891e34
 クリムスン レーキ
 crimson rake
-#AA0044
+#aa0044
 ポメグラネイト
 pomegranate
-#CF498F
+#cf498f
 シナバー
 cinnabar
-#ED2F1F
+#ed2f1f
 トマト レッド
 tomato red
-#C13321
+#c13321
 ルビー
 ruby
-#AE003A
+#ae003a
 イングリッシュ レッド
 english red
-#D47467
+#d47467
 オクサイドレッド
 oxide red
-#7F3330
+#7f3330
 オックスブラッド レッド
 oxblood red
-#7B2B47
+#7b2b47
 ボール
 bole
-#9B5033
+#9b5033
 バーガンディ
 burgundy
-#3C1117
+#3c1117
 マホガニー
 mahogany
-#4B1016
+#4b1016
 フリー
 flea
-#6A1A2E
+#6a1a2e
 ピーチ
 beach
-#FFD4C4
+#ffd4c4
 フレッシュ
 flesh
-#FFC8AB
+#ffc8ab
 アプリコット
 apricot
-#F79469
+#f79469
 サンセット
 sunset
-#D4A56F
+#d4a56f
 サンバーン
 sunburn
-#AF7C54
+#af7c54
 ファイアー レッド
 fire red
-#E23724
+#e23724
 キャロット オレンジ
 carrot orange
-#E97117
+#e97117
 タンジェリン
 tangerine
-#DD562E
+#dd562e
 オレンジ
 orange
-#FD680D
+#fd680d
 メイズ
 maize
-#EBAC85
+#ebac85
 クローム オレンジ
 chrome orange
-#FE6D0D
+#fe6d0d
 アンバー
 amber
-#BC753B
+#bc753b
 モロッコ
 morocco
-#562F2F
+#562f2f
 キャラメル
 caramel
-#D47643
+#d47643
 タン
 tan
-#DE772C
+#de772c
 トパーズ
 topaz
-#C47C50
+#c47c50
 ムーンライト
 moon light
-#FCD8B1
+#fcd8b1
 エクリュ
 ecru
-#FFD0A1
+#ffd0a1
 フラックス
 flax
-#EBC6A9
+#ebc6a9
 ブロンド
 blond
-#E0B188
+#e0b188
 カフェ オ レ
 cafe au lait
-#C88659
+#c88659
 ビスケット
 biscuit
-#FFB989
+#ffb989
 バーチメント
 parchment
-#C0AB8A
+#c0ab8a
 シャンパーニュ
 champagne
-#E7BF7C
+#e7bf7c
 キャメル
 camel
-#B57A59
+#b57a59
 グレージュ
 grege
-#9E756C
+#9e756c
 フォーン
 fawn
-#AD775A
+#ad775a
 シャモア
 chamois
-#F7C2C2
+#f7c2c2
 バーント シエンナ
 burnt sienna
-#B75237
+#b75237
 ブリック レッド
 brick red
-#9C302A
+#9c302a
 ブラウン
 brown
-#5C3418
+#5c3418
 ローシェンナ
 raw sienna
-#86410B
+#86410b
 ローアンバー
 raw umber
-#854E38
+#854e38
 カフェ
 caffee
-#604A2B
+#604a2b
 マルーン
 maroon
-#56001D
+#56001d
 リバー
 liver
-#8B6165
+#8b6165
 ヘンナ
 henna
-#9A1912
+#9a1912
 ラセット
 russet
-#AD5F47
+#ad5f47
 チェスナット ブラウン
 chestnut brown
-#68412F
+#68412f
 ヘア ブラウン
 hair brown
 #695242
 チョコレート
 chocolate
-#3E1F0F
+#3e1f0f
 セピア
 sepia
 #402923
 ヴァンダイク ブラウン
 vandike brown
-#7F5139
+#7f5139
 アイボリー
 ivory
-#F8F4E6
+#f8f4e6
 ヴァニラ
 vanilla
-#E8C59C
+#e8c59c
 レグホーン
 leghorn
-#E7C59C
+#e7c59c
 ストロー
 straw
-#F2DB9C
+#f2db9c
 マシコット
 massicot
-#FCCDA2
+#fccda2
 サルファー イエロー
 sulphar yellow
-#FFD93C
+#ffd93c
 ダイヤーズブルーム
 dyres broom
-#C5BE82
+#c5be82
 ミモザ
 mimosa
-#FFCD25
+#ffcd25
 ネープルス イエロー
 naples yellow
-#FFBC7B
+#ffbc7b
 ハニー イエロー
 honey yellow
-#B68954
+#b68954
 ガンボージ
 gamboge
-#E2B55B
+#e2b55b
 オーピメント
 auripigment
-#F7CB4A
+#f7cb4a
 インディアン イエロー
 indian yellow
-#FF9700
+#ff9700
 ダファディル イエロー
 daffodil yellow
-#EDAA5A
+#edaa5a
 サフラン イエロー
 saffran yellow
-#FFAF00
+#ffaf00
 クローム イエロー
 chrome yellow
-#F4C600
+#f4c600
 ヨーク イエロー
 yolk yellow
-#F3B927
+#f3b927
 カナリー
 canary
-#FFD718
+#ffd718
 バナナ
 banana
-#F5D300
+#f5d300
 レモン イエロー
 lemon yellow
-#FEC300
+#fec300
 マスタード
 mustard
-#E3AB0D
+#e3ab0d
 シャトルーズ イエロー
 chartreuse yellow
-#EADE5D
+#eade5d
 ゴールド
 gold
-#A37E00
+#a37e00
 ブロンズ
 bronze
-#AC6B25
+#ac6b25
 オリーブ
 olive
-#584C0F
+#584c0f
 ライム グリーン
 lime green
-#CFD10C
+#cfd10c
 シーフォーム グリーン
 sea foam green
-#BDCE96
+#bdce96
 ピスターシュ
 pistache
-#EBF7D3
+#ebf7d3
 ナイト グリーン
 night green
-#45AA31
+#45aa31
 エッグシェル グリーン
 eggshell green
-#87AC9E
+#87ac9e
 グラス グリーン
 grass green
-#96BE7B
+#96be7b
 グローカス
 glaucas
-#B6BEA2
+#b6bea2
 アップル グリーン
 apple green
-#97BE1C
+#97be1c
 ゲイグリーン
 gay green
-#5C700A
+#5c700a
 ピーグリーン
 pea green
-#93B17D
+#93b17d
 スプリング グリーン
 spring green
-#B4CB5E
+#b4cb5e
 ウィロー グリーン
 willow green
-#95875A
+#95875a
 ゴーディ グリーン
 godey green
-#507A49
+#507a49
 モス グリーン
 moth green
-#7B7C46
+#7b7c46
 リンカーン グリーン
 lincoln green
-#615C41
+#615c41
 オリーブ グリーン
 olive green
-#3B3F10
+#3b3f10
 フラワードリュースグリーン
 flower drew green
-#5C7449
+#5c7449
 シュヴァインフルトグリーン
 schweinfurt green
-#00AE42
+#00ae42
 ミント
 mint
 #006252
 クローム グリーン
 chrome green
-#00885F
+#00885f
 マラカイト グリーン
 malachite green
 #347655
 ヴェルディグリ
 verdigris
-#5BA080
+#5ba080
 ミスルトー
 mistletoe
-#576A3E
+#576a3e
 ハンター グリーン
 hunter green
-#0E291B
+#0e291b
 ボトル グリーン
 bottle green
-#0B2F31
+#0b2f31
 マートル グリーン
 myrtle green
 #273931
 ホリゾン ブルー
 horizon blue
-#B0E2F6
+#b0e2f6
 ナイル ブルー
 nile blue
-#418C8C
+#418c8c
 ベビー ブルー
 baby blue
-#CBECF6
+#cbecf6
 ケンブリッジ ブルー
 cambridge blue
-#54B6BE
+#54b6be
 スカイ ブルー
 sky blue
-#8BAFDB
+#8bafdb
 シレスティアル ブルー
 celestial blue
-#496F8E
+#496f8e
 ゼニスブルー
 zenith blue
-#999DB9
+#999db9
 ヴェニット
 vnet
-#02977D
+#02977d
 アクア マリン
 aqua marine
 #327585
 ターコイズ
 turquoise
-#0097A2
+#0097a2
 ポースリン ブルー
 porcelain blue
-#5E94A5
+#5e94a5
 フォーゲット ミー ノット
 forget me not
-#66B7D8
+#66b7d8
 パウダー ブルー
 powder blue
-#E6F6FC
+#e6f6fc
 ピーコック
 peacock
-#00586D
+#00586d
 エジプシアン ブルー
 egyptian blue
 #006785
@@ -474,73 +474,73 @@ vice
 #427596
 ウェッジウッド ブルー
 wedgewood blue
-#505B8C
+#505b8c
 ブルーエット
 bluette
-#5782A1
+#5782a1
 ハイドレンジア ブルー
 hydrangea blue
-#325E9A
+#325e9a
 サイアン ブルー
 cyan blue
-#5DBBB8
+#5dbbb8
 コバルト ブルー
 cobalt blue
-#1581C5
+#1581c5
 スマルト
 smalt
-#3A4789
+#3a4789
 サファイア ブルー
 sapphire blue
-#004D6A
+#004d6a
 ウルトラマリン
 ultramarine
-#2D3289
+#2d3289
 プルシアン ブルー
 prussian blue
-#392C87
+#392c87
 ロイヤル ブルー
 royal blue
-#004E8A
+#004e8a
 ガーター ブルー
 garter blue
-#00538D
+#00538d
 デルフト ブルー
 delft blue
-#002D64
+#002d64
 マリン ブルー
 marine blue
-#1847AA
+#1847aa
 ネイヴィブルー
 navy blue
-#001D3A
+#001d3a
 ミッドナイト ブルー
 midnight blue
-#1A1F47
+#1a1f47
 ラべンダー
 lavender
-#AB85B2
+#ab85b2
 ウィスタリア
 wisteria
-#7B639C
+#7b639c
 ライラック
 lilac
-#D191B4
+#d191b4
 マロウ
 mallow
-#C6639E
+#c6639e
 シスル
 thistle
 #822759
 ミネラル バイオレット
 mineral violet
-#926A90
+#926a90
 コバルト バイオレット
 cobalt violet
-#A269A8
+#a269a8
 パープル
 purple
-#4C045A
+#4c045a
 アメジスト
 amethyst
 #634669
@@ -549,67 +549,67 @@ amaranth purple
 #993945
 マゼンタ
 magenta
-#DE0067
+#de0067
 パンジー
 pansy
-#35178C
+#35178c
 フューシャ
 fuchsia
-#AE006D
+#ae006d
 アコナイト バイオレット
 aconite violet
 #661065
 マーリー
 murray
-#2E141C
+#2e141c
 ヘリオトロープ
 heliotrope
-#75106D
+#75106d
 プラム パープル
 plum purple
-#361A33
+#361a33
 ラズベリー
 raspberry
-#8A004F
+#8a004f
 レーズン
 raisins
 #491830
 ワイン
 wine
-#6B0032
+#6b0032
 ホワイト レド
 white lead
-#F9FBF9
+#f9fbf9
 アラバスター
 alabaster
-#FCDFD4
+#fcdfd4
 ミルク ホワイト
 milk white
-#FDFAED
+#fdfaed
 シルバー
 silver
-#B5B9BC
+#b5b9bc
 サンド
 sand
-#A69278
+#a69278
 アッシュ グレイ
 ash grey
-#C2B799
+#c2b799
 スモーク グレイ
 smoke grey
-#83857A
+#83857a
 パール グリーン
 pearl green
-#C2CEBA
+#c2ceba
 マウス グレイ
 mouse grey
 #777777
 ダブ グレイ
 dove gray
-#987C84
+#987c84
 ミスト
 mist
-#AF9090
+#af9090
 グラファイト
 graphite
 #000000

@@ -3,751 +3,751 @@ havane
 #948147
 アザレ
 azalee
-#E90A79
+#e90a79
 アトール
 atoll
-#F8AF7E
+#f8af7e
 アネモヌ
 anemone
-#AB1498
+#ab1498
 アプリコ
 apricot
-#EB8F07
+#eb8f07
 アリュミニヨム
 aluminium
-#7D847B
+#7d847b
 アルジル
 argile
-#A82257
+#a82257
 アルバートル
 albatre
-#F2F2F2
+#f2f2f2
 アントラシート
 anthracite
 #390000
 アンプル
 ambre
-#91714A
+#91714a
 アシエ
 acier
-#BFBFBF
+#bfbfbf
 アガート
 agate
-#00406F
+#00406f
 アニ
 anis
-#EBF293
+#ebf293
 アプサント
 absinthe
-#CFF894
+#cff894
 アマラント
 amarante
-#9E1870
+#9e1870
 アルザン
 alezan
-#E29E4B
+#e29e4b
 アルドアーズ
 ardoise
-#2C2E58
+#2c2e58
 アルマニャック
 armagnac
-#882C17
+#882c17
 ブルー アンディゴ ソンブル
 blue indigo sombre
-#2D33AC
+#2d33ac
 イヴォアール
 ivoire
-#FFF0B3
+#fff0b3
 イリス
 iris
-#5725CD
+#5725cd
 ヴァニーユ
 vanille
-#C9BA9E
+#c9ba9e
 ヴィオラッセ グリーゼ
 violace grise
-#A787A6
+#a787a6
 ヴィオレ
 violet
-#6501A0
+#6501a0
 ウイスキー
 whisky
-#ECC651
+#ecc651
 イロンデル
 hirondelle
-#726B61
+#726b61
 ヴァレック
 varech
-#80770D
+#80770d
 ヴィオリーヌ
 violine
 #840084
 ヴィゴーニュ
 vigogne
-#BF7939
+#bf7939
 ヴェール
 vert
-#71CC44
+#71cc44
 ヴェール アシード
 verr acide
-#9AD539
+#9ad539
 ヴェール アングレ
 vert anglais
-#6A7B06
+#6a7b06
 ヴェール エコッセ
 vert ecossais
-#4A8745
+#4a8745
 ヴェール サファリ
 vert safari
-#9B9F53
+#9b9f53
 ヴェール シャルトルーズ
 vert chartreuse
-#B9C525
+#b9c525
 ヴェール アマンド
 vert amande
-#74915B
+#74915b
 ヴェール ヴェロネーズ
 vert veronese
-#CEB66F
+#ceb66f
 ヴェール クレール
 vert clair
-#BFD028
+#bfd028
 ヴェール シプレ
 vert cypres
 #096438
 ヴェール ジョーヌ
 vert jaune
-#E1E465
+#e1e465
 ヴェール スカラベ
 vert scarabee
-#1F8C8F
+#1f8c8f
 ヴェール ティザーヌ
 vert tisane
-#C4D053
+#c4d053
 ヴェール ドゥ グリー
 vert-de-gris
-#446C63
+#446c63
 ヴェール ノアール
 vert noir
 #244800
 ヴェール パプゲ
 vert pabge
-#73762C
+#73762c
 ヴェール セラドン
 vert celadon
-#B4CC75
+#b4cc75
 ヴェール ドー
 vert d'eau
-#A6D9AB
+#a6d9ab
 ヴェール ニル
 vert nil
-#D1E4A0
+#d1e4a0
 ヴェール パスティーユ
 vert pastille
-#74A98A
+#74a98a
 ヴェール パーン
 vert paon
-#00917B
+#00917b
 ヴェール ビュイ
 vert buis
-#005E0C
+#005e0c
 ヴェール ブーテイユ
 vert bouteille
-#315A1B
+#315a1b
 ヴェール ブロンズ
 vert bronze
 #645924
 ヴェール ポンム
 vert pomme
-#99D650
+#99d650
 ヴェール ムース
 vert mousse
-#4F8C37
+#4f8c37
 ヴェール フォンセ
 vert fonce
-#CF7366
+#cf7366
 ヴェール プレーリー
 vert prairie
-#91C43C
+#91c43c
 ヴェール ポワ シシュ
 vert pois chiche
-#258B60
+#258b60
 ヴェルミヨン
 vermillon
-#EF2E3D
+#ef2e3d
 ヴェール レーテュ
 vert laitue
 #567517
 ヴェール ロゾー
 vert roseau
-#B9CE64
+#b9ce64
 ウートルメール
 outremer
-#32020A
+#32020a
 エカルラート
 ecarlate
-#EB0153
+#eb0153
 エグランティーヌ
 eglantine
-#EF36A5
+#ef36a5
 エピナール
 epinard
-#4B5029
+#4b5029
 ヴェール ロデン
 vert loden
 #567517
 エカイユ
 ecaille
-#6F493C
+#6f493c
 エキューム
 ecume
-#F2F589
+#f2f589
 エクリュ
 e'cru
-#FFD0A1
+#ffd0a1
 エマイユ
 email
-#FEF5B6
+#fef5b6
 エムロード
 emeraude
-#24A279
+#24a279
 エルブ
 herbe
 #619139
 オークル
 ocre
-#9A751D
+#9a751d
 オートリシャン
 autrichien
 #696201
 オリーヴ
 olive
-#64791A
+#64791a
 オーベルジーヌ
 aubergine
 #550953
 オーベルジーヌ ヴィヨラセ
 aubergine violacee
-#5B096C
+#5b096c
 オランジュ
 orange
-#FE812E
+#fe812e
 オランジュ ルーシー
 orange roussi
-#E27227
+#e27227
 カキ
 kaki
-#897D12
+#897d12
 カクテュス
 cactus
 #587955
 カシュー
 cachou
-#624F51
+#624f51
 カシュミール
 cachemire
-#D0BA95
+#d0ba95
 ガゾン
 gazon
-#7B8E2F
+#7b8e2f
 カナリ
 canari
-#F7C92D
+#f7c92d
 カネル
 cannelle
-#8D5B36
+#8d5b36
 カピュシーヌ
 capucine
-#D95C4F
+#d95c4f
 カフェ
 cafe
 #705038
 カフェ オ レ
 cafe au lait
-#B7AA89
+#b7aa89
 カラメル
 caramel
-#B4713F
+#b4713f
 ガランス
 garance
-#C40093
+#c40093
 カルマン
 carmin
-#8A0056
+#8a0056
 カルディナル
 cardinal
 #000000
 キュイヴル
 cuivre
-#BC5A45
+#bc5a45
 キュイッス ド ナンフ
 cuisse de nymph
-#C0AF98
+#c0af98
 グーミエ
 goumier
 #990045
 クラモアジー
 cramoisi
-#84004F
+#84004f
 グラフィット
 graphite
 #181818
 キューリー
 curry
-#B5A3D0
+#b5a3d0
 グリー アシェ
 gris acier
 #999999
 グリー オラージュ
 gris orage
-#C5B9B8
+#c5b9b8
 クラン
 clan
-#057E70
+#057e70
 グリー クレール
 gris clair
-#A9A29A
+#a9a29a
 グリー シエル
 gris ciel
-#D5D2BF
+#d5d2bf
 グリー テルー
 gris terreux
-#7B705E
+#7b705e
 グリー アルジル
 gris argile
-#7186A6
+#7186a6
 グリー グレ
 gris gres
-#BBB9A6
+#bbb9a6
 グリー サンドル
 gris cendre
-#664F44
+#664f44
 グリシーヌ
 glycine
-#D084C5
+#d084c5
 グリー フェール
 gris fer
-#75746C
+#75746c
 グリー フォンセ
 gris fonce
-#5F5B58
+#5f5b58
 グリー プロン
 gris plomb
-#A7A9A8
+#a7a9a8
 クルー ドゥ ジロフル
 clou de girofle
 #715940
 グリー ブルー
 gris blue
-#B9BABF
+#b9babf
 クルヴェット
 crevette
-#FE8594
+#fe8594
 グリー フラネル
 gris flanelle
-#68686A
+#68686a
 グリー モアイヤン
 gris moyen
-#AAAA9F
+#aaaa9f
 グリー プシェール
 gris poussiere
-#B3AA97
+#b3aa97
 グリー ペルル
 gris perle
-#B6B3A5
+#b6b3a5
 グルナ
 grenat
-#8B015B
+#8b015b
 グレージュ
 grege
-#BBB1A4
+#bbb1a4
 コック ドゥ ロシュ
 coq de roche
-#E3003F
+#e3003f
 サパン
 sapin
-#077A58
+#077a58
 コクリコー
 coquelicot
-#DF0250
+#df0250
 サアラ
 sahara
-#C8B82B
+#c8b82b
 グロゼイユ
 groseille
-#DD0085
+#dd0085
 コライユ
 corail
-#FF4D67
+#ff4d67
 クレムー
 cremeux
-#EAD0A2
+#ead0a2
 コニャック
 cognac
-#A44506
+#a44506
 サーブル
 sable
-#CAB69D
+#cab69d
 サーブル ムイエ
 sable mouille
-#B6A087
+#b6a087
 シェール
 chere
-#C0AF98
+#c0af98
 ジャサント
 jacinthe
-#EE82C2
+#ee82c2
 ジェラニョム
 geranium
-#F3236C
+#f3236c
 シマン
 ciment
-#8C8E8A
+#8c8e8a
 サングリエ
 sanglier
 #483131
 シトロネル
 citronelle
-#9DA651
+#9da651
 サラド
 salade
-#B5E366
+#b5e366
 シクラメン
 cyclamen
-#DA01AE
+#da01ae
 シャータン
 chatain
-#856A3F
+#856a3f
 シャトアイヤン
 chatoyant
-#B6B4D3
+#b6b4d3
 ジャンシャーヌ
 gentiane
-#5A58B6
+#5a58b6
 ショードロン
 chaudron
-#46463C
+#46463c
 シャルボヌー
 charbonneux
-#0A0A0A
+#0a0a0a
 ショコラ
 chocolat
-#7B4400
+#7b4400
 シャモア
 chamois
-#C59927
+#c59927
 ジュネ
 genet
-#FFD309
+#ffd309
 シャモー
 chameau
-#AF8C58
+#af8c58
 シャンパーニュ
 champagne
-#B5A795
+#b5a795
 ジョーヌ
 jaune
-#FAE701
+#fae701
 ジョーヌ アシード
 jaune acide
-#FEF810
+#fef810
 ジョーヌ ドゥ ナーブル
 jaune de naples
-#E2C13D
+#e2c13d
 ジョーヌ ブリアン
 jaune briand
-#CDBC94
+#cdbc94
 ジョーヌ ジョンキーユ
 jaune jonquille
-#FEEE2E
+#feee2e
 ジョーヌ パール
 jaune pale
-#FDF48E
+#fdf48e
 ジョーヌ シトロン
 jaune citron
-#EEF753
+#eef753
 ジョーヌ パイユ
 jaune paille
-#FBFE87
+#fbfe87
 ジョーヌ サフラン
 jaune safran
-#CCAF26
+#ccaf26
 ジョーヌ ナルシス
 jaune narcisse
-#FDF188
+#fdf188
 ジョーヌ ミモザ
 jaune mimosa
-#F5F814
+#f5f814
 ジョーヌ ムタールド
 jaune moutarde
-#DAC50A
+#dac50a
 セピア
 sepia
 #836301
 テート ドゥ ネーグル
 tete-de-negre
-#6A410F
+#6a410f
 セーグル
 seigle
-#835F01
+#835f01
 テートドゥシェーヌプリュレ
 tete de chene prulee
-#8F5F54
+#8f5f54
 スリーズ
 cerise
-#BC0163
+#bc0163
 ティユール
 tilleul
-#C9E86C
+#c9e86c
 スーリー
 souris
-#918D80
+#918d80
 タバ
 tabac
-#6C4F00
+#6c4f00
 テュイル
 tuile
-#B0665E
+#b0665e
 テュリップ
 tulipe
-#A94E75
+#a94e75
 テール ドンブル
 terre donbull
 #996142
 ナクレ
 nacre
-#D3D8C2
+#d3d8c2
 テール ドゥ シェーヌ ナテュレル
 terre de sienne naturelle
-#AB7D65
+#ab7d65
 トン ドゥ シャス
 tons de chasse
-#A57E1B
+#a57e1b
 テール キュイット
 terre cuite
-#B8783F
+#b8783f
 テール ドゥ シェーヌ ブリュレ
 terre de sienne brulee
 #623826
 トメット
 tomette
-#AF3501
+#af3501
 テュリップ ノアール
 tulipe noire
 #512754
 トマート
 tomate
-#FB5959
+#fb5959
 ナーシス
 narcisse
-#F7FE72
+#f7fe72
 ナンフェア
 nymphea
-#FEFA5A
+#fefa5a
 ノアール
 noir
 #000000
 パルム
 palme
-#9EA914
+#9ea914
 ノアゼット
 noisette
-#B37026
+#b37026
 パラ
 para
 #527351
 ネーフル
 nefle
-#65363A
+#65363a
 ノワ デュブレジル
 noix du bresil
-#604D00
+#604d00
 ニゼル
 nigelle
-#46A0D7
+#46a0d7
 ノワ
 noix
-#875FC1
+#875fc1
 パルム
 palme
-#794AC6
+#794ac6
 パン
 pin
-#006A68
+#006a68
 ピジョン
 pigeon
 #868379
 ピマン
 piment
-#C60059
+#c60059
 パンプルムース
 pamplemousse
-#FCEE3F
+#fcee3f
 ビストル
 bistre
-#5E3A00
+#5e3a00
 パン ブリュレ
 pain brule
-#A64F1A
+#a64f1a
 ピスタッシュ
 pistache
-#BAC53A
+#bac53a
 パンセ
 pensee
-#5A01B5
+#5a01b5
 ビスキュイ
 biscuit
-#D38245
+#d38245
 ビーヤール
 billard
-#02623E
+#02623e
 ビュイソン
 buisson
-#67664E
+#67664e
 フォーヴ
 fauve
-#D6A458
+#d6a458
 フュクシャ ブルー
 fuchsia blue
-#BD00BD
+#bd00bd
 フィセル
 ficelle
-#D3CEB0
+#d3ceb0
 フヌイユ
 fenouil
-#AEB3A2
+#aeb3a2
 フー
 feu
-#EE432B
+#ee432b
 プーサン
 poussin
-#FDE301
+#fde301
 ピュース
 puce
-#6A1A2E
+#6a1a2e
 ブーガンヴィレ
 bougainvillee
-#D07896
+#d07896
 フュクシャ ローズ
 fuchsia rose
-#C400AB
+#c400ab
 フラマン ローズ
 flamant rose
-#F3ABA0
+#f3aba0
 ブラン カーセ
 blanc casse
-#FFFEFD
+#fffefd
 ブラン ルージュ
 brun rouge
-#750F3A
+#750f3a
 ブラン ヴァン ディック
 brun van dyck
-#76565F
+#76565f
 フランボアーズ
 framboise
-#DF0287
+#df0287
 ブラン
 brun
-#8F5836
+#8f5836
 ブラン フォンセ
 brun fonce
-#422B1E
+#422b1e
 プラリーヌ
 praline
 #995100
 ブラン ネージュ
 blanc neige
-#FFFFFF
+#ffffff
 ブリック
 brique
-#AF6241
+#af6241
 ブリュイエール
 bruyere
-#C08FBD
+#c08fbd
 ブールジョン
 bourgeon
-#ABBE7E
+#abbe7e
 ブルー アドリアティック
 blue adriatique
 #000099
 ブールゴーニュ
 bourgogne
-#80006C
+#80006c
 ブルー アジュール
 blue azur
-#74B4C9
+#74b4c9
 プリューヌ
 prune
 #791367
 ブルー アシード
 blue acide
-#0A77B1
+#0a77b1
 ブリュニョン
 brugnon
-#BC105E
+#bc105e
 プールプル
 pourpre
-#8B0181
+#8b0181
 ブルー アルメ ドゥ レール
 blue armee de l'air
 #000051
 ブルー アングレー
 blue anglais
-#22039E
+#22039e
 ブルー オパラン
 blue opalin
-#819CA7
+#819ca7
 ブルー グリーゼ
 blue grise
-#7C9CCD
+#7c9ccd
 ブルー ヴェール ダンス
 blue vert dense
 #018989
 ブルー カナール
 blue canard
-#037B85
+#037b85
 ブルー ヴィヨレ
 blue violet
-#52007D
+#52007d
 ブルー オルタンシャ
 blue hortensia
-#7572FE
+#7572fe
 インディゴ
 indigo
-#043C78
+#043c78
 ブルーインディゴーソンブル
 blue indigo sombre
-#0C2B96
+#0c2b96
 ブルー オリヤン
 blue orient
-#3191B0
+#3191b0
 ブルー クレール
 blue clair
-#85BEBA
+#85beba
 ブルー ゴーロアーズ
 blue gauloise
-#82AFD0
+#82afd0
 ブルー デュール
 blue dur
-#0000AE
+#0000ae
 ブルー パール
 blue pale
-#91EEE0
+#91eee0
 ブルー テュルコアーズ
 blue turquoise
-#28799B
+#28799b
 ブルー ニュイ
 blue nuit
-#00376F
+#00376f
 ブルー ジターヌ
 blue gitane
-#0F52B7
+#0f52b7
 ブルー ナティエ
 blue nattier
 #488995
 ブルー シェル
 blue ciel
-#02C4B5
+#02c4b5
 ブルー ドゥ シーヌ
 blue de chine
 #004080
@@ -756,97 +756,97 @@ blue paon
 #420265
 ブルー ファイヤンス
 blue faience
-#81A4C4
+#81a4c4
 ブルー ペトロル
 blue petrole
-#1D9BB1
+#1d9bb1
 ブルー メディテラネ
 blue mediterranee
-#0046AE
+#0046ae
 ブルー ブルイヤール
 blue brouillard
-#9AAAAF
+#9aaaaf
 ブルー ミヨゾティース
 blue myosotis
-#283D82
+#283d82
 ブルー ブルーエ
 blue bleuet
-#01529A
+#01529a
 ブルー マリーヌ
 blue marine
-#283D82
+#283d82
 ブルー フュメ
 blue fume
-#859AB1
+#859ab1
 ブルー ポルスレーヌ
 blue porcelaine
-#88C6D2
+#88c6d2
 ブルー ラヴァンド
 blue lavande
-#AA99D0
+#aa99d0
 ブルー ロワ
 blue roi
-#5260AD
+#5260ad
 ブロン
 blond
-#FFD955
+#ffd955
 ベージュ フロワ
 beige froid
-#BEBC94
+#bebc94
 ブーロー
 bouleau
 #979468
 ベージュ グリーゼ
 beige grise
-#9B8160
+#9b8160
 ブレーズ
 braise
-#BF4040
+#bf4040
 ベージュ
 beige
-#CCA775
+#cca775
 ブルー ロワイヤル
 blue royal
-#564BB6
+#564bb6
 ブロンズ
 bronze
-#82724D
+#82724d
 ベージュ ローゼ
 beige rose
-#E3A577
+#e3a577
 ペッシュ
 peche
-#F1DBC7
+#f1dbc7
 ポアーヴル ヴェール
 poiver vert
-#7D8053
+#7d8053
 ボワ ドゥ ローズ
 bois de rose
-#B3849B
+#b3849b
 ベルランゴー
 berlingot
-#F8AE34
+#f8ae34
 ボワ
 bois
-#8A6D4F
+#8a6d4f
 ペルヴァンシュ
 pervenche
-#3868A3
+#3868a3
 ボルドー フォンセ
 bordeaux fonce
 #680663
 ペテュニア
 petunia
-#FB00AF
+#fb00af
 ボルドー クレール
 bordeaux clair
-#7C0364
+#7c0364
 ボワ フリュイティエ
 bois fruitier
-#CC7D5B
+#cc7d5b
 マイース
 mais
-#E8C431
+#e8c431
 マロン
 marron
 #844500
@@ -855,157 +855,157 @@ marron chaud
 #895043
 マロカン
 marocan
-#612F14
+#612f14
 マロン グラッセ
 marron glaces
-#BFA68A
+#bfa68a
 マスティック
 mastic
-#A9A59A
+#a9a59a
 マロン アッスールディ
 marron assourdi
 #785200
 マカダム
 macadam
-#3E423C
+#3e423c
 マロン アカジュ
 marron acajou
-#6A2C26
+#6a2c26
 マンダリーヌ
 mandarine
-#FF5959
+#ff5959
 マント
 menthe
-#00A265
+#00a265
 ムエット
 mouette
-#C0BEA9
+#c0bea9
 ラピス ラジュリ
 lapis-lazuli
 #006297
 ミョゾティス
 myosotis
-#5B7B8E
+#5b7b8e
 ラック
 laque
 #820551
 ミュール
 mure
-#40005B
+#40005b
 モーヴ
 mauve
-#D8C9D7
+#d8c9d7
 ミエル
 miel
-#FBC50B
+#fbc50b
 ムリジエ
 merisier
-#BB6605
+#bb6605
 ラン
 lan
-#C4A577
+#c4a577
 リエージュ
 liege
-#A07149
+#a07149
 リー ドゥ ヴァン
 lie-de-vin
-#89013F
+#89013f
 ルージュ
 rouge
-#F00042
+#f00042
 リズロン
 liseron
-#E482C2
+#e482c2
 ルイユ
 rouille
-#D55C53
+#d55c53
 リケン
 lichen
-#9FBB97
+#9fbb97
 ルー
 roux
-#DD8C2B
+#dd8c2b
 リエール
 lierre
-#1E6F5A
+#1e6f5a
 リラ
 lilas
-#CDA7FC
+#cda7fc
 ルージュ アルダン
 rouge ardent
-#F00066
+#f00066
 ルージュ ヴィフ
 rouge vif
-#F00078
+#f00078
 ルージュ ダングルテール
 rouge dan guru tail
-#BC5F3A
+#bc5f3a
 レゼダ
 reseda
-#CCE193
+#cce193
 ルージュ テルニ
 rouge terni
-#BE5678
+#be5678
 ルノンキュール
 renoncule
-#E7C523
+#e7c523
 ルージュ サン
 rouge sang
-#B0003E
+#b0003e
 ルージュ リュビ
 rouge rubis
-#BF0060
+#bf0060
 ルージュ オランジェ
 rouge orange
-#FF522D
+#ff522d
 ルージュ ド フェール
 rouge de fair
-#9B5033
+#9b5033
 ロワイヤルエールフォルス
 royal air force
 #415976
 ローズ
 rose
-#DF9FAB
+#df9fab
 ローズ コライユ
 rose corail
-#AC4A6A
+#ac4a6a
 ローズ テ
 rose the
-#F4C6A6
+#f4c6a6
 ローズ オルタンシャ
 rose hortensia
-#F374DA
+#f374da
 ローズ タンドル
 rose tendre
-#FAB1D8
+#fab1d8
 ローズ イビス
 rose ibis
-#E46D94
+#e46d94
 ローズ ソーモン
 rose saumon
-#F8AFA5
+#f8afa5
 ローズ アンディヤン
 rose indien
-#F36186
+#f36186
 ローズ ショッキング
 rose shocking
-#FF1A81
+#ff1a81
 ローズ ドラジェ
 rose dragee
-#EED0DF
+#eed0df
 ローズ パール
 rose pale
-#DE87AA
+#de87aa
 ローズ プードル
 rose poudre
-#F1C2CD
+#f1c2cd
 ローズ ビュヴァール
 rose buvard
-#D8A5AD
+#d8a5ad
 ローズ ペーシュ
 rose peche
-#DF669F
+#df669f
 ローリエ
 laurier
-#1B6358
+#1b6358

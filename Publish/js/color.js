@@ -19,6 +19,40 @@ class Color {
     }
 
     /**
+     * 文字列からインスタンスを作成します。
+     * @param {String} expression インスタンスを表す文字列。
+     * @returns {Color} 新しいインスタンスを返します。
+     */
+    static createFromString = expression => {
+        const values = expression.split("|");
+        return new Color(
+            values[0],
+            values[1],
+            values[2],
+            {
+                name: values[3],
+                phonetic: values[4],
+                hex: values[5]
+            }
+        );
+    }
+
+    /**
+     * このインスタンスを表す文字列を取得します。
+     * @returns {String} このインスタンスを表す文字列を返します。
+     */
+    toString = () => {
+        return [
+            this.category,
+            this.region,
+            this.country,
+            this.name,
+            this.phonetic,
+            this.hex
+        ].join("|");
+    }
+
+    /**
      * ヘックスをRGBに変換します。
      * @param {String} hex 色コード。
      * @returns {Object} RGBを返します。

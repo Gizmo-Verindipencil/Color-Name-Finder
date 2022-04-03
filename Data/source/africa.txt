@@ -1,57 +1,57 @@
 ザンジバール
 zanzibar
-#FD0013
+#fd0013
 ノース アフリカ
 north africa
-#F62713
+#f62713
 ウェスタン サハラ
 western sahara
-#FA321F
+#fa321f
 スワジランド
 swaziland
-#ED3524
+#ed3524
 イースト アフリカ
 east africa
-#FF8040
+#ff8040
 リビア
 libya
-#FF8042
+#ff8042
 ボツワナ
 botswana
-#FF8044
+#ff8044
 ウェスト アフリカ
 west africa
-#00FF00
+#00ff00
 アルジェリア
 algeria
-#00FF02
+#00ff02
 ジンバブエ
 zimbabwe
-#00FF04
+#00ff04
 サザン アフリカ
 southern africa
-#00FFF5
+#00fff5
 エジプト
 egypt
-#00FFF9
+#00fff9
 サファリ アフリカ
 south africa
-#00FFFF
+#00ffff
 モロッコ
 morocco
-#0000FF
+#0000ff
 ナミビア
 namibia
-#3300FF
+#3300ff
 サハラ アフリカ
 saharan africa
-#3300CC
+#3300cc
 トゥアレグ
 touareg
-#051A3B
+#051a3b
 アフリカンバイオレット
 african violet
-#3D1C79
+#3d1c79
 セントラル アフリカ
 central africa
 #800085
@@ -63,16 +63,16 @@ lesotho
 #800089
 サハラ
 sahara
-#B2864E
+#b2864e
 スーダン ブラウン
 sudan brown
-#9F4F05
+#9f4f05
 アフリカン ブラウン
 african brown
-#40201B
+#40201b
 サファリ
 safari
-#303B29
+#303b29
 ギニ グリーン
 gini green
 #005558

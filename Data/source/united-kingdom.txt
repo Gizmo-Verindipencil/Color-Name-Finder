@@ -1,492 +1,492 @@
 ベビー ピンク
-Baby Pink
-#FFC6D6
+baby pink
+#ffc6d6
 シェル ピンク
-Shell Pink
-#FFBDB3
+shell pink
+#ffbdb3
 フレッシュ ピンク
-Fresh Pink
-#F2D5CC
+fresh pink
+#f2d5cc
 パステル ピンク
-Pastel Pink
-#FC9DB8
+pastel pink
+#fc9db8
 ローズ ピンク
-Rose Pink
-#F55064
+rose pink
+#f55064
 ピンク
-Pink
-#DFAEB1
+pink
+#dfaeb1
 フレンチ ローズ
-French Rose
-#EF8184
+french rose
+#ef8184
 ピーチ ブロッサム
-Peach Blossam
-#D5C1CE
+peach blossam
+#d5c1ce
 ロータス
-Lotus
-#CF8878
+lotus
+#cf8878
 ティー ローズ
-Tea Rose
-#D8B197
+tea rose
+#d8b197
 サーモン ピンク
-Salmon Pink
-#FF9C8C
+salmon pink
+#ff9c8c
 オーロラ
-Aurora
-#FFCEC6
+aurora
+#ffcec6
 ヴァイナス
-Vinous
-#B1988F
+vinous
+#b1988f
 コスモス
-Cosmos
-#F39AAB
+cosmos
+#f39aab
 コーリンシアン ピンク
-Corinthian Pink
-#C49793
+corinthian pink
+#c49793
 チェリー ピンク
-Cherry Pink
-#F05187
+cherry pink
+#f05187
 フクシァ ピンク
-Fuchsia Pink
-#FC9DB8
+fuchsia pink
+#fc9db8
 ダフニー ピンク
-Daphne Pink
-#A26168
+daphne pink
+#a26168
 カーネーション
-Carnation
-#D37A83
+carnation
+#d37a83
 シェリンプ ピンク
-Shrimp Pink
-#DC7563
+shrimp pink
+#dc7563
 コーラル ピンク
-Coral Pink
-#FF9888
+coral pink
+#ff9888
 ローズ ポンパドウル
-Rose Pompadour
-#A66061
+rose pompadour
+#a66061
 エンパイア ローズ
-Empire Rose
-#F08687
+empire rose
+#f08687
 フラミンゴ
-Flamingo
-#EF8865
+flamingo
+#ef8865
 エトラスカン ローズ
-Etruscan Rose
-#B0755C
+etruscan rose
+#b0755c
 アッシズ オブ ローズ
 ashes of rose
-#B86D77
+#b86d77
 ローズ レッド
 rose red
-#E31262
+#e31262
 カメリア
 camellia
-#E85466
+#e85466
 ゼラニウム
 geranium
-#E22838
+#e22838
 チェリー
 cherry
-#D00026
+#d00026
 シグナル レッド
 signal red
-#E0002A
+#e0002a
 ユニオンジャッグレッド
 signal red
-#E60032
+#e60032
 カーマイン
 carmine
-#E10041
+#e10041
 ターキー レッド
 turkey red
-#B21D33
+#b21d33
 ポピーレッド
 poppy red
-#CE382B
+#ce382b
 カーディナル
 cardinal
-#891E34
+#891e34
 クリムスン レーキ
 crimson rake
-#AA0044
+#aa0044
 ポメグラネイト
-Pomegranate
-#CF498F
+pomegranate
+#cf498f
 シナバー
 cinnabar
-#ED2F1F
+#ed2f1f
 セントパトリッククロス
-Cent Patrick cross
-#FF0000
+cent patrick cross
+#ff0000
 トマト レッド
 tomato red
-#C13321
+#c13321
 ルビー
 ruby
-#AE003A
+#ae003a
 イングリッシュ レッド
 english red
-#D47467
+#d47467
 オクサイドレッド
 oxide red
-#7F3330
+#7f3330
 オックスブラッド レッド
-Oxblood Red
-#7B2B47
+oxblood red
+#7b2b47
 ボール
-Bole
-#9B5033
+bole
+#9b5033
 バーガンディ
 burgundy
-#3C1117
+#3c1117
 マホガニー
 mahogany
-#4B1016
+#4b1016
 フリー
-Flea
-#6A1A2E
+flea
+#6a1a2e
 オパール ピーチ
 opal peach
-#F0BCB7
+#f0bcb7
 フレッシュ
 flesh
-#FFC8AB
+#ffc8ab
 アプリコット
 apricot
-#F79469
+#f79469
 サンセット
 sunset
-#D4A56F
+#d4a56f
 サンバーン
 sunburn
-#AF7C54
+#af7c54
 ファイアー レッド
 fire red
-#E23724
+#e23724
 キャロット オレンジ
 carrot orange
-#E97117
+#e97117
 タンジェリン
 tangerine
-#DD562E
+#dd562e
 オレンジ
 orange
-#FD680D
+#fd680d
 メイズ
 maize
-#EBAC85
+#ebac85
 クローム オレンジ
 chrome orange
-#FE6D0D
+#fe6d0d
 アンバー
 amber
-#BC753B
+#bc753b
 モロッコ レッド
 morocco red
-#86002C
+#86002c
 キャラメル
 caramel
-#D47643
+#d47643
 タン
 tan
-#DE772C
+#de772c
 トパーズ
 topaz
-#C47C50
+#c47c50
 ムーンライト
 moon light
-#FCD8B1
+#fcd8b1
 ベージュ
 beige
-#E3B797
+#e3b797
 フラックス
 flax
-#EBC6A9
+#ebc6a9
 ブロンド
 blond
-#E0B188
+#e0b188
 カフェ オ レ
 cafe au lait
-#C88659
+#c88659
 ビスケット
 biscuit
-#FFB989
+#ffb989
 バーチメント
 parchment
-#C0AB8A
+#c0ab8a
 シャンパーニュ
 champagne
-#E7BF7C
+#e7bf7c
 キャメル
 camel
-#B57A59
+#b57a59
 グレージュ
 grege
-#9E756C
+#9e756c
 フォーン
 fawn
-#AD775A
+#ad775a
 シャモア
 chamois
-#F7C2C2
+#f7c2c2
 バーント シエンナ
 burnt sienna
-#B75237
+#b75237
 ブリック レッド
 brick red
-#9C302A
+#9c302a
 ブラウン
 brown
-#5C3418
+#5c3418
 ローシェンナ
 raw sienna
-#86410B
+#86410b
 ローアンバー
 raw umber
-#854E38
+#854e38
 カフェ
-Caffee
-#604A2B
+caffee
+#604a2b
 マルーン
 maroon
-#56001D
+#56001d
 メイフェイア ローズ
 maroon
 #670026
 リバー
 liver
-#8B6165
+#8b6165
 ヘンナ
 henna
-#9A1912
+#9a1912
 ラセット
 russet
-#AD5F47
+#ad5f47
 チェスナット ブラウン
 chestnut brown
-#68412F
+#68412f
 ブルネット
-Brunette
-#87745C
+brunette
+#87745c
 チョコレート
 chocolate
-#3E1F0F
+#3e1f0f
 セピア
 sepia
 #402923
 ヴァンダイク ブラウン
 vandike brown
-#7F5139
+#7f5139
 アイボリー
 ivory
-#F1E1CE
+#f1e1ce
 ヴァニラ
 vanilla
-#E1C79A
+#e1c79a
 レグホーン
 leghorn
-#E7C59C
+#e7c59c
 クリーム
 cream
-#FFF4DC
+#fff4dc
 ストロー
 straw
-#F2DB9C
+#f2db9c
 マシコット
 massicot
-#FCCDA2
+#fccda2
 サルファー イエロー
 sulphar yellow
-#FFD93C
+#ffd93c
 ダイヤーズブルーム
 dyres broom
-#C5BE82
+#c5be82
 ミモザ
 mimosa
-#FFCD25
+#ffcd25
 ネープルス イエロー
 naples yellow
-#FFBC7B
+#ffbc7b
 ハニー イエロー
 honey yellow
-#B68954
+#b68954
 ガンボージ
 gamboge
-#E2B55B
+#e2b55b
 オーピメント
-Orpiment
-#D9B453
+orpiment
+#d9b453
 ウェルド
 weld
-#C1BC55
+#c1bc55
 インディアン イエロー
 indian yellow
-#FF9700
+#ff9700
 ダファディル イエロー
 daffodil yellow
-#EDAA5A
+#edaa5a
 サフラン イエロー
 saffran yellow
-#FFAF00
+#ffaf00
 クローム イエロー
 chrome yellow
-#F4C600
+#f4c600
 ヨーク イエロー
 yolk yellow
-#F3B927
+#f3b927
 カナリー
 canary
-#FFD718
+#ffd718
 バナナ
 banana
-#F5D300
+#f5d300
 レモン イエロー
 lemon yellow
-#FEC300
+#fec300
 マスタード
 mustard
-#E3AB0D
+#e3ab0d
 ロンドン ゴールド
 mustard
-#CC7F0F
+#cc7f0f
 シャトルーズ イエロー
 chartreuse yellow
-#EADE5D
+#eade5d
 ユニオン ジャッグ
 union jug
-#F0E889
+#f0e889
 ゴールド
 gold
-#A37E00
+#a37e00
 グリーシァン ローズ
 grecian bronze
-#FA9685
+#fa9685
 オリーブ
 olive
-#584C0F
+#584c0f
 ライム グリーン
 lime green
-#CFD10C
+#cfd10c
 シーフォーム グリーン
 sea foam green
-#BDCE96
+#bdce96
 ピスタチオ グリーン
-bistachio Green
-#ABC789
+bistachio green
+#abc789
 ナイト グリーン
 night green
-#45AA31
+#45aa31
 グリニッジ
 night green
-#4E9432
+#4e9432
 エッグシェル グリーン
 eggshell green
-#87AC9E
+#87ac9e
 グラス グリーン
 grass green
-#96BE7B
+#96be7b
 グローカス
 glaucas
-#B6BEA2
+#b6bea2
 アップル グリーン
 apple green
-#97BE1C
+#97be1c
 ゲイグリーン
 gay green
-#5C700A
+#5c700a
 ピーグリーン
 pea green
-#93B17D
+#93b17d
 スプリング グリーン
 spring green
-#B4CB5E
+#b4cb5e
 ウィロー グリーン
 willow green
-#95875A
+#95875a
 サウディー グリーン
-Caudy Green
+caudy green
 #718451
 モス グリーン
 moth green
-#7B7C46
+#7b7c46
 リンカーン グリーン
 lincoln green
-#615C41
+#615c41
 オリーブ グリーン
 olive green
-#3B3F10
+#3b3f10
 フラワードリュース
 flower drew
-#5C7449
+#5c7449
 シュヴァインフルト
 schweinfurt
-#00AE42
+#00ae42
 ミント
 mint
 #006252
 クローム グリーン
 chrome green
-#00885F
+#00885f
 マラカイト グリーン
 malachite green
 #347655
 ヴェルディグリ
 verdigris
-#5BA080
+#5ba080
 ミスルトー
 mistletoe
-#576A3E
+#576a3e
 ハンター グリーン
 hunter green
-#0E291B
+#0e291b
 ボトル グリーン
 bottle green
-#0B2F31
+#0b2f31
 マートル グリーン
 myrtle green
 #273931
 ホリゾン ブルー
 horizon blue
-#B0E2F6
+#b0e2f6
 ナイル ブルー
 nile blue
-#418C8C
+#418c8c
 ベビー ブルー
 baby blue
-#CBECF6
+#cbecf6
 ケンブリッジ ブルー
 cambridge blue
-#54B6BE
+#54b6be
 スカイ ブルー
 sky blue
-#8BAFDB
+#8bafdb
 シレスティアルブルー
 celestial blue
-#496F8E
+#496f8e
 ゼニスブルー
 zenith blue
-#999DB9
+#999db9
 ヴェニット
-Venet
-#02977D
+venet
+#02977d
 アクア マリン
 aqua marine
 #327585
 ターコイズ
 turquoise
-#0097A2
+#0097a2
 ポースリン ブルー
 porcelain blue
-#5E94A5
+#5e94a5
 フォーゲットミーノット
 forget me not
-#66B7D8
+#66b7d8
 パウダー ブルー
 powder blue
-#E6F6FC
+#e6f6fc
 ピーコック
-Peacock
-#00586D
+peacock
+#00586d
 エジプシアン ブルー
 egyptian blue
 #006785
@@ -495,160 +495,160 @@ vice
 #427596
 ポンパドール ピンク
 pompadour pink
-#FD90A5
+#fd90a5
 ウェッジウッド ブルー
 wedgewood blue
-#505B8C
+#505b8c
 ブルーエット
 bluette
-#5782A1
+#5782a1
 ハイドレンジア ブルー
 hydrangea blue
-#325E9A
+#325e9a
 サイアン ブルー
 cyan blue
-#5DBBB8
+#5dbbb8
 コバルト ブルー
 cobalt blue
-#1581C5
+#1581c5
 スマルト
 smalt
-#3A4789
+#3a4789
 サファイア ブルー
 sapphire blue
-#004D6A
+#004d6a
 ウルトラマリン
 ultramarine
-#2D3289
+#2d3289
 プルシアン ブルー
 prussian blue
-#392C87
+#392c87
 ユニオン ジャック
 union jack
 #385086
 ロイヤル ブルー
 royal blue
-#004E8A
+#004e8a
 ガーター ブルー
 garter blue
-#00538D
+#00538d
 デルフト ブルー
 delft blue
-#002D64
+#002d64
 マリン ブルー
 marine blue
-#1847AA
+#1847aa
 ネイヴィブルー
 navy blue
-#001D3A
+#001d3a
 ミッドナイト ブルー
 midnight blue
-#1A1F47
+#1a1f47
 ロンドン トワイライト
 midnight blue
-#1A2D4F
+#1a2d4f
 ウェストミンスター
 midnight blue
-#0B004E
+#0b004e
 ラべンダー
 lavender
-#AB85B2
+#ab85b2
 ウィスタリア
 wisteria
-#7B639C
+#7b639c
 ライラック
 lilac
-#D191B4
+#d191b4
 マロウ
 mallow
-#C6639E
+#c6639e
 チェルシー ピンク
 mallow
-#AB5677
+#ab5677
 シスル
 thistle
 #822759
 ミネラル バイオレット
 mineral violet
-#926A90
+#926a90
 コバルト バイオレット
 cobalt violet
-#A269A8
+#a269a8
 パープル
 purple
-#4C045A
+#4c045a
 アメジスト
 amethyst
 #634669
 アメジスト パープル
-Amaranth Purple
+amaranth purple
 #993945
 マゼンタ
 magenta
-#DE0067
+#de0067
 パンジー
 pansy
-#35178C
+#35178c
 フューシャ
 fuchsia
-#AE006D
+#ae006d
 アコナイトバイオレット
 aconite violet
 #661065
 マルベリー
 mulberry
-#4A273B
+#4a273b
 ヘリオトロープ
 heliotrope
-#75106D
+#75106d
 プラム パープル
 plum purple
-#361A33
+#361a33
 ラズベリー
 raspberry
-#8A004F
+#8a004f
 レーズン
 raisins
 #491830
 ワイン
 wine
-#6B0032
+#6b0032
 ホワイト
-White
-#FFFFFF
+white
+#ffffff
 アラバスター
 alabaster
-#FCDFD4
+#fcdfd4
 ミルク ホワイト
 milk white
-#FDFAED
+#fdfaed
 ペールホワイトリリー
 pale white lily
-#FDF6DB
+#fdf6db
 シルバー
 silver
-#B5B9BC
+#b5b9bc
 サンド
 sand
-#A69278
+#a69278
 アッシュ グレイ
 ash grey
-#C2B799
+#c2b799
 スモーク グレイ
-Smoke Grey
-#83857A
+smoke grey
+#83857a
 パール グリーン
 pearl green
-#C2CEBA
+#c2ceba
 マウス グレイ
 mouse grey
 #777777
 ダブ グレイ
 dove gray
-#987C84
+#987c84
 ミスト
 mist
-#AF9090
+#af9090
 グラファイト
 graphite
 #000000
@@ -656,11 +656,11 @@ graphite
 goose gray
 #323934
 ブラック
-Black
+black
 #000000
 イングランド
 england
-#FF2A2A
+#ff2a2a
 スコットランド
 scotland
 #212178
@@ -668,101 +668,101 @@ scotland
 wales
 #800000
 ノーザン アイルランド
-northern Ireland
+northern ireland
 #165016
 チャンネルアイスランド
-channel Islands
-#0066FF
+channel islands
+#0066ff
 アイル オブ マン
 isle of man
-#D45500
+#d45500
 ロンドン
 london
 #000080
 サウス イースト
 south east
-#44AA00
+#44aa00
 ウエスト カントリー
 west country
-#2AD4FF
+#2ad4ff
 イースト アングリア
 east anglia
-#D4AA00
+#d4aa00
 イースト ミッドランド
 east midlands
-#3B5781
+#3b5781
 ウエスト ミッドランド
 west midlands
-#921FAF
+#921faf
 ヨークシャイア
 yorkshire
-#FFEEAA
+#ffeeaa
 ノース ウエスト
 north west
-#C10000
+#c10000
 ノース イースト
 north east
-#C87137
+#c87137
 ボーダーズ
 borders
-#D4AA00
+#d4aa00
 サウス ウエスト
 south west
-#55D400
+#55d400
 セントラル ベルト
 central belt
-#0000D4
+#0000d4
 ハイランド
 highlands
-#B380FF
+#b380ff
 ノース イースト スコットランド
 north east scotland
-#FF0000
+#ff0000
 ヘブリデス
 hebrides
-#87AADE
+#87aade
 オークニー アイランド
 orkney islands
-#D5D5FF
+#d5d5ff
 シェトランド アイランド
 shetland islands
-#AFE9DD
+#afe9dd
 ノース ウェールズ
 north wales
-#8DD35F
+#8dd35f
 ミド ウェールズ
 mid wales
-#A0892C
+#a0892c
 サウス ウェールズ
 south wales
-#D40000
+#d40000
 カウンティ アントリム
 county antrim
-#00AA00
+#00aa00
 カウンティ アーマー
 county armagh
-#87DE87
+#87de87
 カウンティ ロンドンデリー
 county londonderry
 #447821
 カウンティ ダウン
 county down
-#5FD35F
+#5fd35f
 カウンティ ファーマナ
 county fermanagh
-#AADE87
+#aade87
 カウンティ ティロン
 county tyrone
-#71C837
+#71c837
 オックスフォードシャー
 oxfordshire
 #447821
 バッキンガムシャー
 buckinghamshire
-#5AA02C
+#5aa02c
 バークシャー
 berkshire
-#8DD35F
+#8dd35f
 ハンプシャー
 hampshire
 #225500
@@ -770,194 +770,194 @@ hampshire
 surrey
 #008000
 ウェスト サセックス
-west Sussex
-#AADE87
+west sussex
+#aade87
 イースト サセックス
-east Sussex
-#CCFFAA
+east sussex
+#ccffaa
 ケント
 kent
-#44AA00
+#44aa00
 アイル オブ ワイト
 isle of wight
-#B3FF80
+#b3ff80
 グロスターシャー
 gloucestershire
-#87CDDE
+#87cdde
 コーンウォール
 cornwall
-#2AD4FF
+#2ad4ff
 ウィルトシャー
 wiltshire
-#AAEEFF
+#aaeeff
 サマーセット
 somerset
-#80E5FF
+#80e5ff
 ドーセット
 dorset
 #216778
 デボン
 devon
-#0088AA
+#0088aa
 アイルズ オブ シリー
 isles of scilly
-#162D50
+#162d50
 ハートフォードシャー
 hertfordshire
 #554400
 エセックス
 essex
-#D3BC5F
+#d3bc5f
 ベッドフォードシャー
 bedfordshire
 #786721
 ケンブリッジシャー
 cambridgeshire
-#A0892C
+#a0892c
 サフォーク
 suffolk
-#E9DDAF
+#e9ddaf
 ノーフォーク
 norfolk
-#D4AA00
+#d4aa00
 ノーサンプトンシャー
 northamptonshire
-#0044AA
+#0044aa
 レスターシャー
 leicestershire
 #214478
 ダービーシャー
 derbyshire
-#162D50
+#162d50
 ノッティンガムシャー
 nottinghamshire
 #000080
 リンカーンシャー
 lincolnshire
-#5599FF
+#5599ff
 ラトランド
 rutland
-#2C5AA0
+#2c5aa0
 ヘレフォードシャー
 herefordshire
-#DD55FF
+#dd55ff
 ウスターシャー
 worcestershire
-#CD87DE
+#cd87de
 ウォーリックシャー
 warwickshire
-#8D5FD3
+#8d5fd3
 ウェスト ミドランド カウンティ
-west Midlands County
+west midlands county
 #660080
 シュロップシャー
 shropshire
-#C837AB
+#c837ab
 スタッフォードシャー
 staffordshire
 #800066
 ノース ヨークシャー
 north yorkshire
-#FFEEAA
+#ffeeaa
 イースト ヨークシャー
 east yorkshire
-#D3BC5F
+#d3bc5f
 サウス ヨークシャー
 south yorkshire
-#E9DDAF
+#e9ddaf
 ウェスト ヨークシャー
 west yorkshire
-#FFDD55
+#ffdd55
 チェシャー
 cheshire
-#FF5555
+#ff5555
 マージーサイド
 merseyside
-#50162D
+#50162d
 グレイター マンチェスター
 greater manchester
-#AA0000
+#aa0000
 ランカシャー
 lancashire
-#D40000
+#d40000
 カンブリア
 cumbria
-#FF8080
+#ff8080
 クリーブランド
 cleveland
 #784421
 カウンティ ダーラム
 county durham
-#D45500
+#d45500
 タイン アン ウィア
 tyne and wear
 #803300
 ノーサンバーランド
 northumberland
-#C87137
+#c87137
 エアシャー
 ayrshire
 #338000
 クライズデール
 clydesdale
-#00D400
+#00d400
 ダンフリース アンド ギャロウェー
 dumfries and galloway
-#55D400
+#55d400
 アイル オブ アラン
 isle of arran
-#AAFFAA
+#aaffaa
 クライドサイド
 clydeside
-#0000AA
+#0000aa
 ロジアン
 the lothians
-#2C2CA0
+#2c2ca0
 スターリングシャー
 stirlingshire
-#0000D4
+#0000d4
 クラックマナンシャイア
 clackmannanshire
-#5F5FD3
+#5f5fd3
 アーガイル アンド ビュート
 argyll and bute
-#7F2AFF
+#7f2aff
 ハイランド
 highland
-#B380FF
+#b380ff
 モレイ
 moray
-#E9AFAF
+#e9afaf
 アバディーンシャイア
 aberdeenshire
-#D35F5F
+#d35f5f
 アンガス
 angus
-#FF5555
+#ff5555
 パース アンド キンロス
 perth and kinross
-#FFAAAA
+#ffaaaa
 ファイフ
 fife
-#FF0000
+#ff0000
 インナー ヘブリディーズ
 inner hebrides
-#3771C8
+#3771c8
 アウター ヘブリディーズ
 outer hebrides
-#AFC6E9
+#afc6e9
 アングルシー
 anglesey
-#87DEAA
+#87deaa
 グウィネズ
 gwynedd
-#8DD35F
+#8dd35f
 コンウィ
 conwy
-#44AA00
+#44aa00
 デンビーシャー
 denbighshire
-#71C837
+#71c837
 フリントシャー
 flintshire
 #008000
@@ -966,19 +966,19 @@ wrexham
 #005522
 ケレディジョン
 ceredigion
-#DECD87
+#decd87
 ポーイス
 powys
-#A0892C
+#a0892c
 ペンブルックシャー
 pembrokeshire
-#FFAAAA
+#ffaaaa
 カーマーゼンシャー
 carmarthenshire
-#FF5555
+#ff5555
 グラモーガン
 glamorgan
-#D40000
+#d40000
 モンマスシャー
 monmouthshire
-#D35F5F
+#d35f5f
