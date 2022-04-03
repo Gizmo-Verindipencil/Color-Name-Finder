@@ -119,6 +119,10 @@ foreach($source in $sources) {
     # 結果を出力
     $newFileName = Replace-FileExtension -FileName $source.Name -Extension ".json"
     $outputFilePath = Join-Path -Path $outputDirectoryPath -ChildPath $newFileName
-    $outputContent = "[`n$($list -join ",`n")`n]" -replace "`":  `"", "`": `""
+    $outputContent = "[`n$($list -join ",`n")`n]"
+    # NOTE :
+    # jsonのキー先頭が大文字の場合、キーと値は「key: value」 というようにコロンと半角スペース "1つ" で区切られる
+    #                 小文字の場合、キーと値は「key:  value」というようにコロンと半角スペース "2つ" で区切られる
+    $outputContent =$outputContent -replace "`":  `"", "`": `""
     Write-Output $outputContent | Out-File $outputFilePath -Encoding utf8
 }
