@@ -20,20 +20,33 @@ function Get-FileName {
         Label="FullPath"
         Expression={Join-Path -Path $directoryPath -ChildPath $_}
     }
-    if ($fileNames.Count -eq 0) {
-        Write-Host "Error: there is no file in $($DirectoryName) directory."
-        exit
-    }
 
     # ファイル名を返す
     return $fileNames
 }
 
+# 意図したディレクトリにファイルが存在しない場合の警告と終了処理
+function Write-HostError-Then-Exit-If-NoFile {
+    param(
+        $DirectoryName,
+        $Files
+    )
+
+    if ($Files.Count -eq 0) {
+        Write-Host "Error: there is no file in $($DirectoryName) directory."
+        exit
+    }
+}
+
 # データソースファイルを取得
-$sources = Get-FileName -DirectoryName "source"
+$sourceDirectoryName = "source"
+$sources = Get-FileName -DirectoryName $sourceDirectoryName
+Write-HostError-Then-Exit-If-NoFile -DirectoryName $sourceDirectoryName -Files $sources
 
 # ソース構造ファイルを取得
-$structures = Get-FileName -DirectoryName "structure"
+$structureDirectoryName = "structure"
+$structures = Get-FileName -DirectoryName $structureDirectoryName
+Write-HostError-Then-Exit-If-NoFile -DirectoryName $structureDirectoryName -Files $sources
 
 # データに対応する構造の有無を確認
 foreach($source in $sources) {
@@ -119,6 +132,10 @@ foreach($source in $sources) {
     # 結果を出力
     $newFileName = Replace-FileExtension -FileName $source.Name -Extension ".json"
     $outputFilePath = Join-Path -Path $outputDirectoryPath -ChildPath $newFileName
-    $outputContent = "[`n$($list -join ",`n")`n]" -replace "`":  `"", "`": `""
+    $outputContent = "[`n$($list -join ",`n")`n]"
+    # NOTE :
+    # jsonのキー先頭が大文字の場合、キーと値は「key: value」 というようにコロンと半角スペース "1つ" で区切られる
+    #                 小文字の場合、キーと値は「key:  value」というようにコロンと半角スペース "2つ" で区切られる
+    $outputContent =$outputContent -replace "`":  `"", "`": `""
     Write-Output $outputContent | Out-File $outputFilePath -Encoding utf8
 }
