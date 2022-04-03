@@ -25,7 +25,7 @@ class Gateway {
      * @param {String} region 地方。
      * @param {String} country 国。
      * @param {String} category カテゴリー名。
-     * @param {String} url 色を示す
+     * @param {String} fileName jsonファイル名。
      */
     #append = (array, category, region, country, fileName) => {
         $.getJSON(`../Data/json/${fileName}`, data => {
