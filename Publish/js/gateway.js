@@ -89,7 +89,7 @@ class JsonFile {
      * @returns {Array<String>} ファイル名を返します。
      */
     static get all() {
-        return Object.getOwnPropertyNames(JsonFile).filter(x => !["length", "name", "prototype"].includes(x));
+        return Object.getOwnPropertyNames(JsonFile).filter(x => !["length", "name", "prototype", "all"].includes(x)).map(x => JsonFile[x]);
     }
 }
 
