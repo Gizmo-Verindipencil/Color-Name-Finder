@@ -39,16 +39,17 @@ class Color {
 
     /**
      * このインスタンスを表す文字列を取得します。
+     * @param {Array<String>} ignore 無視するプロパティ。
      * @returns {String} このインスタンスを表す文字列を返します。
      */
-    toString = () => {
+    toString = (ignore=[]) => {
         return [
-            this.category,
-            this.region,
-            this.country,
-            this.name,
-            this.phonetic,
-            this.hex
+            ignore.includes("category") ? "" : this.category,
+            ignore.includes("region")   ? "" : this.region,
+            ignore.includes("country")  ? "" : this.country,
+            ignore.includes("name")     ? "" : this.name,
+            ignore.includes("phonetic") ? "" : this.phonetic,
+            ignore.includes("hex")      ? "" : this.hex
         ].join("|");
     }
 

@@ -107,8 +107,12 @@ class Gateway {
         
         // 全てのファイル読込後に実行するコールバック関数
         const callback = () => {
-            const unique = [...new Set(array.map(x => x.toString()))];
-            array = unique.map(x => Color.createFromString(x));
+            const ignore = [ "category" ];
+            const unique = [...new Set(array.map(x => x.toString(ignore)))];
+            array.splice(0, array.length);
+            for (const color of unique.map(x => Color.createFromString(x))) {
+                array.push(color);
+            }
         }
 
         // 色を追加
