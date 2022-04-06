@@ -1,10 +1,10 @@
 /**
- * プロパティの順番を提供します。
+ * Colorクラスのプロパティとそれに対応する順番を提供します。
  */
 class PropertyOrder {
     /**
-     * プロパティと順番を提供します。
-     * @returns 
+     * プロパティの順番を取得します。
+     * @returns {Array<Array<any>>} プロパティの順番を返します。
      */
     static get = () => [
         [ "category" , 0 ],
