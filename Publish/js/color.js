@@ -1,4 +1,22 @@
 /**
+ * プロパティの順番を提供します。
+ */
+class PropertyOrder {
+    /**
+     * プロパティと順番を提供します。
+     * @returns 
+     */
+    static get = () => [
+        [ "category" , 0 ],
+        [ "region"   , 1 ],
+        [ "country"  , 2 ],
+        [ "name"     , 3 ],
+        [ "phonetic" , 4 ],
+        [ "hex"      , 5 ]
+    ];
+}
+
+/**
  * 色を表します。
  */
 class Color {
@@ -24,15 +42,25 @@ class Color {
      * @returns {Color} 新しいインスタンスを返します。
      */
     static createFromString = expression => {
+        // プロパティに対応する内容の取得処理
+        const orders = PropertyOrder.get();
         const values = expression.split("|");
+        const getValue = name => {
+            const matched = orders.filter(x => x[0] === name);
+            if (matched.length === 0) return null;
+            const index = matched[0][1];
+            return index ? values[index] : null;
+        }
+
+        // インスタンスを構築して返す
         return new Color(
-            values[0],
-            values[1],
-            values[2],
+            getValue("category"),
+            getValue("region"),
+            getValue("country"),
             {
-                name: values[3],
-                phonetic: values[4],
-                hex: values[5]
+                name: getValue("name"),
+                phonetic: getValue("phonetic"),
+                hex: getValue("hex")
             }
         );
     }
@@ -43,14 +71,13 @@ class Color {
      * @returns {String} このインスタンスを表す文字列を返します。
      */
     toString = (ignore=[]) => {
-        return [
-            ignore.includes("category") ? "" : this.category,
-            ignore.includes("region")   ? "" : this.region,
-            ignore.includes("country")  ? "" : this.country,
-            ignore.includes("name")     ? "" : this.name,
-            ignore.includes("phonetic") ? "" : this.phonetic,
-            ignore.includes("hex")      ? "" : this.hex
-        ].join("|");
+        // プロパティの順番を取得
+        const orders = PropertyOrder.get();
+        
+        // プロパティ順に情報を結合した文字列を返す
+        orders.sort((a, b) => a[1] > b[1]);
+        const values = orders.map(x => ignore.includes(x[0]) ? "" : this[x[0]]);
+        return values.join("|");
     }
 
     /**
