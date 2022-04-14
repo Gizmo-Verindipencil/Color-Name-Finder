@@ -1,0 +1,11 @@
+.option-visibility-switcher {
+    background-color: #000000;
+    border-radius: 45%;
+    color: #ffffff;
+    float: right;
+    font-weight: bold;
+    height: 2rem;
+    margin: 1rem;
+    text-align: center;
+    width: 2rem;
+}
