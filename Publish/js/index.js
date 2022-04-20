@@ -7,8 +7,6 @@ const gateway = new Gateway();
 const colors = [];
 gateway.addColors(colors);
 
-
-
 // ドキュメントの準備完了後に実行
 document.addEventListener("DOMContentLoaded", e => {
     // オプションのインスタンスを作成
@@ -60,67 +58,18 @@ document.addEventListener("DOMContentLoaded", e => {
         // 検索中を表示
         resultBoard.setHtml($("<p>").text("finding..."));
 
-        // 結果テーブルの作成処理
-        const createTable = rows => {
-            return $("<table>")
-                .append($("<tr>"))
-                .append([
-                    $("<th>"),
-                    $("<th>"),
-                    $("<th>"),
-                    $("<th>").text("Name"),
-                    $("<th>").text("Phonetic"),
-                    $("<th>").text("Hex"),
-                    $("<th>").text("Score")
-                ])
-                .append(...rows);
-        }
-
-        // 閉じるボタンの作成処理
-        const createCloseButton = () => {
-            return $("<button>")
-                .on("click", () => resultBoard.initialize())
-                .append($("<p>").text("Close"));
-        }
-
-        // 結果テーブル行の作成処理
-        const createRow = color => {
-            return $("<tr>").append([
-                $("<td>").css("background", color.hex),
-                $("<td>").text(color.region),
-                $("<td>").text(color.country),
-                $("<td>").text(color.name),
-                $("<td>").text(color.phonetic),
-                $("<td>").text(color.hex),
-                $("<td>").text(color.getDifference(hex))
-            ]);
-        }
-
         // 一致する色があれば表示
         const hex = selectedColor.toHEXA().toString().toLowerCase();
         const matchedColors = colors.filter(x => x.hex === hex);
         if (matchedColors.length > 0) {
-            const rows = [];
-            for(let i = 0; i < matchedColors.length; i++) {
-                rows.push(createRow(matchedColors[i]));
-            }
-            const heading = $("<p>").text(`Matched Color${matchedColors.length > 1 ? "s" : ""}`);
-            const table = createTable(rows);
-            const button = createCloseButton();
-            resultBoard.setHtml([heading, table, button]);
+            resultBoard.setMatchedColorsAsResult(matchedColors, hex);
             return;
         }
 
         // 類似する色を表示
         colors.sort((a, b) => a.getDifference(hex) - b.getDifference(hex));
-        let top5 = [];
-        for(let i = 0; i < 5; i++) {
-            top5.push(createRow(colors[i]));
-        }
-        const heading = $("<p>").text("Similar Colors:");
-        const table = createTable(top5);
-        const button = createCloseButton();
-        resultBoard.setHtml([heading, table, button]);
+        let top5 = colors.slice(0, 5);
+        resultBoard.setSimilarColorsAsResult(top5, hex);
     });
 
     // 境界の落雨アニメーションを設定
