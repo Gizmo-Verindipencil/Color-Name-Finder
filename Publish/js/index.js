@@ -1,4 +1,5 @@
 import { Gateway } from "./gateway.js";
+import { OptionVisibilitySwitcher } from "./option-visibility-switcher.js";
 import { ResultBoard } from "./result-board.js";
 
 // 全ての色情報を保持
@@ -6,12 +7,16 @@ const gateway = new Gateway();
 const colors = [];
 gateway.addColors(colors);
 
-// 結果ボードのインスタンスを作成
-const resultBoard = new ResultBoard();
+
 
 // ドキュメントの準備完了後に実行
 document.addEventListener("DOMContentLoaded", e => {
-    // 結果ボードを初期化
+    // オプションのインスタンスを作成
+    const switcher = new OptionVisibilitySwitcher();
+    switcher.initialize();
+    
+    // 結果ボードのインスタンスを作成
+    const resultBoard = new ResultBoard();
     resultBoard.initialize();
 
     // カラーピッカーを初期化

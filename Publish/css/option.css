@@ -9,3 +9,16 @@
     text-align: center;
     width: 2rem;
 }
+
+.option-visibility-switcher::before {
+    content: "...";
+}
+
+.option-board {
+    background-color: #000000;
+    border-radius: 8%;
+    float: right;
+    margin: 1em;
+    min-height: 1em;
+    width: 10em;
+}
