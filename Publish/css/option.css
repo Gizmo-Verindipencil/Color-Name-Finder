@@ -1,0 +1,43 @@
+.option-visibility-switcher {
+    background-color: #000000;
+    border-radius: 45%;
+    color: #ffffff;
+    float: right;
+    font-weight: bold;
+    height: 2rem;
+    margin: 1rem;
+    text-align: center;
+    width: 2rem;
+}
+
+.option-visibility-switcher::before {
+    content: "...";
+}
+
+.option-board {
+    background-color: #000000;
+    border-radius: 8%;
+    float: right;
+    margin: 1em;
+    min-height: 1em;
+    width: 15em;
+}
+
+.option-board p {
+    color: #ffffff;
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 0.5em;
+}
+
+.option-board .option {
+    display: flex;
+    margin: 1em;
+}
+
+.option-board .option .value {
+    border-radius: 30%;
+    margin-left: 1em;
+    padding-left: 1em;
+    text-align: center;
+    width: 50%;
+}
