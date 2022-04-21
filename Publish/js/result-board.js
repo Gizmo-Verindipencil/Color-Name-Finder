@@ -21,51 +21,54 @@ class ResultBoard {
     }
 
     /**
-     * テーブルを作成します。
-     * @param {Array<Object>} rows テーブル行。
-     * @returns {Object} テーブルを返します。
-     */
-    #createColorTable = rows => {
-        return $("<table>")
-            .append($("<tr>"))
-            .append([
-                $("<th>"),
-                $("<th>"),
-                $("<th>"),
-                $("<th>").text("Name"),
-                $("<th>").text("Phonetic"),
-                $("<th>").text("Hex"),
-                $("<th>").text("Score")
-            ])
-            .append(...rows);
-    }
-
-    /**
-     * 色を表すテーブル行を作成します。
-     * @param {Color} color 色。
+     * 結果テーブルを設定します。
+     * @param {String} message メッセージ。
+     * @param {Array<Color>} colors 色。
      * @param {String} baseHex 探索対象の色。
-     * @returns {Object} テーブル行を返します。
      */
-    #createColorRow = (color, baseHex) => {
-        return $("<tr>").append([
-            $("<td>").css("background", color.hex),
-            $("<td>").text(color.region),
-            $("<td>").text(color.country),
-            $("<td>").text(color.name),
-            $("<td>").text(color.phonetic),
-            $("<td>").text(color.hex),
-            $("<td>").text(color.getDifference(baseHex))
-        ]);
-    }
+    #setColorsAsResult = (message, colors, baseHex) => {
+        // テーブルの作成
+        const createTable = rows => {
+            return $("<table>")
+                .append($("<tr>"))
+                .append([
+                    $("<th>"),
+                    $("<th>"),
+                    $("<th>"),
+                    $("<th>").text("Name"),
+                    $("<th>").text("Phonetic"),
+                    $("<th>").text("Hex"),
+                    $("<th>").text("Score")
+                ])
+                .append(...rows);
+        }
 
-    /**
-     * 閉じるボタンを作成します。
-     * @returns {Object} 閉じるボタンを返します。
-     */
-    #createCloseButton = () => {
-        return $("<button>")
-            .on("click", () => this.initialize())
-            .append($("<p>").text("Close"));
+        // テーブル行の作成
+        const createRow = (color, baseHex) => {
+            return $("<tr>").append([
+                $("<td>").css("background", color.hex),
+                $("<td>").text(color.region),
+                $("<td>").text(color.country),
+                $("<td>").text(color.name),
+                $("<td>").text(color.phonetic),
+                $("<td>").text(color.hex),
+                $("<td>").text(color.getDifference(baseHex))
+            ]);
+        }
+
+        // 閉じるボタンの作成
+        const createCloseButton = () => {
+            return $("<button>")
+                .on("click", () => this.initialize())
+                .append($("<p>").text("Close"));
+        }
+
+        // 結果テーブルを設定
+        const heading = $("<p>").text(message);
+        const rows = colors.map(x => this.#createColorRow(x, baseHex));
+        const table = this.#createColorTable(rows);
+        const button = this.#createCloseButton();
+        this.setHtml([heading, table, button]);
     }
 
     /**
@@ -74,11 +77,8 @@ class ResultBoard {
      * @param {String} baseHex 探索対象の色。
      */
     setMatchedColorsAsResult = (colors, baseHex) => {
-        const heading = $("<p>").text(`Matched Color${colors.length > 1 ? "s" : ""}` + ":");
-        const rows = colors.map(x => this.#createColorRow(x, baseHex));
-        const table = this.#createColorTable(rows);
-        const button = this.#createCloseButton();
-        this.setHtml([heading, table, button]);
+        const message = $("<p>").text(`Matched Color${colors.length > 1 ? "s" : ""}` + ":");
+        this.#setColorsAsResult(message, colors, baseHex);
     }
 
     /**
@@ -87,11 +87,8 @@ class ResultBoard {
      * @param {String} baseHex 探索対象の色。
      */
     setSimilarColorsAsResult = (colors, baseHex) => {
-        const heading = $("<p>").text("Similar Colors:");
-        const rows = colors.map(x => this.#createColorRow(x, baseHex));
-        const table = this.#createColorTable(rows);
-        const button = this.#createCloseButton();
-        this.setHtml([heading, table, button]);
+        const message = $("<p>").text("Similar Colors:");
+        this.#setColorsAsResult(message, colors, baseHex);
     }
 }
 
