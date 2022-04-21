@@ -65,9 +65,9 @@ class ResultBoard {
 
         // 結果テーブルを設定
         const heading = $("<p>").text(message);
-        const rows = colors.map(x => this.#createColorRow(x, baseHex));
-        const table = this.#createColorTable(rows);
-        const button = this.#createCloseButton();
+        const rows = colors.map(x => createRow(x, baseHex));
+        const table = createTable(rows);
+        const button = createCloseButton();
         this.setHtml([heading, table, button]);
     }
 
