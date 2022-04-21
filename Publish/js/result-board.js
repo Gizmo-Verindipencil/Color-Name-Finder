@@ -77,7 +77,7 @@ class ResultBoard {
      * @param {String} baseHex 探索対象の色。
      */
     setMatchedColorsAsResult = (colors, baseHex) => {
-        const message = $("<p>").text(`Matched Color${colors.length > 1 ? "s" : ""}` + ":");
+        const message = `Matched Color${colors.length > 1 ? "s" : ""}` + ":";
         this.#setColorsAsResult(message, colors, baseHex);
     }
 
@@ -87,7 +87,7 @@ class ResultBoard {
      * @param {String} baseHex 探索対象の色。
      */
     setSimilarColorsAsResult = (colors, baseHex) => {
-        const message = $("<p>").text("Similar Colors:");
+        const message = "Similar Colors:";
         this.#setColorsAsResult(message, colors, baseHex);
     }
 }
