@@ -20,5 +20,24 @@
     float: right;
     margin: 1em;
     min-height: 1em;
-    width: 10em;
+    width: 15em;
+}
+
+.option-board p {
+    color: #ffffff;
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 0.5em;
+}
+
+.option-board .option {
+    display: flex;
+    margin: 1em;
+}
+
+.option-board .option .value {
+    border-radius: 30%;
+    margin-left: 1em;
+    padding-left: 1em;
+    text-align: center;
+    width: 50%;
 }

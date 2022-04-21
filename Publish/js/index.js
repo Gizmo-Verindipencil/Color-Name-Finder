@@ -1,4 +1,5 @@
 import { Gateway } from "./gateway.js";
+import { OptionBoard } from "./option-board.js";
 import { OptionVisibilitySwitcher } from "./option-visibility-switcher.js";
 import { ResultBoard } from "./result-board.js";
 
@@ -9,11 +10,15 @@ gateway.addColors(colors);
 
 // ドキュメントの準備完了後に実行
 document.addEventListener("DOMContentLoaded", e => {
-    // オプションのインスタンスを作成
+    // オプション表示切替ボタンの操作オブジェクトを作成
     const switcher = new OptionVisibilitySwitcher();
     switcher.initialize();
+
+    // オプションボードの操作オブジェクトを作成
+    const optionBoard = new OptionBoard();
+    optionBoard.initialize();
     
-    // 結果ボードのインスタンスを作成
+    // 結果ボードの操作オブジェクトを作成
     const resultBoard = new ResultBoard();
     resultBoard.initialize();
 
@@ -68,8 +73,8 @@ document.addEventListener("DOMContentLoaded", e => {
 
         // 類似する色を表示
         colors.sort((a, b) => a.getDifference(hex) - b.getDifference(hex));
-        let top5 = colors.slice(0, 5);
-        resultBoard.setSimilarColorsAsResult(top5, hex);
+        let top = colors.slice(0, optionBoard.maxNumber);
+        resultBoard.setSimilarColorsAsResult(top, hex);
     });
 
     // 境界の落雨アニメーションを設定
