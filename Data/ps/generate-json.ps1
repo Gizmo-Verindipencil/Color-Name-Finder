@@ -66,7 +66,7 @@ foreach($structure in $structures) {
 }
 
 # ファイル拡張子の置換処理
-function Replace-FileExtension {
+function Edit-FileExtension {
     param(
         $FileName,
         $Extension
@@ -130,12 +130,12 @@ foreach($source in $sources) {
     }
 
     # 結果を出力
-    $newFileName = Replace-FileExtension -FileName $source.Name -Extension ".json"
+    $newFileName = Edit-FileExtension -FileName $source.Name -Extension ".json"
     $outputFilePath = Join-Path -Path $outputDirectoryPath -ChildPath $newFileName
     $outputContent = "[`n$($list -join ",`n")`n]"
     # NOTE :
     # jsonのキー先頭が大文字の場合、キーと値は「key: value」 というようにコロンと半角スペース "1つ" で区切られる
     #                 小文字の場合、キーと値は「key:  value」というようにコロンと半角スペース "2つ" で区切られる
-    $outputContent =$outputContent -replace "`":  `"", "`": `""
+    $outputContent = $outputContent -replace "`":  `"", "`": `""
     Write-Output $outputContent | Out-File $outputFilePath -Encoding utf8
 }
