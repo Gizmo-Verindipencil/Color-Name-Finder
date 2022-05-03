@@ -73,16 +73,16 @@ class OptionVisibilitySwitcher {
      * オプション画面を表示します。
      */
     showOption = () => {
-        this.#getOptionBoard().show();
-        this.#getSwitcher().hide();
+        this.#getOptionBoard().show("fast");
+        this.#getSwitcher().hide("fast");
     }
 
     /**
      * オプション画面を非表示にします。
      */
     hideOption = () => {
-        this.#getOptionBoard().hide();
-        this.#getSwitcher().show();
+        this.#getOptionBoard().hide("fast");
+        this.#getSwitcher().show("fast");
     }
 }
 
