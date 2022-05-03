@@ -25,13 +25,24 @@
 
 .option-board p {
     color: #ffffff;
-    font-family: 'Palette Mosaic', cursive;
+    font-family: "Palette Mosaic", cursive;
     font-size: 0.5em;
+}
+
+.option-board .close-option {
+    border-radius: 20%;
+    margin: 0.5em 0 0 0.5em;
+}
+
+.option-board .close-option::before {
+    content: "X";
+    font-family: "Palette Mosaic", cursive;
 }
 
 .option-board .option {
     display: flex;
-    margin: 1em;
+    margin: 0 0.5em 0.5em;
+    width: 100%;
 }
 
 .option-board .option .value {

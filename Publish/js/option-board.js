@@ -8,21 +8,21 @@ class OptionBoard {
     }
 
     /**
+     * 表示を初期化します。
+     */
+    initialize = () => {
+        this.#getMaxNumber().val(5);
+    }
+
+    /**
      * 最大数テキストボックスを取得します。
      * @returns {Object} 最大数テキストボックスを返します。
      */
     #getMaxNumber = () => {
         if (!this._maxNumber) {
-            this._maxNumber = $("#maxNumber");
+            this._maxNumber = $("#max-number");
         }
         return this._maxNumber;
-    }
-
-    /**
-     * 表示を初期化します。
-     */
-    initialize = () => {
-        this.#getMaxNumber().val(5);
     }
 
     /**

@@ -67,13 +67,14 @@ document.addEventListener("DOMContentLoaded", e => {
         const hex = selectedColor.toHEXA().toString().toLowerCase();
         const matchedColors = colors.filter(x => x.hex === hex);
         if (matchedColors.length > 0) {
-            resultBoard.setMatchedColorsAsResult(matchedColors, hex);
+            const top = matchedColors.slice(0, optionBoard.maxNumber);;
+            resultBoard.setMatchedColorsAsResult(top, hex);
             return;
         }
 
         // 類似する色を表示
         colors.sort((a, b) => a.getDifference(hex) - b.getDifference(hex));
-        let top = colors.slice(0, optionBoard.maxNumber);
+        const top = colors.slice(0, optionBoard.maxNumber);
         resultBoard.setSimilarColorsAsResult(top, hex);
     });
 
