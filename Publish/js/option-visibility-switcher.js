@@ -9,6 +9,7 @@ class OptionVisibilitySwitcher {
         // 画面要素をキャッシュ
         this._switcher = null;
         this._optionBoard = null;
+        this._closeButton = null;
     }
 
     /**
@@ -16,7 +17,8 @@ class OptionVisibilitySwitcher {
      */
     initialize = () => {
         // ボタンにクリックイベントを設定
-        this.#getSwitcher().on("click", this.switch);
+        this.#getSwitcher().on("click", this.showOption);
+        this.#getCloseButton().on("click", this.hideOption);
         
         // オプション関連の表示を初期化
         this.hideOption();
@@ -45,6 +47,17 @@ class OptionVisibilitySwitcher {
     }
 
     /**
+     * 閉じるボタンを取得します。
+     * @returns {Object} 閉じるボタンを返します。
+     */
+     #getCloseButton = () => {
+        if (!this._closeButton) {
+            this._closeButton = $(".close-option");
+        }
+        return this._closeButton;
+    }
+
+    /**
      * オプション画面の表示を切替します。
      */
     switch = () => {
@@ -61,6 +74,7 @@ class OptionVisibilitySwitcher {
      */
     showOption = () => {
         this.#getOptionBoard().show();
+        this.#getSwitcher().hide();
     }
 
     /**
@@ -68,6 +82,7 @@ class OptionVisibilitySwitcher {
      */
     hideOption = () => {
         this.#getOptionBoard().hide();
+        this.#getSwitcher().show();
     }
 }
 

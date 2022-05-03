@@ -29,9 +29,15 @@
     font-size: 0.5em;
 }
 
+.option-board .close-option {
+    border-radius: 20%;
+    margin: 0.5em 0 0 0.5em;
+}
+
 .option-board .option {
     display: flex;
-    margin: 1em;
+    margin: 0 0.5em 0.5em;
+    width: 100%;
 }
 
 .option-board .option .value {
