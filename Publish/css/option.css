@@ -25,7 +25,7 @@
 
 .option-board p {
     color: #ffffff;
-    font-family: 'Palette Mosaic', cursive;
+    font-family: "Palette Mosaic", cursive;
     font-size: 0.5em;
 }
 
@@ -36,7 +36,7 @@
 
 .option-board .close-option::before {
     content: "X";
-    font-family: 'Palette Mosaic', cursive;
+    font-family: "Palette Mosaic", cursive;
 }
 
 .option-board .option {
