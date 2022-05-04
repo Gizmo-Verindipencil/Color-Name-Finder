@@ -1,28 +1,20 @@
+import { Cache } from "./cache.js";
+
 /**
  * オプションボードを表します。
  */
 class OptionBoard {
     constructor() {
-        // 画面要素をキャッシュ
-        this._maxNumber = null;
+        const cache = new Cache();
+        cache.set("max-number", () => $("#max-number"));
+        this._cache = cache;
     }
 
     /**
      * 表示を初期化します。
      */
     initialize = () => {
-        this.#getMaxNumber().val(5);
-    }
-
-    /**
-     * 最大数テキストボックスを取得します。
-     * @returns {Object} 最大数テキストボックスを返します。
-     */
-    #getMaxNumber = () => {
-        if (!this._maxNumber) {
-            this._maxNumber = $("#max-number");
-        }
-        return this._maxNumber;
+        this._cache.get("max-number").val(5);
     }
 
     /**
@@ -30,7 +22,7 @@ class OptionBoard {
      * @returns {String} 最大数を返します。
      */
     get maxNumber() {
-        return this.#getMaxNumber().val() ?? "5";
+        return this._cache.get("max-number").val() ?? "5";
     }
 }
 

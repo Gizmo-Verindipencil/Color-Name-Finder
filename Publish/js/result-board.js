@@ -1,9 +1,19 @@
+import { Cache } from "./cache.js";
 import { Color } from "./color.js";
 
 /**
  * 結果ボードを提供します。
  */
 class ResultBoard {
+    /**
+     * インスタンスを初期化します。
+     */
+    constructor() {
+        const cache = new Cache();
+        cache.set("result-board", () => $(".result-board.body"));
+        this._cache = cache;
+    }
+
     /**
      * 表示を初期化します。
      */
@@ -16,8 +26,7 @@ class ResultBoard {
      * @param {Array<Object>} html 設定するhtml。 
      */
     setHtml = html => {
-        const body = $(".result-board.body");
-        body.empty().append(...html);
+        this._cache.get("result-board").empty().append(...html);
     }
 
     /**
@@ -87,7 +96,7 @@ class ResultBoard {
      * @param {String} baseHex 探索対象の色。
      */
     setSimilarColorsAsResult = (colors, baseHex) => {
-        const message = "Similar Colors:";
+        const message = "Similar Colors:w";
         this.#setColorsAsResult(message, colors, baseHex);
     }
 }
