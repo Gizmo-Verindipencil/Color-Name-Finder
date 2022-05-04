@@ -26,7 +26,7 @@ class ResultBoard {
      * @param {Array<Object>} html 設定するhtml。 
      */
     setHtml = html => {
-        this._cache.get("result-board").empty().append(...html);
+        this._cache.get("result-board").empty().append(...html).hide().fadeIn("fast");
     }
 
     /**
