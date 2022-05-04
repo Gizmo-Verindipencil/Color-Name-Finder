@@ -96,7 +96,7 @@ class ResultBoard {
      * @param {String} baseHex 探索対象の色。
      */
     setSimilarColorsAsResult = (colors, baseHex) => {
-        const message = "Similar Colors:w";
+        const message = "Similar Colors:";
         this.#setColorsAsResult(message, colors, baseHex);
     }
 }
