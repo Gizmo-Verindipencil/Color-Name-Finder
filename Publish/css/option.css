@@ -20,18 +20,12 @@
     float: right;
     margin: 1em;
     min-height: 1em;
+    padding: 0.5em 1em;
     width: 15em;
-}
-
-.option-board p {
-    color: #ffffff;
-    font-family: "Palette Mosaic", cursive;
-    font-size: 0.5em;
 }
 
 .option-board .close-option {
     border-radius: 20%;
-    margin: 0.5em 0 0 0.5em;
 }
 
 .option-board .close-option::before {
@@ -41,14 +35,22 @@
 
 .option-board .option {
     display: flex;
+    height: 1.2em;
     margin: 0 0.5em 0.5em;
     width: 100%;
 }
 
+.option-board .name {
+    color: #ffffff;
+    font-family: "Palette Mosaic", cursive;
+    font-size: 0.5em;
+    width: 50%;
+}
+
 .option-board .option .value {
     border-radius: 30%;
+    height: 2em;
     margin-left: 1em;
     padding-left: 1em;
     text-align: center;
-    width: 50%;
 }
