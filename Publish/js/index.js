@@ -56,7 +56,15 @@ document.addEventListener("DOMContentLoaded", e => {
 
         // 色が取得できていない場合はその旨を表示
         if (colors.length === 0) {
-            resultBoard.setHtml($("<p>").text("Error: the chestnut knows no color."));
+            const message = "Error: the chestnut knows no color.";
+            resultBoard.setHtml($("<p>").text(message));
+            return;
+        }
+
+        // 表示結果の件数が0件の場合はその旨を表示
+        if (optionBoard.maxNumber == 0) {
+            const message = "Error: the max number of colors in result is 0.";
+            resultBoard.setHtml($("<p>").text(message));
             return;
         }
 

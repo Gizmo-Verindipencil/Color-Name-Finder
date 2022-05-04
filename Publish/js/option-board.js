@@ -22,7 +22,7 @@ class OptionBoard {
      * @returns {String} 最大数を返します。
      */
     get maxNumber() {
-        return this._cache.get("max-number").val() ?? "5";
+        return this._cache.get("max-number").val() ?? "0";
     }
 }
 
