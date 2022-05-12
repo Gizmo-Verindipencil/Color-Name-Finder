@@ -151,7 +151,7 @@ class Gateway {
      * @param {Function} allComplete 全てのファイルを読込完了した際に実行されるコールバック。
      */
     #append = (array, category, region, country, fileName, holder, allComplete) => {
-        $.getJSON(`../Data/json/${fileName}`, data => {
+        $.getJSON(`../data/json/${fileName}`, data => {
             // 色を配列に追加
             for (const i in data) {
                 const color = data[i];
